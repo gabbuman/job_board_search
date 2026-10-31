@@ -293,6 +293,102 @@ ats = "greenhouse"
 id = "sonyinteractiveentertainmentglobal"
 
 
+# =============== Solar: inverters, monitoring, fleet data, modules, developers (added 2026-10-31, verified live) ===============
+[[companies]]
+name = "Power Factors"            # renewables SCADA / fleet monitoring; Remote-in-Canada roles
+ats = "workable"
+id = "power-factors"
+
+[[companies]]
+name = "Canadian Solar"           # Kitchener ON; Canada roles incl. embedded Linux
+ats = "workday"
+id = "canadiansolar.wd5.myworkdayjobs.com/CanadianSolar"
+
+[[companies]]
+name = "Fronius Canada"
+ats = "workday"
+id = "fronius.wd3.myworkdayjobs.com/Job_Board"
+
+[[companies]]
+name = "Innergex"                 # Longueuil QC IPP
+ats = "oracle"
+id = "fa-ewqm-saasfaprod1.fa.ocs.oraclecloud.com/CX_1"
+
+[[companies]]
+name = "Aurora Solar"
+ats = "ashby"
+id = "aurorasolar"
+
+[[companies]]
+name = "Enphase Energy"
+ats = "jobvite"
+id = "enphase-energy"
+
+[[companies]]
+name = "SMA America"
+ats = "greenhouse"
+id = "smaamerica"
+
+[[companies]]
+name = "Stem (AlsoEnergy PowerTrack)"
+ats = "rippling"
+id = "stem-inc"
+
+[[companies]]
+name = "Omnidian"
+ats = "lever"
+id = "omnidian"
+
+[[companies]]
+name = "Raptor Maps"
+ats = "rippling"
+id = "raptor-maps-inc"
+
+[[companies]]
+name = "Lunar Energy"
+ats = "greenhouse"
+id = "lunarenergy"
+
+[[companies]]
+name = "Span"
+ats = "ashby"
+id = "span"
+
+[[companies]]
+name = "Arcadia"
+ats = "lever"
+id = "arcadia"
+
+[[companies]]
+name = "PVcase"
+ats = "recruitee"
+id = "pvcase"
+
+[[companies]]
+name = "Terabase Energy"
+ats = "workable"
+id = "terabase-energy"
+
+[[companies]]
+name = "Nextpower (Nextracker)"
+ats = "workday"
+id = "nextracker.wd5.myworkdayjobs.com/Nextpower_Careers"
+
+[[companies]]
+name = "Array Technologies"
+ats = "workday"
+id = "arraytechinc.wd5.myworkdayjobs.com/Array_Careers"
+
+[[companies]]
+name = "T1 Energy"
+ats = "ashby"
+id = "t1energy"
+
+[[companies]]
+name = "First Solar"
+ats = "oracle"
+id = "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1"
+
 # =============== Added 2026-10-31 from fresh Canada-wide research (all boards verified live) ===============
 
 # ---- Research tier 1: energy / grid / EV / industrial IoT ----
@@ -778,10 +874,163 @@ name = "Autodesk"
 ats = "workday"
 id = "autodesk.wd1.myworkdayjobs.com/Ext"
 
+# =============== Governance, risk & compliance / audit / ESG reporting (Diligent-adjacent; added 2026-10-31, verified live) ===============
+[[companies]]
+name = "Vanta"
+ats = "ashby"
+id = "vanta"
+
+[[companies]]
+name = "Optro (ex-AuditBoard)"
+ats = "ashby"
+id = "optro"
+
+[[companies]]
+name = "Workiva"
+ats = "workday"
+id = "workiva.wd503.myworkdayjobs.com/careers"
+
+[[companies]]
+name = "Caseware"
+ats = "lever"
+id = "caseware"
+
+[[companies]]
+name = "Spellbook"
+ats = "ashby"
+id = "spellbook.com"
+
+[[companies]]
+name = "Loopio"
+ats = "ashby"
+id = "loopio"
+
+[[companies]]
+name = "Novisto"
+ats = "greenhouse"
+id = "novisto78"
+
+[[companies]]
+name = "Athennian"
+ats = "rippling"
+id = "athennian"
+
+[[companies]]
+name = "Assent"
+ats = "smartrecruiters"
+id = "assent"
+
+[[companies]]
+name = "Resolver"
+ats = "jobvite"
+id = "resolver"
+
+[[companies]]
+name = "Nasdaq (Boardvantage / Verafin)"
+ats = "workday"
+id = "nasdaq.wd1.myworkdayjobs.com/Global_External_Site"
+
+[[companies]]
+name = "Wolters Kluwer (TeamMate / StandardFusion)"
+ats = "workday"
+id = "wk.wd3.myworkdayjobs.com/External"
+
+[[companies]]
+name = "Litera"
+ats = "workday"
+id = "litera.wd12.myworkdayjobs.com/Litera_Careers"
+
+[[companies]]
+name = "Drata"
+ats = "ashby"
+id = "drata"
+
+[[companies]]
+name = "Secureframe"
+ats = "ashby"
+id = "secureframe"
+
+[[companies]]
+name = "Thoropass"
+ats = "greenhouse"
+id = "thoropass"
+
+[[companies]]
+name = "Hyperproof"
+ats = "greenhouse"
+id = "hyperproof"
+
+[[companies]]
+name = "LogicGate"
+ats = "greenhouse"
+id = "logicgate"
+
+[[companies]]
+name = "OneTrust"
+ats = "greenhouse"
+id = "onetrust"
+
+[[companies]]
+name = "Fieldguide"
+ats = "ashby"
+id = "fieldguide"
+
+[[companies]]
+name = "DataSnipper"
+ats = "ashby"
+id = "datasnipper"
+
+[[companies]]
+name = "FloQast"
+ats = "lever"
+id = "floqast"
+
+[[companies]]
+name = "Numeric"
+ats = "ashby"
+id = "numeric"
+
+[[companies]]
+name = "Ironclad"
+ats = "ashby"
+id = "ironcladhq"
+
+[[companies]]
+name = "Watershed"
+ats = "ashby"
+id = "watershed"
+
+[[companies]]
+name = "Sweep (carbon platform)"
+ats = "teamtailor"
+id = "sweep"
+
+[[companies]]
+name = "OnBoard"
+ats = "greenhouse"
+id = "onboardmeetings"
+
+[[companies]]
+name = "Mitratech"
+ats = "greenhouse"
+id = "mitratech"
+
+[[companies]]
+name = "Onit"
+ats = "lever"
+id = "onit"
+
+[[companies]]
+name = "Zania"
+ats = "ashby"
+id = "zania"
+
 # Not trackable through a public feed (custom site / login-walled ATS); check manually:
 #   Ballard Power, General Fusion, Novarc & Electrovaya (ADP), Clio, Shopify, EA (Avature), Semios (Workable slug TBD),
 #   ThinkLabs AI, Mysa, Nuvation Energy, Cence Power, Kiwi Charge, FUTURi Power, Xanadu, Vention, Nanoprecise,
 #   SenPilot (Gem), Powertech Labs / BC Hydro, Qualcomm (Eightfold), Synopsys, NetApp, Dell, Arm, Microchip,
 #   OpenText, Nokia, Ericsson (custom career sites), Mistral, Confluent, Vercel (boards empty/unlisted),
+#   Solar: Tigo, Zeitview, FranklinWH, GameChange, Enerflo, OpenSolar, Boralex (Dayforce), TransAlta, Potentia,
+#   Concord, Elemental, Greengate, SkyFire; GRC: MindBridge, Cority, NAVEX (Dayforce), Complyance, Manifest Climate,
 #   Hydrostor (LinkedIn only), Awesense (own site), Ionomr, VoltSafe, BluWave-ai, Planview,
 #   Fuse Power, Dapper Labs (Kula).
