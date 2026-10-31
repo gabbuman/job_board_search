@@ -144,10 +144,11 @@ ats = "greenhouse"
 id = "aspectbiosystems"
 
 [[companies]]
-name = "Overstory"              # Greenhouse EU instance
+name = "Overstory"              # Greenhouse EU board has no public JSON API; check manually
 ats = "greenhouse"
 id = "overstory"
 region = "eu"
+enabled = false
 
 [[companies]]
 name = "Fortinet"               # verified (Oracle HCM, ~1050 global jobs; filtered to Canada client-side)

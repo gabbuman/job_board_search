@@ -1244,7 +1244,8 @@ def main(argv=None):
         want = {x.strip().lower() for x in a.only.split(",")}
         cfg["companies"] = [c for c in cfg["companies"] if c["name"].lower() in want]
     if a.mode == "validate":
-        return 1 if validate(cfg) else 0
+        bad = validate(cfg)
+        return 1 if bad == len(cfg["companies"]) else 0  # report-only unless everything failed
     if a.mode == "test-email":
         j = Job(id="test", title="Test Posting — Software Engineer", url="https://example.com/job",
                 locations=["Vancouver, BC, Canada"], posted=now_utc(), posted_kind="published")
