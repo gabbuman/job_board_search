@@ -1,0 +1,48 @@
+name: job-watch
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"        # every 30 min (GitHub may start scheduled runs a few minutes late)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = normal check · validate = test every board, no email · test-email = send a sample alert"
+        type: choice
+        options: [run, validate, test-email]
+        default: run
+
+permissions:
+  contents: write                 # to commit state/seen.json back to the repo
+
+concurrency:
+  group: job-watch                # never let two runs race on the state file
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04         # ships Python 3.12; the script is stdlib-only, nothing to install
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check job boards
+        env:
+          MODE: ${{ inputs.mode || 'run' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+        run: python3 watcher.py --mode "$MODE"
+
+      - name: Save state
+        if: success() && (inputs.mode || 'run') == 'run'
+        run: |
+          git config user.name  "job-watch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          if git diff --cached --quiet; then echo "state unchanged"; exit 0; fi
+          git commit -q -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git push -q && exit 0
+            git pull -q --rebase origin "${GITHUB_REF_NAME}"
+          done
+          echo "::error::could not push state" && exit 1

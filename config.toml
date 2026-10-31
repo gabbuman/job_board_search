@@ -1,0 +1,786 @@
+# job-watcher configuration
+# Order of [[companies]] = priority order in the email (top = shown first).
+# Find a new company's board:  python3 discover.py "Company Name" [slug ...]
+
+[email]
+to = "mall.shubhkumar@gmail.com"     # overridden by the ALERT_TO env/secret if set
+
+[settings]
+baseline_recent_hours = 24     # on first sight of a board, still alert jobs the ATS says were published in the last N h
+flap_grace_hours      = 72     # a job that vanishes and returns within this window is restored silently
+gone_ttl_days         = 45     # how long closed IDs are remembered (reopen/repost detection)
+repost_window_days    = 30     # new ID + same title/location as a job seen in this window -> tagged "reposted"
+notify_reposts        = true
+fail_warn_after_runs  = 6      # email a warning when a board fails this many runs in a row (6 x 30 min = 3 h)
+workday_country       = "Canada"  # Workday/Jibe boards are filtered server-side to this country ("" = whole board)
+max_workers           = 12
+fetch_budget_seconds  = 300
+
+[filters]
+# Title must match one include pattern and no exclude pattern (case-insensitive regex).
+title_include = [
+  'engineer', 'engineering', 'developer', 'software', 'programmer', '\bdata\b', 'analytics', 'platform',
+  'infrastructure', 'devops', '\bsre\b', 'reliability', '\bcloud\b', 'back[- ]?end', 'full[- ]?stack',
+  'firmware', 'embedded', 'integration', 'automation', '\btest', '\bqa\b', 'validation', 'verification',
+  'solutions? (architect|engineer)', 'forward deployed', 'machine learning', '\bml\b', '\bai\b', 'python',
+  '\bsystems?\b', '\biot\b', 'controls?', 'technical staff', 'technologist', 'tooling',
+  'ing[ée]nieur', 'd[ée]veloppeu', 'logiciel', 'donn[ée]es',
+]
+title_exclude = [
+  '\bintern(ship)?\b', 'co-?op\b', '\bstudent\b', '\bprincipal\b', '\bdirector\b', 'vice president', '\bvp\b',
+  'head of', '\bchief\b', '\bmanager\b', '\bsales\b', 'account executive', 'recruit', 'marketing', 'counsel',
+  'legal', 'payroll', 'accountant', 'annotation', 'apprentice', 'technician', 'stagiaire',
+]
+# A job passes if any location/country mentions Canada (or a target place)...
+location_include = [
+  'canada', 'canadian', 'british columbia', 'vancouver', 'burnaby', 'richmond, bc', 'surrey', 'coquitlam',
+  'new westminster', 'north vancouver', 'victoria, bc', 'kelowna', 'toronto', 'ontario', 'ottawa', 'waterloo',
+  'kitchener', 'markham', 'mississauga', 'montr[eé]al', 'qu[eé]bec', 'calgary', 'edmonton', 'alberta',
+  'winnipeg', 'halifax', 'north america', '\bnoram\b', '\bamericas\b',
+]
+location_include_cs = ['\bCAN\b', '\bBC\b', '\bON\b(?!-)', '\bQC\b', '\bAB\b']
+country_codes = ["CA"]
+country_names = ["Canada"]
+# ...or is remote and names no other region. Remote roles naming another region are dropped:
+location_exclude = [
+  'united states', 'united kingdom', 'europe', '\bemea\b', '\bapac\b', '\basia\b', 'india', 'germany', 'france',
+  'spain', 'poland', 'netherlands', 'ireland', 'japan', 'korea', 'singapore', 'australia', 'brazil', 'mexico',
+  'latam', 'israel', '\buae\b', 'philippines', 'portugal', 'sweden', 'switzerland', 'taiwan', 'china',
+]
+location_exclude_cs = [
+  '\bUSA?\b', '\bU\.S\.', '\bUK\b', '\bEU\b',
+  ',\s*(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b',
+]
+include_remote_unspecified = true   # "Remote" with no region -> alert, marked "remote, region not stated"
+include_unknown_location   = true   # board gives no location -> alert, marked "location not listed"
+
+# --------------------------------------------------------------------------------------------
+# Companies. ats: greenhouse | lever | ashby | workday | workable | bamboohr | smartrecruiters |
+#   recruitee | breezy | rippling | jazzhr | pinpoint | teamtailor | jibe | jobvite | oracle
+# Per-company options: titles = "all" (skip title filter), all_locations = true (skip location
+# filter), region = "eu" (Greenhouse/Lever EU), enabled = false.
+# "verified" = the board answered live on 2026-10-31 with the job count shown.
+
+# ---- Tier 1: clean energy / EV / storage (BC + remote Canada) ----
+[[companies]]
+name = "Moment Energy"          # verified, 26 jobs
+ats = "greenhouse"
+id = "momentenergy"
+
+[[companies]]
+name = "SWTCH Energy"           # board from swtchenergy.com/careers; Workable rate-limited my test IP
+ats = "workable"
+id = "swtch-energy"
+
+[[companies]]
+name = "dcbel"                  # verified, 28 jobs
+ats = "bamboohr"
+id = "dcbel"
+
+[[companies]]
+name = "ChargeLab"              # verified
+ats = "lever"
+id = "chargelab-inc"
+
+[[companies]]
+name = "FLO"                    # board from flo.com careers; Workable rate-limited my test IP
+ats = "workable"
+id = "flo-addenergie"
+
+[[companies]]
+name = "Delta-Q Technologies"   # board seen live; Workable rate-limited my test IP
+ats = "workable"
+id = "delta-q"
+
+[[companies]]
+name = "Corvus Energy"          # verified (Teamtailor RSS)
+ats = "teamtailor"
+id = "corvusenergy"
+
+# ---- Tier 2: BC hardware / deep tech / industrial ----
+[[companies]]
+name = "D-Wave Quantum"         # verified, 44 jobs
+ats = "rippling"
+id = "d-wave-quantum"
+
+[[companies]]
+name = "Photonic"               # verified (Pinpoint)
+ats = "pinpoint"
+id = "careers.photonic.com"
+
+[[companies]]
+name = "MineSense"              # verified, 7 jobs
+ats = "lever"
+id = "minesense"
+
+[[companies]]
+name = "Svante"                 # verified, 13 jobs
+ats = "bamboohr"
+id = "svante"
+
+[[companies]]
+name = "Saltworks Technologies" # verified (JazzHR page)
+ats = "jazzhr"
+id = "saltworkstech"
+
+[[companies]]
+name = "Ekona Power"            # verified (Burnaby)
+ats = "bamboohr"
+id = "ekonapower"
+
+[[companies]]
+name = "pH7 Technologies"       # verified (Burnaby)
+ats = "bamboohr"
+id = "ph7"
+
+[[companies]]
+name = "Peak Power"             # verified (moved JazzHR -> Rippling)
+ats = "rippling"
+id = "peak-power-careers"
+
+[[companies]]
+name = "Aspect Biosystems"      # verified, 10 jobs
+ats = "greenhouse"
+id = "aspectbiosystems"
+
+[[companies]]
+name = "Overstory"              # Greenhouse EU instance
+ats = "greenhouse"
+id = "overstory"
+region = "eu"
+
+[[companies]]
+name = "Fortinet"               # verified (Oracle HCM, ~1050 global jobs; filtered to Canada client-side)
+ats = "oracle"
+id = "edel.fa.us2.oraclecloud.com/CX_2001"
+
+# ---- Tier 3: Vancouver / remote-Canada software & data ----
+[[companies]]
+name = "Remarcable"             # verified, 19 jobs
+ats = "ashby"
+id = "remarcable-inc"
+
+[[companies]]
+name = "Cohere"                 # verified, 122 jobs
+ats = "ashby"
+id = "cohere"
+
+[[companies]]
+name = "Jetson"                 # verified, 56 jobs
+ats = "greenhouse"
+id = "jetsonhome"
+
+[[companies]]
+name = "Klue"                   # verified (moved Lever -> Ashby)
+ats = "ashby"
+id = "klue"
+
+[[companies]]
+name = "Trulioo"                # verified, 25 jobs
+ats = "ashby"
+id = "trulioo"
+
+[[companies]]
+name = "Visier"                 # verified (moved Greenhouse -> Ashby)
+ats = "ashby"
+id = "visier"
+
+[[companies]]
+name = "Procurify"              # verified
+ats = "ashby"
+id = "procurify"
+
+[[companies]]
+name = "Thinkific"              # verified
+ats = "ashby"
+id = "thinkific"
+
+[[companies]]
+name = "Hootsuite"
+ats = "greenhouse"
+id = "hootsuite"
+
+[[companies]]
+name = "1Password"
+ats = "ashby"
+id = "1password"
+
+[[companies]]
+name = "Wealthsimple"
+ats = "ashby"
+id = "wealthsimple"
+
+[[companies]]
+name = "Gumloop"                # verified
+ats = "ashby"
+id = "gumloop"
+
+[[companies]]
+name = "Jobber"                 # verified (Ashby), 39 jobs
+ats = "ashby"
+id = "jobber"
+
+[[companies]]
+name = "Ada"
+ats = "greenhouse"
+id = "ada18"
+
+# ---- Tier 4: larger tech with Canadian / remote-Canada hiring ----
+[[companies]]
+name = "AMD"                    # verified (careers.amd.com Jibe -> iCIMS), Canada filter server-side
+ats = "jibe"
+id = "careers.amd.com"
+
+[[companies]]
+name = "NVIDIA"                 # verified, Canada facet server-side
+ats = "workday"
+id = "nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+
+[[companies]]
+name = "Rivian"                 # verified (Jibe); Vancouver software office
+ats = "jibe"
+id = "careers.rivian.com"
+
+[[companies]]
+name = "Nutanix"                # verified (Jobvite page)
+ats = "jobvite"
+id = "nutanix"
+
+[[companies]]
+name = "Astera Labs"
+ats = "greenhouse"
+id = "asteralabs"
+
+[[companies]]
+name = "Samsara"
+ats = "greenhouse"
+id = "samsara"
+
+[[companies]]
+name = "Databricks"
+ats = "greenhouse"
+id = "databricks"
+
+[[companies]]
+name = "Greenhouse Software"
+ats = "greenhouse"
+id = "greenhouse"
+
+[[companies]]
+name = "Motive"
+ats = "greenhouse"
+id = "gomotive"
+
+[[companies]]
+name = "Faire"
+ats = "greenhouse"
+id = "faire"
+
+[[companies]]
+name = "Grafana Labs"
+ats = "greenhouse"
+id = "grafanalabs"
+
+[[companies]]
+name = "GitLab"
+ats = "greenhouse"
+id = "gitlab"
+
+[[companies]]
+name = "Sony Interactive Entertainment"
+ats = "greenhouse"
+id = "sonyinteractiveentertainmentglobal"
+
+
+# =============== Added 2026-10-31 from fresh Canada-wide research (all boards verified live) ===============
+
+# ---- Research tier 1: energy / grid / EV / industrial IoT ----
+[[companies]]
+name = "GE Vernova"
+ats = "workday"
+id = "gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
+
+[[companies]]
+name = "ecobee (Generac)"
+ats = "workday"
+id = "generac.wd5.myworkdayjobs.com/External"
+
+[[companies]]
+name = "Tantalus Systems"
+ats = "bamboohr"
+id = "tantalussystems"
+
+[[companies]]
+name = "Clir Renewables"
+ats = "bamboohr"
+id = "clir"
+
+[[companies]]
+name = "Hypercharge Networks"
+ats = "bamboohr"
+id = "hyperchargenetworkscorp"
+
+[[companies]]
+name = "e-Zinc"
+ats = "rippling"
+id = "e-zinc"
+
+[[companies]]
+name = "Geotab"
+ats = "greenhouse"
+id = "geotab"
+
+[[companies]]
+name = "Miovision"
+ats = "ashby"
+id = "miovision"
+
+[[companies]]
+name = "Capital Power"
+ats = "workday"
+id = "capitalpower.wd10.myworkdayjobs.com/External"
+
+[[companies]]
+name = "Northland Power"
+ats = "workday"
+id = "northlandpower.wd3.myworkdayjobs.com/ExternalCS"
+
+[[companies]]
+name = "Hitachi Energy"
+ats = "workday"
+id = "hitachi.wd1.myworkdayjobs.com/hitachi"
+
+[[companies]]
+name = "Qube Technologies"
+ats = "bamboohr"
+id = "qubeiot"
+
+[[companies]]
+name = "Isaac Instruments"
+ats = "smartrecruiters"
+id = "isaacinstruments"
+
+[[companies]]
+name = "Mojio"
+ats = "greenhouse"
+id = "mojio"
+
+
+# ---- Research tier 2: hardware, robotics, deep tech ----
+[[companies]]
+name = "Cyclic Materials"
+ats = "greenhouse"
+id = "cyclicmaterialsinc"
+
+[[companies]]
+name = "Mangrove Lithium"
+ats = "bamboohr"
+id = "mangrovelithium"
+
+[[companies]]
+name = "Tenstorrent"
+ats = "greenhouse"
+id = "tenstorrent"
+
+[[companies]]
+name = "Cerebras"
+ats = "ashby"
+id = "cerebras"
+
+[[companies]]
+name = "Waabi"
+ats = "lever"
+id = "waabi"
+
+[[companies]]
+name = "Kepler Communications"
+ats = "lever"
+id = "kepler"
+
+[[companies]]
+name = "Semtech (Sierra Wireless)"
+ats = "workday"
+id = "semtech.wd1.myworkdayjobs.com/SemtechCareers"
+
+[[companies]]
+name = "Arista Networks"
+ats = "smartrecruiters"
+id = "aristanetworks"
+
+[[companies]]
+name = "Motorola Solutions (Avigilon)"
+ats = "workday"
+id = "motorolasolutions.wd5.myworkdayjobs.com/Careers"
+
+[[companies]]
+name = "BlackBerry QNX"
+ats = "workday"
+id = "bb.wd3.myworkdayjobs.com/BlackBerry"
+
+[[companies]]
+name = "General Motors Canada"
+ats = "workday"
+id = "generalmotors.wd5.myworkdayjobs.com/Careers_GM"
+
+[[companies]]
+name = "Rockwell Automation"
+ats = "workday"
+id = "rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation"
+
+[[companies]]
+name = "Avidbots"
+ats = "bamboohr"
+id = "avidbots"
+
+[[companies]]
+name = "Promise Robotics"
+ats = "lever"
+id = "promiserobotics"
+
+[[companies]]
+name = "Vosker"
+ats = "smartrecruiters"
+id = "vosker"
+
+[[companies]]
+name = "Oxygen8"
+ats = "greenhouse"
+id = "oxygen8"
+
+[[companies]]
+name = "CarbonCure"
+ats = "bamboohr"
+id = "carboncure"
+
+[[companies]]
+name = "Planetary Technologies"
+ats = "bamboohr"
+id = "ph2"
+
+[[companies]]
+name = "Nanoleaf"
+ats = "bamboohr"
+id = "nanoleaf"
+
+[[companies]]
+name = "Eavor"
+ats = "bamboohr"
+id = "eavortechnologies"
+
+
+# ---- Research tier 3: data, infra & dev platforms ----
+[[companies]]
+name = "Tailscale"
+ats = "greenhouse"
+id = "tailscale"
+
+[[companies]]
+name = "Supabase"
+ats = "ashby"
+id = "supabase"
+
+[[companies]]
+name = "ClickHouse"
+ats = "ashby"
+id = "clickhouse"
+
+[[companies]]
+name = "Snowflake"
+ats = "ashby"
+id = "snowflake"
+
+[[companies]]
+name = "Fivetran (dbt Labs)"
+ats = "greenhouse"
+id = "fivetran"
+
+[[companies]]
+name = "Stripe"
+ats = "greenhouse"
+id = "stripe"
+
+[[companies]]
+name = "Canonical"
+ats = "greenhouse"
+id = "canonical"
+
+[[companies]]
+name = "Spare"
+ats = "ashby"
+id = "spare"
+
+[[companies]]
+name = "Shakudo"
+ats = "lever"
+id = "shakudo"
+
+[[companies]]
+name = "Plotly"
+ats = "ashby"
+id = "plotly"
+
+
+# =============== AI & infrastructure companies (added 2026-10-31, all boards verified live) ===============
+
+# ---- AI labs & AI products ----
+[[companies]]
+name = "OpenAI"
+ats = "ashby"
+id = "openai"
+
+[[companies]]
+name = "Anthropic"
+ats = "greenhouse"
+id = "anthropic"
+
+[[companies]]
+name = "Perplexity"
+ats = "ashby"
+id = "perplexity"
+
+[[companies]]
+name = "Scale AI"
+ats = "greenhouse"
+id = "scaleai"
+
+[[companies]]
+name = "Harvey"
+ats = "ashby"
+id = "harvey"
+
+[[companies]]
+name = "ElevenLabs"
+ats = "ashby"
+id = "elevenlabs"
+
+[[companies]]
+name = "Runway"
+ats = "ashby"
+id = "runway"
+
+[[companies]]
+name = "Writer"
+ats = "ashby"
+id = "writer"
+
+[[companies]]
+name = "Glean"
+ats = "greenhouse"
+id = "gleanwork"
+
+[[companies]]
+name = "LangChain"
+ats = "ashby"
+id = "langchain"
+
+[[companies]]
+name = "Pinecone"
+ats = "ashby"
+id = "pinecone"
+
+[[companies]]
+name = "Weaviate"
+ats = "ashby"
+id = "weaviate"
+
+[[companies]]
+name = "Hugging Face"
+ats = "workable"
+id = "huggingface"
+
+
+# ---- AI infrastructure & AI chips ----
+[[companies]]
+name = "Baseten"
+ats = "ashby"
+id = "baseten"
+
+[[companies]]
+name = "Anyscale"
+ats = "ashby"
+id = "anyscale"
+
+[[companies]]
+name = "Together AI"
+ats = "greenhouse"
+id = "togetherai"
+
+[[companies]]
+name = "Fireworks AI"
+ats = "ashby"
+id = "fireworks"
+
+[[companies]]
+name = "Modal"
+ats = "ashby"
+id = "modal"
+
+[[companies]]
+name = "Lambda"
+ats = "ashby"
+id = "lambda"
+
+[[companies]]
+name = "Crusoe"
+ats = "ashby"
+id = "crusoe"
+
+[[companies]]
+name = "CoreWeave"
+ats = "greenhouse"
+id = "coreweave"
+
+[[companies]]
+name = "SambaNova"
+ats = "greenhouse"
+id = "sambanovasystems"
+
+[[companies]]
+name = "Etched"
+ats = "ashby"
+id = "etched"
+
+[[companies]]
+name = "Lightmatter"
+ats = "greenhouse"
+id = "lightmatter"
+
+[[companies]]
+name = "d-Matrix"
+ats = "ashby"
+id = "d-matrix"
+
+[[companies]]
+name = "Intel"
+ats = "workday"
+id = "intel.wd1.myworkdayjobs.com/External"
+
+[[companies]]
+name = "Marvell"
+ats = "workday"
+id = "marvell.wd1.myworkdayjobs.com/MarvellCareers"
+
+[[companies]]
+name = "Cadence"
+ats = "workday"
+id = "cadence.wd1.myworkdayjobs.com/External_Careers"
+
+
+# ---- Infrastructure & enterprise platforms (Nutanix-like) ----
+[[companies]]
+name = "Pure Storage"
+ats = "greenhouse"
+id = "purestorage"
+
+[[companies]]
+name = "Broadcom (VMware)"
+ats = "workday"
+id = "broadcom.wd1.myworkdayjobs.com/External_Career"
+
+[[companies]]
+name = "Red Hat"
+ats = "workday"
+id = "redhat.wd5.myworkdayjobs.com/jobs"
+
+[[companies]]
+name = "HPE"
+ats = "workday"
+id = "hpe.wd5.myworkdayjobs.com/Jobsathpe"
+
+[[companies]]
+name = "Ciena"
+ats = "workday"
+id = "ciena.wd5.myworkdayjobs.com/Careers"
+
+[[companies]]
+name = "Cloudflare"
+ats = "greenhouse"
+id = "cloudflare"
+
+[[companies]]
+name = "Datadog"
+ats = "greenhouse"
+id = "datadog"
+
+[[companies]]
+name = "Elastic"
+ats = "greenhouse"
+id = "elastic"
+
+[[companies]]
+name = "MongoDB"
+ats = "greenhouse"
+id = "mongodb"
+
+[[companies]]
+name = "Cockroach Labs"
+ats = "greenhouse"
+id = "cockroachlabs"
+
+[[companies]]
+name = "DigitalOcean"
+ats = "greenhouse"
+id = "digitalocean98"
+
+[[companies]]
+name = "Rubrik"
+ats = "greenhouse"
+id = "rubrik"
+
+[[companies]]
+name = "Okta"
+ats = "greenhouse"
+id = "okta"
+
+[[companies]]
+name = "Zscaler"
+ats = "greenhouse"
+id = "zscaler"
+
+[[companies]]
+name = "CrowdStrike"
+ats = "workday"
+id = "crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+
+[[companies]]
+name = "ServiceNow"
+ats = "smartrecruiters"
+id = "ServiceNow"
+
+[[companies]]
+name = "Salesforce"
+ats = "workday"
+id = "salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+
+[[companies]]
+name = "Workday"
+ats = "workday"
+id = "workday.wd5.myworkdayjobs.com/Workday"
+
+[[companies]]
+name = "Twilio"
+ats = "greenhouse"
+id = "twilio"
+
+[[companies]]
+name = "Dropbox"
+ats = "greenhouse"
+id = "dropbox"
+
+[[companies]]
+name = "Fastly"
+ats = "greenhouse"
+id = "fastly"
+
+[[companies]]
+name = "Autodesk"
+ats = "workday"
+id = "autodesk.wd1.myworkdayjobs.com/Ext"
+
+# Not trackable through a public feed (custom site / login-walled ATS); check manually:
+#   Ballard Power, General Fusion, Novarc & Electrovaya (ADP), Clio, Shopify, EA (Avature), Semios (Workable slug TBD),
+#   ThinkLabs AI, Mysa, Nuvation Energy, Cence Power, Kiwi Charge, FUTURi Power, Xanadu, Vention, Nanoprecise,
+#   SenPilot (Gem), Powertech Labs / BC Hydro, Qualcomm (Eightfold), Synopsys, NetApp, Dell, Arm, Microchip,
+#   OpenText, Nokia, Ericsson (custom career sites), Mistral, Confluent, Vercel (boards empty/unlisted),
+#   Hydrostor (LinkedIn only), Awesense (own site), Ionomr, VoltSafe, BluWave-ai, Planview,
+#   Fuse Power, Dapper Labs (Kula).
