@@ -2,7 +2,7 @@ name: job-watch
 
 on:
   schedule:
-    - cron: "7,37 * * * *"        # every 30 min, off the busy :00/:30 marks (GitHub drops runs there under load)
+    - cron: "8,38 * * * *"        # every 30 min, off the busy :00/:30 marks (GitHub drops runs there under load)
   workflow_dispatch:
     inputs:
       mode:
