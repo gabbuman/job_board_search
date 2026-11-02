@@ -13519,6 +13519,10 @@
      1793604641,
      "c70a94f1b92a"
     ],
+    "/job/Canada---Remote-BC/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30574": [
+     1793606449,
+     "916f3ae62ae3"
+    ],
     "/job/Canada---Remote-BC/Sr-Content-Writer--Remote-_R29599-1": [
      1793485167,
      "039d8193c046"
@@ -15416,7 +15420,18 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "databricks@greenhouse:databricks": {
-   "gone": {},
+   "gone": {
+    "8632282002": [
+     1793485167,
+     "2201bf71ff5f",
+     1793606449
+    ],
+    "8864368002": [
+     1793485167,
+     "470ba2d76d6b",
+     1793606449
+    ]
+   },
    "jobs": {
     "4513122002": [
      1793485167,
@@ -17378,10 +17393,6 @@
      1793485167,
      "7a6dcf4af23d"
     ],
-    "8632282002": [
-     1793485167,
-     "2201bf71ff5f"
-    ],
     "8632383002": [
      1793485167,
      "5c39c67807b2"
@@ -18549,10 +18560,6 @@
     "8864290002": [
      1793485167,
      "3de831646c2d"
-    ],
-    "8864368002": [
-     1793485167,
-     "470ba2d76d6b"
     ],
     "8867686002": [
      1793485167,
@@ -44209,6 +44216,10 @@
      1793485167,
      "c817b0885c37"
     ],
+    "7471202": [
+     1793606449,
+     "259b02e6638b"
+    ],
     "7529446": [
      1793485167,
      "95969ff827a8"
@@ -68500,7 +68511,13 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "workday@workday:workday.wd5.myworkdayjobs.com/workday": {
-   "gone": {},
+   "gone": {
+    "/job/USA-CA-Pleasanton/Partner-Solution-Consultant-Advisor---oCFO_JR-0108016": [
+     1793485167,
+     "dbc541c53aae",
+     1793606449
+    ]
+   },
    "jobs": {
     "/job/Canada-BC-Vancouver/AI-Engineer_JR-0109305": [
      1793485167,
@@ -68605,10 +68622,6 @@
     "/job/Canada-QC-Montreal/Sr-Services-Executive---Dirigeant-suprieur-des-services_JR-0111014": [
      1793485167,
      "ad037e8ba9c5"
-    ],
-    "/job/USA-CA-Pleasanton/Partner-Solution-Consultant-Advisor---oCFO_JR-0108016": [
-     1793485167,
-     "dbc541c53aae"
     ],
     "/job/USA-CA-Pleasanton/Senior-AI-Engineer_JR-0110768": [
      1793485167,
