@@ -3500,6 +3500,10 @@
      1793485167,
      "eea8686b25c0"
     ],
+    "5465639008": [
+     1793604641,
+     "0bd53980b5b8"
+    ],
     "5466480008": [
      1793485167,
      "310364f72c12"
@@ -5782,6 +5786,10 @@
     "/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1": [
      1793485167,
      "64fc67a81937"
+    ],
+    "/job/EMEA---Spain---Madrid---OffsiteHome/Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2": [
+     1793604641,
+     "b327ab5bc1fd"
     ],
     "/job/North-Sydney-AUS/Business-Development-Representative_26WD95551": [
      1793485167,
@@ -13507,6 +13515,10 @@
      1793485167,
      "4eed258abf5d"
     ],
+    "/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708": [
+     1793604641,
+     "c70a94f1b92a"
+    ],
     "/job/Canada---Remote-BC/Sr-Content-Writer--Remote-_R29599-1": [
      1793485167,
      "039d8193c046"
@@ -20958,7 +20970,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "digitalocean@greenhouse:digitalocean98": {
-   "gone": {},
+   "gone": {
+    "7987636": [
+     1793485167,
+     "6c1457229d1b",
+     1793604641
+    ]
+   },
    "jobs": {
     "7536702": [
      1793485167,
@@ -21119,10 +21137,6 @@
     "7987479": [
      1793485167,
      "80c0bfa509d1"
-    ],
-    "7987636": [
-     1793485167,
-     "6c1457229d1b"
     ],
     "7987672": [
      1793485167,
@@ -33708,7 +33722,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "glean@greenhouse:gleanwork": {
-   "gone": {},
+   "gone": {
+    "4740921005": [
+     1793485167,
+     "ae7b803c275f",
+     1793604641
+    ]
+   },
    "jobs": {
     "4006731005": [
      1793485167,
@@ -34117,10 +34137,6 @@
     "4740475005": [
      1793485167,
      "985558be1be5"
-    ],
-    "4740921005": [
-     1793485167,
-     "ae7b803c275f"
     ],
     "4741742005": [
      1793485167,
