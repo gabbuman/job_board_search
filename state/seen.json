@@ -39894,6 +39894,11 @@
   },
   "mongodb@greenhouse:mongodb": {
    "gone": {
+    "7593680": [
+     1793485167,
+     "a8dfeac386d4",
+     1793601040
+    ],
     "8226040": [
      1793485167,
      "cda875e73e48",
@@ -40116,10 +40121,6 @@
     "7590735": [
      1793485167,
      "154c78acb97c"
-    ],
-    "7593680": [
-     1793485167,
-     "a8dfeac386d4"
     ],
     "7599693": [
      1793485167,
@@ -42290,7 +42291,18 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
-   "gone": {},
+   "gone": {
+    "/job/Hyderabad-Telangana---IND/Civil-Engineer_NX-4608": [
+     1793486441,
+     "e126f80d3cee",
+     1793601040
+    ],
+    "/job/Hyderabad-Telangana---IND/Senior-Structural-Engineer--Design-Automation_NX-4648": [
+     1793486441,
+     "b64351e97909",
+     1793601040
+    ]
+   },
    "jobs": {
     "/job/Ahihud----TA---ISR/Prototyping-Engineer_NX-4809": [
      1793486441,
@@ -42648,10 +42660,6 @@
      1793486441,
      "f22584c5b882"
     ],
-    "/job/Hyderabad-Telangana---IND/Civil-Engineer_NX-4608": [
-     1793486441,
-     "e126f80d3cee"
-    ],
     "/job/Hyderabad-Telangana---IND/Cloud-Engineer_NX-2922": [
      1793486441,
      "f068399945f9"
@@ -42807,10 +42815,6 @@
     "/job/Hyderabad-Telangana---IND/Senior-Manager--Finance-Analytics---Insights_NX-4441": [
      1793486441,
      "3fcb6cc12180"
-    ],
-    "/job/Hyderabad-Telangana---IND/Senior-Structural-Engineer--Design-Automation_NX-4648": [
-     1793486441,
-     "b64351e97909"
     ],
     "/job/Hyderabad-Telangana---IND/Senior-Supply-Chain-Analyst_NX-4740": [
      1793486441,
@@ -46130,6 +46134,10 @@
     "ba9b1d1f-5ebc-487f-a1ba-d36d07eac755": [
      1793486441,
      "13ea3bd891b0"
+    ],
+    "e012d399-665e-4713-a9c6-17a9a58f39cc": [
+     1793601040,
+     "f5f9a1d238c7"
     ],
     "e27c6687-ae83-475f-a715-30024c78a332": [
      1793599243,
@@ -55894,6 +55902,11 @@
      "563c2154e1df",
      1793588446
     ],
+    "744000151572119": [
+     1793485167,
+     "2a4342fef89c",
+     1793601040
+    ],
     "744000152749754": [
      1793485167,
      "2a200f6984c6",
@@ -56766,10 +56779,6 @@
     "744000151540399": [
      1793485167,
      "b0db5049ddd7"
-    ],
-    "744000151572119": [
-     1793485167,
-     "2a4342fef89c"
     ],
     "744000151601954": [
      1793485167,
@@ -58818,6 +58827,10 @@
     "744000159052719": [
      1793599243,
      "0e32cd7b6fe6"
+    ],
+    "744000159054169": [
+     1793601040,
+     "af727b412227"
     ]
    },
    "name": "ServiceNow",
