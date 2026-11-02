@@ -18636,6 +18636,10 @@
      1793485167,
      "b9a5caae70d1"
     ],
+    "8878946002": [
+     1793595653,
+     "00d27c8d9726"
+    ],
     "8879335002": [
      1793485167,
      "5d042c5a915d"
@@ -19041,7 +19045,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "datadog@greenhouse:datadog": {
-   "gone": {},
+   "gone": {
+    "8177097": [
+     1793485167,
+     "08dec5153ef0",
+     1793595653
+    ]
+   },
    "jobs": {
     "1497543": [
      1793485167,
@@ -20046,10 +20056,6 @@
     "8175708": [
      1793485167,
      "7e637d3b66e4"
-    ],
-    "8177097": [
-     1793485167,
-     "08dec5153ef0"
     ],
     "8179647": [
      1793485167,
@@ -27771,12 +27777,14 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "floqast@lever:floqast": {
-   "gone": {},
-   "jobs": {
+   "gone": {
     "006d5e2d-8a65-4e44-bf0d-6e68ca265c27": [
      1793486441,
-     "f1f81284b09b"
-    ],
+     "f1f81284b09b",
+     1793595653
+    ]
+   },
+   "jobs": {
     "057b7135-abd7-4131-8b89-2346d4de8cd5": [
      1793486441,
      "b2916bdfd5d0"
@@ -42180,7 +42188,18 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "nasdaq-boardvantage-verafin@workday:nasdaq.wd1.myworkdayjobs.com/global_external_site": {
-   "gone": {},
+   "gone": {
+    "/job/CA-Toronto-York-St-2425/Senior-Software-Developer--Atlassian-Engineer-_R0027193": [
+     1793486441,
+     "4851b406c106",
+     1793595653
+    ],
+    "/job/CA-Toronto-York-St-2425/Software-Developer-Specialist_R0027152-1": [
+     1793486441,
+     "d2184ea9d95e",
+     1793595653
+    ]
+   },
    "jobs": {
     "/job/CA-Toronto-York-St-2425/CAP-Intelligence-Platform-Databricks-Engineer_R0026987": [
      1793486441,
@@ -42202,10 +42221,6 @@
      1793486441,
      "71e3f4caec5d"
     ],
-    "/job/CA-Toronto-York-St-2425/Senior-Software-Developer--Atlassian-Engineer-_R0027193": [
-     1793486441,
-     "4851b406c106"
-    ],
     "/job/CA-Toronto-York-St-2425/Senior-Specialist---Equities-Product-Management_R0027074": [
      1793486441,
      "89e6c40b3267"
@@ -42213,10 +42228,6 @@
     "/job/CA-Toronto-York-St-2425/Software-Developer-Senior-Specialist---Java--AWS--DevOps_R0027172": [
      1793486441,
      "7853aa994c9a"
-    ],
-    "/job/CA-Toronto-York-St-2425/Software-Developer-Specialist_R0027152-1": [
-     1793486441,
-     "d2184ea9d95e"
     ],
     "/job/CA-Toronto-York-St-2425/Software-Developer_R0027131": [
      1793486441,
@@ -55854,6 +55865,11 @@
      "563c2154e1df",
      1793588446
     ],
+    "744000152749754": [
+     1793485167,
+     "2a200f6984c6",
+     1793595653
+    ],
     "744000157570619": [
      1793485167,
      "a6b8ca747975",
@@ -56920,10 +56936,6 @@
     "744000152734569": [
      1793485167,
      "fb23b6cd040a"
-    ],
-    "744000152749754": [
-     1793485167,
-     "2a200f6984c6"
     ],
     "744000152750829": [
      1793485167,
