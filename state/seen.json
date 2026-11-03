@@ -10013,6 +10013,11 @@
   },
   "cloudflare@greenhouse:cloudflare": {
    "gone": {
+    "6540163": [
+     1793485167,
+     "68b1b16a46f9",
+     1793671242
+    ],
     "7831810": [
      1793485167,
      "3afca66e93b7",
@@ -10073,10 +10078,6 @@
     "5390243": [
      1793485167,
      "39462d511147"
-    ],
-    "6540163": [
-     1793485167,
-     "68b1b16a46f9"
     ],
     "6557318": [
      1793485167,
@@ -35731,6 +35732,10 @@
   "gumloop@ashby:gumloop": {
    "gone": {},
    "jobs": {
+    "02a4e41c-ca1e-4dd7-88b6-d14fd8c8d401": [
+     1793671242,
+     "5c4ff5be08d9"
+    ],
     "7bd94324-7b7b-4bb8-b4f1-6bc20cfdd900": [
      1793485167,
      "a1ac3272d1cc"
@@ -38074,9 +38079,17 @@
      1793485167,
      "6b82d766b1f7"
     ],
+    "/job/Mississauga-Ontario/Partner-Business-Manager_1216101": [
+     1793671242,
+     "7b2d9d90c006"
+    ],
     "/job/Montreal-Quebec/Channel-Presales-Technical-Architect----Architecte-technique-avant-vente-pour-les-partenaires_1215370-1": [
      1793485167,
      "6aab1d109e4f"
+    ],
+    "/job/Montreal-Quebec/Named-Accounts-Manager---Networking---Gestionnaire-de-comptes-nomms---Rseau_1218037": [
+     1793671242,
+     "1a96fc3eaa83"
     ],
     "/job/Ottawa-Ontario/Data-Services-and-Storage-Technology-Architect_1215867-2": [
      1793485167,
@@ -39417,6 +39430,10 @@
     "ee4920c8-7454-4163-ac9d-88f547ceb53c": [
      1793485167,
      "312d116d94fb"
+    ],
+    "ee553f81-7e7c-4646-8434-ec684e10a557": [
+     1793671242,
+     "0dae81216ad0"
     ],
     "efe606d6-eaa2-4e0a-a204-38002ae68818": [
      1793485167,
@@ -62144,6 +62161,11 @@
   },
   "sony-interactive-entertainment@greenhouse:sonyinteractiveentertainmentglobal": {
    "gone": {
+    "6101909004": [
+     1793485167,
+     "f22451296089",
+     1793671242
+    ],
     "6102742004": [
      1793485167,
      "9af3dfcae8a4",
@@ -62299,10 +62321,6 @@
     "6098184004": [
      1793485167,
      "63948c3d2504"
-    ],
-    "6101909004": [
-     1793485167,
-     "f22451296089"
     ],
     "6102723004": [
      1793485167,
@@ -69088,6 +69106,10 @@
     "8327839": [
      1793485167,
      "17927bd02503"
+    ],
+    "8327942": [
+     1793671242,
+     "fd8dcf8e4f48"
     ],
     "8330326": [
      1793485167,
