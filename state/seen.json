@@ -5092,6 +5092,11 @@
      "4ccd39fe6f05",
      1793526076
     ],
+    "4720222005": [
+     1793485167,
+     "85352bd668b8",
+     1793682043
+    ],
     "4720529005": [
      1793485167,
      "d4f9731f60d1",
@@ -5417,10 +5422,6 @@
     "4720171005": [
      1793485167,
      "56292cb9f963"
-    ],
-    "4720222005": [
-     1793485167,
-     "85352bd668b8"
     ],
     "4720386005": [
      1793485167,
@@ -33241,7 +33242,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
-   "gone": {},
+   "gone": {
+    "/job/St-Catharines-Ontario-Canada/Facilities-Engineer_JR-202621254": [
+     1793485167,
+     "b8e66d250bbc",
+     1793682043
+    ]
+   },
    "jobs": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -33358,10 +33365,6 @@
     "/job/Remote---Ontario/Senior-Software-Engineering---Autonomy-Build---Integration_JR-202619934": [
      1793485167,
      "989813155a63"
-    ],
-    "/job/St-Catharines-Ontario-Canada/Facilities-Engineer_JR-202621254": [
-     1793485167,
-     "b8e66d250bbc"
     ]
    },
    "name": "General Motors Canada",
@@ -43209,6 +43212,11 @@
   },
   "motorola-solutions-avigilon@workday:motorolasolutions.wd5.myworkdayjobs.com/careers": {
    "gone": {
+    "/job/Gatineau-Canada/Jr-Software-Engineer---Java--Angular--JavaScript_R69279-1": [
+     1793485167,
+     "6ec9e100979f",
+     1793682043
+    ],
     "/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": [
      1793485167,
      "6f53dc8dbc93",
@@ -43223,10 +43231,6 @@
     "/job/British-ColumbiaCAN-Offsite/Training-Portfolio-Owner_R69785": [
      1793485167,
      "60191bf4c91c"
-    ],
-    "/job/Gatineau-Canada/Jr-Software-Engineer---Java--Angular--JavaScript_R69279-1": [
-     1793485167,
-     "6ec9e100979f"
     ],
     "/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": [
      1793485167,
@@ -43385,6 +43389,11 @@
      1793486441,
      "d2184ea9d95e",
      1793595653
+    ],
+    "/job/CA-Toronto-York-St-2425/Software-Developer_R0027131": [
+     1793486441,
+     "2195dd86f450",
+     1793682043
     ]
    },
    "jobs": {
@@ -43415,10 +43424,6 @@
     "/job/CA-Toronto-York-St-2425/Software-Developer-Senior-Specialist---Java--AWS--DevOps_R0027172": [
      1793486441,
      "7853aa994c9a"
-    ],
-    "/job/CA-Toronto-York-St-2425/Software-Developer_R0027131": [
-     1793486441,
-     "2195dd86f450"
     ],
     "/job/CA-Toronto-York-St-2425/Software-Engineer--Sr-Specialist_R0024282": [
      1793486441,
@@ -49995,6 +50000,10 @@
      1793485167,
      "1a3e316824cf"
     ],
+    "bfecbfa0-6573-4c00-8215-50e271f411bc": [
+     1793682043,
+     "fc2c0337a329"
+    ],
     "c00094f9-e071-4870-afec-104beb3ce499": [
      1793485167,
      "aca470a310f6"
@@ -54155,6 +54164,10 @@
      1793485167,
      "d24f1f4bd162"
     ],
+    "8166537": [
+     1793682043,
+     "4676d76c62c1"
+    ],
     "8168820": [
      1793485167,
      "de625b69801f"
@@ -57472,6 +57485,11 @@
      "2a4342fef89c",
      1793601040
     ],
+    "744000151601954": [
+     1793485167,
+     "693b95d2b8c6",
+     1793682043
+    ],
     "744000152228369": [
      1793485167,
      "86f61f45d9ff",
@@ -58474,10 +58492,6 @@
     "744000151540399": [
      1793485167,
      "b0db5049ddd7"
-    ],
-    "744000151601954": [
-     1793485167,
-     "693b95d2b8c6"
     ],
     "744000151616072": [
      1793485167,
@@ -60562,6 +60576,10 @@
     "744000159292709": [
      1793680239,
      "41df49126c08"
+    ],
+    "744000159294359": [
+     1793682043,
+     "6cee23bca725"
     ]
    },
    "name": "ServiceNow",
@@ -71718,6 +71736,10 @@
     "5232094007": [
      1793485167,
      "c3d501883457"
+    ],
+    "5232603007": [
+     1793682043,
+     "8253195e8e15"
     ],
     "5232605007": [
      1793485167,
