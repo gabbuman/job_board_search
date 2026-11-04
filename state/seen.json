@@ -6624,15 +6624,17 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "blackberry-qnx@workday:bb.wd3.myworkdayjobs.com/blackberry": {
-   "gone": {},
+   "gone": {
+    "/job/Ottawa-Ontario/Financial-Analyst_20260258-1": [
+     1793485167,
+     "4158cac6227d",
+     1793799058
+    ]
+   },
    "jobs": {
     "/job/Ottawa-Ontario/BlackBerry-Radar--Senior-Full-Stack-Developer_20260326-2": [
      1793485167,
      "73d90856df5a"
-    ],
-    "/job/Ottawa-Ontario/Financial-Analyst_20260258-1": [
-     1793485167,
-     "4158cac6227d"
     ],
     "/job/Ottawa-Ontario/QNX--Senior-Systems-Software-Developer--Sensor-Frameworks-_20260309-2": [
      1793485167,
@@ -10284,6 +10286,11 @@
      "13ab0bf3b6fa",
      1793613652
     ],
+    "8071586": [
+     1793485167,
+     "625913803b35",
+     1793799058
+    ],
     "8081326": [
      1793485167,
      "5b9a6ee171cb",
@@ -10795,10 +10802,6 @@
     "8071416": [
      1793485167,
      "a7d45e7f50ed"
-    ],
-    "8071586": [
-     1793485167,
-     "625913803b35"
     ],
     "8075795": [
      1793485167,
@@ -19934,6 +19937,10 @@
     "8926498002": [
      1793597456,
      "cca7b634df0e"
+    ],
+    "8927179002": [
+     1793799058,
+     "c1dfaea6d78d"
     ],
     "8927390002": [
      1793700048,
@@ -33751,6 +33758,10 @@
      1793608248,
      "fddb3d3fd810"
     ],
+    "24842": [
+     1793799058,
+     "afb091f6ff85"
+    ],
     "24843": [
      1793619050,
      "f5bebb869edb"
@@ -38356,6 +38367,11 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "gone": {
+    "/job/Saint-Laurent-Quebec-Canada/Ingnieur-de-projet-gnie-lectrique---Project-Engineer-Electrical_R0113196": [
+     1793485167,
+     "9717dc2198b9",
+     1793799058
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Ingnieur-en-Systmes-d-nergie---Power-System-Engineer---Main-Circuit-Design_R0142197": [
      1793485167,
      "ac7fdf35d156",
@@ -38568,10 +38584,6 @@
     "/job/Saint-Laurent-Quebec-Canada/HVDC-Intern---Electrical-Engineering_R0077925": [
      1793485167,
      "827272e0576b"
-    ],
-    "/job/Saint-Laurent-Quebec-Canada/Ingnieur-de-projet-gnie-lectrique---Project-Engineer-Electrical_R0113196": [
-     1793485167,
-     "9717dc2198b9"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Ingnieur-en-Systmes-d-nergie---Power-System-Engineer---Equipment_R0149407": [
      1793485167,
@@ -48861,6 +48873,10 @@
      1793486441,
      "ddcc5bdce3f0"
     ],
+    "a0caa87d-13cd-4cc9-aa3b-133dc5ba0051": [
+     1793799058,
+     "e33a57647232"
+    ],
     "ab01e18f-5ca9-4d5e-8052-e251dba7eac3": [
      1793486441,
      "7152d643dcea"
@@ -53535,6 +53551,11 @@
      "528b40f68802",
      1793736048
     ],
+    "8184588": [
+     1793485167,
+     "0a2fccf2eb1a",
+     1793799058
+    ],
     "8185876": [
      1793485167,
      "dd0ac91486e1",
@@ -54172,10 +54193,6 @@
     "8180695": [
      1793485167,
      "4e9a2d0c1e3f"
-    ],
-    "8184588": [
-     1793485167,
-     "0a2fccf2eb1a"
     ],
     "8184679": [
      1793485167,
