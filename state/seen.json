@@ -3807,6 +3807,10 @@
     "5473079008": [
      1793811655,
      "97a01535cbbc"
+    ],
+    "5473216008": [
+     1793826056,
+     "48a82aa307e3"
     ]
    },
    "name": "Anthropic",
@@ -6277,6 +6281,16 @@
      "812945e49fa7",
      1793642458
     ],
+    "5bf99d98-8df7-4d8e-b040-42a66c28cd67": [
+     1793485167,
+     "118be779a434",
+     1793826056
+    ],
+    "5fdfe98f-c926-4af8-891a-79610b52ff96": [
+     1793485167,
+     "50ce9d78e364",
+     1793826056
+    ],
     "90917db5-8555-4a69-91c2-3b5ddbdbdd56": [
      1793485167,
      "d7e4cf025f47",
@@ -6433,17 +6447,9 @@
      1793485167,
      "2d3db970157e"
     ],
-    "5bf99d98-8df7-4d8e-b040-42a66c28cd67": [
-     1793485167,
-     "118be779a434"
-    ],
     "5cd2f489-b9ee-428b-b252-94e83d55f107": [
      1793485167,
      "3021adafbcf7"
-    ],
-    "5fdfe98f-c926-4af8-891a-79610b52ff96": [
-     1793485167,
-     "50ce9d78e364"
     ],
     "64181d8a-960d-4aa4-8d98-3cb22b1e0616": [
      1793485167,
@@ -8955,6 +8961,10 @@
      1793485167,
      "82d9bbd3d30a"
     ],
+    "a7b631a6-292f-4fae-8b7d-a4e4f82956bb": [
+     1793826056,
+     "ac41c0b507f9"
+    ],
     "ab6ab5f5-14b7-40d1-9070-e7b4517005b1": [
      1793485167,
      "6136ab57f8a0"
@@ -9496,6 +9506,10 @@
      1793485167,
      "e6af9a2d1090"
     ],
+    "/job/Remote-Canada/Senior-Advisor--Product-Line-Management--Implementation-Services_R031995": [
+     1793826056,
+     "9cc6e816a026"
+    ],
     "/job/Remote-US/Advisor--Competitive-Intelligence---Inside-the-Data-Center-Technologies_R031896": [
      1793485167,
      "e58747cf105c"
@@ -9503,6 +9517,10 @@
     "/job/Remote-US/Business-Analyst--Service-Logistics_R031966": [
      1793629845,
      "efb7badffdef"
+    ],
+    "/job/Remote-US/Senior-Advisor--Product-Line-Management--Maintenance---Managed-Services_R031996": [
+     1793826056,
+     "d2296c158b05"
     ]
    },
    "name": "Ciena",
@@ -14946,6 +14964,10 @@
     "5635688b-3bfa-4232-9c67-1a789e513dee": [
      1793485167,
      "b8e8021be6b3"
+    ],
+    "564be4e5-5528-495d-aaee-bae4e69d8833": [
+     1793826056,
+     "7ed02f0717a7"
     ],
     "568efeae-346c-4cf6-b52f-07faa5ce1fb5": [
      1793485167,
@@ -27718,6 +27740,11 @@
      "c8682309efd5",
      1793640659
     ],
+    "1026020": [
+     1793486441,
+     "ed04c4005735",
+     1793826056
+    ],
     "1026040": [
      1793486441,
      "4a1c4bc8f406",
@@ -28426,10 +28453,6 @@
      1793486441,
      "7b992cc0d034"
     ],
-    "1026020": [
-     1793486441,
-     "ed04c4005735"
-    ],
     "1026028": [
      1793486441,
      "61acb6d28ceb"
@@ -28837,6 +28860,14 @@
     "1026521": [
      1793809846,
      "0d8eaf689be2"
+    ],
+    "1026529": [
+     1793826056,
+     "90fb26ccf0c4"
+    ],
+    "1026531": [
+     1793826056,
+     "b543b4733c43"
     ],
     "1026534": [
      1793818881,
@@ -38789,6 +38820,11 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "gone": {
+    "/job/Saint-Laurent-Quebec-Canada/Coordonnateur-trice--de-projets---Fabrication-et-opration---Project-Coordinator---Manufacturing---Operations_R0147443-1": [
+     1793485167,
+     "680d9e76cfaa",
+     1793826056
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Ingnieur-de-projet-gnie-lectrique---Project-Engineer-Electrical_R0113196": [
      1793485167,
      "9717dc2198b9",
@@ -38974,10 +39010,6 @@
     "/job/Saint-Laurent-Quebec-Canada/Chef-de-projet---Ingnierie-Project-Management-Engineering_R0143599": [
      1793485167,
      "ae64e88601c1"
-    ],
-    "/job/Saint-Laurent-Quebec-Canada/Coordonnateur-trice--de-projets---Fabrication-et-opration---Project-Coordinator---Manufacturing---Operations_R0147443-1": [
-     1793485167,
-     "680d9e76cfaa"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-SSE---Projets-d-infrastructures-lectriques---HSE-Manager---Power-Infrastructure-Projects_R0146216": [
      1793485167,
@@ -46418,6 +46450,10 @@
     "4746483005": [
      1793486441,
      "30c0f010691d"
+    ],
+    "4751252005": [
+     1793826056,
+     "e9cfc468cea5"
     ]
    },
    "name": "Novisto",
@@ -48929,6 +48965,10 @@
      1793811655,
      "1d136b59b117"
     ],
+    "8351434": [
+     1793826056,
+     "c5f8080202b9"
+    ],
     "8351641": [
      1793786466,
      "06aa2447ef83"
@@ -49444,6 +49484,10 @@
      1793486441,
      "ddcc5bdce3f0"
     ],
+    "99b74539-3305-45f1-88c3-b283dc29b81d": [
+     1793826056,
+     "f2a13e525188"
+    ],
     "a0caa87d-13cd-4cc9-aa3b-133dc5ba0051": [
      1793799058,
      "e33a57647232"
@@ -49514,6 +49558,11 @@
      1793485167,
      "418ed8133598",
      1793593839
+    ],
+    "3b2d32bd-2549-43d0-8dc2-8469bece5336": [
+     1793485167,
+     "0e96a716d1cc",
+     1793826056
     ],
     "4d14449e-5e7f-45d4-b103-8776a6c87086": [
      1793485167,
@@ -49644,6 +49693,11 @@
      1793485167,
      "c4c7bcd3fd14",
      1793633597
+    ],
+    "dc82f20d-6695-42f1-90f4-841bdc3decef": [
+     1793485167,
+     "c125c8f4a468",
+     1793826056
     ],
     "de76301c-7289-40a5-972a-ab144f189b4f": [
      1793485167,
@@ -50434,10 +50488,6 @@
     "3b08148d-085e-4835-9934-1b7f60e0fdce": [
      1793485167,
      "8036272c86e4"
-    ],
-    "3b2d32bd-2549-43d0-8dc2-8469bece5336": [
-     1793485167,
-     "0e96a716d1cc"
     ],
     "3b34eb10-25b0-4a97-bd6d-05fc90ad4981": [
      1793485167,
@@ -52519,10 +52569,6 @@
      1793485167,
      "5ad9d32ca985"
     ],
-    "dc82f20d-6695-42f1-90f4-841bdc3decef": [
-     1793485167,
-     "c125c8f4a468"
-    ],
     "dcbb011b-bc0f-41e6-b3c6-34068d177e54": [
      1793485167,
      "a2a5d25515e2"
@@ -52570,6 +52616,10 @@
     "e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2": [
      1793485167,
      "020733852964"
+    ],
+    "e183d73c-4eeb-4b75-9b69-435591bb535a": [
+     1793826056,
+     "ef46136982c4"
     ],
     "e1b8fd3a-315c-4480-9105-98228093d429": [
      1793485167,
@@ -55686,6 +55736,10 @@
     "8349410": [
      1793811655,
      "bac770c6e94b"
+    ],
+    "8349540": [
+     1793826056,
+     "57de180078f6"
     ],
     "8350087": [
      1793727042,
@@ -59652,20 +59706,10 @@
   },
   "semtech-sierra-wireless@workday:semtech.wd1.myworkdayjobs.com/semtechcareers": {
    "gone": {
-    "/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1": [
-     1793629845,
-     "79a12eda08e3",
-     1793669450
-    ],
     "/job/CAN---Burlington-ON/Senior-Product-Quality-Engineer_REQ3495": [
      1793485167,
      "4cad1becca8f",
      1793637049
-    ],
-    "/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667": [
-     1793629845,
-     "9b15ac71ed91",
-     1793667645
     ]
    },
    "jobs": {
@@ -59705,6 +59749,10 @@
      1793485167,
      "3cb5ba7e9d0e"
     ],
+    "/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1": [
+     1793629845,
+     "79a12eda08e3"
+    ],
     "/job/CAN---Burlington-ON/R-D-Lab-Coordinator-Intern_REQ3626": [
      1793485167,
      "ea572bd5350e"
@@ -59720,6 +59768,10 @@
     "/job/CAN---Burlington-ON/Senior-Quality-Process-Development-Engineer_REQ3606-1": [
      1793485167,
      "b032082cef61"
+    ],
+    "/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667": [
+     1793629845,
+     "9b15ac71ed91"
     ],
     "/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628": [
      1793485167,
@@ -60199,6 +60251,11 @@
      1793485167,
      "7ec99edce58e",
      1793719842
+    ],
+    "744000158327600": [
+     1793485167,
+     "0f2e4be61f9d",
+     1793826056
     ],
     "744000158354900": [
      1793485167,
@@ -62740,10 +62797,6 @@
      1793485167,
      "14a94c7a4866"
     ],
-    "744000158327600": [
-     1793485167,
-     "0f2e4be61f9d"
-    ],
     "744000158336204": [
      1793485167,
      "6f0226dfb59a"
@@ -63336,9 +63389,21 @@
      1793822460,
      "189330aa00eb"
     ],
+    "744000159721980": [
+     1793826056,
+     "08bbe83dcfc5"
+    ],
     "744000159722549": [
      1793824243,
      "c7552569eebd"
+    ],
+    "744000159722788": [
+     1793826056,
+     "1c1398ac427b"
+    ],
+    "744000159723829": [
+     1793826056,
+     "6aa910c8d9db"
     ]
    },
    "name": "ServiceNow",
@@ -65919,6 +65984,10 @@
     "6232183004": [
      1793485167,
      "9eb16d6c71aa"
+    ],
+    "6233282004": [
+     1793826056,
+     "d62c979b06aa"
     ],
     "6233291004": [
      1793748641,
@@ -71136,6 +71205,10 @@
     "5281555007": [
      1793649664,
      "1483bf142297"
+    ],
+    "5283023007": [
+     1793826056,
+     "dd2c8be6db38"
     ]
    },
    "name": "Tenstorrent",
@@ -71181,6 +71254,10 @@
     "4969E5A5FD": [
      1793486441,
      "4d97606eed68"
+    ],
+    "5B3DE2B4D2": [
+     1793826056,
+     "b48c6fd8b214"
     ],
     "5C058F72C1": [
      1793486441,
@@ -71860,11 +71937,6 @@
      "0f6e2caf9ad7",
      1793644245
     ],
-    "8245812": [
-     1793485167,
-     "0d83e12793d7",
-     1793732467
-    ],
     "8247286": [
      1793485167,
      "6b257a0a3609",
@@ -72179,6 +72251,10 @@
     "8244723": [
      1793485167,
      "6b257a0a3609"
+    ],
+    "8245812": [
+     1793485167,
+     "0d83e12793d7"
     ],
     "8247185": [
      1793485167,
@@ -73701,9 +73777,21 @@
      1793486441,
      "637cfb95d532"
     ],
+    "/job/CAN---Sherbrooke/Analyste-d-affaires--BA--en-TI---Stage_R0060875": [
+     1793826056,
+     "2b4504830c55"
+    ],
     "/job/CAN---Sherbrooke/Architecte-en-chef-d-applications-et-de-produits_R0056732": [
      1793486441,
      "210bd0dcc528"
+    ],
+    "/job/CAN---Sherbrooke/Associ-e--en-assurance-qualit-des-logiciels---Stage_R0060876": [
+     1793826056,
+     "5ea00ec30a25"
+    ],
+    "/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874": [
+     1793826056,
+     "19c5d56caaee"
     ],
     "/job/CAN---Sherbrooke/Lead-Technical-Product-Manager_R0060708": [
      1793486441,
