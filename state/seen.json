@@ -33911,6 +33911,11 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "gone": {
+    "/job/Markham-Ontario-Canada/Staff-Engineer--Site-Reliability-Engineering_JR-202618328": [
+     1793485167,
+     "90d1706918be",
+     1793768466
+    ],
     "/job/St-Catharines-Ontario-Canada/Facilities-Engineer_JR-202621254": [
      1793485167,
      "b8e66d250bbc",
@@ -33985,10 +33990,6 @@
     "/job/Markham-Ontario-Canada/Sr-Software-Engineering---LV-Power-Distribution_JR-202621921-1": [
      1793485167,
      "7df1ad913798"
-    ],
-    "/job/Markham-Ontario-Canada/Staff-Engineer--Site-Reliability-Engineering_JR-202618328": [
-     1793485167,
-     "90d1706918be"
     ],
     "/job/Markham-Ontario-Canada/Staff-Fullstack-Engineer---Simulation_JR-202620336": [
      1793485167,
@@ -38897,7 +38898,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
-   "gone": {},
+   "gone": {
+    "/job/Mississauga-Ontario-Canada/Resident-Networking-Consultant---Service-Provider_1216323-3": [
+     1793485167,
+     "87e3301a0f55",
+     1793768466
+    ]
+   },
    "jobs": {
     "/job/All-Ontario-Canada/Director--Presales-Engineering---Canada_1215630-2": [
      1793485167,
@@ -38938,10 +38945,6 @@
     "/job/Mississauga-Ontario-Canada/Enterprise-Sales-Manager----Gestionnaire-de-vente-entreprise_1215347": [
      1793485167,
      "69e78257710e"
-    ],
-    "/job/Mississauga-Ontario-Canada/Resident-Networking-Consultant---Service-Provider_1216323-3": [
-     1793485167,
-     "87e3301a0f55"
     ],
     "/job/Mississauga-Ontario-Canada/Senior-Cybersecurity-Transformation-Lead--Enterprise-Programs-_1208462-2": [
      1793485167,
@@ -50016,6 +50019,10 @@
      1793485167,
      "cfd9a65a7b09"
     ],
+    "5f3a3325-bc3c-4f92-8456-f22add6fe52b": [
+     1793768466,
+     "1a6413f00420"
+    ],
     "5f6685ad-2fba-4e60-8982-fa142b33e194": [
      1793485167,
      "c6379777b2e7"
@@ -51259,6 +51266,10 @@
     "c00094f9-e071-4870-afec-104beb3ce499": [
      1793485167,
      "aca470a310f6"
+    ],
+    "c033c8a7-88bb-44d1-b299-2fd420be5f57": [
+     1793768466,
+     "fb5997c46654"
     ],
     "c0c70d7e-c450-4ca4-842a-dbc5e643c048": [
      1793485167,
@@ -54719,6 +54730,14 @@
     "8330273": [
      1793485167,
      "011dec43715d"
+    ],
+    "8330275": [
+     1793768466,
+     "b43f957bef39"
+    ],
+    "8330285": [
+     1793768466,
+     "b43f957bef39"
     ],
     "8331091": [
      1793485167,
@@ -62184,6 +62203,10 @@
     "744000159544799": [
      1793766639,
      "ccea0ffed12c"
+    ],
+    "744000159544990": [
+     1793768466,
+     "3ed74d9f95d2"
     ]
    },
    "name": "ServiceNow",
@@ -70518,6 +70541,11 @@
      "f36b70e97b42",
      1793737850
     ],
+    "8176810": [
+     1793485167,
+     "bbcd8a33dfac",
+     1793768466
+    ],
     "8180238": [
      1793485167,
      "97a73a985dcc",
@@ -70736,10 +70764,6 @@
     "8175075": [
      1793485167,
      "b130b460ab8c"
-    ],
-    "8176810": [
-     1793485167,
-     "bbcd8a33dfac"
     ],
     "8178812": [
      1793485167,
