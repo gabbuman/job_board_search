@@ -12331,6 +12331,10 @@
      1793485167,
      "a77db4bfc76f"
     ],
+    "8328562": [
+     1793842241,
+     "66edd75c6779"
+    ],
     "8328820": [
      1793646057,
      "e2315ffa811f"
@@ -12410,6 +12414,10 @@
     "8332960": [
      1793592043,
      "bf15a1b2ad94"
+    ],
+    "8333371": [
+     1793842241,
+     "12bd631aff34"
     ],
     "8335069": [
      1793485167,
@@ -16513,6 +16521,11 @@
      "2201bf71ff5f",
      1793606449
     ],
+    "8632403002": [
+     1793485167,
+     "2802933c50a2",
+     1793842241
+    ],
     "8633152002": [
      1793485167,
      "4562246632e0",
@@ -18548,10 +18561,6 @@
     "8632383002": [
      1793485167,
      "5c39c67807b2"
-    ],
-    "8632403002": [
-     1793485167,
-     "2802933c50a2"
     ],
     "8633071002": [
      1793485167,
@@ -39010,6 +39019,11 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "gone": {
+    "/job/Remote---Quebec-Canada/Conseiller--re--en-ventes-techniques---Technical-Sales-Specialist_R0135190": [
+     1793485167,
+     "713a34579d89",
+     1793842241
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Coordonnateur-trice--de-projets---Fabrication-et-opration---Project-Coordinator---Manufacturing---Operations_R0147443-1": [
      1793485167,
      "680d9e76cfaa",
@@ -39025,6 +39039,11 @@
      "ac7fdf35d156",
      1793725275
     ],
+    "/job/Saint-Laurent-Quebec-Canada/Spcialiste-de-l-appel-d-offres---Quotation-Tender-Specialist_R0144532": [
+     1793485167,
+     "2a4c939272f3",
+     1793842241
+    ],
     "/job/Toronto-Ontario-Canada/CBTCS-Engineering-Service-Delivery-Analyst-Fixed-Term-_R0139857": [
      1793485167,
      "aad8e8136bbb",
@@ -39034,6 +39053,11 @@
      1793734256,
      "2b9f2dd0da98",
      1793737850
+    ],
+    "/job/Varennes-Quebec-Canada/Spcialiste-en-technologies-de-l-information--TI--et-technologies-oprationnelles--TO-_R0145207": [
+     1793485167,
+     "06d12e262f43",
+     1793842241
     ]
    },
    "jobs": {
@@ -39181,10 +39205,6 @@
      1793485167,
      "ef90f41f50f1"
     ],
-    "/job/Remote---Quebec-Canada/Conseiller--re--en-ventes-techniques---Technical-Sales-Specialist_R0135190": [
-     1793485167,
-     "713a34579d89"
-    ],
     "/job/Richmond-British-Columbia-Canada/Service-Sales-Account-Manager_R0144544": [
      1793485167,
      "7e07d10b741c"
@@ -39256,10 +39276,6 @@
     "/job/Saint-Laurent-Quebec-Canada/Senior-Project-Quality-Manager_R0126205": [
      1793485167,
      "f67d8fba7ae7"
-    ],
-    "/job/Saint-Laurent-Quebec-Canada/Spcialiste-de-l-appel-d-offres---Quotation-Tender-Specialist_R0144532": [
-     1793485167,
-     "2a4c939272f3"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Spcialiste-de-l-appel-d-offres---Services-haute-tension---Quotation-Tender-Specialist---High-Voltage-Services_R0144531": [
      1793485167,
@@ -39549,6 +39565,10 @@
      1793485167,
      "692735373a8d"
     ],
+    "/job/Varennes-Quebec-Canada/Conseiller-re--principal-e---la-transformation_R0145533": [
+     1793842241,
+     "00a38e9e9bd7"
+    ],
     "/job/Varennes-Quebec-Canada/Entretien-lectrique---Licence-C--jour-_R0122032": [
      1793485167,
      "85dbe946d0f8"
@@ -39624,10 +39644,6 @@
     "/job/Varennes-Quebec-Canada/Spcialiste-Technique-et-Mthodes--quart-de-jour----Technical-and-Methods-Specialist--day-shift-_R0107991": [
      1793485167,
      "4d904cfee8eb"
-    ],
-    "/job/Varennes-Quebec-Canada/Spcialiste-en-technologies-de-l-information--TI--et-technologies-oprationnelles--TO-_R0145207": [
-     1793485167,
-     "06d12e262f43"
     ],
     "/job/Varennes-Quebec-Canada/Spcialiste-manufacturier---quart-de-jour---Manufacturing-specialist---day-shift_R0149249": [
      1793485167,
@@ -42412,7 +42428,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "minesense@lever:minesense": {
-   "gone": {},
+   "gone": {
+    "db9821de-5d39-4cd9-b99f-a7b7586d4f80": [
+     1793485167,
+     "8dc14b0266dd",
+     1793842241
+    ]
+   },
    "jobs": {
     "223881d1-be4e-446f-847d-eb3ef06280ed": [
      1793485167,
@@ -42437,10 +42459,6 @@
     "90bb8c5b-32aa-4692-8e38-c57d1e0353dd": [
      1793485167,
      "101385e1d8fa"
-    ],
-    "db9821de-5d39-4cd9-b99f-a7b7586d4f80": [
-     1793485167,
-     "8dc14b0266dd"
     ]
    },
    "name": "MineSense",
@@ -53843,6 +53861,10 @@
      1793485167,
      "478095422d33"
     ],
+    "9ffca709-f4e1-40e7-81bf-270ff73c7a50": [
+     1793842241,
+     "7252afd5d515"
+    ],
     "a5b97109-222d-49e1-b2ac-e101487a5ddd": [
      1793485167,
      "d79dd6768378"
@@ -60731,6 +60753,11 @@
      "506c4c5a9d38",
      1793736048
     ],
+    "744000159480589": [
+     1793736048,
+     "a1a71cd0a309",
+     1793842241
+    ],
     "744000159518980": [
      1793750446,
      "6feb268c7bda",
@@ -63504,10 +63531,6 @@
      1793736048,
      "f6a284272c27"
     ],
-    "744000159480589": [
-     1793736048,
-     "a1a71cd0a309"
-    ],
     "744000159483829": [
      1793736048,
      "582c0566eeee"
@@ -63727,6 +63750,14 @@
     "744000159744779": [
      1793838652,
      "6feb268c7bda"
+    ],
+    "744000159747136": [
+     1793842241,
+     "a1a71cd0a309"
+    ],
+    "744000159760671": [
+     1793842241,
+     "257698c2e7d7"
     ]
    },
    "name": "ServiceNow",
@@ -64806,6 +64837,10 @@
      1793485167,
      "3e73fe4c88fb"
     ],
+    "8d740569-d700-454a-9242-18c5488a7f19": [
+     1793842241,
+     "3211b831229c"
+    ],
     "8db8d9ae-e35c-4e1d-9bd0-078627de3bd1": [
      1793485167,
      "826745e43f31"
@@ -65530,6 +65565,11 @@
      "16e08b9b7e47",
      1793723449
     ],
+    "6191923004": [
+     1793485167,
+     "879cde2822ca",
+     1793842241
+    ],
     "6193115004": [
      1793485167,
      "4a04c1c06bf6",
@@ -66025,10 +66065,6 @@
     "6191608004": [
      1793485167,
      "9186d888dd54"
-    ],
-    "6191923004": [
-     1793485167,
-     "879cde2822ca"
     ],
     "6192774004": [
      1793485167,
@@ -69746,6 +69782,10 @@
     "8316059": [
      1793485167,
      "6b493ec8f43e"
+    ],
+    "8317306": [
+     1793842241,
+     "fe250a199f8c"
     ],
     "8318509": [
      1793485167,
