@@ -489,6 +489,11 @@
      "5779fc19ba9a",
      1793727042
     ],
+    "96091": [
+     1793736048,
+     "274347f91cc4",
+     1793903451
+    ],
     "96093": [
      1793736048,
      "de21d78742ab",
@@ -913,10 +918,6 @@
      1793827846,
      "1903004918cb"
     ],
-    "96091": [
-     1793736048,
-     "274347f91cc4"
-    ],
     "96103": [
      1793728877,
      "12550937291c"
@@ -932,6 +933,10 @@
     "97118": [
      1793806241,
      "6708e7bce3ba"
+    ],
+    "97341": [
+     1793903451,
+     "58e1939b60c4"
     ]
    },
    "name": "AMD",
@@ -5082,6 +5087,10 @@
     "744000159919841": [
      1793896245,
      "2d56e15342bd"
+    ],
+    "744000159946349": [
+     1793903451,
+     "ad689c18466d"
     ]
    },
    "name": "Arista Networks",
@@ -6273,41 +6282,38 @@
      "81967192908d",
      1793656861
     ],
-    "/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1": [
-     1793485167,
-     "64fc67a81937",
-     1793802663
-    ],
     "/job/Dublin-IRL/Technical-Sales-Specialist--Fusion_26WD101321-2": [
      1793611847,
      "a44150eb4635",
      1793615442
-    ],
-    "/job/EMEA---Spain---Madrid---OffsiteHome/Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2": [
-     1793604641,
-     "b327ab5bc1fd",
-     1793802663
-    ],
-    "/job/North-Sydney-AUS/Business-Development-Representative_26WD95551": [
-     1793485167,
-     "76a58564ca1e",
-     1793802663
     ],
     "/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1": [
      1793703659,
      "2c20a3524655",
      1793766639
     ],
-    "/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1": [
-     1793485167,
-     "c753ad69046f",
-     1793802663
+    "/job/Toronto-ON-CAN/Principal-MCP-AI-Developer_26WD99362-1": [
+     1793802663,
+     "cb88f425eafb",
+     1793903451
     ]
    },
    "jobs": {
-    "/job/Toronto-ON-CAN/Principal-MCP-AI-Developer_26WD99362-1": [
-     1793802663,
-     "cb88f425eafb"
+    "/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1": [
+     1793485167,
+     "64fc67a81937"
+    ],
+    "/job/EMEA---Spain---Madrid---OffsiteHome/Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2": [
+     1793604641,
+     "b327ab5bc1fd"
+    ],
+    "/job/North-Sydney-AUS/Business-Development-Representative_26WD95551": [
+     1793485167,
+     "76a58564ca1e"
+    ],
+    "/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1": [
+     1793485167,
+     "c753ad69046f"
     ]
    },
    "name": "Autodesk",
@@ -14762,6 +14768,11 @@
      "229f235b158b",
      1793748641
     ],
+    "ca49cb96-50b9-4a3d-a490-2e1d88c357b3": [
+     1793485167,
+     "f428fdc3a096",
+     1793903451
+    ],
     "d1bc2bf1-79ee-4184-a5b7-7417d6f08aef": [
      1793485167,
      "d9cd98116d95",
@@ -15860,10 +15871,6 @@
     "c85a1046-36f8-4381-907c-531b12a447e2": [
      1793485167,
      "3021bcea07a9"
-    ],
-    "ca49cb96-50b9-4a3d-a490-2e1d88c357b3": [
-     1793485167,
-     "f428fdc3a096"
     ],
     "ca5c3bbc-13a5-49a5-aadd-feff72306fb9": [
      1793485167,
@@ -20250,6 +20257,10 @@
      1793817044,
      "8c6c7d6a992c"
     ],
+    "8904745002": [
+     1793903451,
+     "636009a04603"
+    ],
     "8905729002": [
      1793485167,
      "5a443eeb2f46"
@@ -20546,11 +20557,6 @@
      1793485167,
      "332fec247b06",
      1793698240
-    ],
-    "8139396": [
-     1793485167,
-     "a5963df39c21",
-     1793719842
     ],
     "8147614": [
      1793485167,
@@ -21479,6 +21485,10 @@
     "8139190": [
      1793485167,
      "f810be0bd7a6"
+    ],
+    "8139396": [
+     1793485167,
+     "a5963df39c21"
     ],
     "8139662": [
      1793485167,
@@ -23507,6 +23517,10 @@
     "8328469": [
      1793746845,
      "da29519032c3"
+    ],
+    "8328470": [
+     1793903451,
+     "24bb9a293d96"
     ],
     "8328476": [
      1793752240,
@@ -25968,6 +25982,10 @@
     "9c44055f-3246-42ab-8bb6-d89258a8c43a": [
      1793701842,
      "17faf7a817a0"
+    ],
+    "9d13a6ac-6dfc-4bd1-bd81-d341b576c44e": [
+     1793903451,
+     "a7509110fc19"
     ],
     "9d731858-01bf-4d42-89e5-5912ae94cf55": [
      1793572240,
@@ -29280,6 +29298,10 @@
     "1026531": [
      1793826056,
      "b543b4733c43"
+    ],
+    "1026533": [
+     1793903451,
+     "7fe1748fac8f"
     ],
     "1026534": [
      1793818881,
@@ -34956,10 +34978,25 @@
      "ac0f56000872",
      1793899848
     ],
+    "/job/Markham-Ontario-Canada/Senior-Software-Developer---Virtualization--SIL--and-AI-Enablement_JR-202612614": [
+     1793485167,
+     "67ff797f041b",
+     1793903451
+    ],
+    "/job/Markham-Ontario-Canada/Senior-Software-Developer-in-Test_JR-202612549": [
+     1793485167,
+     "4477468bd1f9",
+     1793903451
+    ],
     "/job/Markham-Ontario-Canada/Software-Engineer---Simulation-Tooling_JR-202620338": [
      1793485167,
      "bcf09dc25246",
      1793854848
+    ],
+    "/job/Markham-Ontario-Canada/Staff-Software-Architect---Virtualization--SIL--and-AI-Enablement_JR-202612613": [
+     1793485167,
+     "28b136f83cf7",
+     1793903451
     ],
     "/job/St-Catharines-Ontario-Canada/Facilities-Engineer_JR-202621254": [
      1793485167,
@@ -34996,17 +35033,9 @@
      1793485167,
      "6b6a7153c82c"
     ],
-    "/job/Markham-Ontario-Canada/Senior-Software-Developer---Virtualization--SIL--and-AI-Enablement_JR-202612614": [
-     1793485167,
-     "67ff797f041b"
-    ],
     "/job/Markham-Ontario-Canada/Senior-Software-Developer---Virtualization-and-SIL-Integration_JR-202622093": [
      1793485167,
      "617e3553d3f2"
-    ],
-    "/job/Markham-Ontario-Canada/Senior-Software-Developer-in-Test_JR-202612549": [
-     1793485167,
-     "4477468bd1f9"
     ],
     "/job/Markham-Ontario-Canada/Senior-Software-Engineering---Device-Data-Capture_JR-202615369": [
      1793485167,
@@ -35039,10 +35068,6 @@
     "/job/Markham-Ontario-Canada/Staff-Software-Architect---Mechatronics-Controls-Simulation_JR-202615758-1": [
      1793485167,
      "b2aa6e187ed7"
-    ],
-    "/job/Markham-Ontario-Canada/Staff-Software-Architect---Virtualization--SIL--and-AI-Enablement_JR-202612613": [
-     1793485167,
-     "28b136f83cf7"
     ],
     "/job/Markham-Ontario-Canada/Staff-Software-Developer---Diagnostics-Infrastructure_JR-202614896": [
      1793485167,
@@ -44789,6 +44814,10 @@
      1793485167,
      "d6fe8b5e8358"
     ],
+    "8274035": [
+     1793903451,
+     "b5b5eaebe209"
+    ],
     "8274059": [
      1793485167,
      "5e7965dbdaac"
@@ -44920,6 +44949,10 @@
     "8327081": [
      1793485167,
      "09c702f62ab6"
+    ],
+    "8327493": [
+     1793903451,
+     "037e3866a66d"
     ],
     "8328176": [
      1793485167,
@@ -48290,10 +48323,20 @@
      "bd9e44f87052",
      1793725275
     ],
+    "8304001": [
+     1793485167,
+     "4a0619539fcc",
+     1793903451
+    ],
     "8305392": [
      1793593839,
      "bfc885c4c37a",
      1793718073
+    ],
+    "8327888": [
+     1793485167,
+     "c391be0adffe",
+     1793903451
     ],
     "8349638": [
      1793718073,
@@ -49638,10 +49681,6 @@
      1793485167,
      "3c1f0b959398"
     ],
-    "8304001": [
-     1793485167,
-     "4a0619539fcc"
-    ],
     "8304868": [
      1793485167,
      "47af74e75adc"
@@ -49737,10 +49776,6 @@
     "8326941": [
      1793485167,
      "7d98c68d6c15"
-    ],
-    "8327888": [
-     1793485167,
-     "c391be0adffe"
     ],
     "8328599": [
      1793485167,
@@ -54861,6 +54896,10 @@
     "7e7c824d-17a6-44ea-9485-6f04ceea5f29": [
      1793485167,
      "00c7a802843b"
+    ],
+    "a50c376a-0216-40b2-9525-da89d47ef190": [
+     1793903451,
+     "ee6ce0601da5"
     ]
    },
    "name": "Pinecone",
@@ -55289,6 +55328,11 @@
      1793485167,
      "198727dcdf98",
      1793818881
+    ],
+    "8265486": [
+     1793485167,
+     "1e70dc32a0ad",
+     1793903451
     ],
     "8273884": [
      1793485167,
@@ -56304,10 +56348,6 @@
      1793485167,
      "decf0195a82d"
     ],
-    "8265486": [
-     1793485167,
-     "1e70dc32a0ad"
-    ],
     "8265574": [
      1793485167,
      "d29ab6e0f072"
@@ -57077,6 +57117,11 @@
      1793485167,
      "cf5380f1ce72",
      1793644245
+    ],
+    "/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1": [
+     1793485167,
+     "10ee0bac9623",
+     1793903451
     ]
    },
    "jobs": {
@@ -57199,10 +57244,6 @@
     "/job/Milwaukee-Wisconsin-United-States/Gainsight-Developer_R26-7172-1": [
      1793485167,
      "72027572f65e"
-    ],
-    "/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1": [
-     1793485167,
-     "10ee0bac9623"
     ],
     "/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569": [
      1793662243,
@@ -58734,11 +58775,6 @@
      "78fb5de9bb2e",
      1793649664
     ],
-    "8305824": [
-     1793485167,
-     "40fcc57d831c",
-     1793817044
-    ],
     "8325437": [
      1793485167,
      "b06025ec1118",
@@ -59755,6 +59791,10 @@
     "8304710": [
      1793485167,
      "304bd2108270"
+    ],
+    "8305824": [
+     1793485167,
+     "40fcc57d831c"
     ],
     "8305848": [
      1793485167,
@@ -60775,10 +60815,30 @@
      "1e2ff8c130c8",
      1793899848
     ],
+    "/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621": [
+     1793485167,
+     "d4dd10400128",
+     1793903451
+    ],
     "/job/CAN---Burlington-ON/Senior-Product-Quality-Engineer_REQ3495": [
      1793485167,
      "4cad1becca8f",
      1793637049
+    ],
+    "/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628": [
+     1793485167,
+     "fc5b53bdef4e",
+     1793903451
+    ],
+    "/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623": [
+     1793485167,
+     "3bd00b86b540",
+     1793903451
+    ],
+    "/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624": [
+     1793485167,
+     "3bd00b86b540",
+     1793903451
     ]
    },
    "jobs": {
@@ -60797,10 +60857,6 @@
     "/job/CAN---Burlington-ON/Associate-PCB-Design-Engineer_REQ3455": [
      1793485167,
      "39992840fec4"
-    ],
-    "/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621": [
-     1793485167,
-     "d4dd10400128"
     ],
     "/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632": [
      1793485167,
@@ -60841,18 +60897,6 @@
     "/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667": [
      1793629845,
      "9b15ac71ed91"
-    ],
-    "/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628": [
-     1793485167,
-     "fc5b53bdef4e"
-    ],
-    "/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623": [
-     1793485167,
-     "3bd00b86b540"
-    ],
-    "/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624": [
-     1793485167,
-     "3bd00b86b540"
     ],
     "/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625": [
      1793485167,
@@ -66448,6 +66492,11 @@
      "811991c64e4a",
      1793745042
     ],
+    "6118771004": [
+     1793485167,
+     "0eeb25838130",
+     1793903451
+    ],
     "6145023004": [
      1793485167,
      "b6a05f0f965a",
@@ -66712,10 +66761,6 @@
      1793485167,
      "145000a2014f"
     ],
-    "6118771004": [
-     1793485167,
-     "0eeb25838130"
-    ],
     "6120141004": [
      1793485167,
      "e5d0ac4904f4"
@@ -66839,6 +66884,10 @@
     "6147069004": [
      1793485167,
      "97c9a8b9869c"
+    ],
+    "6147070004": [
+     1793903451,
+     "549f1f4b051e"
     ],
     "6147288004": [
      1793485167,
@@ -67371,6 +67420,10 @@
     "6248628004": [
      1793811655,
      "a813699423be"
+    ],
+    "6250753004": [
+     1793903451,
+     "15285177940e"
     ]
    },
    "name": "Sony Interactive Entertainment",
@@ -70982,6 +71035,10 @@
     "8352485": [
      1793863840,
      "dc9a5e4fad33"
+    ],
+    "8354768": [
+     1793903451,
+     "30c42a42f1d8"
     ]
    },
    "name": "Stripe",
@@ -73268,6 +73325,11 @@
      "81187756d4d3",
      1793869260
     ],
+    "7661919": [
+     1793485167,
+     "3cc44cb1155e",
+     1793903451
+    ],
     "7926891": [
      1793485167,
      "1c9af170c23d",
@@ -73278,10 +73340,25 @@
      "5cd0ce25c293",
      1793730675
     ],
+    "8026207": [
+     1793485167,
+     "b82c9060a6cf",
+     1793903451
+    ],
+    "8026211": [
+     1793485167,
+     "2e58688ad5a9",
+     1793903451
+    ],
     "8077538": [
      1793485167,
      "5404f2b8a7aa",
      1793835043
+    ],
+    "8100236": [
+     1793485167,
+     "1e028121c6e6",
+     1793903451
     ],
     "8170555": [
      1793485167,
@@ -73359,10 +73436,6 @@
      1793485167,
      "dcfa3f59f838"
     ],
-    "7661919": [
-     1793485167,
-     "3cc44cb1155e"
-    ],
     "7781659": [
      1793485167,
      "b34806883ed2"
@@ -73415,14 +73488,6 @@
      1793730675,
      "2557976ecc40"
     ],
-    "8026207": [
-     1793485167,
-     "b82c9060a6cf"
-    ],
-    "8026211": [
-     1793485167,
-     "2e58688ad5a9"
-    ],
     "8028473": [
      1793890848,
      "91139668df94"
@@ -73462,10 +73527,6 @@
     "8097524": [
      1793485167,
      "769261d16353"
-    ],
-    "8100236": [
-     1793485167,
-     "1e028121c6e6"
     ],
     "8108771": [
      1793485167,
@@ -74391,6 +74452,11 @@
      "792019d457e2",
      1793629845
     ],
+    "a51f8167-0aef-4df7-8672-b5ebd8f566f2": [
+     1793485167,
+     "21b2cbb132d5",
+     1793903451
+    ],
     "cb383962-ad2d-40ab-93ce-e3aead4b3838": [
      1793485167,
      "f2a9a8b3e7b3",
@@ -74642,10 +74708,6 @@
     "a272fa0f-1702-41ad-abd2-0b651a10ab1e": [
      1793485167,
      "92064c59c40a"
-    ],
-    "a51f8167-0aef-4df7-8672-b5ebd8f566f2": [
-     1793485167,
-     "21b2cbb132d5"
     ],
     "a5a30846-7b4c-48c3-9d4c-1f715a1b0328": [
      1793892679,
