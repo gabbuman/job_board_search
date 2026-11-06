@@ -1158,6 +1158,11 @@
      "a07d6182dd09",
      1793921441
     ],
+    "5444769008": [
+     1793485167,
+     "6ddb12a5f994",
+     1793941250
+    ],
     "5445989008": [
      1793485167,
      "4c1c5bebd573",
@@ -3274,10 +3279,6 @@
     "5444583008": [
      1793485167,
      "821ac7f6d57c"
-    ],
-    "5444769008": [
-     1793485167,
-     "6ddb12a5f994"
     ],
     "5444773008": [
      1793485167,
@@ -9763,6 +9764,11 @@
      "ada104125ac7",
      1793808057
     ],
+    "36597a97-9da9-4371-b650-082643860b1c": [
+     1793485167,
+     "bdc09e22b639",
+     1793941250
+    ],
     "6f974c78-f9bc-405e-a4ab-4fc359d598d2": [
      1793485167,
      "d3f9a98231d2",
@@ -9939,10 +9945,6 @@
     "3504db6e-e54e-4066-ac66-7ce65b7b2274": [
      1793485167,
      "83626e644952"
-    ],
-    "36597a97-9da9-4371-b650-082643860b1c": [
-     1793485167,
-     "bdc09e22b639"
     ],
     "368bda6e-28bf-43ff-b2ec-3e3a6ad66a8d": [
      1793485167,
@@ -35086,6 +35088,11 @@
   },
   "ge-vernova@workday:gevernova.wd5.myworkdayjobs.com/vernova_externalsite": {
    "gone": {
+    "/job/Greenville/Senior-Manager---Engineering-Capability---Transformation-Leader_R5054901-3": [
+     1793485167,
+     "f63d05d2b2ac",
+     1793941250
+    ],
     "/job/Markham/Lead-Engineer-2---Electronics-Systems-Testing_R5056750-2": [
      1793485167,
      "9d3714ff2d0a",
@@ -35095,16 +35102,22 @@
      1793485167,
      "c29606309f89",
      1793526076
+    ],
+    "/job/Peterborough-CAN/Renewal-Parts-Engineering-Support_R5055932": [
+     1793485167,
+     "161ddd0c137b",
+     1793941250
+    ],
+    "/job/Wilmington-NC-USA/Nuclear-Pre-Service---In-Service-Inspection-Program-Owner_R5052056-2": [
+     1793485167,
+     "11b9037a1929",
+     1793941250
     ]
    },
    "jobs": {
     "/job/Atlanta/Risk-Manager_R5053039": [
      1793485167,
      "bde2123034ad"
-    ],
-    "/job/Greenville/Senior-Manager---Engineering-Capability---Transformation-Leader_R5054901-3": [
-     1793485167,
-     "f63d05d2b2ac"
     ],
     "/job/Longueuil-QC-CA-2/Gestionnaire-de-projet---Automatisation-et-Robotique----Project-Manager---Automation-and-Robotics_R5056622-2": [
      1793485167,
@@ -35242,10 +35255,6 @@
      1793485167,
      "2e7199c2ad32"
     ],
-    "/job/Peterborough-CAN/Renewal-Parts-Engineering-Support_R5055932": [
-     1793485167,
-     "161ddd0c137b"
-    ],
     "/job/Remote/Marine-Sales-Manager---Canada_R5057436-2": [
      1793730675,
      "7dd64161ada3"
@@ -35269,10 +35278,6 @@
     "/job/Wilmington-NC-USA/Lead-Human-Factors-Engineer_R5057132-2": [
      1793485167,
      "08d1d9774d52"
-    ],
-    "/job/Wilmington-NC-USA/Nuclear-Pre-Service---In-Service-Inspection-Program-Owner_R5052056-2": [
-     1793485167,
-     "11b9037a1929"
     ],
     "/job/Zamudio/Senior-Project-Manager---GridBeats-Software-Project_R5055868-2": [
      1793485167,
@@ -46545,6 +46550,11 @@
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
    "gone": {
+    "/job/Florida---Remote---USA/Robot-Operator---Service-Technician_NX-4773": [
+     1793486441,
+     "7bd7bcd1de68",
+     1793941250
+    ],
     "/job/Folsom-California---USA/Autonomy-Engineer_NX-3904": [
      1793486441,
      "5089fafb8a77",
@@ -46584,6 +46594,11 @@
      1793795446,
      "6d732bdc9fd9",
      1793872851
+    ],
+    "/job/India---Remote---IND/Manager--Internal-Controls_NX-4944": [
+     1793486441,
+     "9ab97e351036",
+     1793941250
     ],
     "/job/Mesa-Arizona---USA/Commercial-Manager_NX-5062": [
      1793723449,
@@ -46679,10 +46694,6 @@
     "/job/Chennai-Tamilnadu--IND/Support-Senior-Developer_NX-2921": [
      1793486441,
      "a78957ca4294"
-    ],
-    "/job/Florida---Remote---USA/Robot-Operator---Service-Technician_NX-4773": [
-     1793486441,
-     "7bd7bcd1de68"
     ],
     "/job/Folsom-California---USA/Assembler_NX-4005-1": [
      1793486441,
@@ -47259,10 +47270,6 @@
     "/job/HyderabadKnowledge-CityTelangana---IND/Senior-Full-stack-Developer_NX-1094": [
      1793486441,
      "186c4bb1a015"
-    ],
-    "/job/India---Remote---IND/Manager--Internal-Controls_NX-4944": [
-     1793486441,
-     "9ab97e351036"
     ],
     "/job/MadridMadrid---ESP/Manager-of-Structural---Geotechnical-Engineering_NX-4059": [
      1793486441,
@@ -47862,10 +47869,10 @@
   },
   "nutanix@jobvite:nutanix": {
    "gone": {
-    "o1fUAfwu": [
-     1793863840,
-     "fdbbfc9cff20",
-     1793919660
+    "o1FSAfwS": [
+     1793485167,
+     "67a694de8a16",
+     1793941250
     ],
     "o2PDAfwO": [
      1793485167,
@@ -47977,9 +47984,9 @@
      1793683849,
      "82bc29044a2a"
     ],
-    "o1FSAfwS": [
-     1793485167,
-     "67a694de8a16"
+    "o1fUAfwu": [
+     1793863840,
+     "fdbbfc9cff20"
     ],
     "o1iLAfwo": [
      1793901659,
@@ -48452,6 +48459,10 @@
     "ovkHAfwQ": [
      1793485167,
      "4bc8a5cf0158"
+    ],
+    "oxL3AfwF": [
+     1793941250,
+     "03cfa16bfafb"
     ],
     "oxPEAfwk": [
      1793485167,
@@ -57895,6 +57906,11 @@
      "242629b568a5",
      1793811655
     ],
+    "8140173": [
+     1793485167,
+     "688e4ec6d4de",
+     1793941250
+    ],
     "8147053": [
      1793485167,
      "a93e737d61c7",
@@ -58113,10 +58129,6 @@
     "8140013": [
      1793485167,
      "abbab140282c"
-    ],
-    "8140173": [
-     1793485167,
-     "688e4ec6d4de"
     ],
     "8140226": [
      1793485167,
@@ -61654,6 +61666,11 @@
      "4837593edb3d",
      1793925042
     ],
+    "744000144638939": [
+     1793485167,
+     "e9493e43b2d4",
+     1793941250
+    ],
     "744000145609570": [
      1793485167,
      "11d128259852",
@@ -62678,10 +62695,6 @@
     "744000144612699": [
      1793485167,
      "7a880b382b14"
-    ],
-    "744000144638939": [
-     1793485167,
-     "e9493e43b2d4"
     ],
     "744000145352789": [
      1793485167,
@@ -65618,6 +65631,11 @@
      "8a450ca853a9",
      1793875532
     ],
+    "51ef1449-dd99-43bf-b2f4-93238962166e": [
+     1793775661,
+     "a0bc2bb17180",
+     1793941250
+    ],
     "58fdbe96-8cd1-4519-b1dc-640603707252": [
      1793485167,
      "684b14790023",
@@ -66192,10 +66210,6 @@
     "517c85f9-9b37-4510-a969-978671021376": [
      1793485167,
      "e42a2c7dac01"
-    ],
-    "51ef1449-dd99-43bf-b2f4-93238962166e": [
-     1793775661,
-     "a0bc2bb17180"
     ],
     "5220aae8-7fd1-4374-8b8f-4f27f8573791": [
      1793485167,
@@ -72898,6 +72912,14 @@
     "4751728005": [
      1793939443,
      "18ebc31ffbae"
+    ],
+    "4751753005": [
+     1793941250,
+     "623e8f344bbe"
+    ],
+    "4751755005": [
+     1793941250,
+     "5e59cdf21df5"
     ]
    },
    "name": "Tailscale",
