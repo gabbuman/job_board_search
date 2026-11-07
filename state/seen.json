@@ -28961,6 +28961,11 @@
      "1d4498fce8ff",
      1793649664
     ],
+    "1026220": [
+     1794002468,
+     "99fc2d850c0b",
+     1794029494
+    ],
     "1026222": [
      1793486441,
      "5fb269e60708",
@@ -29807,10 +29812,6 @@
     "1026209": [
      1793486441,
      "791dc2431e55"
-    ],
-    "1026220": [
-     1794002468,
-     "99fc2d850c0b"
     ],
     "1026226": [
      1793486441,
@@ -59871,6 +59872,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "salesforce@workday:salesforce.wd12.myworkdayjobs.com/external_career_site": {
+   "err": "HTTP 502 from https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Canada---Toronto/Director--Finance-Data-Strategy---Stewardship_JR360125": [
      1793485167,
