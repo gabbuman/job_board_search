@@ -23109,8 +23109,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "2EE7C0E558": [
@@ -30983,8 +30981,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "E1D6B559A2": [
      1793485167,
@@ -41576,8 +41572,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "0BD8C06DB3": [
@@ -44184,8 +44178,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "marvell@workday:marvell.wd1.myworkdayjobs.com/marvellcareers": {
-   "err": "HTTP 500 from https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (after 4 attempts)",
-   "fails": 6,
    "gone": {
     "/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790": [
      1793485167,
@@ -44256,8 +44248,7 @@
     ]
    },
    "name": "Marvell",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "minesense@lever:minesense": {
    "gone": {
@@ -56772,8 +56763,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "178D4E5A38": [
      1793486441,
@@ -74310,8 +74299,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "swtch-energy@workable:swtch-energy": {
-   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/swtch-energy (after 3 attempts)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "0DC3509E06": [
@@ -75593,8 +75580,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
