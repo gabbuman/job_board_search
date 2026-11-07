@@ -7014,6 +7014,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "blackberry-qnx@workday:bb.wd3.myworkdayjobs.com/blackberry": {
+   "err": "HTTP 520 from https://bb.wd3.myworkdayjobs.com/wday/cxs/bb/BlackBerry/jobs",
+   "fails": 1,
    "gone": {
     "/job/Ottawa-Ontario/Financial-Analyst_20260258-1": [
      1793485167,
@@ -8645,8 +8647,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "capital-power@workday:capitalpower.wd10.myworkdayjobs.com/external": {
-   "err": "HTTP 500 from https://capitalpower.wd10.myworkdayjobs.com/wday/cxs/capitalpower/External/jobs (after 4 attempts)",
-   "fails": 1,
    "gone": {
     "/job/Calgary-AB/Lead--Manager---Product-Control_JR806977": [
      1793485167,
@@ -20036,6 +20036,10 @@
     "8808527002": [
      1793485167,
      "3590763cb17c"
+    ],
+    "8811059002": [
+     1794034875,
+     "05d5e0be1c4e"
     ],
     "8811265002": [
      1793485167,
@@ -48697,6 +48701,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "northland-power@workday:northlandpower.wd3.myworkdayjobs.com/externalcs": {
+   "err": "HTTP 520 from https://northlandpower.wd3.myworkdayjobs.com/wday/cxs/northlandpower/ExternalCS/jobs",
+   "fails": 1,
    "gone": {
     "/job/Careers-Manitoulin-Island-ON-Canada/Site-Technician_R-2675": [
      1793485167,
@@ -78249,6 +78255,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "wolters-kluwer-teammate-standardfusion@workday:wk.wd3.myworkdayjobs.com/external": {
+   "err": "HTTP 520 from https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/jobs",
+   "fails": 1,
    "gone": {
     "/job/CAN---Sherbrooke/Analyste-d-affaires--BA--en-TI---Stage_R0060875": [
      1793826056,
@@ -78484,8 +78492,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "workiva@workday:workiva.wd503.myworkdayjobs.com/careers": {
-   "err": "HTTP 500 from https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs (after 4 attempts)",
-   "fails": 1,
    "gone": {
     "/job/Canada---Remote/Lead-Customer-Success-Manager_R12695-1": [
      1793486441,
