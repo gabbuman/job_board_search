@@ -41745,6 +41745,16 @@
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
    "gone": {
+    "/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539": [
+     1793651445,
+     "0bf95b21ab8a",
+     1794027643
+    ],
+    "/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535": [
+     1793917846,
+     "500d93d69c9a",
+     1794027643
+    ],
     "/job/Canada-Toronto/Triton-Compiler-Engineer_JR0286282": [
      1793485167,
      "cbd5bd1ed861",
@@ -41780,10 +41790,6 @@
      1793485167,
      "6b32dc2de385"
     ],
-    "/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539": [
-     1793651445,
-     "0bf95b21ab8a"
-    ],
     "/job/Canada-Toronto/GPU-Validation-Engineer_JR0287979-1": [
      1793867440,
      "e82f8b908219"
@@ -41791,10 +41797,6 @@
     "/job/Canada-Toronto/GPU-Validation-Engineer_JR0287993": [
      1793485167,
      "e82f8b908219"
-    ],
-    "/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535": [
-     1793917846,
-     "500d93d69c9a"
     ],
     "/job/Canada-Toronto/Power-Delivery-Design-Engineer_JR0287983": [
      1793485167,
