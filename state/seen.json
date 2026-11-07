@@ -44178,8 +44178,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "marvell@workday:marvell.wd1.myworkdayjobs.com/marvellcareers": {
-   "err": "HTTP 500 from https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (after 4 attempts)",
-   "fails": 4,
+   "err": "HTTP 502 from https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs (after 4 attempts)",
+   "fails": 5,
    "gone": {
     "/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790": [
      1793485167,
