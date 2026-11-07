@@ -7015,7 +7015,7 @@
   },
   "blackberry-qnx@workday:bb.wd3.myworkdayjobs.com/blackberry": {
    "err": "HTTP 520 from https://bb.wd3.myworkdayjobs.com/wday/cxs/bb/BlackBerry/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Ottawa-Ontario/Financial-Analyst_20260258-1": [
      1793485167,
@@ -35734,6 +35734,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "fronius-canada@workday:fronius.wd3.myworkdayjobs.com/job_board": {
+   "err": "HTTP 520 from https://fronius.wd3.myworkdayjobs.com/wday/cxs/fronius/Job_Board/jobs",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "/job/Mississauga/Customer-Support-Specialist_REQ-10009484": [
@@ -48702,7 +48704,7 @@
   },
   "northland-power@workday:northlandpower.wd3.myworkdayjobs.com/externalcs": {
    "err": "HTTP 520 from https://northlandpower.wd3.myworkdayjobs.com/wday/cxs/northlandpower/ExternalCS/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Careers-Manitoulin-Island-ON-Canada/Site-Technician_R-2675": [
      1793485167,
@@ -78256,7 +78258,7 @@
   },
   "wolters-kluwer-teammate-standardfusion@workday:wk.wd3.myworkdayjobs.com/external": {
    "err": "HTTP 520 from https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/CAN---Sherbrooke/Analyste-d-affaires--BA--en-TI---Stage_R0060875": [
      1793826056,
