@@ -1075,6 +1075,11 @@
      "44d01a821d8e",
      1793773839
     ],
+    "5319700008": [
+     1793485167,
+     "a5ffcbfc46af",
+     1794033049
+    ],
     "5324349008": [
      1793485167,
      "e32cd871365c",
@@ -1149,6 +1154,11 @@
      1793485167,
      "1027bee11658",
      1793764847
+    ],
+    "5403775008": [
+     1793485167,
+     "db6e8f2da251",
+     1794033049
     ],
     "5405710008": [
      1793485167,
@@ -2081,10 +2091,6 @@
      1793485167,
      "272f09894b1e"
     ],
-    "5319700008": [
-     1793485167,
-     "a5ffcbfc46af"
-    ],
     "5320469008": [
      1793485167,
      "3a88d270289f"
@@ -2660,10 +2666,6 @@
     "5400720008": [
      1793485167,
      "eb0d9498f665"
-    ],
-    "5403775008": [
-     1793485167,
-     "db6e8f2da251"
     ],
     "5404725008": [
      1793485167,
@@ -8643,6 +8645,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "capital-power@workday:capitalpower.wd10.myworkdayjobs.com/external": {
+   "err": "HTTP 500 from https://capitalpower.wd10.myworkdayjobs.com/wday/cxs/capitalpower/External/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Calgary-AB/Lead--Manager---Product-Control_JR806977": [
      1793485167,
@@ -78480,6 +78484,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "workiva@workday:workiva.wd503.myworkdayjobs.com/careers": {
+   "err": "HTTP 500 from https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Canada---Remote/Lead-Customer-Success-Manager_R12695-1": [
      1793486441,
