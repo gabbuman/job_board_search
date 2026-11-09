@@ -35814,6 +35814,11 @@
   },
   "ge-vernova@workday:gevernova.wd5.myworkdayjobs.com/vernova_externalsite": {
    "gone": {
+    "/job/Atlanta/Risk-Manager_R5053039": [
+     1793485167,
+     "bde2123034ad",
+     1794200447
+    ],
     "/job/Greenville/Senior-Manager---Engineering-Capability---Transformation-Leader_R5054901-3": [
      1793485167,
      "f63d05d2b2ac",
@@ -35828,6 +35833,11 @@
      1793485167,
      "9d3714ff2d0a",
      1793804456
+    ],
+    "/job/Markham/Nuclear-Security-Leader---Canada_R5057306-2": [
+     1793485167,
+     "dfdf833959c1",
+     1794200447
     ],
     "/job/Markham/Senior-Staff-Developer--DSP_R5056183-2": [
      1793485167,
@@ -35846,10 +35856,6 @@
     ]
    },
    "jobs": {
-    "/job/Atlanta/Risk-Manager_R5053039": [
-     1793485167,
-     "bde2123034ad"
-    ],
     "/job/Longueuil-QC-CA-2/Gestionnaire-de-projet---Automatisation-et-Robotique----Project-Manager---Automation-and-Robotics_R5056622-2": [
      1793485167,
      "d2ca393919e4"
@@ -35945,10 +35951,6 @@
     "/job/Markham/Nuclear-Engineering---Direct-Hire_R5052819-2": [
      1793485167,
      "1856a814943b"
-    ],
-    "/job/Markham/Nuclear-Security-Leader---Canada_R5057306-2": [
-     1793485167,
-     "dfdf833959c1"
     ],
     "/job/Markham/Production-Quality-Manager_R5045480-2": [
      1793890848,
@@ -47600,6 +47602,11 @@
      1793486441,
      "2195dd86f450",
      1793682043
+    ],
+    "/job/Canada---St-Johns---Newfoundland--Labrador/AI-Principal-Architect_R0027107": [
+     1793486441,
+     "ed9835329aba",
+     1794200447
     ]
    },
    "jobs": {
@@ -47642,10 +47649,6 @@
     "/job/CA-Toronto-York-St-2425/Systems-Operations-Specialist_R0027132-1": [
      1793486441,
      "978489d11298"
-    ],
-    "/job/Canada---St-Johns---Newfoundland--Labrador/AI-Principal-Architect_R0027107": [
-     1793486441,
-     "ed9835329aba"
     ],
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Sales-Development-Representative_R0026851": [
      1793486441,
