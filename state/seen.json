@@ -14929,6 +14929,11 @@
   },
   "crowdstrike@workday:crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers": {
    "gone": {
+    "/job/Canada---Remote-BC/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30574": [
+     1793606449,
+     "916f3ae62ae3",
+     1794238244
+    ],
     "/job/USA---Redmond-WA/Engineer-III--Cloud---CTIO--Hybrid-_R30262": [
      1793610051,
      "8f7fdf0aadee",
@@ -14948,10 +14953,6 @@
     "/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708": [
      1793604641,
      "c70a94f1b92a"
-    ],
-    "/job/Canada---Remote-BC/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30574": [
-     1793606449,
-     "916f3ae62ae3"
     ],
     "/job/Canada---Remote-BC/Detection-Engineer--Falcon-Complete--Remote-_R30635": [
      1793631657,
@@ -21096,6 +21097,10 @@
      1793914243,
      "28e1981e23de"
     ],
+    "8932854002": [
+     1794238244,
+     "02094c860f7f"
+    ],
     "8932964002": [
      1793961040,
      "e9e4e5575705"
@@ -22711,6 +22716,10 @@
      1793485167,
      "d03b9121a67e"
     ],
+    "8301113": [
+     1794238244,
+     "aebaf647ef0f"
+    ],
     "8303221": [
      1793485167,
      "1d3290c51b20"
@@ -22866,6 +22875,10 @@
     "8350419": [
      1793732467,
      "98b1811aa874"
+    ],
+    "8350824": [
+     1794238244,
+     "520d816e0bdc"
     ],
     "8351509": [
      1794099643,
@@ -24326,6 +24339,11 @@
   },
   "ecobee-generac@workday:generac.wd5.myworkdayjobs.com/external": {
    "gone": {
+    "/job/Toronto-Canada/Senior-Engineer-QA_JR11909": [
+     1793485167,
+     "3ba197eaa82a",
+     1794238244
+    ],
     "/job/Toronto-Canada/Staff-Product-Manager--Professional-Experience_JR17779-1": [
      1793485167,
      "bf76adc893c0",
@@ -24376,10 +24394,6 @@
     "/job/Toronto-Canada/Senior-Embedded-Engineer_JR12349": [
      1793485167,
      "8264c63e6eb1"
-    ],
-    "/job/Toronto-Canada/Senior-Engineer-QA_JR11909": [
-     1793485167,
-     "3ba197eaa82a"
     ],
     "/job/Toronto-Canada/Senior-Financial-Planning-Analyst_JR18167": [
      1793998857,
@@ -26361,6 +26375,11 @@
      "3e384d7d58f7",
      1793917846
     ],
+    "03e6b7b2-3337-47ac-a230-2d8390a8cb4e": [
+     1793485167,
+     "9098ccf53c7a",
+     1794238244
+    ],
     "13fcee94-512f-4229-b7ab-f91d3fdd24e3": [
      1793485167,
      "19f94cfcb4a9",
@@ -26531,10 +26550,6 @@
     "00686b87-a6e2-4fbc-9dd5-b3b35ad02638": [
      1793719842,
      "294aa2fcbc61"
-    ],
-    "03e6b7b2-3337-47ac-a230-2d8390a8cb4e": [
-     1793485167,
-     "9098ccf53c7a"
     ],
     "04d1c724-466a-4520-aea1-44aee822c14b": [
      1793485167,
@@ -31074,6 +31089,10 @@
      1793844054,
      "a8998fcf07c4"
     ],
+    "8159618003": [
+     1794238244,
+     "ca6d573300a5"
+    ],
     "8167896003": [
      1793732467,
      "a74b13918aa2"
@@ -31153,6 +31172,22 @@
     "8198264003": [
      1794007849,
      "37fb629ad634"
+    ],
+    "8198951003": [
+     1794238244,
+     "c054e78e19ca"
+    ],
+    "8198955003": [
+     1794238244,
+     "1f29cf3d06dd"
+    ],
+    "8198979003": [
+     1794238244,
+     "6cad3d0f67ef"
+    ],
+    "8198982003": [
+     1794238244,
+     "26f37f821db1"
     ]
    },
    "name": "Fivetran (dbt Labs)",
@@ -39634,6 +39669,10 @@
      1793485167,
      "fe650e153eb0"
     ],
+    "239a5672-24da-4a1d-946f-f69bcaaef81b": [
+     1794238244,
+     "cc2eb23d779c"
+    ],
     "24616c39-e293-4bcc-a3dd-e6f33a71c8ee": [
      1793485167,
      "6d8a74c52545"
@@ -41201,6 +41240,10 @@
     "/job/Saint-Laurent-Quebec-Canada/Partenaires-d-affaires---Finance--Finance-Business-Partners_R0149196": [
      1793485167,
      "ee6520172240"
+    ],
+    "/job/Saint-Laurent-Quebec-Canada/Planificateurtrice-logistique---Projets-HVDC--Logistics-Planner---HVDC-Projects_R0151294": [
+     1794238244,
+     "e31ac7d60ab1"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Programme-de-rotation-des-diplms-Power--Power--Graduate--June-Cohort-_R0138500-1": [
      1793485167,
@@ -45160,6 +45203,11 @@
      "b392bb8df3f7",
      1793858446
     ],
+    "8173745": [
+     1793485167,
+     "f5519b00e018",
+     1794238244
+    ],
     "8174075": [
      1793485167,
      "a7b64f31881e",
@@ -45487,6 +45535,10 @@
     "7653008": [
      1793485167,
      "27fa933474d2"
+    ],
+    "7662222": [
+     1794238244,
+     "9f60e0561271"
     ],
     "7668289": [
      1793485167,
@@ -46056,10 +46108,6 @@
      1793739421,
      "c4304932c3c8"
     ],
-    "8173745": [
-     1793485167,
-     "f5519b00e018"
-    ],
     "8173777": [
      1793485167,
      "891c89d3d20e"
@@ -46583,6 +46631,10 @@
     "8318370": [
      1793485167,
      "cd77f09407a7"
+    ],
+    "8318375": [
+     1794238244,
+     "ba0aabbff002"
     ],
     "8318378": [
      1793736048,
@@ -51799,6 +51851,10 @@
     "8351641": [
      1793786466,
      "06aa2447ef83"
+    ],
+    "8353207": [
+     1794238244,
+     "9f6e5773262a"
     ],
     "8355883": [
      1793896245,
@@ -59004,6 +59060,10 @@
     "8352551": [
      1793802663,
      "b5e0d64c7fa9"
+    ],
+    "8353475": [
+     1794238244,
+     "d58ece8b9897"
     ],
     "8353765": [
      1793885441,
@@ -70878,6 +70938,11 @@
   },
   "stem-alsoenergy-powertrack@rippling:stem-inc": {
    "gone": {
+    "14bb748e-ef0a-4e51-93f0-3600cc6ea702": [
+     1793486441,
+     "401e3214d4ca",
+     1794238244
+    ],
     "2c84c237-91cd-44c7-81ea-fe3e28e2682a": [
      1793486441,
      "a4678ccce7d2",
@@ -70885,10 +70950,6 @@
     ]
    },
    "jobs": {
-    "14bb748e-ef0a-4e51-93f0-3600cc6ea702": [
-     1793486441,
-     "401e3214d4ca"
-    ],
     "3294651f-1e4f-434b-910c-a44a4da98587": [
      1793486441,
      "4901ec5aa53c"
@@ -74608,6 +74669,10 @@
     "d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5": [
      1793485167,
      "fc14144754f7"
+    ],
+    "da036d07-6ca2-436b-8ebd-7105d1f8f5b2": [
+     1794238244,
+     "5a815616be99"
     ],
     "dca463e6-b6d0-4003-a30b-e0970a8dcee2": [
      1793485167,
