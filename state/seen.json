@@ -38302,6 +38302,10 @@
      1793809846,
      "a842c959c002"
     ],
+    "8929723002": [
+     1794297662,
+     "a692701beaf5"
+    ],
     "8931179002": [
      1794007849,
      "dd2b79f5e9a1"
@@ -61217,6 +61221,10 @@
      1793485167,
      "8b006731e5f8"
     ],
+    "/job/British-Columbia---Remote/Solution-Architect_JR367753": [
+     1794297662,
+     "d0a27476ec8a"
+    ],
     "/job/Canada---Montreal-Metro---Remote/Enterprise-Account-Executive--Agentforce---Data-360_JR356314": [
      1793485167,
      "b417c5a97972"
@@ -80276,6 +80284,16 @@
      "986395a47ecb",
      1793993443
     ],
+    "/job/USA-CA-Pleasanton/Partner-Solution-Consultant-Advisor---oCFO_JR-0108016": [
+     1793485167,
+     "dbc541c53aae",
+     1794297662
+    ],
+    "/job/USA-CA-Pleasanton/Senior-Software-Engineer--Data-Engineering-_JR-0111341": [
+     1794078068,
+     "d79e779dc10a",
+     1794297662
+    ],
     "/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821": [
      1793485167,
      "5e42095ed2cb",
@@ -80381,17 +80399,9 @@
      1793485167,
      "ad037e8ba9c5"
     ],
-    "/job/USA-CA-Pleasanton/Partner-Solution-Consultant-Advisor---oCFO_JR-0108016": [
-     1793485167,
-     "dbc541c53aae"
-    ],
     "/job/USA-CA-Pleasanton/Senior-AI-Engineer_JR-0110768": [
      1793485167,
      "41e81e82c3a1"
-    ],
-    "/job/USA-CA-Pleasanton/Senior-Software-Engineer--Data-Engineering-_JR-0111341": [
-     1794078068,
-     "d79e779dc10a"
     ],
     "/job/USA-CA-Pleasanton/Sr-Product-Manager--Contract-to-Cash_JR-0111263": [
      1794012727,
@@ -80467,6 +80477,11 @@
      1793485167,
      "9c75a3f73a4b",
      1793750446
+    ],
+    "3563a161-073e-497e-bd61-e59e10928012": [
+     1793908872,
+     "ecedf5413a12",
+     1794297662
     ],
     "3636baa7-7bdb-411b-b95b-44fffb1243ac": [
      1793485167,
@@ -80723,10 +80738,6 @@
      1793750446,
      "d57e7e72e87a"
     ],
-    "3563a161-073e-497e-bd61-e59e10928012": [
-     1793908872,
-     "ecedf5413a12"
-    ],
     "369e25b3-eecc-46fa-90cd-dc1c4bf1115e": [
      1793750446,
      "2ee181b87b4c"
@@ -80794,6 +80805,10 @@
     "9d175c27-ff49-45e4-98f6-832bbb3fe8fb": [
      1793748641,
      "f0c3f21bff20"
+    ],
+    "9e384a3c-70f9-4cdc-957a-ec6f27cd7901": [
+     1794297662,
+     "ecedf5413a12"
     ],
     "9e3b63e1-2a36-4941-9b76-90124cc9d92f": [
      1793750446,
