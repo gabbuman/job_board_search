@@ -9935,6 +9935,11 @@
      "7131f15dec0a",
      1793649664
     ],
+    "/job/Ottawa/Software-Design-Engineer---New-Grad_R032059": [
+     1793890848,
+     "96a8e194dd0e",
+     1794430855
+    ],
     "/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305": [
      1793485167,
      "65bc252686c7",
@@ -10216,10 +10221,6 @@
     "/job/Ottawa/Senior-Workday-Analyst--On-site-role_R031797": [
      1793485167,
      "9178195bf6cc"
-    ],
-    "/job/Ottawa/Software-Design-Engineer---New-Grad_R032059": [
-     1793890848,
-     "96a8e194dd0e"
     ],
     "/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1": [
      1793485167,
@@ -37615,6 +37616,11 @@
      "c29606309f89",
      1793526076
     ],
+    "/job/Montreal/OFS-FP-A-Manager---NAM_R5058033-2": [
+     1793977252,
+     "627617d6962a",
+     1794430855
+    ],
     "/job/Peterborough-CAN/Renewal-Parts-Engineering-Support_R5055932": [
      1793485167,
      "161ddd0c137b",
@@ -37730,6 +37736,10 @@
      1793485167,
      "2ea550b5ebfd"
     ],
+    "/job/Markham/Lead-Sourcing-Specialist-2---Commodity-Management_R5058695-3": [
+     1794430855,
+     "2399bea4bd94"
+    ],
     "/job/Markham/Manufacturing-Shop-Operations-Manager_R5058456-2": [
      1794427352,
      "659913e82d62"
@@ -37781,10 +37791,6 @@
     "/job/Montreal/Ingnieur-lectrique---Sous-Station---Electrical-Substation-Engineer_R5057307-2": [
      1793485167,
      "2e7199c2ad32"
-    ],
-    "/job/Montreal/OFS-FP-A-Manager---NAM_R5058033-2": [
-     1793977252,
-     "627617d6962a"
     ],
     "/job/Sao-Paulo/Senior-Customer-Reliability-Engineer_R5058445": [
      1794259865,
@@ -37839,11 +37845,6 @@
      1793485167,
      "4477468bd1f9",
      1793903451
-    ],
-    "/job/Markham-Ontario-Canada/Software-Engineer---Simulation-Tooling_JR-202620338": [
-     1793485167,
-     "bcf09dc25246",
-     1793854848
     ],
     "/job/Markham-Ontario-Canada/Software-Engineer--Simulation-Scalability---Sim-RIM--Release-and-Incident-Management--Focus_JR-202620339": [
      1793485167,
@@ -37926,9 +37927,17 @@
      1793485167,
      "9b1911498b28"
     ],
+    "/job/Markham-Ontario-Canada/Software-Engineer---Simulation-Tooling_JR-202620338": [
+     1793485167,
+     "bcf09dc25246"
+    ],
     "/job/Markham-Ontario-Canada/Software-Engineering-Manager---Vehicle-Data-Platform_JR-202621117": [
      1793485167,
      "0ee29f00cdff"
+    ],
+    "/job/Markham-Ontario-Canada/Sr-Calibration-Specialist_JR-202623961-1": [
+     1794430855,
+     "2cc64db7ab85"
     ],
     "/job/Markham-Ontario-Canada/Sr-Software-Engineering---LV-Power-Distribution_JR-202621921-1": [
      1793485167,
@@ -37953,6 +37962,10 @@
     "/job/Markham-Ontario-Canada/Test-Engineering--Data-Engineering---Systems-QA_JR-202622079": [
      1793485167,
      "cdf8c46372e1"
+    ],
+    "/job/Oshawa-Ontario-Canada/Controls-Engineer---Multiple-Openings--Body--Paint--GA-etc--11_JR-202623974": [
+     1794430855,
+     "438e6bf0ce69"
     ],
     "/job/Oshawa-Ontario-Canada/Maintenance-Supervisor_JR-202623960": [
      1794254450,
@@ -38059,11 +38072,6 @@
      1793631657,
      "c01945939555",
      1793633597
-    ],
-    "5436626008": [
-     1793485167,
-     "8bb9fd900f85",
-     1794256260
     ],
     "5436628008": [
      1793653245,
@@ -38216,6 +38224,10 @@
     "5436491008": [
      1793485167,
      "0f699e8682fe"
+    ],
+    "5436626008": [
+     1793485167,
+     "8bb9fd900f85"
     ],
     "5436901008": [
      1793485167,
@@ -46131,6 +46143,10 @@
      1794015041,
      "62831f975d7b"
     ],
+    "5472106008": [
+     1794430855,
+     "d73acfae86c0"
+    ],
     "5473118008": [
      1793838652,
      "f46bff9e1e2f"
@@ -46202,6 +46218,16 @@
      1793486441,
      "01bce55d985c",
      1793718073
+    ],
+    "4741959005": [
+     1793486441,
+     "01c0b4018e38",
+     1794430855
+    ],
+    "4748042005": [
+     1793486441,
+     "9fbd2b2978d3",
+     1794430855
     ]
    },
    "jobs": {
@@ -46229,10 +46255,6 @@
      1793486441,
      "fbc0fd8e53b7"
     ],
-    "4741959005": [
-     1793486441,
-     "01c0b4018e38"
-    ],
     "4742096005": [
      1793486441,
      "2a767761fc69"
@@ -46240,10 +46262,6 @@
     "4742986005": [
      1793486441,
      "33936b084aad"
-    ],
-    "4748042005": [
-     1793486441,
-     "9fbd2b2978d3"
     ],
     "4748291005": [
      1793486441,
@@ -49056,6 +49074,11 @@
      1793725275,
      "7ece232be401",
      1794243662
+    ],
+    "8930955002": [
+     1793898048,
+     "37d10e99fa2a",
+     1794430855
     ]
    },
    "jobs": {
@@ -49278,6 +49301,10 @@
     "8686675002": [
      1793485167,
      "367c1c17a989"
+    ],
+    "8693228002": [
+     1794430855,
+     "d6e0c569f3cd"
     ],
     "8694030002": [
      1793485167,
@@ -49755,10 +49782,6 @@
      1793968244,
      "7f425828a52b"
     ],
-    "8930955002": [
-     1793898048,
-     "37d10e99fa2a"
-    ],
     "8933077002": [
      1793971849,
      "a58269f90a30"
@@ -49803,6 +49826,16 @@
      "6ec9e100979f",
      1793682043
     ],
+    "/job/Ontario-Remote-Work/Global-Product-Marketing-Manager---Video_R68999": [
+     1793485167,
+     "aa6f8792b6ee",
+     1794430855
+    ],
+    "/job/Ontario-Remote-Work/Senior-Full-Stack-Web-Developer_R65478": [
+     1793485167,
+     "8d5a04554d5d",
+     1794430855
+    ],
     "/job/OntarioCanada-Offsite/Presales-Engineer_R70110": [
      1793485167,
      "5f9e03fddafc",
@@ -49813,6 +49846,16 @@
      "c2df80b6e3f7",
      1793741454
     ],
+    "/job/OntarioCanada-Offsite/Senior-Information-Security-Compliance-Analyst_R68515": [
+     1793485167,
+     "6eeef518278a",
+     1794430855
+    ],
+    "/job/Toronto-Canada-ONT40/Marketing-Data---AI-Analytics-Specialist_R69524": [
+     1793485167,
+     "c553a179750c",
+     1794430855
+    ],
     "/job/Vancouver-Canada/DevOps-Manager_R69187": [
      1793485167,
      "fc0fb15d4fbf",
@@ -49822,6 +49865,11 @@
      1793485167,
      "32770bb2edf4",
      1793745042
+    ],
+    "/job/Vancouver-Canada/Product-Marketing-Manager--Cameras---Sensors_R69320": [
+     1793485167,
+     "afa57b9298e6",
+     1794430855
     ],
     "/job/Vancouver-Canada/Senior-System-Development-Engineer_R66152": [
      1793485167,
@@ -49851,17 +49899,9 @@
      1794326474,
      "e96be0e3417c"
     ],
-    "/job/Ontario-Remote-Work/Global-Product-Marketing-Manager---Video_R68999": [
-     1793485167,
-     "aa6f8792b6ee"
-    ],
     "/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": [
      1793485167,
      "6f53dc8dbc93"
-    ],
-    "/job/Ontario-Remote-Work/Senior-Full-Stack-Web-Developer_R65478": [
-     1793485167,
-     "8d5a04554d5d"
     ],
     "/job/Ontario-Remote-Work/Senior-Systems-Engineer_R70075": [
      1793485167,
@@ -49879,10 +49919,6 @@
      1793485167,
      "3c1e73ce8f65"
     ],
-    "/job/OntarioCanada-Offsite/Senior-Information-Security-Compliance-Analyst_R68515": [
-     1793485167,
-     "6eeef518278a"
-    ],
     "/job/Quebec-Remote-Work/Channel-Sales-Executive--Atlantic-and-Quebec-_R70400": [
      1793995250,
      "beb36a3b1907"
@@ -49894,10 +49930,6 @@
     "/job/Toronto-Canada-ONT40/Cloud-Video-Specialist--Canada-_R68672": [
      1793485167,
      "b1f21a20d7c9"
-    ],
-    "/job/Toronto-Canada-ONT40/Marketing-Data---AI-Analytics-Specialist_R69524": [
-     1793485167,
-     "c553a179750c"
     ],
     "/job/Vancouver-Canada/AI-Manager---Language-Models--Canada-Remote-_R69574": [
      1793485167,
@@ -49938,10 +49970,6 @@
     "/job/Vancouver-Canada/Principal-Software-Engineer_R65852": [
      1793485167,
      "183038db8c06"
-    ],
-    "/job/Vancouver-Canada/Product-Marketing-Manager--Cameras---Sensors_R69320": [
-     1793485167,
-     "afa57b9298e6"
     ],
     "/job/Vancouver-Canada/Product-Marketing-Manager_R68021": [
      1793485167,
@@ -52565,6 +52593,11 @@
      "eb8d48d17718",
      1793820650
     ],
+    "8213755": [
+     1793485167,
+     "95c25de064f1",
+     1794430855
+    ],
     "8220649": [
      1793485167,
      "7558cfb5ee8b",
@@ -53464,10 +53497,6 @@
     "8213700": [
      1793485167,
      "f4f92ceda1b9"
-    ],
-    "8213755": [
-     1793485167,
-     "95c25de064f1"
     ],
     "8214073": [
      1793651445,
@@ -55226,6 +55255,11 @@
      1793485167,
      "f1606c7c5597",
      1794412891
+    ],
+    "bb28a39e-eb1f-41ef-96de-98adf58a8c3c": [
+     1793485167,
+     "90df0d4e354e",
+     1794430855
     ],
     "bb569a6b-a7e9-4c4d-a78e-d35349b2f9d9": [
      1793485167,
@@ -57870,10 +57904,6 @@
     "badafdf8-116b-4849-b848-2f20a3ff2732": [
      1793485167,
      "a6723e1201b9"
-    ],
-    "bb28a39e-eb1f-41ef-96de-98adf58a8c3c": [
-     1793485167,
-     "90df0d4e354e"
     ],
     "bb4e2d58-d481-4e81-ac69-0d99bbf5808e": [
      1794333651,
@@ -63071,6 +63101,10 @@
      1793779111,
      "13b15d29fe21"
     ],
+    "8346967": [
+     1794430855,
+     "d3e4ba09cd41"
+    ],
     "8350601": [
      1794340879,
      "bbd8e4451741"
@@ -64263,6 +64297,11 @@
      "85af71fab858",
      1793995250
     ],
+    "8318831": [
+     1793890848,
+     "8b65286c052e",
+     1794430855
+    ],
     "8319740": [
      1793485167,
      "1c793375426e",
@@ -65196,10 +65235,6 @@
     "8315136": [
      1793485167,
      "43619a62e47b"
-    ],
-    "8318831": [
-     1793890848,
-     "8b65286c052e"
     ],
     "8319771": [
      1793485167,
@@ -71398,6 +71433,10 @@
     "744000161158559": [
      1794427352,
      "c5d57177a8be"
+    ],
+    "744000161163869": [
+     1794430855,
+     "c85af24810b0"
     ]
    },
    "name": "ServiceNow",
@@ -71623,6 +71662,11 @@
      1793485167,
      "aa53d4e58f38",
      1794245458
+    ],
+    "35320566-ce01-4204-b366-80b1b914c785": [
+     1793485167,
+     "b3008e1a1188",
+     1794430855
     ],
     "3df779c8-48f9-4fa0-90e5-b95db80a560d": [
      1793485167,
@@ -72109,10 +72153,6 @@
     "351f89c9-7502-4c5c-b600-b3a1192c45eb": [
      1793485167,
      "99be65b178d2"
-    ],
-    "35320566-ce01-4204-b366-80b1b914c785": [
-     1793485167,
-     "b3008e1a1188"
     ],
     "35dfd8bf-a458-4c9c-a5d2-0b5d487b9640": [
      1793485167,
@@ -77523,6 +77563,10 @@
      1793485167,
      "67ccf1a582ac"
     ],
+    "8260290": [
+     1794430855,
+     "6b2ef63cdc8f"
+    ],
     "8260982": [
      1793485167,
      "92fe291e2bdb"
@@ -78406,6 +78450,10 @@
     "8379538": [
      1794418264,
      "9a8007681623"
+    ],
+    "8381041": [
+     1794430855,
+     "3fbbd063a5f1"
     ]
    },
    "name": "Stripe",
@@ -83011,6 +83059,11 @@
      "b82e9f29aa3f",
      1793734256
     ],
+    "/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874": [
+     1793826056,
+     "19c5d56caaee",
+     1794430855
+    ],
     "/job/USA-NY-Remote-Metro/Senior-Field-Sales-Executive--Risk---Compliance_R0059426-1": [
      1793486441,
      "580a896f1b0f",
@@ -83029,10 +83082,6 @@
     "/job/CAN---Sherbrooke/Architecte-en-chef-d-applications-et-de-produits_R0056732": [
      1793486441,
      "210bd0dcc528"
-    ],
-    "/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874": [
-     1793826056,
-     "19c5d56caaee"
     ],
     "/job/CAN---Sherbrooke/Lead-Technical-Product-Manager_R0060708": [
      1793486441,
