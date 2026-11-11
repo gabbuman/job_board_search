@@ -77,6 +77,11 @@
      "51d0837541e1",
      1793626242
     ],
+    "e3eb2505-d8f8-49cc-ad7f-9f2469b65420": [
+     1793485167,
+     "e4063d8b79a5",
+     1794409281
+    ],
     "e6aa6244-fe74-4b4b-b925-3a353400e6ca": [
      1793485167,
      "f416e54bab99",
@@ -377,10 +382,6 @@
     "df976191-4e03-46df-ba5d-59ef6777d8e8": [
      1793890848,
      "7c3d806580f3"
-    ],
-    "e3eb2505-d8f8-49cc-ad7f-9f2469b65420": [
-     1793485167,
-     "e4063d8b79a5"
     ],
     "e74b204c-236f-4dc1-be97-57e36d61c63d": [
      1793485167,
@@ -11463,6 +11464,16 @@
      "f8da837d69f6",
      1793586640
     ],
+    "8332951": [
+     1793583054,
+     "d0e9667f1692",
+     1794409281
+    ],
+    "8332959": [
+     1793583054,
+     "174faa9edbb4",
+     1794409281
+    ],
     "8335469": [
      1793485167,
      "4b16af04d50e",
@@ -13199,10 +13210,6 @@
      1793640397,
      "c7e8f76004ba"
     ],
-    "8332951": [
-     1793583054,
-     "d0e9667f1692"
-    ],
     "8332956": [
      1793583054,
      "74b370455946"
@@ -13210,10 +13217,6 @@
     "8332958": [
      1793583054,
      "d5ecc6d25564"
-    ],
-    "8332959": [
-     1793583054,
-     "174faa9edbb4"
     ],
     "8332960": [
      1793592043,
@@ -13374,6 +13377,18 @@
     "8369401": [
      1794326474,
      "89f5a53f1e59"
+    ],
+    "8372322": [
+     1794409281,
+     "a9b900ef6a2c"
+    ],
+    "8372428": [
+     1794409281,
+     "a99dfff802c0"
+    ],
+    "8378916": [
+     1794409281,
+     "d16ddf3c51a9"
     ]
    },
    "name": "Cloudflare",
@@ -15525,6 +15540,10 @@
     "/job/Canada---Remote-QC/Manager--Sales-Engineering---Gestionnaire--Ingnierie-des-Ventes---Remote--CAN-_R30813": [
      1794375039,
      "224ec032f325"
+    ],
+    "/job/USA---New-York-NY/Sr-Software-Engineer--UI-Developer-Tooling--Hybrid--New-York-_R30528": [
+     1794409281,
+     "4b319a31806d"
     ],
     "/job/USA---Redmond-WA/Engineer-III--Cloud---CTIO--Hybrid-_R30264": [
      1793610051,
@@ -17765,6 +17784,11 @@
      "936fe35463d0",
      1793896245
     ],
+    "8431931002": [
+     1793485167,
+     "441d51afd379",
+     1794409281
+    ],
     "8453645002": [
      1793485167,
      "a6255e19d0e8",
@@ -19110,10 +19134,6 @@
     "8431459002": [
      1793485167,
      "a2bbf469e480"
-    ],
-    "8431931002": [
-     1793485167,
-     "441d51afd379"
     ],
     "8433583002": [
      1793485167,
@@ -37325,6 +37345,11 @@
      "9d3714ff2d0a",
      1793804456
     ],
+    "/job/Markham/Manufacturing-Manager---Materials--Planning-and-Execution_R5046943-2": [
+     1793830235,
+     "0e6547049b10",
+     1794409281
+    ],
     "/job/Markham/Nuclear-Security-Leader---Canada_R5057306-2": [
      1793485167,
      "dfdf833959c1",
@@ -37450,10 +37475,6 @@
     "/job/Markham/Lead-Quality-Specialist---Civil-Structural_R5056833-2": [
      1793485167,
      "2ea550b5ebfd"
-    ],
-    "/job/Markham/Manufacturing-Manager---Materials--Planning-and-Execution_R5046943-2": [
-     1793830235,
-     "0e6547049b10"
     ],
     "/job/Markham/Nuclear----Engineering-Interns_R5052772-2": [
      1793485167,
@@ -42547,6 +42568,11 @@
      "713a34579d89",
      1793842241
     ],
+    "/job/Richmond-British-Columbia-Canada/Service-Sales-Account-Manager_R0144544": [
+     1793485167,
+     "7e07d10b741c",
+     1794409281
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Coordonnateur-trice--de-projets---Fabrication-et-opration---Project-Coordinator---Manufacturing---Operations_R0147443-1": [
      1793485167,
      "680d9e76cfaa",
@@ -42765,10 +42791,6 @@
     "/job/Remote---British-Columbia-Canada/Qualified-Electric-Worker---Field-Services_R0110957": [
      1793925042,
      "86f1151e43e2"
-    ],
-    "/job/Richmond-British-Columbia-Canada/Service-Sales-Account-Manager_R0144544": [
-     1793485167,
-     "7e07d10b741c"
     ],
     "/job/STS-Toronto---Mississauga-Project/Senior-Security-Analyst_R0071889": [
      1793485167,
@@ -44008,6 +44030,11 @@
      "33c9ef7282f9",
      1794330064
     ],
+    "4477616009": [
+     1793804456,
+     "acd67a50b78e",
+     1794409281
+    ],
     "4477617009": [
      1793725275,
      "acd67a50b78e",
@@ -44223,10 +44250,6 @@
     "4477406009": [
      1793719842,
      "f82760d9875a"
-    ],
-    "4477616009": [
-     1793804456,
-     "acd67a50b78e"
     ],
     "4479173009": [
      1793806241,
@@ -45834,7 +45857,13 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "litera@workday:litera.wd12.myworkdayjobs.com/litera_careers": {
-   "gone": {},
+   "gone": {
+    "/job/Canada-Toronto-ON-Office/Senior-Product-Manager--Firm-Intelligence-Platform_R-501402": [
+     1793486441,
+     "d8d1509bae9a",
+     1794409281
+    ]
+   },
    "jobs": {
     "/job/Canada-Toronto-ON-Office/Legal-Product-Consultant_R-501258": [
      1793486441,
@@ -45843,10 +45872,6 @@
     "/job/Canada-Toronto-ON-Office/Manager--Legal-Knowledge-Engineering_R-501370": [
      1793486441,
      "0f811b282be0"
-    ],
-    "/job/Canada-Toronto-ON-Office/Senior-Product-Manager--Firm-Intelligence-Platform_R-501402": [
-     1793486441,
-     "d8d1509bae9a"
     ],
     "/job/Canada-Toronto-ON-Office/Senior-Product-Manager_R-501387": [
      1793486441,
@@ -49756,6 +49781,10 @@
     "/job/St-Johns---18-Hebron-Way/Specialist---Systems-and-Network-Administration_R0026968": [
      1793486441,
      "11c037a39b40"
+    ],
+    "/job/Toronto-King-St/AVP---Associate-General-Counsel_R0027310-1": [
+     1794409281,
+     "5e392a7e8122"
     ]
    },
    "name": "Nasdaq (Boardvantage / Verafin)",
@@ -50832,6 +50861,10 @@
     "/job/Sorocaba-Sao-Paulo---BRA/Manager--Software-and-Firmware-Quality-Engineering_NX-4861": [
      1793486441,
      "a8e0367a40a8"
+    ],
+    "/job/Sorocaba-Sao-Paulo---BRA/Materials-Planner-Analyst_NX-5103": [
+     1794409281,
+     "60c84d975f72"
     ],
     "/job/Sorocaba-Sao-Paulo---BRA/Mechanical-Design-Engineer-III_NX-4925": [
      1793486441,
@@ -54865,6 +54898,11 @@
      "bde389f40cb0",
      1794207661
     ],
+    "bbe1e108-b8cf-4c57-a646-f89eb1007f1c": [
+     1793485167,
+     "931ade63d750",
+     1794409281
+    ],
     "bc019c9d-6305-4700-9175-8035636177b3": [
      1793658639,
      "a0f506649cf4",
@@ -57508,10 +57546,6 @@
      1793485167,
      "ced5cdf7874f"
     ],
-    "bbe1e108-b8cf-4c57-a646-f89eb1007f1c": [
-     1793485167,
-     "931ade63d750"
-    ],
     "bbf8d3b8-2f8f-49f8-9f35-73c7847647f7": [
      1794268885,
      "0b4aee13e2c4"
@@ -59877,11 +59911,6 @@
      "28159e052e98",
      1793737850
     ],
-    "8255669": [
-     1793485167,
-     "2de7c034c470",
-     1794231045
-    ],
     "8258686": [
      1793485167,
      "35c56a534b8b",
@@ -60843,6 +60872,10 @@
     "8255397": [
      1793485167,
      "2bfb2782776a"
+    ],
+    "8255669": [
+     1793485167,
+     "2de7c034c470"
     ],
     "8256731": [
      1793485167,
@@ -66265,6 +66298,11 @@
      "db48ccb62606",
      1794263467
     ],
+    "744000144585529": [
+     1793485167,
+     "d13c894d8f86",
+     1794409281
+    ],
     "744000144638939": [
      1793485167,
      "e9493e43b2d4",
@@ -66769,6 +66807,11 @@
      1793485167,
      "5e4c2e5643bf",
      1793898048
+    ],
+    "744000154939299": [
+     1793485167,
+     "cc584a99aa3b",
+     1794409281
     ],
     "744000154991839": [
      1793485167,
@@ -67996,10 +68039,6 @@
      1793485167,
      "f311d1eee020"
     ],
-    "744000144585529": [
-     1793485167,
-     "d13c894d8f86"
-    ],
     "744000144602090": [
      1793485167,
      "31e47a3f2a4c"
@@ -68823,10 +68862,6 @@
     "744000154921069": [
      1793485167,
      "0fc23b090ae3"
-    ],
-    "744000154939299": [
-     1793485167,
-     "cc584a99aa3b"
     ],
     "744000155007399": [
      1793485167,
@@ -84173,6 +84208,10 @@
     "5226578007": [
      1793485167,
      "5e1c0c0a15af"
+    ],
+    "5226665007": [
+     1794409281,
+     "1f20ca3617a6"
     ],
     "5226899007": [
      1793485167,
