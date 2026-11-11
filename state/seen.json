@@ -11946,6 +11946,10 @@
      1793485167,
      "3b9e738134bb"
     ],
+    "8089031": [
+     1794411042,
+     "e6b82d2ae9f7"
+    ],
     "8089141": [
      1793485167,
      "b8587d2959ed"
@@ -13385,6 +13389,22 @@
     "8372428": [
      1794409281,
      "a99dfff802c0"
+    ],
+    "8373853": [
+     1794411042,
+     "213e41b3fec8"
+    ],
+    "8373905": [
+     1794411042,
+     "81139c68b692"
+    ],
+    "8373948": [
+     1794411042,
+     "e421b87b4254"
+    ],
+    "8373969": [
+     1794411042,
+     "cd902478ff7e"
     ],
     "8378916": [
      1794409281,
@@ -23858,6 +23878,10 @@
     "d6c6d9dc-20ea-49ba-b01d-b6688f0a31a0": [
      1793486441,
      "11c08936a3e1"
+    ],
+    "daa66200-3b28-4cf1-9f32-83ddc76bd21b": [
+     1794411042,
+     "3c0420fb54d9"
     ],
     "e16aaf3b-780d-4577-b253-f11908a4fa0d": [
      1793486441,
@@ -39278,6 +39302,18 @@
      1794342643,
      "ef1fcf845a6c"
     ],
+    "8936091002": [
+     1794411042,
+     "3c7f47cbc9fe"
+    ],
+    "8936142002": [
+     1794411042,
+     "89aa036ce32d"
+    ],
+    "8936156002": [
+     1794411042,
+     "89aa036ce32d"
+    ],
     "8936287002": [
      1794342643,
      "5d884dbdf2a4"
@@ -43352,6 +43388,16 @@
      "c4f98d75ea12",
      1794330064
     ],
+    "/job/Calgary-Alberta/Cybersecurity-Sales-Specialist_1205656-2": [
+     1793485167,
+     "4eabf146d483",
+     1794411042
+    ],
+    "/job/Mississauga-Ontario-Canada/Digital-Sales-Account-Manager_1204304-1": [
+     1793485167,
+     "f0827466a997",
+     1794411042
+    ],
     "/job/Mississauga-Ontario-Canada/Resident-Networking-Consultant---Service-Provider_1216323-3": [
      1793485167,
      "87e3301a0f55",
@@ -43377,10 +43423,6 @@
      1793485167,
      "85dccf737cce"
     ],
-    "/job/Calgary-Alberta/Cybersecurity-Sales-Specialist_1205656-2": [
-     1793485167,
-     "4eabf146d483"
-    ],
     "/job/Calgary-Alberta/Enterprise-Architect_1214929-2": [
      1793485167,
      "160ec1e031a5"
@@ -43400,10 +43442,6 @@
     "/job/Levis-Quebec-Canada/Data-Center-Technical-Specialist---Spcialiste-technique-du-centre-de-donnes_1209844-2": [
      1793485167,
      "a4fbe032d645"
-    ],
-    "/job/Mississauga-Ontario-Canada/Digital-Sales-Account-Manager_1204304-1": [
-     1793485167,
-     "f0827466a997"
     ],
     "/job/Mississauga-Ontario-Canada/Enterprise-Sales-Manager----Gestionnaire-de-vente-entreprise_1215347": [
      1793485167,
@@ -44044,6 +44082,11 @@
      1793725275,
      "85dbfd474244",
      1793727042
+    ],
+    "4479173009": [
+     1793806241,
+     "bca655df32e3",
+     1794411042
     ]
    },
    "jobs": {
@@ -44250,10 +44293,6 @@
     "4477406009": [
      1793719842,
      "f82760d9875a"
-    ],
-    "4479173009": [
-     1793806241,
-     "bca655df32e3"
     ],
     "4480550009": [
      1793829673,
@@ -45857,13 +45896,7 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "litera@workday:litera.wd12.myworkdayjobs.com/litera_careers": {
-   "gone": {
-    "/job/Canada-Toronto-ON-Office/Senior-Product-Manager--Firm-Intelligence-Platform_R-501402": [
-     1793486441,
-     "d8d1509bae9a",
-     1794409281
-    ]
-   },
+   "gone": {},
    "jobs": {
     "/job/Canada-Toronto-ON-Office/Legal-Product-Consultant_R-501258": [
      1793486441,
@@ -45872,6 +45905,10 @@
     "/job/Canada-Toronto-ON-Office/Manager--Legal-Knowledge-Engineering_R-501370": [
      1793486441,
      "0f811b282be0"
+    ],
+    "/job/Canada-Toronto-ON-Office/Senior-Product-Manager--Firm-Intelligence-Platform_R-501402": [
+     1793486441,
+     "d8d1509bae9a"
     ],
     "/job/Canada-Toronto-ON-Office/Senior-Product-Manager_R-501387": [
      1793486441,
@@ -49822,6 +49859,11 @@
      "33642e89ec7d",
      1793797246
     ],
+    "/job/Huangpu-Shanghai---CHN/Sr-Manager--Engineering---Power-Conversion---eBOS_NX-4007": [
+     1793486441,
+     "e11a9e5fedc0",
+     1794411042
+    ],
     "/job/Huangpu-Shanghai---CHN/Supply-Chain-Program-Manager_NX-4785": [
      1793486441,
      "297d170f72e4",
@@ -50273,10 +50315,6 @@
     "/job/Huangpu-Shanghai---CHN/Sourcing-Analyst_NX-3627": [
      1793486441,
      "832c7fd12b78"
-    ],
-    "/job/Huangpu-Shanghai---CHN/Sr-Manager--Engineering---Power-Conversion---eBOS_NX-4007": [
-     1793486441,
-     "e11a9e5fedc0"
     ],
     "/job/Huangpu-Shanghai---CHN/Sr-Manager-Supply-Chain-Engineering_NX-5020": [
      1793486441,
@@ -54743,6 +54781,11 @@
      "54259f991ca8",
      1793743246
     ],
+    "71f97dd6-63bc-4f86-8c34-dcb71577069a": [
+     1793485167,
+     "c0cb66450c59",
+     1794411042
+    ],
     "74be2291-5744-40fd-9c65-7a4a516ebd48": [
      1793485167,
      "2510352417a8",
@@ -54812,6 +54855,11 @@
      1793485167,
      "5d207ec7a4c3",
      1793908872
+    ],
+    "8a3fdf98-ad82-4082-ace0-9edb89bc8f6d": [
+     1793485167,
+     "880e2b2a393c",
+     1794411042
     ],
     "8c1ce3bb-4451-49da-8fc9-315549a77289": [
      1793620877,
@@ -55067,6 +55115,11 @@
      1793485167,
      "dc17c1ef9ad3",
      1793640659
+    ],
+    "fa312d19-bb9e-4569-b5ed-aed8aa45cd3b": [
+     1793485167,
+     "d2e9bce28c3d",
+     1794411042
     ],
     "fb5862cc-244c-410b-b287-47df89ad1e43": [
      1793485167,
@@ -56578,10 +56631,6 @@
      1793485167,
      "0306d0eb7f1e"
     ],
-    "71f97dd6-63bc-4f86-8c34-dcb71577069a": [
-     1793485167,
-     "c0cb66450c59"
-    ],
     "7243bdb7-7f75-4dff-a10f-18bd7296f632": [
      1793485167,
      "54e972e33285"
@@ -56901,10 +56950,6 @@
     "89f58eb2-519f-4a36-8be0-2e594724e1bc": [
      1793485167,
      "4df634fd0c88"
-    ],
-    "8a3fdf98-ad82-4082-ace0-9edb89bc8f6d": [
-     1793485167,
-     "880e2b2a393c"
     ],
     "8a50f878-5252-4f65-ad84-80ae2dc5637e": [
      1793485167,
@@ -58369,10 +58414,6 @@
     "fa02b383-d5b0-45ea-b29e-3464ceeb4574": [
      1793485167,
      "85ad4c3fcd95"
-    ],
-    "fa312d19-bb9e-4569-b5ed-aed8aa45cd3b": [
-     1793485167,
-     "d2e9bce28c3d"
     ],
     "fa5114ae-c6ff-4bbd-9e21-5dcfafd032f7": [
      1793485167,
@@ -63837,6 +63878,11 @@
      "33ede9af40da",
      1793917846
     ],
+    "8263226": [
+     1793485167,
+     "d12856a7754f",
+     1794411042
+    ],
     "8264748": [
      1793485167,
      "78fb5de9bb2e",
@@ -64605,10 +64651,6 @@
     "8263224": [
      1793485167,
      "16bec35d252a"
-    ],
-    "8263226": [
-     1793485167,
-     "d12856a7754f"
     ],
     "8263264": [
      1793485167,
@@ -71729,6 +71771,10 @@
      1793485167,
      "278734b0fee7"
     ],
+    "44a8bfd1-593c-4024-8745-a01cca587cb6": [
+     1794411042,
+     "daa0b7bbd244"
+    ],
     "450d9669-ec61-4170-81e9-c537f7e7aef9": [
      1793485167,
      "4cc8497dbdcf"
@@ -73906,6 +73952,10 @@
      1794340879,
      "2c60cbac2283"
     ],
+    "6240834004": [
+     1794411042,
+     "0e12aef21f99"
+    ],
     "6241658004": [
      1793678453,
      "91abab53f4ac"
@@ -73965,6 +74015,10 @@
     "6251296004": [
      1794236456,
      "6c0520e3ce42"
+    ],
+    "6251300004": [
+     1794411042,
+     "66250f196d59"
     ],
     "6251304004": [
      1794247285,
@@ -74767,6 +74821,11 @@
      1793646057,
      "1016ed6ad832",
      1794263467
+    ],
+    "8348469": [
+     1794236456,
+     "67161336f1f8",
+     1794411042
     ]
    },
    "jobs": {
@@ -77733,10 +77792,6 @@
     "8348327": [
      1793986259,
      "5447991e535e"
-    ],
-    "8348469": [
-     1794236456,
-     "67161336f1f8"
     ],
     "8348731": [
      1793782854,
