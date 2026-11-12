@@ -39916,6 +39916,10 @@
      1794007849,
      "dd2b79f5e9a1"
     ],
+    "8931313002": [
+     1794504727,
+     "cb890c352954"
+    ],
     "8931337002": [
      1794006057,
      "0be858b47f5f"
@@ -52913,6 +52917,11 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "gone": {
+    "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
+     1793667645,
+     "ae407fa4867c",
+     1794504727
+    ],
     "/job/Canada-Toronto/Senior-DevOps-Engineer---Robotics-Simulation_JR2027642": [
      1793485167,
      "3731bcf31b3e",
@@ -52943,10 +52952,6 @@
     "/job/Canada-Remote/Senior-Software-Engineer--NeMo-Core-Platform_JR2025753-1": [
      1793485167,
      "42259f929105"
-    ],
-    "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
-     1793667645,
-     "ae407fa4867c"
     ],
     "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
      1793653245,
@@ -69300,6 +69305,11 @@
      "485a0a010576",
      1794321043
     ],
+    "744000160737185": [
+     1794263467,
+     "db48ccb62606",
+     1794504727
+    ],
     "744000160756795": [
      1794274241,
      "86f61f45d9ff",
@@ -72031,10 +72041,6 @@
     "744000160736029": [
      1794261650,
      "a2d2b14f4d38"
-    ],
-    "744000160737185": [
-     1794263467,
-     "db48ccb62606"
     ],
     "744000160737829": [
      1794263467,
