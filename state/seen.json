@@ -7550,6 +7550,11 @@
      1793485167,
      "6b035cfd3bd1",
      1794520849
+    ],
+    "/job/Ottawa-March-Road/Software-Engineer_R027313": [
+     1793485167,
+     "8c6c71ebaf80",
+     1794524454
     ]
    },
    "jobs": {
@@ -7580,10 +7585,6 @@
     "/job/Ottawa-March-Road/Senior-Hardware-Engineer_R027457": [
      1793485167,
      "8cd4b4ba4d7d"
-    ],
-    "/job/Ottawa-March-Road/Software-Engineer_R027313": [
-     1793485167,
-     "8c6c71ebaf80"
     ],
     "/job/Ottawa-March-Road/Staff-AI-Systems-Thermal-Engineer_R027822": [
      1794421849,
@@ -22307,6 +22308,11 @@
      "2785d427cb6e",
      1794495652
     ],
+    "7806043": [
+     1794468638,
+     "66dbca38e0cf",
+     1794524454
+    ],
     "7811662": [
      1793949674,
      "df024721c6b1",
@@ -23059,10 +23065,6 @@
     "7800409": [
      1793485167,
      "658b8982b909"
-    ],
-    "7806043": [
-     1794468638,
-     "66dbca38e0cf"
     ],
     "7857714": [
      1793646057,
@@ -50796,6 +50798,11 @@
      "255c7dab58cc",
      1794340879
     ],
+    "/job/British-ColumbiaCAN-Offsite/Training-Portfolio-Owner_R69785": [
+     1793485167,
+     "60191bf4c91c",
+     1794524454
+    ],
     "/job/Gatineau-Canada/Jr-Software-Engineer---Java--Angular--JavaScript_R69279-1": [
      1793485167,
      "6ec9e100979f",
@@ -50815,6 +50822,11 @@
      1793485167,
      "d780e8bf2251",
      1794432962
+    ],
+    "/job/Ontario-Remote-Work/Sr-CX-Strategist_R68910": [
+     1793485167,
+     "eefb4659bb52",
+     1794524454
     ],
     "/job/OntarioCanada-Offsite/Presales-Engineer_R70110": [
      1793485167,
@@ -50872,10 +50884,6 @@
      1793485167,
      "0b10762c38bb"
     ],
-    "/job/British-ColumbiaCAN-Offsite/Training-Portfolio-Owner_R69785": [
-     1793485167,
-     "60191bf4c91c"
-    ],
     "/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": [
      1793485167,
      "e5b3a446cc06"
@@ -50887,10 +50895,6 @@
     "/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": [
      1793485167,
      "6f53dc8dbc93"
-    ],
-    "/job/Ontario-Remote-Work/Sr-CX-Strategist_R68910": [
-     1793485167,
-     "eefb4659bb52"
     ],
     "/job/Ontario-Remote-Work/Sr-Software-Engineer--AI-Agent-Platform_R66145-1": [
      1793485167,
@@ -55993,6 +55997,11 @@
      "5486375953c5",
      1793741454
     ],
+    "099374c6-3cbb-4964-9a1d-31e6e5b5dcd2": [
+     1793485167,
+     "8f0aa337aae7",
+     1794524454
+    ],
     "09dcf3e6-c510-4e7a-af50-e3e401e0f043": [
      1793485167,
      "1d3219703023",
@@ -56728,10 +56737,6 @@
     "096be63b-69cf-4295-9d29-d2e740058ea4": [
      1793485167,
      "d4dde354d56c"
-    ],
-    "099374c6-3cbb-4964-9a1d-31e6e5b5dcd2": [
-     1793485167,
-     "8f0aa337aae7"
     ],
     "099dd6af-b017-4a60-85d5-4c79da3a9ead": [
      1793485167,
@@ -61598,6 +61603,11 @@
      "5ceebd32fd55",
      1794308448
     ],
+    "8325728": [
+     1793485167,
+     "84678c9a3248",
+     1794524454
+    ],
     "8331385": [
      1793485167,
      "a09bd55205e7",
@@ -62871,10 +62881,6 @@
     "8325134": [
      1793485167,
      "9ad0ff73673e"
-    ],
-    "8325728": [
-     1793485167,
-     "84678c9a3248"
     ],
     "8325960": [
      1794012727,
@@ -84961,6 +84967,10 @@
     "0e6d37e8-f942-44bc-b968-34c5f983411f": [
      1794243662,
      "3fc1f55de17e"
+    ],
+    "14552b3c-655c-4f4e-96e3-e24d9f6538b3": [
+     1794524454,
+     "18536d4cf445"
     ],
     "1c468e02-4abf-452a-8952-aa5082b7157a": [
      1793485167,
