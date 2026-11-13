@@ -38346,6 +38346,11 @@
      "161ddd0c137b",
      1793941250
     ],
+    "/job/Remote/Job-Posting-Title-Project-Procurement-Team-Leader--PPTL-_R5055607-1": [
+     1794513658,
+     "3a98b1849738",
+     1794546086
+    ],
     "/job/Remote/Marine-Sales-Manager---Canada_R5057436-2": [
      1793730675,
      "7dd64161ada3",
@@ -38511,10 +38516,6 @@
     "/job/Montreal/OFS-FP-A-Manager---NAM_R5058033-2": [
      1793977252,
      "ce0839918759"
-    ],
-    "/job/Remote/Job-Posting-Title-Project-Procurement-Team-Leader--PPTL-_R5055607-1": [
-     1794513658,
-     "3a98b1849738"
     ],
     "/job/Sao-Paulo/Senior-Customer-Reliability-Engineer_R5058445": [
      1794259865,
@@ -43725,6 +43726,11 @@
      "680d9e76cfaa",
      1793826056
     ],
+    "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-projet---Sous-stations-et-FACTS-Project-Manager---Substations---FACTS_R0148024": [
+     1793485167,
+     "3dde14250a22",
+     1794546086
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Ingnieur-en-Systmes-d-nergie---Power-System-Engineer---Main-Circuit-Design_R0142197": [
      1793485167,
      "ac7fdf35d156",
@@ -43969,10 +43975,6 @@
     "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-contrats---Ententes-clients-et-rclamations-soustraitants-Contract-Manager--Customer-Agreements-and-Subcontractor-Claims----CA_R0121777": [
      1793485167,
      "31624f5fa72e"
-    ],
-    "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-projet---Sous-stations-et-FACTS-Project-Manager---Substations---FACTS_R0148024": [
-     1793485167,
-     "3dde14250a22"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-projets-de-service---Service-Project-Manager-HVDC_R0151464": [
      1794402057,
@@ -53708,6 +53710,11 @@
      "6e7bb16dd584",
      1793991667
     ],
+    "8190478": [
+     1793485167,
+     "1d8f88d1e47b",
+     1794546086
+    ],
     "8191178": [
      1793485167,
      "f9a69eb1c858",
@@ -54539,10 +54546,6 @@
     "8190028": [
      1793485167,
      "4d8eb0a4524e"
-    ],
-    "8190478": [
-     1793485167,
-     "1d8f88d1e47b"
     ],
     "8193328": [
      1793485167,
@@ -64956,6 +64959,10 @@
     "/job/Canada---Toronto/Sr-Analyst--Product-and-Pricing-Operations_JR363492": [
      1793485167,
      "b407ae7fb101"
+    ],
+    "/job/Canada---Toronto/Sr-Analyst--TMT-Commercial-Business_JR368289": [
+     1794546086,
+     "a1106552792e"
     ],
     "/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275": [
      1793485167,
@@ -76972,6 +76979,11 @@
      "4d32c4b0526c",
      1793642458
     ],
+    "8040825": [
+     1793485167,
+     "b04a0c1e4f1e",
+     1794546086
+    ],
     "8044924": [
      1793485167,
      "67b27010d442",
@@ -77984,10 +77996,6 @@
     "8039548": [
      1793485167,
      "b13a49bf5702"
-    ],
-    "8040825": [
-     1793485167,
-     "b04a0c1e4f1e"
     ],
     "8040940": [
      1793485167,
@@ -83093,6 +83101,10 @@
     "5283683007": [
      1794330064,
      "355432c72a3c"
+    ],
+    "5292001007": [
+     1794546086,
+     "56b1f10b4c89"
     ]
    },
    "name": "Together AI",
