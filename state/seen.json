@@ -22,6 +22,11 @@
      "be90db2fe747",
      1793800854
     ],
+    "618d6f38-988d-4e1f-af12-f5fdeebf05ed": [
+     1793485167,
+     "f218da270b60",
+     1794610860
+    ],
     "6639ae84-8af4-4dfb-931c-bdce0704e5e3": [
      1793485167,
      "3ad95de2ad1e",
@@ -301,10 +306,6 @@
     "5c77b6bb-4a3d-4ba1-94bc-c7c2cca875de": [
      1794607322,
      "4a829f947b9f"
-    ],
-    "618d6f38-988d-4e1f-af12-f5fdeebf05ed": [
-     1793485167,
-     "f218da270b60"
     ],
     "63059a05-03d1-4a4f-908c-8daa721cce90": [
      1794605499,
@@ -5664,8 +5665,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "array-technologies@workday:arraytechinc.wd5.myworkdayjobs.com/array_careers": {
-   "err": "HTTP 521 from https://arraytechinc.wd5.myworkdayjobs.com/wday/cxs/arraytechinc/Array_Careers/jobs",
-   "fails": 1,
    "gone": {
     "/job/Albuquerque/Director-of-Manufacturing_R-100595": [
      1793486441,
@@ -7783,7 +7782,7 @@
   },
   "canadian-solar@workday:canadiansolar.wd5.myworkdayjobs.com/canadiansolar": {
    "err": "HTTP 521 from https://canadiansolar.wd5.myworkdayjobs.com/wday/cxs/canadiansolar/CanadianSolar/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Canada---Remote/HR-Business-Partner_10001525-1": [
      1793486441,
@@ -9906,6 +9905,10 @@
      1793485167,
      "7531218f2381"
     ],
+    "9843180d-ba0a-44d7-8cc1-7ae94d686f56": [
+     1794610860,
+     "f9185a73f44a"
+    ],
     "987d7f64-c957-4c8f-b89d-2f9d64738507": [
      1793485167,
      "b5a29f816d39"
@@ -10111,7 +10114,7 @@
   },
   "ciena@workday:ciena.wd5.myworkdayjobs.com/careers": {
    "err": "HTTP 521 from https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Baltimore/Director-IT-Program-Management-Office_R031946-1": [
      1793635315,
@@ -11704,6 +11707,11 @@
      "d17c24c59a76",
      1793791860
     ],
+    "8126829": [
+     1793485167,
+     "675ac95d9539",
+     1794610860
+    ],
     "8139424": [
      1793485167,
      "698f004b20fe",
@@ -12493,10 +12501,6 @@
     "8124227": [
      1793485167,
      "04676b7b2a09"
-    ],
-    "8126829": [
-     1793485167,
-     "675ac95d9539"
     ],
     "8127559": [
      1793485167,
@@ -16073,7 +16077,7 @@
   },
   "crowdstrike@workday:crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers": {
    "err": "HTTP 521 from https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Canada---Remote-BC/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30574": [
      1793606449,
@@ -16219,6 +16223,11 @@
      1793485167,
      "341b6879272a",
      1793984500
+    ],
+    "1cd3a7fe-c545-43f0-b8d3-99263766c214": [
+     1794004261,
+     "a2b03a5f960e",
+     1794610860
     ],
     "1d5b5af1-bfde-44d3-a250-3cd37cea9e99": [
      1793904103,
@@ -16697,10 +16706,6 @@
     "19bbd06a-d3ec-4027-a1a7-e629d4fa05a4": [
      1793485167,
      "170e4753abe2"
-    ],
-    "1cd3a7fe-c545-43f0-b8d3-99263766c214": [
-     1794004261,
-     "a2b03a5f960e"
     ],
     "1d00a148-9e69-4aa5-a92b-4b4f24dad55a": [
      1793907043,
@@ -26046,7 +26051,7 @@
   },
   "ecobee-generac@workday:generac.wd5.myworkdayjobs.com/external": {
    "err": "HTTP 521 from https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/External/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Toronto-Canada/Intern-Sales_JR18392": [
      1794504642,
@@ -38834,7 +38839,7 @@
   },
   "ge-vernova@workday:gevernova.wd5.myworkdayjobs.com/vernova_externalsite": {
    "err": "HTTP 521 from https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Greenville/Senior-Manager---Engineering-Capability---Transformation-Leader_R5054901-3": [
      1793485167,
@@ -39099,7 +39104,7 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "err": "HTTP 521 from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-   "fails": 3,
+   "fails": 4,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -42387,6 +42392,10 @@
     "8359138": [
      1794592843,
      "a826ba0a68ed"
+    ],
+    "8374021": [
+     1794610860,
+     "7cf72c448cc4"
     ]
    },
    "name": "Greenhouse Software",
@@ -42564,6 +42573,11 @@
      1793485167,
      "bec7bdd09c51",
      1793952051
+    ],
+    "31cfe42b-6c69-4a73-9913-01ae85a8e68a": [
+     1793824243,
+     "77ab5ee94547",
+     1794610860
     ],
     "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": [
      1794259865,
@@ -43092,10 +43106,6 @@
     "313d5aa8-bfc9-4057-b9a3-b73b4894f6a7": [
      1793485167,
      "c60f7e12c911"
-    ],
-    "31cfe42b-6c69-4a73-9913-01ae85a8e68a": [
-     1793824243,
-     "77ab5ee94547"
     ],
     "3240924a-de11-45c5-aabe-980474f8b0a8": [
      1793485167,
@@ -43884,6 +43894,10 @@
     "b139a717-23d8-4637-9ac2-310c135a7ef6": [
      1794394001,
      "219a0980a04d"
+    ],
+    "b148313f-ed64-422c-8222-a33896f8d42e": [
+     1794610860,
+     "5bb632e78447"
     ],
     "b21e4fa4-824e-4664-9e9f-ba0204f83a58": [
      1793485167,
@@ -45162,7 +45176,7 @@
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
    "err": "HTTP 521 from https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/All-Quebec-Canada/Presales-Solution-Consultant---Consultant-en-systmes-avant-vente_1217756-2": [
      1793908872,
@@ -46306,6 +46320,10 @@
     "cf26b34b-33b0-487c-bdfa-4dd4c59d53e9": [
      1793485167,
      "bfdfefa29e5a"
+    ],
+    "d05fb1c9-28aa-4047-a526-5d42a3a537a4": [
+     1794610860,
+     "e17ad25e8472"
     ],
     "d32bf400-95b3-4c75-96f6-2992beaf9863": [
      1793485167,
@@ -51637,7 +51655,7 @@
   },
   "motorola-solutions-avigilon@workday:motorolasolutions.wd5.myworkdayjobs.com/careers": {
    "err": "HTTP 521 from https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/British-ColumbiaCAN-Offsite/Knowledge---Learning-Program-Manager--Hybrid-_R68338": [
      1794261650,
@@ -51971,7 +51989,7 @@
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
    "err": "HTTP 521 from https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextracker/Nextpower_Careers/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Florida---Remote---USA/Robot-Operator---Service-Technician_NX-4773": [
      1793486441,
@@ -54207,7 +54225,7 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "err": "HTTP 521 from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-   "fails": 3,
+   "fails": 4,
    "gone": {
     "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
      1793667645,
@@ -54498,6 +54516,11 @@
      1793485167,
      "96130c4e0397",
      1793982643
+    ],
+    "8142155": [
+     1793485167,
+     "7c3d7825b8b7",
+     1794610860
     ],
     "8147071": [
      1794286852,
@@ -55316,10 +55339,6 @@
     "8141274": [
      1793485167,
      "3a70e538f59e"
-    ],
-    "8142155": [
-     1793485167,
-     "7c3d7825b8b7"
     ],
     "8154916": [
      1793485167,
@@ -57179,6 +57198,11 @@
      1793485167,
      "f3ad004e8395",
      1794249071
+    ],
+    "6fc25168-bc4c-47a0-8601-583dfaf7fcbd": [
+     1794006057,
+     "01abf5acfded",
+     1794610860
     ],
     "71f97dd6-63bc-4f86-8c34-dcb71577069a": [
      1793485167,
@@ -59104,10 +59128,6 @@
     "6fbb72e6-1d69-4863-aaf3-3c5830e49e8a": [
      1793485167,
      "e65bade0993c"
-    ],
-    "6fc25168-bc4c-47a0-8601-583dfaf7fcbd": [
-     1794006057,
-     "01abf5acfded"
     ],
     "6fd50ace-941b-4559-992f-e53f9b76c9a0": [
      1793485167,
@@ -61309,6 +61329,11 @@
      "d7ac4a0d633b",
      1793662243
     ],
+    "b9e1ff15-d52a-46d5-abf0-26460f2a116c": [
+     1793485167,
+     "6c1a3041abf9",
+     1794610860
+    ],
     "c5dcc0db-7fdc-4e09-86c7-b6618400df16": [
      1793485167,
      "655225466ff6",
@@ -61733,10 +61758,6 @@
     "b85c4547-fa75-41a8-bd36-6f2c70117764": [
      1794326474,
      "7ba06ec7ac3b"
-    ],
-    "b9e1ff15-d52a-46d5-abf0-26460f2a116c": [
-     1793485167,
-     "6c1a3041abf9"
     ],
     "ba95ea8c-9aad-4152-925c-df08d6a90c0f": [
      1793485167,
@@ -64436,7 +64457,7 @@
   },
   "red-hat@workday:redhat.wd5.myworkdayjobs.com/jobs": {
    "err": "HTTP 521 from https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Remote-CA-ON/Project-Manager---Technical_R-060158-1": [
      1793485167,
@@ -65618,6 +65639,10 @@
     "8349318": [
      1794481245,
      "8d1345646e54"
+    ],
+    "8350545": [
+     1794610860,
+     "7a421c43b96b"
     ],
     "8350601": [
      1794340879,
@@ -69349,6 +69374,10 @@
     "/job/CAN---Richmond-BC/Strategic-Sourcing-Manager---Indirect-Sourcing_REQ3655": [
      1793485167,
      "562aaa9d76ee"
+    ],
+    "/job/CAN---Richmond-BC/Technical-Support-Engineer_REQ3700": [
+     1794610860,
+     "e4860c47f902"
     ],
     "/job/USA---Colorado-Springs---Elkton/Storage-Systems-Administrator_REQ3630": [
      1793485167,
@@ -76961,11 +76990,6 @@
      "82537cdcbbe9",
      1793746845
     ],
-    "6240816004": [
-     1794265256,
-     "b5a06b6b2a47",
-     1794607322
-    ],
     "6241723004": [
      1793694682,
      "06a042a89d78",
@@ -77794,6 +77818,10 @@
     "6240814004": [
      1794321043,
      "1c47e04c446a"
+    ],
+    "6240816004": [
+     1794265256,
+     "b5a06b6b2a47"
     ],
     "6240818004": [
      1794340879,
@@ -86782,6 +86810,10 @@
      1793485167,
      "39078fc24d9a"
     ],
+    "71cc353b-06af-4429-9e22-4d1270034d06": [
+     1794610860,
+     "74b4a92c2182"
+    ],
     "823abbcd-fbd3-4e35-b25c-def2b1764a22": [
      1793485167,
      "f31061ca35c4"
@@ -86953,7 +86985,7 @@
   },
   "workday@workday:workday.wd5.myworkdayjobs.com/workday": {
    "err": "HTTP 521 from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Canada-BC-Vancouver/DevOps-Engineer--Evisort-AI_JR-0110243": [
      1793485167,
