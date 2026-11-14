@@ -39167,8 +39167,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-   "fails": 45,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -39336,8 +39334,7 @@
     ]
    },
    "name": "General Motors Canada",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "geotab@greenhouse:geotab": {
    "gone": {
@@ -45286,8 +45283,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-   "fails": 43,
    "gone": {
     "/job/All-Quebec-Canada/Presales-Solution-Consultant---Consultant-en-systmes-avant-vente_1217756-2": [
      1793908872,
@@ -45437,8 +45432,7 @@
     ]
    },
    "name": "HPE",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
    "gone": {},
@@ -45654,7 +45648,7 @@
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-   "fails": 37,
+   "fails": 38,
    "gone": {
     "/job/Canada-Toronto/Compiler-Engineer_JR0286164-1": [
      1793485167,
@@ -46742,6 +46736,10 @@
     "07212d5b-7406-46ef-acc9-af936dc20c8d": [
      1793485167,
      "0f3e97c20e32"
+    ],
+    "08addfcf-1466-4bea-a72e-07fb5b29fb97": [
+     1794681054,
+     "b453ddf3c431"
     ],
     "09a6efc9-d047-4bbd-9e3e-39d938b5ace0": [
      1793485167,
