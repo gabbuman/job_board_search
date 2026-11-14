@@ -5670,7 +5670,7 @@
   },
   "array-technologies@workday:arraytechinc.wd5.myworkdayjobs.com/array_careers": {
    "err": "HTTP 521 from https://arraytechinc.wd5.myworkdayjobs.com/wday/cxs/arraytechinc/Array_Careers/jobs",
-   "fails": 5,
+   "fails": 6,
    "gone": {
     "/job/Albuquerque/Director-of-Manufacturing_R-100595": [
      1793486441,
@@ -5843,7 +5843,8 @@
     ]
    },
    "name": "Array Technologies",
-   "since": "2026-10-31T22:40:41+00:00"
+   "since": "2026-10-31T22:40:41+00:00",
+   "warned": true
   },
   "aspect-biosystems@greenhouse:aspectbiosystems": {
    "gone": {
@@ -6923,7 +6924,7 @@
   },
   "autodesk@workday:autodesk.wd1.myworkdayjobs.com/ext": {
    "err": "HTTP 521 from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Barcelona-ESP/Technical-Sales-Specialist--Fusion_26WD105082-2": [
      1793615442,
@@ -7403,6 +7404,10 @@
      1793485167,
      "7ae56b7bdb36"
     ],
+    "bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0": [
+     1794619851,
+     "e8437a9649cb"
+    ],
     "bbf9fd7c-8666-4487-9a12-1539e08fe4e0": [
      1793638877,
      "558dd14296d1"
@@ -7645,7 +7650,7 @@
   },
   "broadcom-vmware@workday:broadcom.wd1.myworkdayjobs.com/external_career": {
    "err": "HTTP 521 from https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/CAN-Ontario-Remote-Location/Principal-Forward-Deployed-Engineer---AI---Developer-Platform_R027411": [
      1793485167,
@@ -7723,7 +7728,7 @@
   },
   "cadence@workday:cadence.wd1.myworkdayjobs.com/external_careers": {
    "err": "HTTP 521 from https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-   "fails": 2,
+   "fails": 3,
    "gone": {
     "/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1": [
      1793485167,
@@ -7795,7 +7800,7 @@
   },
   "canadian-solar@workday:canadiansolar.wd5.myworkdayjobs.com/canadiansolar": {
    "err": "HTTP 521 from https://canadiansolar.wd5.myworkdayjobs.com/wday/cxs/canadiansolar/CanadianSolar/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Canada---Remote/HR-Business-Partner_10001525-1": [
      1793486441,
@@ -10128,7 +10133,7 @@
   },
   "ciena@workday:ciena.wd5.myworkdayjobs.com/careers": {
    "err": "HTTP 521 from https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Baltimore/Director-IT-Program-Management-Office_R031946-1": [
      1793635315,
@@ -16106,7 +16111,7 @@
   },
   "crowdstrike@workday:crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers": {
    "err": "HTTP 521 from https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Canada---Remote-BC/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30574": [
      1793606449,
@@ -16994,6 +16999,10 @@
     "4abb136c-f02f-4b1b-a287-e73b59aee9a6": [
      1793746845,
      "97c65f8810ec"
+    ],
+    "4b6b8e36-43de-41bf-b58e-421314007bf0": [
+     1794619851,
+     "822f510b923a"
     ],
     "4ba723b1-35f9-46dd-b7ca-eb2afcc36af8": [
      1793485167,
@@ -26094,7 +26103,7 @@
   },
   "ecobee-generac@workday:generac.wd5.myworkdayjobs.com/external": {
    "err": "HTTP 521 from https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/External/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Toronto-Canada/Intern-Sales_JR18392": [
      1794504642,
@@ -38899,7 +38908,7 @@
   },
   "ge-vernova@workday:gevernova.wd5.myworkdayjobs.com/vernova_externalsite": {
    "err": "HTTP 521 from https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Greenville/Senior-Manager---Engineering-Capability---Transformation-Leader_R5054901-3": [
      1793485167,
@@ -39165,7 +39174,7 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "err": "HTTP 521 from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-   "fails": 9,
+   "fails": 10,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -42919,6 +42928,10 @@
      1794380485,
      "775e7595d8a1"
     ],
+    "06f19e6b-f817-41ea-9c54-94d865f88428": [
+     1794619851,
+     "1701cd7c2741"
+    ],
     "0879ab97-7ed2-49e0-b5d6-4565ce63f273": [
      1793485167,
      "fef205fe8965"
@@ -43583,6 +43596,10 @@
      1793485167,
      "a88b33085cca"
     ],
+    "73abccb8-edc9-410a-a3b1-7d80d88f1c56": [
+     1794619851,
+     "2773713dec33"
+    ],
     "754bb046-a622-40dd-8416-0af87f1f0301": [
      1793485167,
      "4d31803dfdcf"
@@ -43934,6 +43951,10 @@
     "ac406ea9-bd7f-4a50-9341-8370ceca3949": [
      1794016880,
      "c11428d0f891"
+    ],
+    "acd2604b-426a-4d2f-bcd3-e57f66f8d470": [
+     1794619851,
+     "f0b0f98f350b"
     ],
     "ad1fb947-0858-4e81-a8e0-a7d4a2822201": [
      1793485167,
@@ -44425,7 +44446,7 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "err": "HTTP 521 from https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
-   "fails": 2,
+   "fails": 3,
    "gone": {
     "/job/Kelowna-British-Columbia-Canada/Regional-Service-Manager---Western-Canada_R0149767": [
      1793730675,
@@ -45266,7 +45287,7 @@
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
    "err": "HTTP 521 from https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/All-Quebec-Canada/Presales-Solution-Consultant---Consultant-en-systmes-avant-vente_1217756-2": [
      1793908872,
@@ -45633,7 +45654,7 @@
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
    "err": "HTTP 521 from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Canada-Toronto/Compiler-Engineer_JR0286164-1": [
      1793485167,
@@ -48310,7 +48331,7 @@
   },
   "marvell@workday:marvell.wd1.myworkdayjobs.com/marvellcareers": {
    "err": "HTTP 521 from https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/CA-ON---Ottawa/Senior-Staff-Engineer-Analog-Mixed-Signal-Design---Optical_2600104-1": [
      1793485167,
@@ -51766,7 +51787,7 @@
   },
   "motorola-solutions-avigilon@workday:motorolasolutions.wd5.myworkdayjobs.com/careers": {
    "err": "HTTP 521 from https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/British-ColumbiaCAN-Offsite/Knowledge---Learning-Program-Manager--Hybrid-_R68338": [
      1794261650,
@@ -51986,7 +52007,7 @@
   },
   "nasdaq-boardvantage-verafin@workday:nasdaq.wd1.myworkdayjobs.com/global_external_site": {
    "err": "HTTP 521 from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs",
-   "fails": 2,
+   "fails": 3,
    "gone": {
     "/job/CA-Toronto-York-St-2425/CAP-Intelligence-Platform-Databricks-Engineer_R0026987": [
      1793486441,
@@ -52103,7 +52124,7 @@
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
    "err": "HTTP 521 from https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextracker/Nextpower_Careers/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Florida---Remote---USA/Robot-Operator---Service-Technician_NX-4773": [
      1793486441,
@@ -54340,7 +54361,7 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "err": "HTTP 521 from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-   "fails": 9,
+   "fails": 10,
    "gone": {
     "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
      1793667645,
@@ -57465,6 +57486,11 @@
      "065a522de4fd",
      1793658639
     ],
+    "a58b83f6-2955-4d89-8c13-14372c89263a": [
+     1793485167,
+     "d631764fc5e2",
+     1794619851
+    ],
     "a67d16f7-0273-4052-bb48-06bf9c478eb6": [
      1793485167,
      "e2a658326378",
@@ -60037,10 +60063,6 @@
     "a58add97-1968-4d5c-b504-ab62bea12df3": [
      1793485167,
      "40547d9beb4c"
-    ],
-    "a58b83f6-2955-4d89-8c13-14372c89263a": [
-     1793485167,
-     "d631764fc5e2"
     ],
     "a5dd77a2-9ab1-4165-98aa-c7bb0260985b": [
      1793485167,
@@ -64397,6 +64419,10 @@
      1793980852,
      "7b15224f03bc"
     ],
+    "8357686": [
+     1794619851,
+     "b30749601ef8"
+    ],
     "8358469": [
      1793959260,
      "3fde1f01285e"
@@ -64584,7 +64610,7 @@
   },
   "red-hat@workday:redhat.wd5.myworkdayjobs.com/jobs": {
    "err": "HTTP 521 from https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Remote-CA-ON/Project-Manager---Technical_R-060158-1": [
      1793485167,
@@ -64822,7 +64848,7 @@
   },
   "rockwell-automation@workday:rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation": {
    "err": "HTTP 521 from https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "/job/Cambridge-Ontario-Canada/AI-Readiness-Specialist_R26-7930-1": [
      1793485167,
@@ -69344,7 +69370,7 @@
   },
   "semtech-sierra-wireless@workday:semtech.wd1.myworkdayjobs.com/semtechcareers": {
    "err": "HTTP 521 from https://semtech.wd1.myworkdayjobs.com/wday/cxs/semtech/SemtechCareers/jobs",
-   "fails": 2,
+   "fails": 3,
    "gone": {
     "/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622": [
      1793485167,
@@ -87176,7 +87202,7 @@
   },
   "workday@workday:workday.wd5.myworkdayjobs.com/workday": {
    "err": "HTTP 521 from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "fails": 7,
+   "fails": 8,
    "gone": {
     "/job/Canada-BC-Vancouver/DevOps-Engineer--Evisort-AI_JR-0110243": [
      1793485167,
