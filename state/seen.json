@@ -6930,7 +6930,7 @@
   },
   "autodesk@workday:autodesk.wd1.myworkdayjobs.com/ext": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
-   "fails": 33,
+   "fails": 34,
    "gone": {
     "/job/Barcelona-ESP/Technical-Sales-Specialist--Fusion_26WD105082-2": [
      1793615442,
@@ -39170,7 +39170,7 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-   "fails": 41,
+   "fails": 42,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -44450,7 +44450,7 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
-   "fails": 34,
+   "fails": 35,
    "gone": {
     "/job/Kelowna-British-Columbia-Canada/Regional-Service-Manager---Western-Canada_R0149767": [
      1793730675,
@@ -45292,7 +45292,7 @@
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-   "fails": 39,
+   "fails": 40,
    "gone": {
     "/job/All-Quebec-Canada/Presales-Solution-Consultant---Consultant-en-systmes-avant-vente_1217756-2": [
      1793908872,
@@ -45659,7 +45659,7 @@
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-   "fails": 33,
+   "fails": 34,
    "gone": {
     "/job/Canada-Toronto/Compiler-Engineer_JR0286164-1": [
      1793485167,
@@ -47470,6 +47470,10 @@
      1793485167,
      "698376b12678"
     ],
+    "a38cccbe-f540-4e4f-a970-3aa197c7b097": [
+     1794673846,
+     "e96cbbfc3d5e"
+    ],
     "a86c555e-87ed-4942-b52e-c6081159f5d2": [
      1793485167,
      "100f2bb7277b"
@@ -47485,6 +47489,10 @@
     "b23ea9af-c6dc-40fa-86ce-75042b905173": [
      1793485167,
      "ec6fb0ba7faf"
+    ],
+    "b8e80939-373d-4d9d-a191-faee606c7efe": [
+     1794673846,
+     "01faf5430847"
     ],
     "b9cf3229-c257-4536-bae6-e9b63134dc68": [
      1793485167,
@@ -47530,6 +47538,10 @@
      1793485167,
      "467d03fcc805"
     ],
+    "da014d1d-f537-4bd2-a1de-f1e755c73d6e": [
+     1794673846,
+     "2ca7117940cf"
+    ],
     "da7cbabd-ceed-4d7d-ae25-f226cac0c1c1": [
      1793485167,
      "f0d06523a69a"
@@ -47569,6 +47581,10 @@
     "e86a5b13-75e7-4b4e-bc18-3c81b58d1543": [
      1793485167,
      "f4aa36e66d62"
+    ],
+    "ebfd7cd4-c9cd-46bd-b406-3fadaffcecef": [
+     1794673846,
+     "a2688e2d359d"
     ],
     "f0396971-39fa-4d40-9af8-60e529bb6c86": [
      1793485167,
@@ -52012,8 +52028,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "nasdaq-boardvantage-verafin@workday:nasdaq.wd1.myworkdayjobs.com/global_external_site": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs",
-   "fails": 34,
    "gone": {
     "/job/CA-Toronto-York-St-2425/CAP-Intelligence-Platform-Databricks-Engineer_R0026987": [
      1793486441,
@@ -52126,8 +52140,7 @@
     ]
    },
    "name": "Nasdaq (Boardvantage / Verafin)",
-   "since": "2026-10-31T22:40:41+00:00",
-   "warned": true
+   "since": "2026-10-31T22:40:41+00:00"
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
    "gone": {
@@ -54366,7 +54379,7 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-   "fails": 41,
+   "fails": 42,
    "gone": {
     "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
      1793667645,
@@ -87209,8 +87222,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "workday@workday:workday.wd5.myworkdayjobs.com/workday": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "fails": 39,
    "gone": {
     "/job/Canada-BC-Vancouver/DevOps-Engineer--Evisort-AI_JR-0110243": [
      1793485167,
@@ -87421,8 +87432,7 @@
     ]
    },
    "name": "Workday",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "workiva@workday:workiva.wd503.myworkdayjobs.com/careers": {
    "gone": {
