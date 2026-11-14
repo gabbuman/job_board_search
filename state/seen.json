@@ -45647,8 +45647,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\">   <head>     <meta charset=\"utf-8\" />') from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-   "fails": 38,
    "gone": {
     "/job/Canada-Toronto/Compiler-Engineer_JR0286164-1": [
      1793485167,
@@ -45738,8 +45736,7 @@
     ]
    },
    "name": "Intel",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "ironclad@ashby:ironcladhq": {
    "gone": {
@@ -62949,11 +62946,6 @@
      "d58ece8b9897",
      1793889046
     ],
-    "8314244": [
-     1793485167,
-     "f8c1cdc70dad",
-     1794618048
-    ],
     "8314940": [
      1793485167,
      "665be836e8bb",
@@ -64152,6 +64144,10 @@
     "8312377": [
      1793485167,
      "13d3aa9a3be8"
+    ],
+    "8314244": [
+     1793485167,
+     "f8c1cdc70dad"
     ],
     "8315041": [
      1793485167,
@@ -67250,6 +67246,11 @@
      "0d090168b28f",
      1794335460
     ],
+    "8358654": [
+     1793966453,
+     "99da22bb0909",
+     1794682843
+    ],
     "8359060": [
      1793977252,
      "1e81006dbba2",
@@ -68383,10 +68384,6 @@
     "8358633": [
      1793966453,
      "9be4d6c917cf"
-    ],
-    "8358654": [
-     1793966453,
-     "99da22bb0909"
     ],
     "8358663": [
      1793968244,
