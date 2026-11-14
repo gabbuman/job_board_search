@@ -6930,7 +6930,7 @@
   },
   "autodesk@workday:autodesk.wd1.myworkdayjobs.com/ext": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
-   "fails": 31,
+   "fails": 32,
    "gone": {
     "/job/Barcelona-ESP/Technical-Sales-Specialist--Fusion_26WD105082-2": [
      1793615442,
@@ -7657,7 +7657,7 @@
   },
   "broadcom-vmware@workday:broadcom.wd1.myworkdayjobs.com/external_career": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs",
-   "fails": 31,
+   "fails": 32,
    "gone": {
     "/job/CAN-Ontario-Remote-Location/Principal-Forward-Deployed-Engineer---AI---Developer-Platform_R027411": [
      1793485167,
@@ -7736,7 +7736,7 @@
   },
   "cadence@workday:cadence.wd1.myworkdayjobs.com/external_careers": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs",
-   "fails": 32,
+   "fails": 33,
    "gone": {
     "/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1": [
      1793485167,
@@ -10138,8 +10138,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "ciena@workday:ciena.wd5.myworkdayjobs.com/careers": {
-   "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs",
-   "fails": 37,
    "gone": {
     "/job/Baltimore/Director-IT-Program-Management-Office_R031946-1": [
      1793635315,
@@ -10625,8 +10623,7 @@
     ]
    },
    "name": "Ciena",
-   "since": "2026-10-31T22:19:27+00:00",
-   "warned": true
+   "since": "2026-10-31T22:19:27+00:00"
   },
   "clickhouse@ashby:clickhouse": {
    "gone": {
@@ -39179,7 +39176,7 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-   "fails": 39,
+   "fails": 40,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -44459,7 +44456,7 @@
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
-   "fails": 32,
+   "fails": 33,
    "gone": {
     "/job/Kelowna-British-Columbia-Canada/Regional-Service-Manager---Western-Canada_R0149767": [
      1793730675,
@@ -45301,7 +45298,7 @@
   },
   "hpe@workday:hpe.wd5.myworkdayjobs.com/jobsathpe": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-   "fails": 37,
+   "fails": 38,
    "gone": {
     "/job/All-Quebec-Canada/Presales-Solution-Consultant---Consultant-en-systmes-avant-vente_1217756-2": [
      1793908872,
@@ -45668,7 +45665,7 @@
   },
   "intel@workday:intel.wd1.myworkdayjobs.com/external": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-   "fails": 31,
+   "fails": 32,
    "gone": {
     "/job/Canada-Toronto/Compiler-Engineer_JR0286164-1": [
      1793485167,
@@ -46021,11 +46018,6 @@
      "b5c278caa0ef",
      1793743246
     ],
-    "4472280009": [
-     1793485167,
-     "52d5f5faa360",
-     1794583852
-    ],
     "4477617009": [
      1793725275,
      "acd67a50b78e",
@@ -46218,6 +46210,10 @@
     "4465289009": [
      1793485167,
      "f537266694ad"
+    ],
+    "4472280009": [
+     1793485167,
+     "52d5f5faa360"
     ],
     "4475037009": [
      1793485167,
@@ -48347,7 +48343,7 @@
   },
   "marvell@workday:marvell.wd1.myworkdayjobs.com/marvellcareers": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs",
-   "fails": 31,
+   "fails": 32,
    "gone": {
     "/job/CA-ON---Ottawa/Senior-Staff-Engineer-Analog-Mixed-Signal-Design---Optical_2600104-1": [
      1793485167,
@@ -52022,7 +52018,7 @@
   },
   "nasdaq-boardvantage-verafin@workday:nasdaq.wd1.myworkdayjobs.com/global_external_site": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs",
-   "fails": 32,
+   "fails": 33,
    "gone": {
     "/job/CA-Toronto-York-St-2425/CAP-Intelligence-Platform-Databricks-Engineer_R0026987": [
      1793486441,
@@ -53679,6 +53675,11 @@
      "36134d951464",
      1793716267
     ],
+    "o2WVAfwd": [
+     1793485167,
+     "a38400ff45be",
+     1794670255
+    ],
     "o2zCAfwx": [
      1793485167,
      "b8a102045718",
@@ -53887,10 +53888,6 @@
     "o2LBAfwI": [
      1793485167,
      "f194d6a582ae"
-    ],
-    "o2WVAfwd": [
-     1793485167,
-     "a38400ff45be"
     ],
     "o2sVAfwJ": [
      1793818881,
@@ -54374,7 +54371,7 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-   "fails": 39,
+   "fails": 40,
    "gone": {
     "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
      1793667645,
@@ -64867,7 +64864,7 @@
   },
   "rockwell-automation@workday:rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
-   "fails": 31,
+   "fails": 32,
    "gone": {
     "/job/Cambridge-Ontario-Canada/AI-Readiness-Specialist_R26-7930-1": [
      1793485167,
@@ -87221,7 +87218,7 @@
   },
   "workday@workday:workday.wd5.myworkdayjobs.com/workday": {
    "err": "non-JSON response ('<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head>     <meta http-equiv=\"Content-') from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "fails": 37,
+   "fails": 38,
    "gone": {
     "/job/Canada-BC-Vancouver/DevOps-Engineer--Evisort-AI_JR-0110243": [
      1793485167,
