@@ -24891,6 +24891,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "2EE7C0E558": [
@@ -33750,6 +33752,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "E1D6B559A2": [
      1793485167,
@@ -45481,6 +45485,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "0BD8C06DB3": [
@@ -62339,6 +62345,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "178D4E5A38": [
      1793486441,
@@ -64575,6 +64583,10 @@
     "8382294": [
      1794468638,
      "4e3e04017b92"
+    ],
+    "8383151": [
+     1794774669,
+     "a906eed83ba9"
     ],
     "8383601": [
      1794508242,
@@ -67128,6 +67140,11 @@
      "32c1a32c0803",
      1794603791
     ],
+    "8207928": [
+     1793563242,
+     "95214cb75b18",
+     1794774669
+    ],
     "8209909": [
      1793485167,
      "8868fb8e44da",
@@ -67836,10 +67853,6 @@
     "8207926": [
      1793485167,
      "0fcee2940222"
-    ],
-    "8207928": [
-     1793563242,
-     "95214cb75b18"
     ],
     "8210697": [
      1793485167,
@@ -82854,6 +82867,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "swtch-energy@workable:swtch-energy": {
+   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/swtch-energy (after 3 attempts)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "0DC3509E06": [
@@ -84301,6 +84316,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
