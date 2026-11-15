@@ -54384,6 +54384,11 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "gone": {
+    "/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1": [
+     1793831458,
+     "56d0bf4d6b11",
+     1794709838
+    ],
     "/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914": [
      1793667645,
      "ae407fa4867c",
@@ -54407,10 +54412,6 @@
     "/job/Canada-Remote/Senior-Formal-Verification-Engineer_JR2012546": [
      1793485167,
      "f65e6fc8db2a"
-    ],
-    "/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1": [
-     1793831458,
-     "56d0bf4d6b11"
     ],
     "/job/Canada-Remote/Senior-Software-Engineer---DGX-Cloud_JR2028921": [
      1793667645,
