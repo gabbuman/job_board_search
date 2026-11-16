@@ -7763,6 +7763,11 @@
      "4baad9205fa7",
      1793665851
     ],
+    "/job/MOUNT-ROYAL-Montreal/Ingnieur-en-conception-de-micrologiciel---Firmware-Design-Engineer_R55507": [
+     1793485167,
+     "55621cd21b95",
+     1794834045
+    ],
     "/job/MOUNT-ROYAL-Montreal/Lead-Digital-Verification-Engineer_R56952": [
      1793745042,
      "fd8a1a0ff631",
@@ -7785,10 +7790,6 @@
     "/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2": [
      1793485167,
      "2be5872d9fe4"
-    ],
-    "/job/MOUNT-ROYAL-Montreal/Ingnieur-en-conception-de-micrologiciel---Firmware-Design-Engineer_R55507": [
-     1793485167,
-     "55621cd21b95"
     ],
     "/job/MOUNT-ROYAL-Montreal/Ingnieur-en-conception-de-micrologiciel---Firmware-Design-Engineer_R55931": [
      1793485167,
@@ -11812,6 +11813,11 @@
      "add80d332606",
      1794589263
     ],
+    "8160660": [
+     1793485167,
+     "f26b1d9f8da0",
+     1794834045
+    ],
     "8161030": [
      1793485167,
      "f226ab767e90",
@@ -12711,10 +12717,6 @@
     "8159463": [
      1793485167,
      "0fd1a10ac073"
-    ],
-    "8160660": [
-     1793485167,
-     "f26b1d9f8da0"
     ],
     "8161890": [
      1793485167,
@@ -32852,6 +32854,11 @@
      "1851161e0273",
      1793719842
     ],
+    "7820221003": [
+     1793626242,
+     "6788b40aa626",
+     1794834045
+    ],
     "7826669003": [
      1793485167,
      "db5d960f2ca7",
@@ -33229,10 +33236,6 @@
     "7818401003": [
      1793485167,
      "f3566a956660"
-    ],
-    "7820221003": [
-     1793626242,
-     "6788b40aa626"
     ],
     "7820250003": [
      1793485167,
@@ -38951,6 +38954,10 @@
     "24935": [
      1794479446,
      "b933d66666aa"
+    ],
+    "24938": [
+     1794834045,
+     "6c13f0fc2ef4"
     ],
     "24939": [
      1794432962,
@@ -45465,6 +45472,10 @@
     "8383515": [
      1794520849,
      "b443625e59fa"
+    ],
+    "8392381": [
+     1794834045,
+     "51a18eff83aa"
     ]
    },
    "name": "Hootsuite",
@@ -48623,6 +48634,11 @@
   },
   "minesense@lever:minesense": {
    "gone": {
+    "223881d1-be4e-446f-847d-eb3ef06280ed": [
+     1793485167,
+     "eafd1f905bc9",
+     1794834045
+    ],
     "db9821de-5d39-4cd9-b99f-a7b7586d4f80": [
      1793485167,
      "8dc14b0266dd",
@@ -48630,10 +48646,6 @@
     ]
    },
    "jobs": {
-    "223881d1-be4e-446f-847d-eb3ef06280ed": [
-     1793485167,
-     "eafd1f905bc9"
-    ],
     "26515f1f-7c7c-4ccf-986e-071cb0a793d0": [
      1793485167,
      "549c3842d88d"
@@ -77384,6 +77396,10 @@
     "eb9f1871-de71-4d76-8a7b-e885d491dd12": [
      1793485167,
      "aeaa9f1dea5d"
+    ],
+    "ec9198c9-eb12-464c-98d6-3473d4afb65a": [
+     1794834045,
+     "0d4a7c07baa3"
     ],
     "ecd08904-f188-4336-bf8c-f75f97df1a02": [
      1793485167,
