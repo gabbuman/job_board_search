@@ -22694,11 +22694,6 @@
      "62d930b5c636",
      1793701842
     ],
-    "5742916": [
-     1793485167,
-     "9fe5f89f4242",
-     1793984500
-    ],
     "6430289": [
      1793485167,
      "15fb6fa5bd4b",
@@ -22728,11 +22723,6 @@
      1793485167,
      "d6d40c6f51ea",
      1793710860
-    ],
-    "7101117": [
-     1793485167,
-     "a46280ca2f82",
-     1793984500
     ],
     "7128703": [
      1793485167,
@@ -23087,6 +23077,10 @@
      1793485167,
      "4147c7300c71"
     ],
+    "5742916": [
+     1793485167,
+     "9fe5f89f4242"
+    ],
     "5798241": [
      1793485167,
      "f8a64d0f5e99"
@@ -23203,6 +23197,10 @@
      1793485167,
      "cd6f70424ea6"
     ],
+    "7101117": [
+     1793485167,
+     "a46280ca2f82"
+    ],
     "7117086": [
      1793485167,
      "ccebb5ac58b4"
@@ -23262,6 +23260,10 @@
     "7232590": [
      1793485167,
      "222ec5154060"
+    ],
+    "7244867": [
+     1794817846,
+     "81ab2fb660c9"
     ],
     "7297575": [
      1793485167,
@@ -52256,6 +52258,11 @@
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
    "gone": {
+    "/job/Chennai-Tamilnadu--IND/Assistant-Manager--Accounts-Payable---EMEA_NX-4989": [
+     1793486441,
+     "ba1b1e4427d7",
+     1794817846
+    ],
     "/job/Florida---Remote---USA/Robot-Operator---Service-Technician_NX-4773": [
      1793486441,
      "7bd7bcd1de68",
@@ -52519,10 +52526,6 @@
     "/job/California---Remote---USA/Technician--BESS_NX-4857": [
      1793486441,
      "284c11c9e28c"
-    ],
-    "/job/Chennai-Tamilnadu--IND/Assistant-Manager--Accounts-Payable---EMEA_NX-4989": [
-     1793486441,
-     "ba1b1e4427d7"
     ],
     "/job/Chennai-Tamilnadu--IND/Support-Senior-Developer_NX-2921": [
      1793486441,
@@ -52843,6 +52846,10 @@
     "/job/Hyderabad-Telangana---IND/Assistant-Manager---Supply-Chain-Program-Management_NX-4195": [
      1793486441,
      "beb0a9d3defa"
+    ],
+    "/job/Hyderabad-Telangana---IND/Assistant-Manager--Accounts-Payable---EMEA_NX-4989": [
+     1794817846,
+     "a27534b1cadd"
     ],
     "/job/Hyderabad-Telangana---IND/Assistant-Project-Engineer_NX-4873": [
      1793486441,
