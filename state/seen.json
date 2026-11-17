@@ -39534,6 +39534,11 @@
      "f34455410cf8",
      1793991667
     ],
+    "/job/Markham/GE-Vernova-Nuclear-Canadian-Licensing-Intern---12-Co-op_R5054215-2": [
+     1793970046,
+     "724e0e0c3e16",
+     1794891647
+    ],
     "/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-2": [
      1793485167,
      "05ea322658d5",
@@ -39677,10 +39682,6 @@
     "/job/Markham/Finance-Coop---Grid-Automation_R5025772-2": [
      1793485167,
      "e86500904576"
-    ],
-    "/job/Markham/GE-Vernova-Nuclear-Canadian-Licensing-Intern---12-Co-op_R5054215-2": [
-     1793970046,
-     "724e0e0c3e16"
     ],
     "/job/Markham/Hardware-Development-Technical-Lead_R5056891-2": [
      1793485167,
@@ -53029,6 +53030,11 @@
      1793486441,
      "2195dd86f450",
      1793682043
+    ],
+    "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Enterprise-Customer-Success-Manager_R0027205-1": [
+     1794317456,
+     "2174eb85f237",
+     1794891647
     ]
    },
    "jobs": {
@@ -53091,10 +53097,6 @@
     "/job/Canada---St-Johns---Newfoundland--Labrador/Director---Enterprise-Risk-Management_R0027284": [
      1794497459,
      "49c42ec17485"
-    ],
-    "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Enterprise-Customer-Success-Manager_R0027205-1": [
-     1794317456,
-     "2174eb85f237"
     ],
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Sales-Development-Representative_R0026851": [
      1793486441,
@@ -82566,6 +82568,10 @@
      1793485167,
      "fc2870a72d85"
     ],
+    "8199593": [
+     1794891647,
+     "0946bbac5d2f"
+    ],
     "8199596": [
      1793485167,
      "6977dba3291c"
@@ -90146,6 +90152,11 @@
      "65079440a9ad",
      1793995250
     ],
+    "5208411007": [
+     1793802663,
+     "4ea6bee700db",
+     1794891647
+    ],
     "5209068007": [
      1793485167,
      "e8a5059ad633",
@@ -90909,10 +90920,6 @@
     "5207284007": [
      1793485167,
      "7d85e593e9fb"
-    ],
-    "5208411007": [
-     1793802663,
-     "4ea6bee700db"
     ],
     "5208419007": [
      1793736048,
