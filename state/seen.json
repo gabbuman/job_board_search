@@ -4566,7 +4566,7 @@
   },
   "arcadia@lever:arcadia": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/arcadia?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "3b5106b1-8f44-4ec4-9abe-8bc093c73854": [
      1793486441,
@@ -9527,7 +9527,7 @@
   },
   "caseware@lever:caseware": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/caseware?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "0503fb40-b703-4002-b40c-0c5fda65bf21": [
      1793486441,
@@ -10286,7 +10286,7 @@
   },
   "chargelab@lever:chargelab-inc": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/chargelab-inc?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {},
    "jobs": {
     "b0c20e3d-bc61-4bfd-9a4d-b0ba7dbaedf5": [
@@ -14056,6 +14056,10 @@
     "8369401": [
      1794326474,
      "89f5a53f1e59"
+    ],
+    "8370855": [
+     1794915160,
+     "727aff55b52f"
     ],
     "8372322": [
      1794409281,
@@ -27495,6 +27499,10 @@
      1793485167,
      "c8b7119c78e8"
     ],
+    "8067085": [
+     1794915160,
+     "0e775911d1a6"
+    ],
     "8067193": [
      1793485167,
      "cf9211459194"
@@ -34416,7 +34424,7 @@
   },
   "floqast@lever:floqast": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/floqast?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "006d5e2d-8a65-4e44-bf0d-6e68ca265c27": [
      1793486441,
@@ -42444,6 +42452,16 @@
      "ca731334f3e8",
      1793739421
     ],
+    "6146604004": [
+     1793485167,
+     "57a5d2e1bea0",
+     1794915160
+    ],
+    "6146605004": [
+     1793485167,
+     "f27eb33786fd",
+     1794915160
+    ],
     "6208004004": [
      1793485167,
      "15a8ac3b90b2",
@@ -42723,14 +42741,6 @@
     "6130907004": [
      1793485167,
      "833e7caf5370"
-    ],
-    "6146604004": [
-     1793485167,
-     "57a5d2e1bea0"
-    ],
-    "6146605004": [
-     1793485167,
-     "f27eb33786fd"
     ],
     "6147030004": [
      1793485167,
@@ -47366,7 +47376,7 @@
   },
   "kepler-communications@lever:kepler": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/kepler?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "0bbcf7f5-08c9-4159-ae80-815ae8dd0220": [
      1793485167,
@@ -49396,7 +49406,7 @@
   },
   "minesense@lever:minesense": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/minesense?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "223881d1-be4e-446f-847d-eb3ef06280ed": [
      1793485167,
@@ -51781,6 +51791,10 @@
     "8355989": [
      1793898048,
      "2261155c06d4"
+    ],
+    "8358101": [
+     1794915160,
+     "d88e7a88c567"
     ],
     "8359541": [
      1793988056,
@@ -55739,11 +55753,6 @@
      "25c9bca0fd3e",
      1793856651
     ],
-    "7960157": [
-     1793865668,
-     "3a2e2680e830",
-     1794375039
-    ],
     "8002576": [
      1793485167,
      "0be747adf94a",
@@ -56459,6 +56468,10 @@
     "7941715": [
      1793485167,
      "38bba8e461be"
+    ],
+    "7960157": [
+     1793865668,
+     "3a2e2680e830"
     ],
     "7963271": [
      1794837647,
@@ -57694,7 +57707,7 @@
   },
   "omnidian@lever:omnidian": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/omnidian?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "88d655b3-e504-454b-8225-7176b077771b": [
      1793486441,
@@ -58241,7 +58254,7 @@
   },
   "onit@lever:onit": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/onit?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "287cdc4c-c8b4-4ea8-a0bb-0d95b41258a9": [
      1793486441,
@@ -63901,7 +63914,7 @@
   },
   "promise-robotics@lever:promiserobotics": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/promiserobotics?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "6f3bbde4-3401-42e8-bcb5-2a37f73fd209": [
      1793485167,
@@ -68837,11 +68850,6 @@
      "34c16e85093f",
      1793977252
     ],
-    "8337515": [
-     1793619050,
-     "f437b44d064f",
-     1794828657
-    ],
     "8337673": [
      1793485167,
      "503cb1737e00",
@@ -69871,6 +69879,10 @@
     "8336436": [
      1793485167,
      "d197b8d6c20d"
+    ],
+    "8337515": [
+     1793619050,
+     "f437b44d064f"
     ],
     "8351204": [
      1793745042,
@@ -77056,6 +77068,10 @@
     "744000162050389": [
      1794913374,
      "81073b1b2f1d"
+    ],
+    "744000162053449": [
+     1794915160,
+     "845a089d2679"
     ]
    },
    "name": "ServiceNow",
@@ -77063,7 +77079,7 @@
   },
   "shakudo@lever:shakudo": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/shakudo?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "30330d3f-f212-4e1d-a64e-046a0298a486": [
      1793485167,
@@ -88620,7 +88636,7 @@
   },
   "waabi@lever:waabi": {
    "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/waabi?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 1,
+   "fails": 2,
    "gone": {
     "0a392ba0-7f39-4dcd-a44e-2c810548b1f2": [
      1793485167,
@@ -90104,6 +90120,10 @@
     ]
    },
    "jobs": {
+    "00cc9419-85ee-4324-82f6-19a0d315bc46": [
+     1794915160,
+     "2cdf8474ec1d"
+    ],
     "00f6bb59-1f15-4429-906d-809ad100c0f5": [
      1793750446,
      "ad94d0245691"
@@ -90837,6 +90857,11 @@
      1793898048,
      "fb4c18a1223c",
      1794420051
+    ],
+    "5272004007": [
+     1794236456,
+     "ec6fd12e6002",
+     1794915160
     ],
     "5274394007": [
      1793485167,
@@ -92124,10 +92149,6 @@
     "5271998007": [
      1793485167,
      "cd92d0b5de68"
-    ],
-    "5272004007": [
-     1794236456,
-     "ec6fd12e6002"
     ],
     "5272056007": [
      1793485167,
