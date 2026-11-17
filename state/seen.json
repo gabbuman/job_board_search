@@ -4565,8 +4565,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "arcadia@lever:arcadia": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/arcadia?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 504 from https://api.lever.co/v0/postings/arcadia?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "3b5106b1-8f44-4ec4-9abe-8bc093c73854": [
      1793486441,
@@ -9526,8 +9526,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "caseware@lever:caseware": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/caseware?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 504 from https://api.lever.co/v0/postings/caseware?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "0503fb40-b703-4002-b40c-0c5fda65bf21": [
      1793486441,
@@ -10285,8 +10285,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "chargelab@lever:chargelab-inc": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/chargelab-inc?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 502 from https://api.lever.co/v0/postings/chargelab-inc?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {},
    "jobs": {
     "b0c20e3d-bc61-4bfd-9a4d-b0ba7dbaedf5": [
@@ -33477,6 +33477,11 @@
      "afe7a85af230",
      1793865668
     ],
+    "8008095003": [
+     1793485167,
+     "e4c8efddde82",
+     1794915853
+    ],
     "8008322003": [
      1793485167,
      "7ccd709aa8d0",
@@ -33955,10 +33960,6 @@
      1793485167,
      "eed55f72b22a"
     ],
-    "8008095003": [
-     1793485167,
-     "e4c8efddde82"
-    ],
     "8009201003": [
      1793485167,
      "a0edf7bfb537"
@@ -34267,6 +34268,10 @@
      1794256260,
      "11bcf8b320fe"
     ],
+    "8200340003": [
+     1794915853,
+     "494c2b28d64d"
+    ],
     "8200480003": [
      1794501043,
      "455f67e3590d"
@@ -34423,8 +34428,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "floqast@lever:floqast": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/floqast?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 502 from https://api.lever.co/v0/postings/floqast?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "006d5e2d-8a65-4e44-bf0d-6e68ca265c27": [
      1793486441,
@@ -47375,8 +47380,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "kepler-communications@lever:kepler": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/kepler?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 502 from https://api.lever.co/v0/postings/kepler?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "0bbcf7f5-08c9-4159-ae80-815ae8dd0220": [
      1793485167,
@@ -49405,8 +49410,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "minesense@lever:minesense": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/minesense?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 500 from https://api.lever.co/v0/postings/minesense?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "223881d1-be4e-446f-847d-eb3ef06280ed": [
      1793485167,
@@ -55778,6 +55783,11 @@
      "d22f2a58c4c5",
      1794574857
     ],
+    "8022237": [
+     1793485167,
+     "f6fd73883150",
+     1794915853
+    ],
     "8036362": [
      1793485167,
      "04b6a7133fad",
@@ -56516,10 +56526,6 @@
     "8022189": [
      1793485167,
      "3568fe732297"
-    ],
-    "8022237": [
-     1793485167,
-     "f6fd73883150"
     ],
     "8022482": [
      1793485167,
@@ -57706,8 +57712,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "omnidian@lever:omnidian": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/omnidian?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 502 from https://api.lever.co/v0/postings/omnidian?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "88d655b3-e504-454b-8225-7176b077771b": [
      1793486441,
@@ -58253,8 +58259,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "onit@lever:onit": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/onit?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 500 from https://api.lever.co/v0/postings/onit?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "287cdc4c-c8b4-4ea8-a0bb-0d95b41258a9": [
      1793486441,
@@ -63913,8 +63919,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "promise-robotics@lever:promiserobotics": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/promiserobotics?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 504 from https://api.lever.co/v0/postings/promiserobotics?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "6f3bbde4-3401-42e8-bcb5-2a37f73fd209": [
      1793485167,
@@ -77072,14 +77078,18 @@
     "744000162053449": [
      1794915160,
      "845a089d2679"
+    ],
+    "744000162056849": [
+     1794915853,
+     "cea4bc7eeffa"
     ]
    },
    "name": "ServiceNow",
    "since": "2026-10-31T22:19:27+00:00"
   },
   "shakudo@lever:shakudo": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/shakudo?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 504 from https://api.lever.co/v0/postings/shakudo?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "30330d3f-f212-4e1d-a64e-046a0298a486": [
      1793485167,
@@ -83360,6 +83370,10 @@
      1793485167,
      "a40978faf8e9"
     ],
+    "8241299": [
+     1794915853,
+     "ce0ddb29f902"
+    ],
     "8241304": [
      1793485167,
      "c994150943ce"
@@ -88635,8 +88649,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "waabi@lever:waabi": {
-   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/waabi?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 2,
+   "err": "HTTP 504 from https://api.lever.co/v0/postings/waabi?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 3,
    "gone": {
     "0a392ba0-7f39-4dcd-a44e-2c810548b1f2": [
      1793485167,
