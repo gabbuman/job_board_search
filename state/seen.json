@@ -4565,6 +4565,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "arcadia@lever:arcadia": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/arcadia?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "3b5106b1-8f44-4ec4-9abe-8bc093c73854": [
      1793486441,
@@ -9524,6 +9526,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "caseware@lever:caseware": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/caseware?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "0503fb40-b703-4002-b40c-0c5fda65bf21": [
      1793486441,
@@ -10281,6 +10285,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "chargelab@lever:chargelab-inc": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/chargelab-inc?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "b0c20e3d-bc61-4bfd-9a4d-b0ba7dbaedf5": [
@@ -23227,6 +23233,11 @@
      "3f8a0cae321a",
      1793739421
     ],
+    "8167729": [
+     1793485167,
+     "6cb283ed6291",
+     1794913374
+    ],
     "8170070": [
      1793485167,
      "1c4fa6c547af",
@@ -24211,10 +24222,6 @@
     "8166231": [
      1793485167,
      "8eaf8a3b9853"
-    ],
-    "8167729": [
-     1793485167,
-     "6cb283ed6291"
     ],
     "8170639": [
      1793485167,
@@ -26789,6 +26796,11 @@
      "cf8dd86ad82c",
      1794868257
     ],
+    "8119456": [
+     1793485167,
+     "c465e79a0e9a",
+     1794913374
+    ],
     "8127255": [
      1793485167,
      "df19a5faac19",
@@ -26983,6 +26995,31 @@
      1793485167,
      "132fe20b3f65",
      1793637049
+    ],
+    "8173299": [
+     1793485167,
+     "cd0bfdf17c23",
+     1794913374
+    ],
+    "8173300": [
+     1793485167,
+     "97115402ab72",
+     1794913374
+    ],
+    "8173301": [
+     1793485167,
+     "00b6ec3168d9",
+     1794913374
+    ],
+    "8173302": [
+     1793485167,
+     "cfe714e76341",
+     1794913374
+    ],
+    "8173419": [
+     1793485167,
+     "7476b164f1c3",
+     1794913374
     ],
     "8175050": [
      1793485167,
@@ -27610,10 +27647,6 @@
      1793485167,
      "2790bf350426"
     ],
-    "8119456": [
-     1793485167,
-     "c465e79a0e9a"
-    ],
     "8121350": [
      1793485167,
      "276b71e8af41"
@@ -27846,29 +27879,9 @@
      1793485167,
      "73d4d378e6f1"
     ],
-    "8173299": [
-     1793485167,
-     "cd0bfdf17c23"
-    ],
-    "8173300": [
-     1793485167,
-     "97115402ab72"
-    ],
-    "8173301": [
-     1793485167,
-     "00b6ec3168d9"
-    ],
-    "8173302": [
-     1793485167,
-     "cfe714e76341"
-    ],
     "8173332": [
      1793485167,
      "e5dee8c4852a"
-    ],
-    "8173419": [
-     1793485167,
-     "7476b164f1c3"
     ],
     "8173421": [
      1793485167,
@@ -28714,9 +28727,17 @@
      1794519041,
      "b6b9816a372a"
     ],
+    "8359528": [
+     1794913374,
+     "b5361bec0a7c"
+    ],
     "8360384": [
      1794000646,
      "bf39a0a495c7"
+    ],
+    "8360665": [
+     1794913374,
+     "e501b016fad3"
     ],
     "8362973": [
      1794061864,
@@ -34394,6 +34415,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "floqast@lever:floqast": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/floqast?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "006d5e2d-8a65-4e44-bf0d-6e68ca265c27": [
      1793486441,
@@ -47342,6 +47365,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "kepler-communications@lever:kepler": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/kepler?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "0bbcf7f5-08c9-4159-ae80-815ae8dd0220": [
      1793485167,
@@ -49370,6 +49395,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "minesense@lever:minesense": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/minesense?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "223881d1-be4e-446f-847d-eb3ef06280ed": [
      1793485167,
@@ -52328,6 +52355,10 @@
     "8651443002": [
      1793485167,
      "c0a17e622dd4"
+    ],
+    "8651445002": [
+     1794913374,
+     "b1fe0c88bc3b"
     ],
     "8654142002": [
      1793485167,
@@ -57662,6 +57693,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "omnidian@lever:omnidian": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/omnidian?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "88d655b3-e504-454b-8225-7176b077771b": [
      1793486441,
@@ -58207,6 +58240,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "onit@lever:onit": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/onit?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "287cdc4c-c8b4-4ea8-a0bb-0d95b41258a9": [
      1793486441,
@@ -63865,6 +63900,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "promise-robotics@lever:promiserobotics": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/promiserobotics?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "6f3bbde4-3401-42e8-bcb5-2a37f73fd209": [
      1793485167,
@@ -77015,12 +77052,18 @@
     "744000162026555": [
      1794907864,
      "b76be6b3b312"
+    ],
+    "744000162050389": [
+     1794913374,
+     "81073b1b2f1d"
     ]
    },
    "name": "ServiceNow",
    "since": "2026-10-31T22:19:27+00:00"
   },
   "shakudo@lever:shakudo": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/shakudo?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "30330d3f-f212-4e1d-a64e-046a0298a486": [
      1793485167,
@@ -77791,6 +77834,10 @@
      1793485167,
      "76035aad1d52"
     ],
+    "2995e87f-f7a9-445c-b2fa-ef0d90aa03ba": [
+     1794913374,
+     "2a0b23546e05"
+    ],
     "2a88cfe2-c699-4023-9725-6dd1703ab18c": [
      1793485167,
      "0f56653aa33e"
@@ -78499,6 +78546,10 @@
      1793485167,
      "2194a33f7099"
     ],
+    "9dfe3597-a930-4aae-8b3c-acd2863df01f": [
+     1794913374,
+     "702bf1f1da44"
+    ],
     "9e0ae021-f264-4efb-bc80-26c04bd06df6": [
      1793485167,
      "27f4d704a589"
@@ -79109,6 +79160,11 @@
      "9b28df0d9050",
      1794615538
     ],
+    "6097843004": [
+     1793485167,
+     "145000a2014f",
+     1794913374
+    ],
     "6101909004": [
      1793485167,
      "f22451296089",
@@ -79431,10 +79487,6 @@
     "6017275004": [
      1793485167,
      "bea301f1f615"
-    ],
-    "6097843004": [
-     1793485167,
-     "145000a2014f"
     ],
     "6097849004": [
      1793485167,
@@ -80231,6 +80283,10 @@
     "6260717004": [
      1794615538,
      "9b28df0d9050"
+    ],
+    "6262464004": [
+     1794913374,
+     "bd81da64e6a0"
     ]
    },
    "name": "Sony Interactive Entertainment",
@@ -88563,6 +88619,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "waabi@lever:waabi": {
+   "err": "TimeoutError: The read operation timed out from https://api.lever.co/v0/postings/waabi?mode=json&limit=100&skip=0 (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "0a392ba0-7f39-4dcd-a44e-2c810548b1f2": [
      1793485167,
