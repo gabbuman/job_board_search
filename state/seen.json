@@ -4565,8 +4565,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "arcadia@lever:arcadia": {
-   "err": "HTTP 504 from https://api.lever.co/v0/postings/arcadia?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "3b5106b1-8f44-4ec4-9abe-8bc093c73854": [
      1793486441,
@@ -9526,8 +9524,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "caseware@lever:caseware": {
-   "err": "HTTP 504 from https://api.lever.co/v0/postings/caseware?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "0503fb40-b703-4002-b40c-0c5fda65bf21": [
      1793486441,
@@ -10285,8 +10281,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "chargelab@lever:chargelab-inc": {
-   "err": "HTTP 502 from https://api.lever.co/v0/postings/chargelab-inc?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {},
    "jobs": {
     "b0c20e3d-bc61-4bfd-9a4d-b0ba7dbaedf5": [
@@ -14104,6 +14098,10 @@
     "8381749": [
      1794605499,
      "fbffa527dd51"
+    ],
+    "8383449": [
+     1794916844,
+     "c48316dc925b"
     ],
     "8383577": [
      1794846648,
@@ -34428,8 +34426,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "floqast@lever:floqast": {
-   "err": "HTTP 502 from https://api.lever.co/v0/postings/floqast?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "006d5e2d-8a65-4e44-bf0d-6e68ca265c27": [
      1793486441,
@@ -47380,8 +47376,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "kepler-communications@lever:kepler": {
-   "err": "HTTP 502 from https://api.lever.co/v0/postings/kepler?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "0bbcf7f5-08c9-4159-ae80-815ae8dd0220": [
      1793485167,
@@ -49410,8 +49404,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "minesense@lever:minesense": {
-   "err": "HTTP 500 from https://api.lever.co/v0/postings/minesense?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "223881d1-be4e-446f-847d-eb3ef06280ed": [
      1793485167,
@@ -53305,6 +53297,11 @@
      "33642e89ec7d",
      1793797246
     ],
+    "/job/Huangpu-Shanghai---CHN/Director_NX-3956": [
+     1793486441,
+     "099fdcb9e75a",
+     1794916844
+    ],
     "/job/Huangpu-Shanghai---CHN/Sr-Manager--Engineering---Power-Conversion---eBOS_NX-4007": [
      1793486441,
      "e11a9e5fedc0",
@@ -53813,10 +53810,6 @@
     "/job/Huangpu-Shanghai---CHN/Component-Engineer_NX-3775": [
      1793486441,
      "631bd6f35679"
-    ],
-    "/job/Huangpu-Shanghai---CHN/Director_NX-3956": [
-     1793486441,
-     "099fdcb9e75a"
     ],
     "/job/Huangpu-Shanghai---CHN/Engineer-I_NX-4219-1": [
      1793486441,
@@ -55026,6 +55019,11 @@
      "09534d105d25",
      1794862852
     ],
+    "ohorAfwq": [
+     1793485167,
+     "9c8b817669d6",
+     1794916844
+    ],
     "onT0AfwA": [
      1793485167,
      "3dca30808b4b",
@@ -55055,11 +55053,6 @@
      1793872851,
      "6533bfac926b",
      1793894473
-    ],
-    "osn3Afwc": [
-     1793763043,
-     "fc0d85afec71",
-     1794547841
     ],
     "otJQAfwm": [
      1793485167,
@@ -55425,10 +55418,6 @@
      1793698240,
      "c14a4eb3bfe1"
     ],
-    "ohorAfwq": [
-     1793485167,
-     "9c8b817669d6"
-    ],
     "oiWRAfwp": [
      1793485167,
      "4d8e0595ceff"
@@ -55512,6 +55501,10 @@
     "os7SAfwL": [
      1794601908,
      "4d6e5901e94b"
+    ],
+    "osn3Afwc": [
+     1793763043,
+     "fc0d85afec71"
     ],
     "otwQAfw9": [
      1793485167,
@@ -57712,8 +57705,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "omnidian@lever:omnidian": {
-   "err": "HTTP 502 from https://api.lever.co/v0/postings/omnidian?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "88d655b3-e504-454b-8225-7176b077771b": [
      1793486441,
@@ -58259,8 +58250,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "onit@lever:onit": {
-   "err": "HTTP 500 from https://api.lever.co/v0/postings/onit?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "287cdc4c-c8b4-4ea8-a0bb-0d95b41258a9": [
      1793486441,
@@ -63919,8 +63908,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "promise-robotics@lever:promiserobotics": {
-   "err": "HTTP 504 from https://api.lever.co/v0/postings/promiserobotics?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "6f3bbde4-3401-42e8-bcb5-2a37f73fd209": [
      1793485167,
@@ -77082,14 +77069,20 @@
     "744000162056849": [
      1794915853,
      "cea4bc7eeffa"
+    ],
+    "744000162059434": [
+     1794916844,
+     "ca8b4b22de43"
+    ],
+    "744000162061279": [
+     1794916844,
+     "03148ae01cfe"
     ]
    },
    "name": "ServiceNow",
    "since": "2026-10-31T22:19:27+00:00"
   },
   "shakudo@lever:shakudo": {
-   "err": "HTTP 504 from https://api.lever.co/v0/postings/shakudo?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "30330d3f-f212-4e1d-a64e-046a0298a486": [
      1793485167,
@@ -80281,6 +80274,10 @@
     "6251398004": [
      1793977252,
      "2abded895ddb"
+    ],
+    "6252454004": [
+     1794916844,
+     "0b0323fa83f3"
     ],
     "6252835004": [
      1794839472,
@@ -88649,8 +88646,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "waabi@lever:waabi": {
-   "err": "HTTP 504 from https://api.lever.co/v0/postings/waabi?mode=json&limit=100&skip=0 (after 4 attempts)",
-   "fails": 3,
    "gone": {
     "0a392ba0-7f39-4dcd-a44e-2c810548b1f2": [
      1793485167,
@@ -90797,6 +90792,11 @@
      "f64f20cb76d8",
      1794583852
     ],
+    "5263573007": [
+     1793485167,
+     "bf599b3c2ad8",
+     1794916844
+    ],
     "5263577007": [
      1793485167,
      "be3673d66c62",
@@ -91939,10 +91939,6 @@
     "5263567007": [
      1793485167,
      "4188740a1e10"
-    ],
-    "5263573007": [
-     1793485167,
-     "bf599b3c2ad8"
     ],
     "5263579007": [
      1793872851,
