@@ -483,7 +483,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 15,
+   "fails": 16,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -31175,6 +31175,10 @@
      1793485167,
      "f105331454d6"
     ],
+    "bd570162-4143-42ac-be87-a473075749b9": [
+     1795059066,
+     "57ff67dbde89"
+    ],
     "bdec1a6d-300b-47fc-a551-3c937d76fee0": [
      1793485167,
      "bf6f4ef1f95a"
@@ -40694,6 +40698,10 @@
      1795019450,
      "02721aab07e7"
     ],
+    "25005": [
+     1795059066,
+     "25d4abd8d23d"
+    ],
     "25010": [
      1795046448,
      "8bd82e6f0c30"
@@ -41012,6 +41020,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
+   "err": "HTTP 429 from https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
@@ -46647,6 +46657,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hitachi-energy@workday:hitachi.wd1.myworkdayjobs.com/hitachi": {
+   "err": "HTTP 429 from https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Kelowna-British-Columbia-Canada/Regional-Service-Manager---Western-Canada_R0149767": [
      1793730675,
@@ -54932,6 +54944,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "nextpower-nextracker@workday:nextracker.wd5.myworkdayjobs.com/nextpower_careers": {
+   "err": "HTTP 429 from https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextracker/Nextpower_Careers/jobs (after 4 attempts)",
+   "fails": 1,
    "gone": {
     "/job/Arizona---Remote---USA/AI-Perception-Engineer-II_NX-5120": [
      1794850249,
@@ -69831,6 +69845,10 @@
      1794943850,
      "cad5106de4e4"
     ],
+    "8394488": [
+     1795059066,
+     "c04db4ca4741"
+    ],
     "8395555": [
      1794948544,
      "5f267219b95c"
@@ -83911,6 +83929,11 @@
      "ff0a7f78c6e2",
      1793658639
     ],
+    "7975698": [
+     1793485167,
+     "a11d617517f4",
+     1795059066
+    ],
     "7986004": [
      1793485167,
      "c95f7636d8d8",
@@ -85105,10 +85128,6 @@
     "7974211": [
      1793485167,
      "e2ce1e137dc2"
-    ],
-    "7975698": [
-     1793485167,
-     "a11d617517f4"
     ],
     "7975721": [
      1793610051,
@@ -90722,6 +90741,11 @@
      "4a48ea07415d",
      1794924098
     ],
+    "8026199": [
+     1793730675,
+     "2557976ecc40",
+     1795059066
+    ],
     "8026207": [
      1793485167,
      "b82c9060a6cf",
@@ -91047,10 +91071,6 @@
     "8001804": [
      1793485167,
      "4f881ee374f9"
-    ],
-    "8026199": [
-     1793730675,
-     "2557976ecc40"
     ],
     "8028473": [
      1793890848,
