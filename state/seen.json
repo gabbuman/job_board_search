@@ -483,7 +483,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 18,
+   "fails": 19,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11764,6 +11764,10 @@
      1793485167,
      "95ac49cd1236"
     ],
+    "bb1fec39-20ad-4a0d-8cf4-a3745fccd2cd": [
+     1795064443,
+     "8276b7619827"
+    ],
     "bdb81a3b-dd72-4785-a908-9fd394025f73": [
      1793485167,
      "95cb0bbcd042"
@@ -19661,6 +19665,11 @@
      "d4cf9e36a7b9",
      1794848474
     ],
+    "8661245002": [
+     1793485167,
+     "c679d5ded237",
+     1795064443
+    ],
     "8661359002": [
      1793485167,
      "8080b5c5d9b0",
@@ -19760,6 +19769,11 @@
      1793485167,
      "e481e9632250",
      1794517247
+    ],
+    "8785221002": [
+     1793485167,
+     "1e8ad310a66d",
+     1795064443
     ],
     "8792626002": [
      1793485167,
@@ -21914,10 +21928,6 @@
      1793485167,
      "c4f439877375"
     ],
-    "8661245002": [
-     1793485167,
-     "c679d5ded237"
-    ],
     "8661520002": [
      1793635315,
      "5d41068371fb"
@@ -22421,10 +22431,6 @@
     "8785065002": [
      1793485167,
      "5e4a745e0111"
-    ],
-    "8785221002": [
-     1793485167,
-     "1e8ad310a66d"
     ],
     "8785294002": [
      1794927668,
@@ -40817,6 +40823,11 @@
      "f46d8fff4c45",
      1794861067
     ],
+    "/job/Markham/R-D-Leader---GridBeats-portfolio_R5053976-2": [
+     1793887247,
+     "f637ea962f85",
+     1795064443
+    ],
     "/job/Markham/Senior-Engineer---Mechanical-Systems_R5056181-2": [
      1793655050,
      "1423baa157f1",
@@ -40851,6 +40862,11 @@
      1793485167,
      "ac40c0b9c665",
      1794272446
+    ],
+    "/job/Schenectady/Hydro-Commercial-Risk-Manager--EPC-Projects----Responsable-des-risques-commerciaux-Hydro--Projets-EPC-_R5050185-1": [
+     1793485167,
+     "804834081c45",
+     1795064443
     ],
     "/job/Wilmington-NC-USA/Nuclear-Pre-Service---In-Service-Inspection-Program-Owner_R5052056-2": [
      1793485167,
@@ -40952,10 +40968,6 @@
      1793485167,
      "a0a67d0c1169"
     ],
-    "/job/Markham/R-D-Leader---GridBeats-portfolio_R5053976-2": [
-     1793887247,
-     "f637ea962f85"
-    ],
     "/job/Markham/Senior-Cybersecurity-Engineer--Center-of-Excellence-_R5056646-2": [
      1793485167,
      "bc951c8fcae8"
@@ -40995,10 +41007,6 @@
     "/job/Sao-Paulo/Senior-Customer-Reliability-Engineer_R5058445": [
      1794259865,
      "21c683f28845"
-    ],
-    "/job/Schenectady/Hydro-Commercial-Risk-Manager--EPC-Projects----Responsable-des-risques-commerciaux-Hydro--Projets-EPC-_R5050185-1": [
-     1793485167,
-     "804834081c45"
     ],
     "/job/Sorel-Tracy/Soudeur-Monteur_R5047848-1": [
      1793485167,
@@ -41055,10 +41063,20 @@
      "4477468bd1f9",
      1793903451
     ],
+    "/job/Markham-Ontario-Canada/Software-Engineer---Simulation-Tooling_JR-202620338": [
+     1793485167,
+     "bcf09dc25246",
+     1795064443
+    ],
     "/job/Markham-Ontario-Canada/Software-Engineer--Simulation-Scalability---Sim-RIM--Release-and-Incident-Management--Focus_JR-202620339": [
      1793485167,
      "414fd71db9be",
      1794382239
+    ],
+    "/job/Markham-Ontario-Canada/Staff-Engineer--Site-Reliability-Engineering_JR-202618328": [
+     1793485167,
+     "90d1706918be",
+     1795064443
     ],
     "/job/Markham-Ontario-Canada/Staff-Fullstack-Engineer---Simulation_JR-202620336": [
      1793485167,
@@ -41157,10 +41175,6 @@
      1793485167,
      "9b1911498b28"
     ],
-    "/job/Markham-Ontario-Canada/Software-Engineer---Simulation-Tooling_JR-202620338": [
-     1793485167,
-     "bcf09dc25246"
-    ],
     "/job/Markham-Ontario-Canada/Software-Engineering-Manager---Vehicle-Data-Platform_JR-202621117": [
      1793485167,
      "0ee29f00cdff"
@@ -41172,10 +41186,6 @@
     "/job/Markham-Ontario-Canada/Sr-Software-Engineering---LV-Power-Distribution_JR-202621921-1": [
      1793485167,
      "7df1ad913798"
-    ],
-    "/job/Markham-Ontario-Canada/Staff-Engineer--Site-Reliability-Engineering_JR-202618328": [
-     1793485167,
-     "90d1706918be"
     ],
     "/job/Markham-Ontario-Canada/Staff-Software-Developer---Diagnostics-Infrastructure_JR-202614896": [
      1793485167,
@@ -54842,6 +54852,11 @@
      "2195dd86f450",
      1793682043
     ],
+    "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Enterprise-Customer-Success-Manager_R0027205-1": [
+     1794317456,
+     "2174eb85f237",
+     1795064443
+    ],
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Sr-Analyst---Client-Support-Services_R0027348": [
      1794510089,
      "4573d8aaa4ff",
@@ -54925,10 +54940,6 @@
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Cloud-Database-Administrator_R0027369-1": [
      1794925865,
      "eedd2fb3b866"
-    ],
-    "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Enterprise-Customer-Success-Manager_R0027205-1": [
-     1794317456,
-     "2174eb85f237"
     ],
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Sales-Development-Representative_R0026851": [
      1793486441,
@@ -57570,11 +57581,6 @@
      "aa38df2435b1",
      1793651445
     ],
-    "8071508": [
-     1793485167,
-     "8f76fd6556fa",
-     1794571265
-    ],
     "8072515": [
      1793485167,
      "c92d099fe9db",
@@ -58439,6 +58445,10 @@
     "8071502": [
      1793485167,
      "7558cfb5ee8b"
+    ],
+    "8071508": [
+     1793485167,
+     "8f76fd6556fa"
     ],
     "8073062": [
      1793485167,
@@ -59564,6 +59574,10 @@
      1795026642,
      "5dcd113457df"
     ],
+    "8397964": [
+     1795064443,
+     "81bd9d3e603f"
+    ],
     "8398418": [
      1795019450,
      "c0122b919779"
@@ -59571,6 +59585,10 @@
     "8401324": [
      1795060882,
      "f3683edd042b"
+    ],
+    "8401378": [
+     1795064443,
+     "10039ce522ba"
     ]
    },
    "name": "Okta",
@@ -60191,6 +60209,11 @@
      "2c466ca75851",
      1793899848
     ],
+    "dbdea020-b58a-45e7-98d6-5d15692b204a": [
+     1794403854,
+     "641773af8a79",
+     1795064443
+    ],
     "e68ccfa9-958f-492d-b507-b428437ea95c": [
      1793486441,
      "b9867181e8ed",
@@ -60301,10 +60324,6 @@
     "d34cc41d-9fe1-44f0-b09c-13546974c92e": [
      1793696455,
      "ad945e2f7b24"
-    ],
-    "dbdea020-b58a-45e7-98d6-5d15692b204a": [
-     1794403854,
-     "641773af8a79"
     ],
     "e012d399-665e-4713-a9c6-17a9a58f39cc": [
      1793601040,
@@ -61227,6 +61246,11 @@
      1793485167,
      "bc905bb99557",
      1794436391
+    ],
+    "e99a7881-e30a-40b4-849d-b039004d11ed": [
+     1794193247,
+     "01f50c8eef62",
+     1795064443
     ],
     "eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb": [
      1794234655,
@@ -64374,10 +64398,6 @@
     "e99105f1-0a15-4f25-9538-60312568f835": [
      1793485167,
      "d79ff8136d2f"
-    ],
-    "e99a7881-e30a-40b4-849d-b039004d11ed": [
-     1794193247,
-     "01f50c8eef62"
     ],
     "e9bea775-7eb6-438a-ab96-27d5f941e69d": [
      1793485167,
@@ -68423,6 +68443,11 @@
   },
   "red-hat@workday:redhat.wd5.myworkdayjobs.com/jobs": {
    "gone": {
+    "/job/Remote-CA-ON/Director--Enterprise-Sales_R-060129-2": [
+     1793485167,
+     "1bea4ebd9f1d",
+     1795064443
+    ],
     "/job/Remote-CA-ON/Project-Manager---Technical_R-060158-1": [
      1793485167,
      "0958134332df",
@@ -68440,10 +68465,6 @@
     ]
    },
    "jobs": {
-    "/job/Remote-CA-ON/Director--Enterprise-Sales_R-060129-2": [
-     1793485167,
-     "1bea4ebd9f1d"
-    ],
     "/job/Remote-CA-ON/Solution-Architect_R-058831-1": [
      1793485167,
      "3895990fa49f"
@@ -73961,6 +73982,11 @@
      "e9f6ebf00254",
      1793853045
     ],
+    "744000147799604": [
+     1793485167,
+     "89fbcff8517a",
+     1795064443
+    ],
     "744000147946630": [
      1793485167,
      "1df961d2ea27",
@@ -77079,10 +77105,6 @@
     "744000147693009": [
      1793485167,
      "9d723f359397"
-    ],
-    "744000147799604": [
-     1793485167,
-     "89fbcff8517a"
     ],
     "744000148359929": [
      1793485167,
@@ -82399,6 +82421,11 @@
      "b5235ac9bffa",
      1794972640
     ],
+    "6176306004": [
+     1793485167,
+     "a2b38d032874",
+     1795064443
+    ],
     "6181169004": [
      1793485167,
      "16e08b9b7e47",
@@ -82909,10 +82936,6 @@
     "6176305004": [
      1793485167,
      "21ef0ead8c22"
-    ],
-    "6176306004": [
-     1793485167,
-     "a2b38d032874"
     ],
     "6176307004": [
      1793485167,
@@ -94653,6 +94676,10 @@
     "5081527007": [
      1793485167,
      "f2360336124a"
+    ],
+    "5085027007": [
+     1795064443,
+     "937a340d16db"
     ],
     "5086509007": [
      1793485167,
