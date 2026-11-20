@@ -514,7 +514,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 75,
+   "fails": 76,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -20317,6 +20317,11 @@
      "2b88099fe7ff",
      1794595444
     ],
+    "8878946002": [
+     1793595653,
+     "00d27c8d9726",
+     1795161648
+    ],
     "8879335002": [
      1793485167,
      "5d042c5a915d",
@@ -23290,10 +23295,6 @@
     "8878722002": [
      1793485167,
      "b9a5caae70d1"
-    ],
-    "8878946002": [
-     1793595653,
-     "00d27c8d9726"
     ],
     "8879338002": [
      1793485167,
@@ -77386,6 +77387,11 @@
      "e7efc8fc255f",
      1794285053
     ],
+    "744000157994679": [
+     1793485167,
+     "5667bcda44df",
+     1795161648
+    ],
     "744000158024508": [
      1793485167,
      "f16f69c91c7b",
@@ -79156,6 +79162,11 @@
      "845a089d2679",
      1794994244
     ],
+    "744000162056849": [
+     1794915853,
+     "cea4bc7eeffa",
+     1795161648
+    ],
     "744000162061279": [
      1794916844,
      "03148ae01cfe",
@@ -80565,10 +80576,6 @@
     "744000157984832": [
      1793485167,
      "0be8dc5012cb"
-    ],
-    "744000157994679": [
-     1793485167,
-     "5667bcda44df"
     ],
     "744000158003712": [
      1793485167,
@@ -82065,10 +82072,6 @@
     "744000162050389": [
      1794913374,
      "81073b1b2f1d"
-    ],
-    "744000162056849": [
-     1794915853,
-     "cea4bc7eeffa"
     ],
     "744000162059434": [
      1794916844,
@@ -93636,6 +93639,11 @@
      "b06df9a372f4",
      1793905268
     ],
+    "8204407": [
+     1793485167,
+     "b12a6508baba",
+     1795161648
+    ],
     "8206834": [
      1793485167,
      "333eb5298cc8",
@@ -93967,10 +93975,6 @@
     "8201498": [
      1793973648,
      "ef97af3e409a"
-    ],
-    "8204407": [
-     1793485167,
-     "b12a6508baba"
     ],
     "8205254": [
      1793485167,
@@ -95906,6 +95910,11 @@
      "440a2f8bc0b8",
      1794600144
     ],
+    "/job/Canada-BC-Vancouver/Principal--Software-Development-Engineer_JR-0108059": [
+     1793485167,
+     "2b3e5024504b",
+     1795161648
+    ],
     "/job/Canada-BC-Vancouver/Principal-Software-Engineer---Evisort-AI_JR-0111556": [
      1794594650,
      "4b877e85bc79",
@@ -95935,6 +95944,11 @@
      1793485167,
      "a3d2840c4fd0",
      1793653245
+    ],
+    "/job/Canada-BC-Vancouver/Sr-Associate-Software-Development-Engineer--Mobile_JR-0111168": [
+     1794594650,
+     "daee7aa8fed1",
+     1795161648
     ],
     "/job/Canada-BC-Vancouver/Sr-Product-Data-Scientist_JR-0110326": [
      1793485167,
@@ -96010,10 +96024,6 @@
      1793485167,
      "77e6468edf02"
     ],
-    "/job/Canada-BC-Vancouver/Principal--Software-Development-Engineer_JR-0108059": [
-     1793485167,
-     "2b3e5024504b"
-    ],
     "/job/Canada-BC-Vancouver/Principal-Machine-Learning-Engineer_JR-0107128": [
      1793633597,
      "0a1a9bccf0d5"
@@ -96057,10 +96067,6 @@
     "/job/Canada-BC-Vancouver/Sr-AI-Engineer---Evisort-AI_JR-0111603": [
      1795030247,
      "d57efbe47dd8"
-    ],
-    "/job/Canada-BC-Vancouver/Sr-Associate-Software-Development-Engineer--Mobile_JR-0111168": [
-     1794594650,
-     "daee7aa8fed1"
     ],
     "/job/Canada-BC-Vancouver/Sr-Machine-Learning-Engineer_JR-0110287": [
      1794954639,
