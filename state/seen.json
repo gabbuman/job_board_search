@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 118,
+   "fails": 119,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -49563,8 +49563,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "innergex@oracle:fa-ewqm-saasfaprod1.fa.ocs.oraclecloud.com/cx_1": {
-   "err": "HTTP 302 from https://fa-ewqm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=100,offset=0,sortBy=POSTING_DATES_DESC",
-   "fails": 1,
    "gone": {
     "2473": [
      1793486441,
