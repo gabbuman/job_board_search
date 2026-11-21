@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 135,
+   "fails": 136,
    "gone": {},
    "jobs": {
     "5205963007": [
