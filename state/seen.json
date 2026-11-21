@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 133,
+   "fails": 134,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -10977,6 +10977,11 @@
      "311a1381e5e2",
      1795116646
     ],
+    "/job/Quebec/Intern---Software-Developer-Technician_R031983-1": [
+     1793485167,
+     "9c9d73e52ab5",
+     1795258855
+    ],
     "/job/Remote-Canada/Global-Commodity-Manager---Optics_R031588": [
      1793485167,
      "8a76e5277a64",
@@ -11269,10 +11274,6 @@
     "/job/Quebec/Ingnieur-e--mcanique---Mechanical-Engineer--_R031321": [
      1793485167,
      "0dbf385fa54e"
-    ],
-    "/job/Quebec/Intern---Software-Developer-Technician_R031983-1": [
-     1793485167,
-     "9c9d73e52ab5"
     ],
     "/job/Quebec/Optical-Components-Test-Engineer---Ottawa-or-Quebec-City_R031530": [
      1793485167,
