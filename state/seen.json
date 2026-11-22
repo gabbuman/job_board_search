@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 207,
+   "fails": 208,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -26786,6 +26786,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "2EE7C0E558": [
      1793485167,
@@ -36656,6 +36658,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "3BD69EF763": [
      1793485167,
@@ -49548,6 +49552,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "08E488BFBA": [
@@ -68554,6 +68560,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "12F96B1197": [
      1794574857,
@@ -93772,6 +93780,8 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "swtch-energy@workable:swtch-energy": {
+   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/swtch-energy (after 3 attempts)",
+   "fails": 1,
    "gone": {
     "0DC3509E06": [
      1793485167,
@@ -95435,6 +95445,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
