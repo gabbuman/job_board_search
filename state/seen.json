@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 191,
+   "fails": 192,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -85228,6 +85228,10 @@
     "744000163092399": [
      1795345251,
      "9969c3d687b0"
+    ],
+    "744000163094814": [
+     1795356046,
+     "689dd904e4b2"
     ]
    },
    "name": "ServiceNow",
