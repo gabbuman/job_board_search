@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 172,
+   "fails": 173,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -71298,6 +71298,11 @@
      1795150847,
      "216847bf198c",
      1795215700
+    ],
+    "/job/Remote-US-VA/Consulting-Services-Account-Specialist-4_R-060208-1": [
+     1795150847,
+     "6924c01abb40",
+     1795323670
     ]
    },
    "jobs": {
@@ -71656,10 +71661,6 @@
     "/job/Remote-US-VA/Architect--AI---Active-Top-Secret-Clearance_R-060128-1": [
      1795150847,
      "766e49288f6f"
-    ],
-    "/job/Remote-US-VA/Consulting-Services-Account-Specialist-4_R-060208-1": [
-     1795150847,
-     "6924c01abb40"
     ],
     "/job/Remote-US-VA/Sales-Specialist-3_R-060093": [
      1795150847,
