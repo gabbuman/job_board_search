@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 201,
+   "fails": 202,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -7499,6 +7499,10 @@
     "/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1": [
      1793485167,
      "64fc67a81937"
+    ],
+    "/job/Bengaluru-IND/Software-Engineer--Backend-Focused-_26WD102324-2": [
+     1795372250,
+     "d7642052d68a"
     ],
     "/job/EMEA---Spain---Madrid---OffsiteHome/Technical-Adoption-Specialist--Civil-3D--French-speaking_26WD99616-2": [
      1793604641,
@@ -58797,6 +58801,10 @@
      1793486441,
      "2679b0786f1c"
     ],
+    "d58c1011-f7c0-4a03-b8ef-b382f63aec18": [
+     1795372250,
+     "d9f28f56e262"
+    ],
     "d77a953b-cfae-4364-a6da-e85ac30b5fd8": [
      1793486441,
      "d8b8f2fadbb0"
@@ -79041,6 +79049,11 @@
      "86f61f45d9ff",
      1793656861
     ],
+    "744000158066509": [
+     1793485167,
+     "42d260fdec32",
+     1795372250
+    ],
     "744000158078550": [
      1793485167,
      "0f4ae4fc5ddc",
@@ -82467,10 +82480,6 @@
     "744000158031029": [
      1793485167,
      "e1bf1efb9139"
-    ],
-    "744000158066509": [
-     1793485167,
-     "42d260fdec32"
     ],
     "744000158070869": [
      1793485167,
