@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 181,
+   "fails": 182,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -10850,6 +10850,11 @@
      "0ffb3c874a8c",
      1794425452
     ],
+    "/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005": [
+     1793485167,
+     "6262b2c896bc",
+     1795338053
+    ],
     "/job/Ottawa/Global-Commodity-Manager---Indium-Phosphide--InP--Foundry---Supply-Chain-Management_R030179": [
      1793485167,
      "0d6ebbc909ef",
@@ -11058,10 +11063,6 @@
     "/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147": [
      1795204853,
      "b2cfecda4d66"
-    ],
-    "/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005": [
-     1793485167,
-     "6262b2c896bc"
     ],
     "/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571": [
      1793485167,
@@ -60481,11 +60482,6 @@
      "66e3602a1d4f",
      1795127444
     ],
-    "8382952": [
-     1794826845,
-     "88304d8d02fa",
-     1795008641
-    ],
     "8384384": [
      1794600144,
      "c82447f79532",
@@ -61809,6 +61805,10 @@
      1795032081,
      "d919147dd0b7"
     ],
+    "8360107": [
+     1795338053,
+     "06e1cfca5e5f"
+    ],
     "8367424": [
      1795024850,
      "50b53e7c13dd"
@@ -61828,6 +61828,10 @@
     "8378013": [
      1794922246,
      "b98627c61d7b"
+    ],
+    "8382952": [
+     1794826845,
+     "88304d8d02fa"
     ],
     "8383373": [
      1794529840,
