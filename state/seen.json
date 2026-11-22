@@ -524,7 +524,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 174,
+   "fails": 175,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -71603,6 +71603,10 @@
      1795150847,
      "970b2e478c9c"
     ],
+    "/job/Remote-US-IL/Principal-Specialist-Solution-Architect--App-Platform_R-060178-2": [
+     1795327242,
+     "c71e3c1ab1de"
+    ],
     "/job/Remote-US-MD/Senior-Consultant--OpenShift-Infrastructure---Active-Top-Secret-SCI-Poly-required_R-058451-1": [
      1795150847,
      "d0b12538d8da"
@@ -71651,9 +71655,17 @@
      1795150847,
      "49440ef78fc3"
     ],
+    "/job/Remote-US-TX/Principal-Specialist-Solution-Architect---App-Platform_R-060179-1": [
+     1795327242,
+     "41e1362acf1a"
+    ],
     "/job/Remote-US-TX/Senior-Consultant--Ansible--Top-Secret-Clearance-Required_R-060222-1": [
      1795150847,
      "353834f0ab81"
+    ],
+    "/job/Remote-US-TX/Senior-Specialist-Solution-Architect---OpenShift_R-060181-1": [
+     1795327242,
+     "530cb8995e75"
     ],
     "/job/Remote-US-VA/AI-Architect---Top-Secret-Clearance--TS-SCI-CI-Poly--required_R-060399-1": [
      1795150847,
