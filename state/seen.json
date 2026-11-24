@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 273,
+   "fails": 274,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -60091,6 +60091,11 @@
      "d6bcb03b2d05",
      1794007849
     ],
+    "oxo3Afwi": [
+     1793856651,
+     "14e7232f9658",
+     1795494644
+    ],
     "oySKAfwu": [
      1793485167,
      "f1d1b0a0da15",
@@ -60103,6 +60108,10 @@
     ]
    },
    "jobs": {
+    "o0h7AfwI": [
+     1795494644,
+     "ea8a4ee4c490"
+    ],
     "o0lEAfwj": [
      1793718073,
      "2cb1cbafc13a"
@@ -60582,10 +60591,6 @@
     "oxYWAfwL": [
      1793485167,
      "48ebd326320d"
-    ],
-    "oxo3Afwi": [
-     1793856651,
-     "14e7232f9658"
     ],
     "oxyQAfwf": [
      1793485167,
@@ -63713,6 +63718,11 @@
      "641773af8a79",
      1795064443
     ],
+    "e012d399-665e-4713-a9c6-17a9a58f39cc": [
+     1793601040,
+     "f5f9a1d238c7",
+     1795494644
+    ],
     "e68ccfa9-958f-492d-b507-b428437ea95c": [
      1793486441,
      "b9867181e8ed",
@@ -63823,10 +63833,6 @@
     "d34cc41d-9fe1-44f0-b09c-13546974c92e": [
      1793696455,
      "ad945e2f7b24"
-    ],
-    "e012d399-665e-4713-a9c6-17a9a58f39cc": [
-     1793601040,
-     "f5f9a1d238c7"
     ],
     "e27c6687-ae83-475f-a715-30024c78a332": [
      1793599243,
@@ -63950,11 +63956,6 @@
      1794943850,
      "cff2b0bba377",
      1795492850
-    ],
-    "1af2996f-046c-466f-bf35-4b13da116af4": [
-     1795473043,
-     "4066137b0fc9",
-     1795491045
     ],
     "1b268692-70d8-46c2-a347-2f7705b5c174": [
      1793485167,
@@ -65361,6 +65362,10 @@
     "1ae64ddb-505f-4ad2-a731-3a857e94edee": [
      1793485167,
      "9afdb361ad4b"
+    ],
+    "1af2996f-046c-466f-bf35-4b13da116af4": [
+     1795473043,
+     "4066137b0fc9"
     ],
     "1b62655e-87e5-4dfb-ad92-03dabeb8304f": [
      1794535247,
@@ -72602,6 +72607,10 @@
      1795150847,
      "83a572884a31"
     ],
+    "/job/Canberra/Senior-Consultant---OpenShift-AI_R-060363-1": [
+     1795494644,
+     "d47b4c169c31"
+    ],
     "/job/Canberra/Senior-Consultant---OpenShift_R-059585-2": [
      1795150847,
      "9f973c9e8c0c"
@@ -73045,6 +73054,10 @@
     "/job/Singapore/OpenShift-Specialist-Solutions-Architect_R-057901-1": [
      1795150847,
      "447c6ef9e562"
+    ],
+    "/job/Singapore/Partner-Acceleration-Lead_R-059892-1": [
+     1795494644,
+     "ecdaf524cf13"
     ],
     "/job/Singapore/Principal-Forward-Deployed-Engineer---AI-PlatformPrincipal-Forward-Deployed-Engineer---AI-Platform-Kubernetes-Pytorch_R-058510-2": [
      1795150847,
