@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 344,
+   "fails": 345,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -8411,6 +8411,11 @@
      "ad9bb0ed17ba",
      1795005041
     ],
+    "/job/Ottawa-Ontario/QNX-Senior-Technical-Product-Manager_20260001-1": [
+     1793793656,
+     "7ef26392140e",
+     1795617063
+    ],
     "/job/Ottawa-Ontario/QNX-Software-Test-Specialist-II_20260256-1": [
      1793485167,
      "43f225707f93",
@@ -8469,10 +8474,6 @@
     "/job/Ottawa-Ontario/QNX-Senior-Systems-Software-Developer_20260291-1": [
      1793485167,
      "09cca58cd2c2"
-    ],
-    "/job/Ottawa-Ontario/QNX-Senior-Technical-Product-Manager_20260001-1": [
-     1793793656,
-     "7ef26392140e"
     ],
     "/job/Ottawa-Ontario/QNX-Systems-Software-Developer_20260323-2": [
      1793485167,
@@ -15620,6 +15621,11 @@
   },
   "cohere@ashby:cohere": {
    "gone": {
+    "0342fd5f-3760-4dcb-b026-333c7b63fc8d": [
+     1793485167,
+     "b69fa557e5f4",
+     1795617063
+    ],
     "0ef0a9f8-33ac-4360-a833-f8ce8e108a31": [
      1793485167,
      "269ad8054673",
@@ -15798,10 +15804,6 @@
     "031c2335-db85-4265-8a88-a54b911be36a": [
      1793485167,
      "35bb6a850510"
-    ],
-    "0342fd5f-3760-4dcb-b026-333c7b63fc8d": [
-     1793485167,
-     "b69fa557e5f4"
     ],
     "03cd844a-ab8d-42f0-b1f6-4b933ee7859e": [
      1795552272,
@@ -28096,6 +28098,10 @@
     "7986414": [
      1793485167,
      "44fee3761e4a"
+    ],
+    "7986418": [
+     1795617063,
+     "8d10306f0e4f"
     ],
     "7986820": [
      1793485167,
@@ -43976,11 +43982,6 @@
      "ac0f56000872",
      1793899848
     ],
-    "/job/Markham-Ontario-Canada/Principle-Software-Engineering---Continuous-Integration---Quality-Gating_JR-202621673": [
-     1793485167,
-     "d4264adc177b",
-     1795237242
-    ],
     "/job/Markham-Ontario-Canada/Senior-Data-Scientist---Vehicle-Reliability-Engineering_JR-202618769-1": [
      1794996063,
      "b7b77fcc5d39",
@@ -44106,6 +44107,10 @@
     "/job/Markham-Ontario-Canada/Principal-Software-Engineering---Virtualization_JR-202621669-1": [
      1793485167,
      "0d735e139356"
+    ],
+    "/job/Markham-Ontario-Canada/Principle-Software-Engineering---Continuous-Integration---Quality-Gating_JR-202621673": [
+     1793485167,
+     "d4264adc177b"
     ],
     "/job/Markham-Ontario-Canada/Senior-HIL-Simulation-Integration-Engineer_JR-202623874": [
      1794412891,
@@ -48484,6 +48489,11 @@
      "52025daf2373",
      1795453262
     ],
+    "f30a1b59-279c-43cb-bf56-1745a84dfd82": [
+     1793485167,
+     "be5a80175815",
+     1795617063
+    ],
     "f6a40913-3189-483a-b8d0-65024cc4e77a": [
      1793485167,
      "145a0536d667",
@@ -48503,6 +48513,11 @@
      1793485167,
      "694fa1a52ad1",
      1793719842
+    ],
+    "fa02d0c2-4a44-4deb-a409-6a3b3bd05e9c": [
+     1793485167,
+     "cdc947bcc0d7",
+     1795617063
     ],
     "fe3a26c9-5b8e-44d9-86ea-a70f7bf07f2f": [
      1793485167,
@@ -50003,10 +50018,6 @@
      1794621645,
      "4fb7c14f30cf"
     ],
-    "f30a1b59-279c-43cb-bf56-1745a84dfd82": [
-     1793485167,
-     "be5a80175815"
-    ],
     "f35bede4-366e-4da6-832f-616917c95605": [
      1795222851,
      "c03045c41fbe"
@@ -50034,10 +50045,6 @@
     "f996dd71-e08c-487d-abe1-9900c8d29331": [
      1793485167,
      "88cc723dda5a"
-    ],
-    "fa02d0c2-4a44-4deb-a409-6a3b3bd05e9c": [
-     1793485167,
-     "cdc947bcc0d7"
     ],
     "fac76eec-27d8-4556-ab6f-a4ee372504d5": [
      1795447847,
@@ -50240,6 +50247,11 @@
      1793721669,
      "3483c1c70367",
      1793896245
+    ],
+    "/job/Toronto-Ontario-Canada/Principal-Project-Planner_R0139881-1": [
+     1793485167,
+     "5bd21daba8b5",
+     1795617063
     ],
     "/job/Toronto-Ontario-Canada/RAM-Specialist--Senior_R1012229-1": [
      1793485167,
@@ -50701,10 +50713,6 @@
     "/job/Toronto-Ontario-Canada/OT-Cyber-Security-Advisor_R1011402-1": [
      1793485167,
      "7deb2568bc0e"
-    ],
-    "/job/Toronto-Ontario-Canada/Principal-Project-Planner_R0139881-1": [
-     1793485167,
-     "5bd21daba8b5"
     ],
     "/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360": [
      1793485167,
@@ -59469,6 +59477,10 @@
     "/job/Ahihud----TA---ISR/R-D-Operations-Coordinator_NX-4889": [
      1793486441,
      "42f58407ddd4"
+    ],
+    "/job/Ahihud----TA---ISR/Sales-Analyst_NX-5204": [
+     1795617063,
+     "2adc47d3b221"
     ],
     "/job/Ahihud----TA---ISR/Senior-Mechanical-Fabricator_NX-4888": [
      1793486441,
@@ -71767,6 +71779,11 @@
      "32aede9da069",
      1794927668
     ],
+    "8208399": [
+     1793485167,
+     "c657d36d3dad",
+     1795617063
+    ],
     "8210546": [
      1793485167,
      "dcac67f71b74",
@@ -72631,10 +72648,6 @@
     "8207255": [
      1793485167,
      "665d24e50b5e"
-    ],
-    "8208399": [
-     1793485167,
-     "c657d36d3dad"
     ],
     "8209899": [
      1793485167,
@@ -73961,6 +73974,16 @@
      "ecdaf524cf13",
      1795595471
     ],
+    "/job/Tokyo/Senior-Project-Manager_R-060323-5": [
+     1795150847,
+     "9e6095c20019",
+     1795617063
+    ],
+    "/job/Tokyo/Strategic-Accounts-Manager---FSI_R-059787-2": [
+     1795150847,
+     "08aeccbcf536",
+     1795617063
+    ],
     "/job/Tokyo/Telco-Consultant_R-055802-2": [
      1795150847,
      "b1019fea1f5a",
@@ -74263,6 +74286,10 @@
     "/job/Remote-UK/Sales-Specialist-3_R-057809-2": [
      1795150847,
      "c327c123a2be"
+    ],
+    "/job/Remote-US-CA/Senior-AI-Platform-Specialist-Solution-Architect_R-060418-1": [
+     1795617063,
+     "bee39cf3a6ab"
     ],
     "/job/Remote-US-CO/Senior-Architect--OpenShift-Infrastructure---Active-TS-SCI-Clearance_R-060411-2": [
      1795150847,
@@ -74583,14 +74610,6 @@
     "/job/Tokyo/Senior-OpenShift-AppDev-PFE-Consultant_R-060321-12": [
      1795150847,
      "7cf0066bcae1"
-    ],
-    "/job/Tokyo/Senior-Project-Manager_R-060323-5": [
-     1795150847,
-     "9e6095c20019"
-    ],
-    "/job/Tokyo/Strategic-Accounts-Manager---FSI_R-059787-2": [
-     1795150847,
-     "08aeccbcf536"
     ],
     "/job/Tokyo/Strategic-Accounts-Manager---FSI_R-059788-2": [
      1795150847,
@@ -79096,6 +79115,10 @@
      1794362456,
      "ccf01501921b"
     ],
+    "8377907": [
+     1795617063,
+     "9a575035a464"
+    ],
     "8379407": [
      1794416447,
      "6e6375f3980f"
@@ -79191,6 +79214,10 @@
     "8397935": [
      1794963669,
      "5a37288458c2"
+    ],
+    "8400932": [
+     1795617063,
+     "c64c1e814cb5"
     ],
     "8400979": [
      1795213841,
@@ -103971,6 +103998,11 @@
      "4d49333e5412",
      1794499270
     ],
+    "5287748007": [
+     1794420051,
+     "408dea270b04",
+     1795617063
+    ],
     "5288612007": [
      1794160848,
      "f0fe3c97064d",
@@ -105355,10 +105387,6 @@
     "5287746007": [
      1794258059,
      "1b40fb4385a4"
-    ],
-    "5287748007": [
-     1794420051,
-     "408dea270b04"
     ],
     "5288084007": [
      1794846648,
