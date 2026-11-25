@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 356,
+   "fails": 357,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -6867,6 +6867,11 @@
      1795041055,
      "05a8d5660003",
      1795102265
+    ],
+    "4758398005": [
+     1795557647,
+     "eb6d93b2fcfd",
+     1795640466
     ]
    },
    "jobs": {
@@ -7581,10 +7586,6 @@
     "4758350005": [
      1795543260,
      "1243c00963ed"
-    ],
-    "4758398005": [
-     1795557647,
-     "eb6d93b2fcfd"
     ]
    },
    "name": "Astera Labs",
@@ -27752,8 +27753,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "2EE7C0E558": [
      1793485167,
@@ -36918,10 +36917,25 @@
      "24d6594099a0",
      1794965444
     ],
+    "7823195003": [
+     1793485167,
+     "520cb9b7039c",
+     1795640466
+    ],
     "7826669003": [
      1793485167,
      "db5d960f2ca7",
      1793673041
+    ],
+    "7859203003": [
+     1793485167,
+     "aea5a1423c2d",
+     1795640466
+    ],
+    "7865037003": [
+     1793485167,
+     "d837442bd5c6",
+     1795640466
     ],
     "7868539003": [
      1793485167,
@@ -37097,6 +37111,11 @@
      1793485167,
      "43b562a349a6",
      1793986259
+    ],
+    "8016899003": [
+     1793485167,
+     "995dbe3f0c65",
+     1795640466
     ],
     "8034211003": [
      1793984500,
@@ -37378,14 +37397,6 @@
      1793485167,
      "092f68d34a54"
     ],
-    "7823195003": [
-     1793485167,
-     "520cb9b7039c"
-    ],
-    "7859203003": [
-     1793485167,
-     "aea5a1423c2d"
-    ],
     "7864598003": [
      1793485167,
      "58ed18070f55"
@@ -37393,10 +37404,6 @@
     "7864668003": [
      1793485167,
      "81afbb59bea9"
-    ],
-    "7865037003": [
-     1793485167,
-     "d837442bd5c6"
     ],
     "7865559003": [
      1793485167,
@@ -37549,10 +37556,6 @@
     "8016690003": [
      1793730675,
      "124bee3e2366"
-    ],
-    "8016899003": [
-     1793485167,
-     "995dbe3f0c65"
     ],
     "8017186003": [
      1793485167,
@@ -38035,8 +38038,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
-   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/flo-addenergie (after 3 attempts)",
-   "fails": 1,
    "gone": {
     "3BD69EF763": [
      1793485167,
@@ -51498,8 +51499,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "08E488BFBA": [
@@ -59361,6 +59360,10 @@
     ]
    },
    "jobs": {
+    "/job/CA-Toronto-York-St-2425/Advisory-Analyst_R0027341": [
+     1795640466,
+     "37a576e49f96"
+    ],
     "/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362": [
      1795618861,
      "82b8934efa13"
@@ -62093,30 +62096,10 @@
      "ae407fa4867c",
      1794504727
     ],
-    "/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982": [
-     1793485167,
-     "224aff28624a",
-     1795629672
-    ],
     "/job/Canada-Toronto/Senior-DevOps-Engineer---Robotics-Simulation_JR2027642": [
      1793485167,
      "3731bcf31b3e",
      1794349846
-    ],
-    "/job/Canada-Toronto/Senior-Mixed-Signal-Design-Engineer_JR2028697": [
-     1793485167,
-     "67e2b899b800",
-     1795629672
-    ],
-    "/job/Canada-Toronto/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028443": [
-     1793485167,
-     "c4e7e9f5dc1d",
-     1795629672
-    ],
-    "/job/Canada-Toronto/Staff-Site-Reliability-Operations_JR2028170": [
-     1793485167,
-     "ceb85128287c",
-     1795629672
     ]
    },
    "jobs": {
@@ -62232,6 +62215,10 @@
      1793653245,
      "da484f8b2157"
     ],
+    "/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982": [
+     1793485167,
+     "224aff28624a"
+    ],
     "/job/Canada-Toronto/Account-Manager--Energy-and-Retail_JR2025459": [
      1793485167,
      "12cf72d4079c"
@@ -62259,6 +62246,18 @@
     "/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188": [
      1793962855,
      "c81cbbc021c7"
+    ],
+    "/job/Canada-Toronto/Senior-Mixed-Signal-Design-Engineer_JR2028697": [
+     1793485167,
+     "67e2b899b800"
+    ],
+    "/job/Canada-Toronto/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028443": [
+     1793485167,
+     "c4e7e9f5dc1d"
+    ],
+    "/job/Canada-Toronto/Staff-Site-Reliability-Operations_JR2028170": [
+     1793485167,
+     "ceb85128287c"
     ],
     "/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1": [
      1795629672,
@@ -76147,8 +76146,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "12F96B1197": [
      1794574857,
@@ -84416,6 +84413,10 @@
      1794960050,
      "bd313d7d2b90"
     ],
+    "8384192": [
+     1795640466,
+     "11db70f9ca1b"
+    ],
     "8386261": [
      1794862852,
      "fd2fe62d31fc"
@@ -84504,6 +84505,10 @@
      1795213841,
      "66d5e6251db9"
     ],
+    "8404531": [
+     1795640466,
+     "365ece76826e"
+    ],
     "8411457": [
      1795478452,
      "7e7fd303bf7d"
@@ -84527,6 +84532,10 @@
     "8415151": [
      1795604447,
      "4c419a0d5912"
+    ],
+    "8415782": [
+     1795640466,
+     "1a0f2b493a3a"
     ],
     "8417005": [
      1795618861,
@@ -104330,14 +104339,20 @@
     "5307365007": [
      1795553519,
      "be3ac163aef3"
+    ],
+    "5309734007": [
+     1795640466,
+     "0a64e09d1d11"
+    ],
+    "5309737007": [
+     1795640466,
+     "c85755446117"
     ]
    },
    "name": "Tenstorrent",
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
