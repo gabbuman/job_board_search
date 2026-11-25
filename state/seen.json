@@ -526,7 +526,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 353,
+   "fails": 354,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -977,6 +977,10 @@
     "102628": [
      1795615260,
      "bb0cc28ccce5"
+    ],
+    "102694": [
+     1795635047,
+     "28b26ec20747"
     ],
     "77673": [
      1793485167,
@@ -4841,6 +4845,10 @@
     "5491480008": [
      1795467680,
      "825f2094cd20"
+    ],
+    "5491501008": [
+     1795635047,
+     "f9e2dfa46652"
     ],
     "5491573008": [
      1795377644,
@@ -18417,6 +18425,11 @@
      "11d36d7872ee",
      1794873665
     ],
+    "4c5de99e-87e0-4269-acf4-505c5d5b9d2b": [
+     1793485167,
+     "05b6c8ef44f5",
+     1795635047
+    ],
     "4e479e29-9ddf-4ef0-822a-105dff0eb1e8": [
      1793485167,
      "0947c49f6378",
@@ -19255,10 +19268,6 @@
     "4ba723b1-35f9-46dd-b7ca-eb2afcc36af8": [
      1793485167,
      "ce46e1220330"
-    ],
-    "4c5de99e-87e0-4269-acf4-505c5d5b9d2b": [
-     1793485167,
-     "05b6c8ef44f5"
     ],
     "4fb2d1b1-8fe6-40b1-b399-49e5d89b1abc": [
      1793485167,
@@ -20468,6 +20477,11 @@
      "68b97d890341",
      1795446082
     ],
+    "326b7f8f-4ece-4276-ad06-cd9864dcf6fe": [
+     1794499270,
+     "4ce5463d41e5",
+     1795635047
+    ],
     "456fa7a3-f5d1-4f7c-a0a2-844fa2dac045": [
      1793485167,
      "211e71594e5a",
@@ -20555,10 +20569,6 @@
     "319b41d9-2806-48b6-8454-254cb1f9f005": [
      1793485167,
      "0a49da942cd8"
-    ],
-    "326b7f8f-4ece-4276-ad06-cd9864dcf6fe": [
-     1794499270,
-     "4ce5463d41e5"
     ],
     "38d5d9dd-85e8-4045-8488-7a3e8b8b0aa1": [
      1793485167,
@@ -20675,6 +20685,10 @@
     "e76cf1b1-45af-4076-908b-76e0b8e35464": [
      1793485167,
      "96cf4a37ce9a"
+    ],
+    "e816522e-5a48-49f8-ad94-ecfe4bd710ee": [
+     1795635047,
+     "cbbaf3c77ec5"
     ],
     "ea6bac9a-033b-4d8f-85db-81c532c2b12a": [
      1793637049,
@@ -35216,6 +35230,11 @@
      "75c88e35ab77",
      1794432962
     ],
+    "1025603": [
+     1793486441,
+     "a6271c3eab4a",
+     1795635047
+    ],
     "1025630": [
      1793486441,
      "365c238d5a00",
@@ -36113,10 +36132,6 @@
     "1025600": [
      1793486441,
      "caf06aa24d82"
-    ],
-    "1025603": [
-     1793486441,
-     "a6271c3eab4a"
     ],
     "1025647": [
      1793486441,
@@ -39422,6 +39437,11 @@
      1795195854,
      "a0a480ed0220",
      1795624241
+    ],
+    "25051": [
+     1795465849,
+     "564579ba81f2",
+     1795635047
     ]
    },
    "jobs": {
@@ -43661,6 +43681,10 @@
      1795208463,
      "468ef1470b62"
     ],
+    "25013": [
+     1795635047,
+     "891e6263c661"
+    ],
     "25014": [
      1795113046,
      "b23da6a68dec"
@@ -43725,10 +43749,6 @@
      1795577444,
      "c21fb0d49a96"
     ],
-    "25051": [
-     1795465849,
-     "564579ba81f2"
-    ],
     "25052": [
      1795541450,
      "268811b66962"
@@ -43740,6 +43760,10 @@
     "25064": [
      1795555849,
      "6e2f4bd7e0d5"
+    ],
+    "25074": [
+     1795635047,
+     "602df598b1ac"
     ],
     "25075": [
      1795627850,
@@ -51366,6 +51390,10 @@
      1793930447,
      "6bb9310a411c"
     ],
+    "/job/Mississauga-Ontario/Unstructured-Data-Sales-Account-Executive_1219487-1": [
+     1795635047,
+     "316faa6ea0a6"
+    ],
     "/job/Montreal-Quebec/Named-Accounts-Manager---Networking---Gestionnaire-de-comptes-nomms---Rseau_1218037": [
      1793671242,
      "1a96fc3eaa83"
@@ -55106,6 +55134,10 @@
      1793485167,
      "c76b5c3b7b57"
     ],
+    "464e69d6-96be-46a5-a919-073c94056501": [
+     1795635047,
+     "8ae7e3aa6e4f"
+    ],
     "49f5f03a-8871-4f9d-92fa-7704b6cba925": [
      1793485167,
      "b8a203d872d3"
@@ -58189,6 +58221,11 @@
      1794605499,
      "b32802230c86",
      1794931284
+    ],
+    "8958621002": [
+     1795563045,
+     "781709b3a432",
+     1795635047
     ]
    },
    "jobs": {
@@ -58952,10 +58989,6 @@
      1795120248,
      "338b31d290a2"
     ],
-    "8958621002": [
-     1795563045,
-     "781709b3a432"
-    ],
     "8958842002": [
      1795483844,
      "7dc5af8c419b"
@@ -59397,6 +59430,11 @@
      "5089fafb8a77",
      1793815290
     ],
+    "/job/Fremont-North-Bldg-California---USA/Business-Development-Manager--Services_NX-4554": [
+     1793486441,
+     "4fc821887cf3",
+     1795635047
+    ],
     "/job/Fremont-North-Bldg-California---USA/Director--Marketing---Global-Events-and-Brand-Experiences_NX-4586-1": [
      1793486441,
      "e19935e89764",
@@ -59797,10 +59835,6 @@
     "/job/Fremont-North-Bldg-California---USA/Accounting-Specialist_NX-4452": [
      1793486441,
      "3b89dc570e8c"
-    ],
-    "/job/Fremont-North-Bldg-California---USA/Business-Development-Manager--Services_NX-4554": [
-     1793486441,
-     "4fc821887cf3"
     ],
     "/job/Fremont-North-Bldg-California---USA/Corporate-Development-Operations-Manager_NX-4640": [
      1793486441,
@@ -60940,6 +60974,11 @@
      "dafc4a352da2",
      1793824243
     ],
+    "4738701005": [
+     1793486441,
+     "36bd25c8ea8d",
+     1795635047
+    ],
     "4738750005": [
      1793486441,
      "12c04e8f7ce2",
@@ -60962,10 +61001,6 @@
     "4726167005": [
      1793486441,
      "71ee30bef9b5"
-    ],
-    "4738701005": [
-     1793486441,
-     "36bd25c8ea8d"
     ],
     "4741486005": [
      1793486441,
@@ -61236,6 +61271,11 @@
      1793485167,
      "57d629a6f55f",
      1794519041
+    ],
+    "oQoBAfw9": [
+     1793615442,
+     "59ee24039a6d",
+     1795635047
     ],
     "oRnKAfwi": [
      1793485167,
@@ -61706,10 +61746,6 @@
      1793485167,
      "efae4f159594"
     ],
-    "oQoBAfw9": [
-     1793615442,
-     "59ee24039a6d"
-    ],
     "oQx4AfwL": [
      1795242648,
      "9c655e54b5cc"
@@ -61846,6 +61882,10 @@
      1793846671,
      "fd27271a7e70"
     ],
+    "ojlNAfwL": [
+     1795635047,
+     "192648220c47"
+    ],
     "ok15AfwK": [
      1794265256,
      "e249e372578b"
@@ -61968,11 +62008,6 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "gone": {
-    "/job/Canada-Remote/Industry-Development-Specialist---Canada_JR2023420": [
-     1794006057,
-     "712daf6e0213",
-     1795629672
-    ],
     "/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1": [
      1793831458,
      "56d0bf4d6b11",
@@ -61993,11 +62028,6 @@
      "ae407fa4867c",
      1794504727
     ],
-    "/job/Canada-Remote/Senior-Solutions-Architect--AI_JR2028683": [
-     1794832250,
-     "b39ca22ace8a",
-     1795629672
-    ],
     "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
      1793653245,
      "da484f8b2157",
@@ -62013,19 +62043,9 @@
      "12cf72d4079c",
      1795629672
     ],
-    "/job/Canada-Toronto/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2023172": [
-     1793485167,
-     "34709d7bc9ee",
-     1795629672
-    ],
     "/job/Canada-Toronto/Manager--Performance-Engineering_JR2026340": [
      1793485167,
      "62b4922785f2",
-     1795629672
-    ],
-    "/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997": [
-     1793485167,
-     "e2f6f7a29d96",
      1795629672
     ],
     "/job/Canada-Toronto/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017418": [
@@ -62037,11 +62057,6 @@
      1793485167,
      "3731bcf31b3e",
      1794349846
-    ],
-    "/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188": [
-     1793962855,
-     "c81cbbc021c7",
-     1795629672
     ],
     "/job/Canada-Toronto/Senior-Mixed-Signal-Design-Engineer_JR2028697": [
      1793485167,
@@ -62152,6 +62167,10 @@
      1795629672,
      "98fb20325600"
     ],
+    "/job/Canada-Remote/Industry-Development-Specialist---Canada_JR2023420": [
+     1794006057,
+     "712daf6e0213"
+    ],
     "/job/Canada-Remote/Senior-ASIC-Design-Verification-Engineer_JR2013047": [
      1793485167,
      "5a803414ca50"
@@ -62160,9 +62179,25 @@
      1793485167,
      "f65e6fc8db2a"
     ],
+    "/job/Canada-Remote/Senior-Solutions-Architect--AI_JR2028683": [
+     1794832250,
+     "b39ca22ace8a"
+    ],
+    "/job/Canada-Toronto/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2023172": [
+     1793485167,
+     "34709d7bc9ee"
+    ],
+    "/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997": [
+     1793485167,
+     "e2f6f7a29d96"
+    ],
     "/job/Canada-Toronto/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2012562": [
      1793485167,
      "0e4a44ab9c87"
+    ],
+    "/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188": [
+     1793962855,
+     "c81cbbc021c7"
     ],
     "/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1": [
      1795629672,
@@ -95269,6 +95304,10 @@
      1793638877,
      "b1cd8bbe294a"
     ],
+    "896da8fd-2829-44d4-a91c-0ce10daa4989": [
+     1795635047,
+     "abae74d43e84"
+    ],
     "8a6365f5-454f-4a9e-b72f-29b09c02d55b": [
      1793485167,
      "7de630d944c5"
@@ -98084,11 +98123,6 @@
      "daf626d28a6a",
      1793921441
     ],
-    "8142302": [
-     1793485167,
-     "d308c4c04b11",
-     1794852053
-    ],
     "8143073": [
      1793485167,
      "e1e8458218ec",
@@ -98148,6 +98182,11 @@
      1793485167,
      "3c4bacc2c5ef",
      1793978520
+    ],
+    "8164666": [
+     1793485167,
+     "6f3ca0687cbc",
+     1795635047
     ],
     "8165137": [
      1793485167,
@@ -99719,6 +99758,10 @@
      1793485167,
      "fc4e6ee6b754"
     ],
+    "8142302": [
+     1793485167,
+     "d308c4c04b11"
+    ],
     "8142304": [
      1793485167,
      "bada643e841b"
@@ -99870,10 +99913,6 @@
     "8163542": [
      1793485167,
      "fe523692c373"
-    ],
-    "8164666": [
-     1793485167,
-     "6f3ca0687cbc"
     ],
     "8164674": [
      1793813441,
@@ -102805,6 +102844,10 @@
     "739b2993-21b2-4ff4-942d-0b38816279b4": [
      1793486441,
      "4cc6b84678d8"
+    ],
+    "7dd0ef48-1a5b-44f4-abd6-36402dda4879": [
+     1795635047,
+     "3f6ef6305569"
     ],
     "82393174-eb31-473e-a6d5-75a35cd74f79": [
      1793486441,
