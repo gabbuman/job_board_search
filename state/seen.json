@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 324,
+   "fails": 325,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -31454,6 +31454,10 @@
      1795023077,
      "7e9ff9704c5c"
     ],
+    "8382872": [
+     1795582850,
+     "8d755ed47fc9"
+    ],
     "8392706": [
      1794848474,
      "678a6c591b46"
@@ -43605,6 +43609,11 @@
      "ec25f1aada86",
      1794603791
     ],
+    "/job/Markham/Lead-Project-Manager---Outsourcing_R5058987-3": [
+     1794927668,
+     "ec25f1aada86",
+     1795582850
+    ],
     "/job/Markham/Nuclear----Engineering-Interns_R5052772-2": [
      1793485167,
      "b298b17e4477",
@@ -43758,10 +43767,6 @@
      1793804456,
      "acc44f344dcd"
     ],
-    "/job/Markham/Lead-Project-Manager---Outsourcing_R5058987-3": [
-     1794927668,
-     "ec25f1aada86"
-    ],
     "/job/Markham/Lead-Quality-Specialist---Civil-Structural_R5056833-2": [
      1793485167,
      "2ea550b5ebfd"
@@ -43864,6 +43869,16 @@
   },
   "general-motors-canada@workday:generalmotors.wd5.myworkdayjobs.com/careers_gm": {
    "gone": {
+    "/job/Markham-Ontario-Canada/Business-Analyst--Enterprise-Data---Cloud-Migration_JR-202623987": [
+     1794992447,
+     "4233e13e43b1",
+     1795582850
+    ],
+    "/job/Markham-Ontario-Canada/Data-Validation---Quality-Analyst_JR-202623986": [
+     1794996063,
+     "4f27f021c812",
+     1795582850
+    ],
     "/job/Markham-Ontario-Canada/Embedded-Simulation-Developer---SIL-and-Virtualization_JR-202622345-1": [
      1793485167,
      "ac0f56000872",
@@ -43873,6 +43888,16 @@
      1793485167,
      "d4264adc177b",
      1795237242
+    ],
+    "/job/Markham-Ontario-Canada/Senior-Data-Scientist---Vehicle-Reliability-Engineering_JR-202618769-1": [
+     1794996063,
+     "b7b77fcc5d39",
+     1795582850
+    ],
+    "/job/Markham-Ontario-Canada/Senior-Manager--Enterprise-Data---Cloud-Modernization_JR-202623985": [
+     1794992447,
+     "ec4c19ee1b07",
+     1795582850
     ],
     "/job/Markham-Ontario-Canada/Senior-Software-Developer---CI-CD-and-Software-Development-Tools_JR-202616231": [
      1793485167,
@@ -43904,6 +43929,11 @@
      "414fd71db9be",
      1794382239
     ],
+    "/job/Markham-Ontario-Canada/Sr-Calibration-Specialist_JR-202623961-1": [
+     1794430855,
+     "2cc64db7ab85",
+     1795582850
+    ],
     "/job/Markham-Ontario-Canada/Staff-Fullstack-Engineer---Simulation_JR-202620336": [
      1793485167,
      "5f2967988930",
@@ -43923,6 +43953,11 @@
      1793485167,
      "1fffca62dfa9",
      1793997149
+    ],
+    "/job/Oshawa-Ontario-Canada/CCA-Financial-Analyst--Financial-Planning-and-Analysis--FP-A--and-Oshawa-Operations_JR-202618485-1": [
+     1794927668,
+     "897bd54bf29f",
+     1795582850
     ],
     "/job/Oshawa-Ontario-Canada/Controls-Engineer---Multiple-Openings--Body--Paint--GA-etc--11_JR-202623974": [
      1794430855,
@@ -43960,14 +43995,6 @@
      1795015862,
      "f9b3a836f81b"
     ],
-    "/job/Markham-Ontario-Canada/Business-Analyst--Enterprise-Data---Cloud-Migration_JR-202623987": [
-     1794992447,
-     "4233e13e43b1"
-    ],
-    "/job/Markham-Ontario-Canada/Data-Validation---Quality-Analyst_JR-202623986": [
-     1794996063,
-     "4f27f021c812"
-    ],
     "/job/Markham-Ontario-Canada/HIL-Simulation-Integration-Engineer_JR-202623877": [
      1794412891,
      "1cf37ed88f9d"
@@ -43988,17 +44015,9 @@
      1793485167,
      "0d735e139356"
     ],
-    "/job/Markham-Ontario-Canada/Senior-Data-Scientist---Vehicle-Reliability-Engineering_JR-202618769-1": [
-     1794996063,
-     "b7b77fcc5d39"
-    ],
     "/job/Markham-Ontario-Canada/Senior-HIL-Simulation-Integration-Engineer_JR-202623874": [
      1794412891,
      "94a7022beab4"
-    ],
-    "/job/Markham-Ontario-Canada/Senior-Manager--Enterprise-Data---Cloud-Modernization_JR-202623985": [
-     1794992447,
-     "ec4c19ee1b07"
     ],
     "/job/Markham-Ontario-Canada/Senior-Software-Developer---Virtualization-and-SIL-Integration_JR-202622093": [
      1793485167,
@@ -44015,10 +44034,6 @@
     "/job/Markham-Ontario-Canada/Software-Engineering-Manager---Vehicle-Data-Platform_JR-202621117": [
      1793485167,
      "0ee29f00cdff"
-    ],
-    "/job/Markham-Ontario-Canada/Sr-Calibration-Specialist_JR-202623961-1": [
-     1794430855,
-     "2cc64db7ab85"
     ],
     "/job/Markham-Ontario-Canada/Sr-Software-Engineering---LV-Power-Distribution_JR-202621921-1": [
      1793485167,
@@ -44047,10 +44062,6 @@
     "/job/Markham-Ontario-Canada/Test-Engineering--Data-Engineering---Systems-QA_JR-202622079": [
      1793485167,
      "cdf8c46372e1"
-    ],
-    "/job/Oshawa-Ontario-Canada/CCA-Financial-Analyst--Financial-Planning-and-Analysis--FP-A--and-Oshawa-Operations_JR-202618485-1": [
-     1794927668,
-     "897bd54bf29f"
     ],
     "/job/Oshawa-Ontario-Canada/Manufacturing-Engineering-Lead_JR-202624092-1": [
      1795532463,
@@ -55314,6 +55325,10 @@
     "4522948009": [
      1795561243,
      "8787dfed6a43"
+    ],
+    "4523233009": [
+     1795582850,
+     "c8c61d77457b"
     ]
    },
    "name": "Moment Energy",
@@ -64013,6 +64028,10 @@
     "8407829": [
      1795401044,
      "7a8e5551829d"
+    ],
+    "8411574": [
+     1795582850,
+     "15e70111a512"
     ],
     "8415766": [
      1795568450,
@@ -74958,6 +74977,11 @@
      "623d15a6113b",
      1794540202
     ],
+    "8196573": [
+     1793485167,
+     "eb1648ebf034",
+     1795582850
+    ],
     "8209069": [
      1793485167,
      "04fde0b5863f",
@@ -75313,10 +75337,6 @@
     "8190483": [
      1793485167,
      "47af74e75adc"
-    ],
-    "8196573": [
-     1793485167,
-     "eb1648ebf034"
     ],
     "8202834": [
      1793485167,
@@ -96374,6 +96394,10 @@
     "8411021": [
      1795429839,
      "e4c667657322"
+    ],
+    "8411217": [
+     1795582850,
+     "47735d62091f"
     ],
     "8411927": [
      1795456854,
