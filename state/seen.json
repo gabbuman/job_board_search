@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 331,
+   "fails": 332,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -7746,6 +7746,10 @@
     "/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1": [
      1793485167,
      "c753ad69046f"
+    ],
+    "/job/Tel-Aviv-ISR/Subject-Matter-Expert--SME---Architecture---AI-Workflows_26WD102478-2": [
+     1795595471,
+     "d97ec48c37be"
     ]
    },
    "name": "Autodesk",
@@ -30125,6 +30129,11 @@
      "1d7767b13c04",
      1794870054
     ],
+    "8397324": [
+     1795199457,
+     "45fd18da7c4a",
+     1795595471
+    ],
     "8400556": [
      1795033840,
      "fed755b7c0d4",
@@ -31481,10 +31490,6 @@
      1794945665,
      "638a0824dd97"
     ],
-    "8397324": [
-     1795199457,
-     "45fd18da7c4a"
-    ],
     "8398678": [
      1795024850,
      "27dff70d58e1"
@@ -31916,6 +31921,11 @@
      1793485167,
      "c3e471caffb4",
      1794011441
+    ],
+    "90873fda-95c3-4d21-bae8-c5a30f5b7ac8": [
+     1793485167,
+     "e251b23a8367",
+     1795595471
     ],
     "9271907b-1aad-4868-8995-b9ed32fb92ac": [
      1793485167,
@@ -32359,10 +32369,6 @@
     "8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9": [
      1793485167,
      "4563b479e362"
-    ],
-    "90873fda-95c3-4d21-bae8-c5a30f5b7ac8": [
-     1793485167,
-     "e251b23a8367"
     ],
     "90cc8a34-1707-4aef-b509-94f94389d149": [
      1793485167,
@@ -32963,6 +32969,11 @@
      "7f123e95de4d",
      1793901659
     ],
+    "b1f8b069-772f-49f0-8f9d-ef03c92b73b7": [
+     1793485167,
+     "dfb4c4df93a8",
+     1795595471
+    ],
     "bd8c5768-7efa-4a18-9e56-485ccaf4ec77": [
      1793485167,
      "30b21f8f9eb8",
@@ -33328,10 +33339,6 @@
     "b0b33251-e5b1-4fdf-b379-98f22ec3584b": [
      1793485167,
      "ecba954c97fd"
-    ],
-    "b1f8b069-772f-49f0-8f9d-ef03c92b73b7": [
-     1793485167,
-     "dfb4c4df93a8"
     ],
     "b4ad6323-3d69-4881-a2db-e3967afbae65": [
      1794448844,
@@ -39144,6 +39151,11 @@
      "ab60375911da",
      1794771045
     ],
+    "24888": [
+     1793916061,
+     "edb791a7ee41",
+     1795595471
+    ],
     "24902": [
      1794380485,
      "d6b11c95d401",
@@ -43097,10 +43109,6 @@
     "24887": [
      1793892679,
      "a882e9262cb4"
-    ],
-    "24888": [
-     1793916061,
-     "edb791a7ee41"
     ],
     "24889": [
      1794576643,
@@ -73803,6 +73811,11 @@
      "a712e357d874",
      1795536064
     ],
+    "/job/Singapore/Partner-Acceleration-Lead_R-059892-1": [
+     1795494644,
+     "ecdaf524cf13",
+     1795595471
+    ],
     "/job/Tokyo/Telco-Consultant_R-055802-2": [
      1795150847,
      "b1019fea1f5a",
@@ -74301,10 +74314,6 @@
     "/job/Singapore/OpenShift-Specialist-Solutions-Architect_R-057901-1": [
      1795150847,
      "447c6ef9e562"
-    ],
-    "/job/Singapore/Partner-Acceleration-Lead_R-059892-1": [
-     1795494644,
-     "ecdaf524cf13"
     ],
     "/job/Singapore/Principal-Forward-Deployed-Engineer---AI-PlatformPrincipal-Forward-Deployed-Engineer---AI-Platform-Kubernetes-Pytorch_R-058510-2": [
      1795150847,
