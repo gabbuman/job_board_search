@@ -37,6 +37,11 @@
      "22871016f865",
      1793635315
     ],
+    "4f9bbb1a-2f8c-46ce-ab2c-400d2a9c3058": [
+     1793485167,
+     "3eacb7bbd3bd",
+     1795636856
+    ],
     "575b969a-01a4-49c4-9859-42c4306316a1": [
      1793485167,
      "6876d75395a5",
@@ -340,10 +345,6 @@
      1793485167,
      "cc3fd8ef0cb7"
     ],
-    "4f9bbb1a-2f8c-46ce-ab2c-400d2a9c3058": [
-     1793485167,
-     "3eacb7bbd3bd"
-    ],
     "4fcd3be8-0bfe-4ce2-8b5a-537023760958": [
      1794346259,
      "4e16af3a541c"
@@ -526,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 354,
+   "fails": 355,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -7927,6 +7928,11 @@
      "0a44bb28c3fe",
      1794592843
     ],
+    "88fe7cb5-3e97-4548-a2d1-c97d40c51110": [
+     1793485167,
+     "15d1aa6c036b",
+     1795636856
+    ],
     "90917db5-8555-4a69-91c2-3b5ddbdbdd56": [
      1793485167,
      "d7e4cf025f47",
@@ -8192,10 +8198,6 @@
     "86331c05-a6b0-4a9f-991d-b46091b696b5": [
      1793485167,
      "b760b9d2d46e"
-    ],
-    "88fe7cb5-3e97-4548-a2d1-c97d40c51110": [
-     1793485167,
-     "15d1aa6c036b"
     ],
     "8a989ccd-57d6-4015-bf79-2b28444e1e85": [
      1795217444,
@@ -20492,6 +20494,11 @@
      "4da8b0dc6802",
      1793898048
     ],
+    "62e0f80e-6d7c-4c96-9979-11df470de722": [
+     1793485167,
+     "21f75d7f296d",
+     1795636856
+    ],
     "7450f804-7540-4488-a2e0-6ec0c6932302": [
      1793485167,
      "83964133ad72",
@@ -20597,10 +20604,6 @@
     "6149ede9-e1a4-4f0b-9c27-4e26c48ce075": [
      1793485167,
      "427baee23088"
-    ],
-    "62e0f80e-6d7c-4c96-9979-11df470de722": [
-     1793485167,
-     "21f75d7f296d"
     ],
     "66c6e326-b1c1-461b-b728-9325217da4eb": [
      1793485167,
@@ -27308,6 +27311,10 @@
     "8414413": [
      1795541450,
      "8196cd02e049"
+    ],
+    "8414502": [
+     1795636856,
+     "60ccc3cc519f"
     ],
     "8416965": [
      1795624241,
@@ -43761,6 +43768,10 @@
      1795555849,
      "6e2f4bd7e0d5"
     ],
+    "25072": [
+     1795636856,
+     "7c431da17507"
+    ],
     "25074": [
      1795635047,
      "602df598b1ac"
@@ -51296,6 +51307,11 @@
      "8c16ad153ca6",
      1794841254
     ],
+    "/job/Mississauga-Ontario/Named-Accounts-Manager---Networking_1215072-1": [
+     1795489274,
+     "50bcb22f796e",
+     1795636856
+    ],
     "/job/Mississauga-Ontario/Partner-Account-Manager--Networking_1214707-2": [
      1793485167,
      "6b82d766b1f7",
@@ -51377,10 +51393,6 @@
     "/job/Mississauga-Ontario/Cybersecurity-Sales-Specialist_1203734-1": [
      1793485167,
      "720321ad6815"
-    ],
-    "/job/Mississauga-Ontario/Named-Accounts-Manager---Networking_1215072-1": [
-     1795489274,
-     "50bcb22f796e"
     ],
     "/job/Mississauga-Ontario/Networking-Presales-Consultant_1214818-2": [
      1793485167,
@@ -62028,29 +62040,9 @@
      "ae407fa4867c",
      1794504727
     ],
-    "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
-     1793653245,
-     "da484f8b2157",
-     1795629672
-    ],
     "/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982": [
      1793485167,
      "224aff28624a",
-     1795629672
-    ],
-    "/job/Canada-Toronto/Account-Manager--Energy-and-Retail_JR2025459": [
-     1793485167,
-     "12cf72d4079c",
-     1795629672
-    ],
-    "/job/Canada-Toronto/Manager--Performance-Engineering_JR2026340": [
-     1793485167,
-     "62b4922785f2",
-     1795629672
-    ],
-    "/job/Canada-Toronto/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017418": [
-     1793485167,
-     "06b6df1a61f7",
      1795629672
     ],
     "/job/Canada-Toronto/Senior-DevOps-Engineer---Robotics-Simulation_JR2027642": [
@@ -62183,13 +62175,29 @@
      1794832250,
      "b39ca22ace8a"
     ],
+    "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
+     1793653245,
+     "da484f8b2157"
+    ],
+    "/job/Canada-Toronto/Account-Manager--Energy-and-Retail_JR2025459": [
+     1793485167,
+     "12cf72d4079c"
+    ],
     "/job/Canada-Toronto/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2023172": [
      1793485167,
      "34709d7bc9ee"
     ],
+    "/job/Canada-Toronto/Manager--Performance-Engineering_JR2026340": [
+     1793485167,
+     "62b4922785f2"
+    ],
     "/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997": [
      1793485167,
      "e2f6f7a29d96"
+    ],
+    "/job/Canada-Toronto/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017418": [
+     1793485167,
+     "06b6df1a61f7"
     ],
     "/job/Canada-Toronto/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2012562": [
      1793485167,
@@ -69546,6 +69554,11 @@
      "684b0130aa73",
      1795462248
     ],
+    "8278250": [
+     1793486441,
+     "a669746819f3",
+     1795636856
+    ],
     "8282346": [
      1793486441,
      "2db7a434f185",
@@ -69754,10 +69767,6 @@
     "8258492": [
      1793486441,
      "b93f61841909"
-    ],
-    "8278250": [
-     1793486441,
-     "a669746819f3"
     ],
     "8278252": [
      1793486441,
@@ -79999,11 +80008,6 @@
      "bd0be4c62f5e",
      1795021278
     ],
-    "/job/Cambridge-Ontario-Canada/Product-Management-Specialist---Medium-Voltage_R26-7464": [
-     1793655050,
-     "06ba61282d52",
-     1795624241
-    ],
     "/job/Cambridge-Ontario-Canada/Product-Manager--Medium-Voltage-Drives_R26-5648": [
      1793485167,
      "b629bb2c0ede",
@@ -80105,6 +80109,10 @@
     "/job/Cambridge-Ontario-Canada/Medium-Voltage-Products-Supervisor--Remote-Support_R26-7645": [
      1793485167,
      "0fd944b0ac5b"
+    ],
+    "/job/Cambridge-Ontario-Canada/Product-Management-Specialist---Medium-Voltage_R26-7464": [
+     1793655050,
+     "06ba61282d52"
     ],
     "/job/Cambridge-Ontario-Canada/Prototype-Assembler-1P---Afternoon-Shift_R26-8438": [
      1793485167,
@@ -94132,6 +94140,11 @@
      "0a62b1a164e7",
      1793898048
     ],
+    "896da8fd-2829-44d4-a91c-0ce10daa4989": [
+     1795635047,
+     "abae74d43e84",
+     1795636856
+    ],
     "896f250b-b553-458d-b0d4-80ea9ceee826": [
      1793485167,
      "8ef4ba0c6ecb",
@@ -95304,10 +95317,6 @@
      1793638877,
      "b1cd8bbe294a"
     ],
-    "896da8fd-2829-44d4-a91c-0ce10daa4989": [
-     1795635047,
-     "abae74d43e84"
-    ],
     "8a6365f5-454f-4a9e-b72f-29b09c02d55b": [
      1793485167,
      "7de630d944c5"
@@ -96140,6 +96149,11 @@
      "549f1f4b051e",
      1793904103
     ],
+    "6149262004": [
+     1793485167,
+     "953fa961632a",
+     1795636856
+    ],
     "6151886004": [
      1793485167,
      "b5235ac9bffa",
@@ -96669,10 +96683,6 @@
     "6147288004": [
      1793485167,
      "574070b64e90"
-    ],
-    "6149262004": [
-     1793485167,
-     "953fa961632a"
     ],
     "6149266004": [
      1793485167,
@@ -98912,6 +98922,11 @@
      1794520849,
      "cce2437dce37",
      1795116646
+    ],
+    "8387820": [
+     1794940242,
+     "1d9ba1f34f36",
+     1795636856
     ],
     "8393708": [
      1794855646,
@@ -101850,10 +101865,6 @@
      1795024850,
      "27a98cf8670d"
     ],
-    "8387820": [
-     1794940242,
-     "1d9ba1f34f36"
-    ],
     "8392755": [
      1795006889,
      "4dc9f05a6d12"
@@ -104456,6 +104467,11 @@
   },
   "thoropass@greenhouse:thoropass": {
    "gone": {
+    "6093054004": [
+     1793486441,
+     "8440c473fd3f",
+     1795636856
+    ],
     "6202737004": [
      1793486441,
      "2c994ae75282",
@@ -104466,10 +104482,6 @@
     "6001423004": [
      1793486441,
      "fca46e10c9a1"
-    ],
-    "6093054004": [
-     1793486441,
-     "8440c473fd3f"
     ],
     "6223477004": [
      1793486441,
@@ -107572,6 +107584,10 @@
     "a61fa205-03b3-42b9-84a4-4d0026650cf7": [
      1793485167,
      "e1036a0dc20a"
+    ],
+    "c84b2d6c-fb6b-4db5-8858-c9cb03fe50ed": [
+     1795636856,
+     "f9d3cb8b8555"
     ],
     "d6c5fce8-ce92-40d6-b028-07c91bb4eb03": [
      1793485167,
