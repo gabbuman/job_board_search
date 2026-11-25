@@ -525,7 +525,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 329,
+   "fails": 330,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -54231,6 +54231,11 @@
      "9fbd2b2978d3",
      1794430855
     ],
+    "4749952005": [
+     1793991667,
+     "b95134285416",
+     1795591845
+    ],
     "4750561005": [
      1795116646,
      "3980ea345ebc",
@@ -54257,10 +54262,6 @@
     "4748291005": [
      1793486441,
      "042391622c1e"
-    ],
-    "4749952005": [
-     1793991667,
-     "b95134285416"
     ],
     "4750030005": [
      1793829673,
@@ -73719,6 +73720,11 @@
      "294d26cd1c61",
      1795515780
     ],
+    "/job/Pune---Tower-6/Data-Scientist_R-060122-2": [
+     1795442458,
+     "94e7fc8c0376",
+     1795591845
+    ],
     "/job/Remote-CA-ON/Director--Enterprise-Sales_R-060129-2": [
      1793485167,
      "1bea4ebd9f1d",
@@ -73914,10 +73920,6 @@
     "/job/New-Delhi/Technical-Account-Manager---OpenShift_R-059640-1": [
      1795150847,
      "dac9979ca5c6"
-    ],
-    "/job/Pune---Tower-6/Data-Scientist_R-060122-2": [
-     1795442458,
-     "94e7fc8c0376"
     ],
     "/job/Pune/Financial-Analyst-5_R-060196-1": [
      1795442458,
@@ -74398,6 +74400,10 @@
     "/job/Tokyo/Partner-Sales-Account-Manager--JOEM_R-059705-1": [
      1795150847,
      "024780b09743"
+    ],
+    "/job/Tokyo/Sales-Account-Manager_R-059708-1": [
+     1795591845,
+     "a8d80acd5072"
     ],
     "/job/Tokyo/Security-Technical-Account-Manager---Project-Lightwell---Japan_R-058057-2": [
      1795150847,
