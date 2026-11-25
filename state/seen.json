@@ -526,7 +526,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 350,
+   "fails": 351,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -1244,6 +1244,10 @@
     "97910": [
      1795473043,
      "0be42900768a"
+    ],
+    "97919": [
+     1795629672,
+     "9d353470ccfd"
     ],
     "97922": [
      1795561243,
@@ -6727,6 +6731,11 @@
      "cde66bcb39c8",
      1794679243
     ],
+    "4725542005": [
+     1793485167,
+     "23ed26c6ac96",
+     1795629672
+    ],
     "4727003005": [
      1793485167,
      "19c9ceb43d90",
@@ -7157,10 +7166,6 @@
     "4725093005": [
      1793485167,
      "79265283021a"
-    ],
-    "4725542005": [
-     1793485167,
-     "23ed26c6ac96"
     ],
     "4727465005": [
      1793485167,
@@ -16361,6 +16366,11 @@
      "6345bc908688",
      1793829673
     ],
+    "4666901006": [
+     1793485167,
+     "44fa12fbb2d2",
+     1795629672
+    ],
     "4670172006": [
      1793485167,
      "1e0a36112a45",
@@ -16942,10 +16952,6 @@
     "4666800006": [
      1793485167,
      "e91eac42193c"
-    ],
-    "4666901006": [
-     1793485167,
-     "44fa12fbb2d2"
     ],
     "4667333006": [
      1793485167,
@@ -30209,6 +30215,11 @@
      "947f0e8753f9",
      1794259865
     ],
+    "8337827": [
+     1794879049,
+     "e423530689ce",
+     1795629672
+    ],
     "8338301": [
      1793485167,
      "4f6600e2d283",
@@ -31349,10 +31360,6 @@
      1793887247,
      "7c2e32579d92"
     ],
-    "8337827": [
-     1794879049,
-     "e423530689ce"
-    ],
     "8344335": [
      1794895255,
      "bcb45378ff65"
@@ -31616,6 +31623,10 @@
     "8382872": [
      1795582850,
      "8d755ed47fc9"
+    ],
+    "8384555": [
+     1795629672,
+     "d75d743a7950"
     ],
     "8392706": [
      1794848474,
@@ -52600,6 +52611,10 @@
      1793485167,
      "b9ef5a310065"
     ],
+    "e393b976-be6b-4d9f-acd3-2b17cdbe26a1": [
+     1795629672,
+     "4ce88832bdf0"
+    ],
     "ecbf7e8c-2f5d-4339-b1f1-9665068950eb": [
      1795026642,
      "167da418b4b4"
@@ -55102,6 +55117,11 @@
      "850ad2017e88",
      1795172450
     ],
+    "8180269": [
+     1793486441,
+     "c64b8e024ef1",
+     1795629672
+    ],
     "8230178": [
      1793486441,
      "ab56601c5440",
@@ -55169,10 +55189,6 @@
     "8155220": [
      1793486441,
      "6c6bc92eff6f"
-    ],
-    "8180269": [
-     1793486441,
-     "c64b8e024ef1"
     ],
     "8220772": [
      1793486441,
@@ -60496,6 +60512,10 @@
      1795019450,
      "2083df4ba3a8"
     ],
+    "/job/NashvilleTennessee---USA/Professional-Career_NX-4892": [
+     1795629672,
+     "3fcb2cbf127e"
+    ],
     "/job/NashvilleTennessee---USA/Project-Lead--Operational-Excellence---Transformation_NX-4868": [
      1793486441,
      "7e417697203b"
@@ -61902,6 +61922,21 @@
   },
   "nvidia@workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite": {
    "gone": {
+    "/job/Canada-Remote/Industry-Development-Specialist---Canada_JR2023420": [
+     1794006057,
+     "712daf6e0213",
+     1795629672
+    ],
+    "/job/Canada-Remote/Senior-ASIC-Design-Verification-Engineer_JR2013047": [
+     1793485167,
+     "5a803414ca50",
+     1795629672
+    ],
+    "/job/Canada-Remote/Senior-Formal-Verification-Engineer_JR2012546": [
+     1793485167,
+     "f65e6fc8db2a",
+     1795629672
+    ],
     "/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1": [
      1793831458,
      "56d0bf4d6b11",
@@ -61922,76 +61957,4817 @@
      "ae407fa4867c",
      1794504727
     ],
+    "/job/Canada-Remote/Senior-Solutions-Architect--AI_JR2028683": [
+     1794832250,
+     "b39ca22ace8a",
+     1795629672
+    ],
+    "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
+     1793653245,
+     "da484f8b2157",
+     1795629672
+    ],
+    "/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982": [
+     1793485167,
+     "224aff28624a",
+     1795629672
+    ],
+    "/job/Canada-Toronto/Account-Manager--Energy-and-Retail_JR2025459": [
+     1793485167,
+     "12cf72d4079c",
+     1795629672
+    ],
+    "/job/Canada-Toronto/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2023172": [
+     1793485167,
+     "34709d7bc9ee",
+     1795629672
+    ],
+    "/job/Canada-Toronto/Manager--Performance-Engineering_JR2026340": [
+     1793485167,
+     "62b4922785f2",
+     1795629672
+    ],
+    "/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997": [
+     1793485167,
+     "e2f6f7a29d96",
+     1795629672
+    ],
+    "/job/Canada-Toronto/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017418": [
+     1793485167,
+     "06b6df1a61f7",
+     1795629672
+    ],
     "/job/Canada-Toronto/Senior-DevOps-Engineer---Robotics-Simulation_JR2027642": [
      1793485167,
      "3731bcf31b3e",
      1794349846
-    ]
-   },
-   "jobs": {
-    "/job/Canada-Remote/Industry-Development-Specialist---Canada_JR2023420": [
-     1794006057,
-     "712daf6e0213"
-    ],
-    "/job/Canada-Remote/Senior-ASIC-Design-Verification-Engineer_JR2013047": [
-     1793485167,
-     "5a803414ca50"
-    ],
-    "/job/Canada-Remote/Senior-Formal-Verification-Engineer_JR2012546": [
-     1793485167,
-     "f65e6fc8db2a"
-    ],
-    "/job/Canada-Remote/Senior-Solutions-Architect--AI_JR2028683": [
-     1794832250,
-     "b39ca22ace8a"
-    ],
-    "/job/Canada-Remote/Solutions-Architect--NPN_JR2029198": [
-     1793653245,
-     "da484f8b2157"
-    ],
-    "/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982": [
-     1793485167,
-     "224aff28624a"
-    ],
-    "/job/Canada-Toronto/Account-Manager--Energy-and-Retail_JR2025459": [
-     1793485167,
-     "12cf72d4079c"
-    ],
-    "/job/Canada-Toronto/Developer-Relations-Manager--Higher-Education-and-Research---Foundational-AI_JR2023172": [
-     1793485167,
-     "34709d7bc9ee"
-    ],
-    "/job/Canada-Toronto/Manager--Performance-Engineering_JR2026340": [
-     1793485167,
-     "62b4922785f2"
-    ],
-    "/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997": [
-     1793485167,
-     "e2f6f7a29d96"
-    ],
-    "/job/Canada-Toronto/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2017418": [
-     1793485167,
-     "06b6df1a61f7"
     ],
     "/job/Canada-Toronto/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2012562": [
      1793485167,
-     "0e4a44ab9c87"
+     "0e4a44ab9c87",
+     1795629672
     ],
     "/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188": [
      1793962855,
-     "c81cbbc021c7"
+     "c81cbbc021c7",
+     1795629672
     ],
     "/job/Canada-Toronto/Senior-Mixed-Signal-Design-Engineer_JR2028697": [
      1793485167,
-     "67e2b899b800"
+     "67e2b899b800",
+     1795629672
     ],
     "/job/Canada-Toronto/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028443": [
      1793485167,
-     "c4e7e9f5dc1d"
+     "c4e7e9f5dc1d",
+     1795629672
     ],
     "/job/Canada-Toronto/Staff-Site-Reliability-Operations_JR2028170": [
      1793485167,
-     "ceb85128287c"
+     "ceb85128287c",
+     1795629672
+    ]
+   },
+   "jobs": {
+    "/job/Armenia-Yerevan/Applied-Research-Intern---2027_JR2030233": [
+     1795629672,
+     "0e8888b8ec4e"
+    ],
+    "/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1": [
+     1795629672,
+     "29705b2e4e9e"
+    ],
+    "/job/Armenia-Yerevan/Research-Scientist---New-College-Grad-2027_JR2028039": [
+     1795629672,
+     "bb6cc857b31e"
+    ],
+    "/job/Armenia-Yerevan/Software-Engineering-Intern_JR2030226": [
+     1795629672,
+     "19fef7674eda"
+    ],
+    "/job/Armenia-Yerevan/Solutions-Architect--AI-Factory---CIS-Region_JR2026421": [
+     1795629672,
+     "52286f208392"
+    ],
+    "/job/Australia-Remote/Data-Center-Infrastructure-Specialist_JR2024595": [
+     1795629672,
+     "036cb6245c26"
+    ],
+    "/job/Australia-Remote/Developer-Relations-Manager---ANZ_JR2006800-1": [
+     1795629672,
+     "1996aa415250"
+    ],
+    "/job/Australia-Remote/Enterprise-Partner-Marketing-Manager_JR2030194-1": [
+     1795629672,
+     "83fb4854282e"
+    ],
+    "/job/Australia-Remote/Senior-Account-Manager-Consumer---ANZ_JR2025700-1": [
+     1795629672,
+     "4901a447c86c"
+    ],
+    "/job/Australia-Remote/Senior-High-Performance-Storage-Architect---NVIS_JR2024695": [
+     1795629672,
+     "ecae7b82f13b"
+    ],
+    "/job/Australia-Remote/Senior-Solution-Architect--AI-Compute-Engineer---NVIS_JR2014367": [
+     1795629672,
+     "9b4a5537a95f"
+    ],
+    "/job/Australia-Remote/Senior-Solutions-Architect--InfiniBand-and-Networking-Ethernet---NVIS_JR2024703": [
+     1795629672,
+     "2200ac16c49b"
+    ],
+    "/job/Australia-Remote/Senior-Technical-Customer-Program-Manager---AI-Datacenter_JR2030461-1": [
+     1795629672,
+     "8f44e7b17038"
+    ],
+    "/job/Australia-Remote/Senior-Technical-Support-Engineer---Ethernet-and-AI-Infrastructure_JR2027174": [
+     1795629672,
+     "d400b9b5e14c"
+    ],
+    "/job/Australia-Remote/Solutions-Architect---Data-Science_JR2027021": [
+     1795629672,
+     "13af34a3e315"
+    ],
+    "/job/Australia-Remote/Solutions-Architect---DevOps_JR2015236": [
+     1795629672,
+     "783e9a173e5c"
+    ],
+    "/job/Australia-Remote/Solutions-Architect---Enterprise_JR2027583": [
+     1795629672,
+     "360185d3ffa0"
+    ],
+    "/job/Australia-Remote/Solutions-Architect---MEP_JR2027601": [
+     1795629672,
+     "3fb09728bec8"
+    ],
+    "/job/Australia-Remote/Solutions-Architect---NCP-DevOps_JR2027206": [
+     1795629672,
+     "b097bf454a1e"
+    ],
+    "/job/Australia-Remote/Solutions-Architect--NCP-Infrastructure_JR2027603": [
+     1795629672,
+     "1e9edeb00ced"
+    ],
+    "/job/Australia-Remote/Solutions-Architect--Networking-Ethernet_JR2015237": [
+     1795629672,
+     "bbc1e8ef5278"
+    ],
+    "/job/Australia-Sydney/Solutions-Architect_JR2008325": [
+     1795629672,
+     "da88cb0ad8c7"
+    ],
+    "/job/Brazil-Sao-Paulo/Senior-Developer-Relations-Manager--Brazil_JR2015846-1": [
+     1795629672,
+     "98fb20325600"
+    ],
+    "/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1": [
+     1795629672,
+     "683bde1e3baf"
+    ],
+    "/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002": [
+     1795629672,
+     "f1d848f79165"
+    ],
+    "/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559": [
+     1795629672,
+     "dd05c7ad6274"
+    ],
+    "/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580": [
+     1795629672,
+     "c682a97d68b7"
+    ],
+    "/job/China-Beijing/Deep-Learning-Solution-Architect---Agentic-Performance_JR2024018": [
+     1795629672,
+     "1fa539a8bec6"
+    ],
+    "/job/China-Beijing/Deep-Learning-Solution-Architect---RL-and-Post-training_JR2024056": [
+     1795629672,
+     "5d8c25dba41d"
+    ],
+    "/job/China-Beijing/Developer-Relations-Manager---Al-Algorithms--Benchmarks--OSS-Datasets_JR2019488": [
+     1795629672,
+     "c3ef2240300b"
+    ],
+    "/job/China-Beijing/Developer-Relations-Manager---Enterprise-AI_JR2025918": [
+     1795629672,
+     "5203d8b904cf"
+    ],
+    "/job/China-Beijing/Developer-Technology-Engineer--AI_JR2018676": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122": [
+     1795629672,
+     "505f7aa328ab"
+    ],
+    "/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258": [
+     1795629672,
+     "f0d763a7079e"
+    ],
+    "/job/China-Beijing/Energy-Solution-Architect_JR2023910": [
+     1795629672,
+     "80f634e488f5"
+    ],
+    "/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1": [
+     1795629672,
+     "afe42d8d0a9c"
+    ],
+    "/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182": [
+     1795629672,
+     "c78161ea6010"
+    ],
+    "/job/China-Beijing/Product-Manager---Open-Models_JR2023506": [
+     1795629672,
+     "282a7a2b7b8d"
+    ],
+    "/job/China-Beijing/Senior-Account-Manager--OEM_JR2021036": [
+     1795629672,
+     "002c056c7ea8"
+    ],
+    "/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024043": [
+     1795629672,
+     "62cc555aa6d0"
+    ],
+    "/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2024045": [
+     1795629672,
+     "62cc555aa6d0"
+    ],
+    "/job/China-Beijing/Senior-Firmware-Engineer_JR2021590": [
+     1795629672,
+     "3a5cf7138030"
+    ],
+    "/job/China-Beijing/Senior-Networking-Solutions-Architect---Spectrum-X_JR2025922": [
+     1795629672,
+     "21fb84de5872"
+    ],
+    "/job/China-Beijing/Senior-Software-Engineer---MarTech-Platform-Development_JR2019891-1": [
+     1795629672,
+     "1ed46b3ad0e7"
+    ],
+    "/job/China-Beijing/Senior-Solutions-Architect---ARM-CPU_JR2024040": [
+     1795629672,
+     "02d7ed714ecc"
+    ],
+    "/job/China-Beijing/Senior-Solutions-Architect---CRISP-System_JR2024051": [
+     1795629672,
+     "d12ee94e74b9"
+    ],
+    "/job/China-Beijing/Senior-Switch-Software-Architect_JR2022202": [
+     1795629672,
+     "fbfe06821de7"
+    ],
+    "/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186": [
+     1795629672,
+     "ea85ac80bb3f"
+    ],
+    "/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177": [
+     1795629672,
+     "03e4ae4cdd2d"
+    ],
+    "/job/China-Beijing/Solution-Architect---AI-Labs_JR2024132": [
+     1795629672,
+     "49fdcdaf7392"
+    ],
+    "/job/China-Beijing/Solution-Architect---Accelerated-Computing-Libraries_JR2015847": [
+     1795629672,
+     "a62b027816fb"
+    ],
+    "/job/China-Beijing/Solution-Architect---Agentic-AI---CSP_JR2024053": [
+     1795629672,
+     "b72eafabfb08"
+    ],
+    "/job/China-Beijing/Solution-Architect---ISV-for-AI-Infra_JR2019425-1": [
+     1795629672,
+     "7919396409f8"
+    ],
+    "/job/China-Beijing/Solution-Architect--Jetson-Platform-Edge-Computing_JR2019692": [
+     1795629672,
+     "e034877fa08e"
+    ],
+    "/job/China-Beijing/Solution-Architect-Manager---Intern-Program_JR2021277": [
+     1795629672,
+     "5205d92c1892"
+    ],
+    "/job/China-Beijing/Solutions-Architect---Financial-Services_JR2024033": [
+     1795629672,
+     "873fde660995"
+    ],
+    "/job/China-Beijing/System-Software-Architect--AI-and-GPU-Networking_JR2013092": [
+     1795629672,
+     "894fe63270f5"
+    ],
+    "/job/China-Remote/Senior-Solutions-Architect--Networking---GPU-System_JR2022712": [
+     1795629672,
+     "a74f7bc5b533"
+    ],
+    "/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160": [
+     1795629672,
+     "c70ed3309169"
+    ],
+    "/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164": [
+     1795629672,
+     "ef96b3b10278"
+    ],
+    "/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173": [
+     1795629672,
+     "a75e1610e14a"
+    ],
+    "/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170": [
+     1795629672,
+     "31576161810a"
+    ],
+    "/job/China-Shanghai/AI-Developer---Interconnect-Hardware-Frontend_JR2029854": [
+     1795629672,
+     "451e37d9c388"
+    ],
+    "/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468": [
+     1795629672,
+     "614078c43e43"
+    ],
+    "/job/China-Shanghai/AI-Developer-Technology-Engineer_JR2027383": [
+     1795629672,
+     "9e8798d71857"
+    ],
+    "/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1": [
+     1795629672,
+     "4d5ca83fd445"
+    ],
+    "/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402": [
+     1795629672,
+     "37a129e93ffd"
+    ],
+    "/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468": [
+     1795629672,
+     "1716ea64927d"
+    ],
+    "/job/China-Shanghai/APAC-IT-Director_JR2022672": [
+     1795629672,
+     "9c1e2b79c446"
+    ],
+    "/job/China-Shanghai/ASIC-Design-Engineer--Clocks_JR2029368": [
+     1795629672,
+     "fb1198871037"
+    ],
+    "/job/China-Shanghai/ASIC-Design-and-Verification-Intern--SOC---2027_JR2024860": [
+     1795629672,
+     "cbe70e984e9b"
+    ],
+    "/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456": [
+     1795629672,
+     "be5ff83a2071"
+    ],
+    "/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1": [
+     1795629672,
+     "ace27a46da7d"
+    ],
+    "/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452": [
+     1795629672,
+     "fcd42b2b39b5"
+    ],
+    "/job/China-Shanghai/ASIC-Physical-Design-Engineer_JR2026756": [
+     1795629672,
+     "f6ec95dc3c1f"
+    ],
+    "/job/China-Shanghai/ASIC-Physical-Design-Intern---2027_JR2023914": [
+     1795629672,
+     "6c5bcbf28f82"
+    ],
+    "/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469": [
+     1795629672,
+     "42a0e1368ecd"
+    ],
+    "/job/China-Shanghai/ASIC-Verification-Engineer---Hardware_JR2026888": [
+     1795629672,
+     "005338903312"
+    ],
+    "/job/China-Shanghai/Accelerated-Compute-Systems-Performance-Architect-Intern---2027_JR2024823": [
+     1795629672,
+     "4ec5bc84c093"
+    ],
+    "/job/China-Shanghai/Applied-AI-Engineer---Silicon-Co-Design-Group_JR2017301": [
+     1795629672,
+     "4932d5a9e988"
+    ],
+    "/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181": [
+     1795629672,
+     "dfabca346b14"
+    ],
+    "/job/China-Shanghai/Applied-Research-Intern--Robotics---2027_JR2027628": [
+     1795629672,
+     "b16bea825ce1"
+    ],
+    "/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424": [
+     1795629672,
+     "f7b309014baf"
+    ],
+    "/job/China-Shanghai/CPU-Performance-Developer-Technology-Engineer_JR2030220-1": [
+     1795629672,
+     "e7aec482c0a7"
+    ],
+    "/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1": [
+     1795629672,
+     "92ae67c1d51b"
+    ],
+    "/job/China-Shanghai/Circuit-Validation-Engineer---New-College-Graduate-2027_JR2029067": [
+     1795629672,
+     "9d75aefa5169"
+    ],
+    "/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949": [
+     1795629672,
+     "c72aef605118"
+    ],
+    "/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889": [
+     1795629672,
+     "702aae663a6a"
+    ],
+    "/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578": [
+     1795629672,
+     "9db938529b81"
+    ],
+    "/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052": [
+     1795629672,
+     "b647dc566638"
+    ],
+    "/job/China-Shanghai/DFT-Engineer_JR2027694": [
+     1795629672,
+     "f05e28ed7732"
+    ],
+    "/job/China-Shanghai/DFT-Intern---2027_JR2027176": [
+     1795629672,
+     "b88c99add2f1"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Compiler-CI-Infrastructure-Engineer_JR2020326": [
+     1795629672,
+     "7c5bf324a548"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": [
+     1795629672,
+     "da8ee8fae513"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Kernel-Software-Performance-Architect_JR2020693-1": [
+     1795629672,
+     "6685c35509d4"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": [
+     1795629672,
+     "009ed08f5d9e"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2021807": [
+     1795629672,
+     "96dc07c70843"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880": [
+     1795629672,
+     "378c194eefa5"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2027348": [
+     1795629672,
+     "378c194eefa5"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Senior-Engineer--End-To-End-Autonomous-Driving_JR2019758": [
+     1795629672,
+     "35d31c053dbd"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639": [
+     1795629672,
+     "addb896bb047"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641": [
+     1795629672,
+     "addb896bb047"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656": [
+     1795629672,
+     "addb896bb047"
+    ],
+    "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658": [
+     1795629672,
+     "addb896bb047"
+    ],
+    "/job/China-Shanghai/Developer-Relations-Manager---CAE-and-CFD_JR2025728": [
+     1795629672,
+     "6047bd0f36f0"
+    ],
+    "/job/China-Shanghai/Developer-Relations-Manager--cuOpt-and-Graph-Optimization_JR2019483": [
+     1795629672,
+     "7d70302ce859"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2021276": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2023452": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2026261": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2028659": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": [
+     1795629672,
+     "e44b8e6fd232"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer--AI_JR2005874": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/Developer-Technology-Engineer--AI_JR2030099": [
+     1795629672,
+     "891799a6be78"
+    ],
+    "/job/China-Shanghai/EDGE-Computing-Business-Development-Manager_JR2025737": [
+     1795629672,
+     "5b84ee147954"
+    ],
+    "/job/China-Shanghai/Formal-Verification-Engineer_JR2023912": [
+     1795629672,
+     "cd28b230fec4"
+    ],
+    "/job/China-Shanghai/Full-Stack-Solution-Engineer---Sensorized-Human_JR2018291": [
+     1795629672,
+     "54722e936790"
+    ],
+    "/job/China-Shanghai/GPU-Architect---New-College-Graduate-2027_JR2022870": [
+     1795629672,
+     "59b047801a24"
+    ],
+    "/job/China-Shanghai/GPU-Architect_JR2030227": [
+     1795629672,
+     "27b165359c37"
+    ],
+    "/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567": [
+     1795629672,
+     "aab93139e07c"
+    ],
+    "/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": [
+     1795629672,
+     "253e95876a78"
+    ],
+    "/job/China-Shanghai/GPU-Profiling-Software-Engineer_JR2016747": [
+     1795629672,
+     "af1826cc9efc"
+    ],
+    "/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542": [
+     1795629672,
+     "2b69213f6b0f"
+    ],
+    "/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040": [
+     1795629672,
+     "49a5696f014d"
+    ],
+    "/job/China-Shanghai/LLM-Reinforcement-Learning-Framework-Intern---2027_JR2027624": [
+     1795629672,
+     "efae77e5b23f"
+    ],
+    "/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544": [
+     1795629672,
+     "148fd8171ab1"
+    ],
+    "/job/China-Shanghai/Machine-Learning-Engineer---Humanoid-Robotics_JR2016809": [
+     1795629672,
+     "a1786a4a056e"
+    ],
+    "/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437": [
+     1795629672,
+     "99246a8e8cdd"
+    ],
+    "/job/China-Shanghai/Manager--Silicon-Circuit-Co-Design---Silicon-Co-Design-Group_JR2026524": [
+     1795629672,
+     "715f75714176"
+    ],
+    "/job/China-Shanghai/Manager--Software-Engineering---NCCL_JR2016650": [
+     1795629672,
+     "8eef72baeb1f"
+    ],
+    "/job/China-Shanghai/Manager--Solutions-Architecture---Data-Processing_JR2022811-1": [
+     1795629672,
+     "013dbda186e3"
+    ],
+    "/job/China-Shanghai/Mechanical-Solution-Engineer--Robotics_JR2018293-1": [
+     1795629672,
+     "369bc92fdbeb"
+    ],
+    "/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Autonomous-Vehicles-and-Robotics---China_JR2024109": [
+     1795629672,
+     "40b8cdf25f7f"
+    ],
+    "/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": [
+     1795629672,
+     "b98f348d5e4c"
+    ],
+    "/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--GPU-Architecture-Engineering---China_JR2024108": [
+     1795629672,
+     "2503b139f7b4"
+    ],
+    "/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110": [
+     1795629672,
+     "49353943d15e"
+    ],
+    "/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111": [
+     1795629672,
+     "efd58dd654b8"
+    ],
+    "/job/China-Shanghai/Networking-Solution-Test-Engineer---AI-IB-and-Ethernet-Cluster-Debugging_JR2015389": [
+     1795629672,
+     "417b73d4d8d5"
+    ],
+    "/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384": [
+     1795629672,
+     "4a4f887daae1"
+    ],
+    "/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711": [
+     1795629672,
+     "34cb24470d71"
+    ],
+    "/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299": [
+     1795629672,
+     "c0b630a3aa0a"
+    ],
+    "/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": [
+     1795629672,
+     "b748360f4365"
+    ],
+    "/job/China-Shanghai/Physical-Design--VLSI---New-College-Grad-2027_JR2024940": [
+     1795629672,
+     "623642b4b68d"
+    ],
+    "/job/China-Shanghai/Power-Analysis-and-Optimization-Engineer----New-College-Graduate-2027_JR2026861": [
+     1795629672,
+     "c2ee9239a897"
+    ],
+    "/job/China-Shanghai/Power-Analysis-and-Optimization-Engineer_JR2015009": [
+     1795629672,
+     "a1f044cccd0a"
+    ],
+    "/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535": [
+     1795629672,
+     "b3390e6f9076"
+    ],
+    "/job/China-Shanghai/Principal-Architect--AI-Inference-Networking---NIXL-and-Dynamo_JR2026235": [
+     1795629672,
+     "23d3026ce7b5"
+    ],
+    "/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1": [
+     1795629672,
+     "9afe08aa1014"
+    ],
+    "/job/China-Shanghai/Reinforcement-Learning-and-World-Model-for-Autonomous-Simulation-Intern---2027_JR2028022": [
+     1795629672,
+     "b63c68ae46ca"
+    ],
+    "/job/China-Shanghai/SCG-ArchDesign-Engineer---New-College-Grad-2027_JR2028968": [
+     1795629672,
+     "d9cff6b53467"
+    ],
+    "/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861": [
+     1795629672,
+     "724373f35699"
+    ],
+    "/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690": [
+     1795629672,
+     "c9580dc2f359"
+    ],
+    "/job/China-Shanghai/Sales-Analyst_JR2020063": [
+     1795629672,
+     "161a61d718a5"
+    ],
+    "/job/China-Shanghai/Senior-AI-Agent-Test-Development-Engineer--SDET_JR2023691": [
+     1795629672,
+     "7a8a5995a941"
+    ],
+    "/job/China-Shanghai/Senior-AI-Agent-Test-Development-Engineer--SDET_JR2027810": [
+     1795629672,
+     "7a8a5995a941"
+    ],
+    "/job/China-Shanghai/Senior-AI-Model-Test-Developer--SDET_JR2025044": [
+     1795629672,
+     "80c605282876"
+    ],
+    "/job/China-Shanghai/Senior-AI-Video-Architecture-Engineer_JR2029259": [
+     1795629672,
+     "f831a09fef48"
+    ],
+    "/job/China-Shanghai/Senior-ASIC-Engineer_JR2029276": [
+     1795629672,
+     "551de4e85206"
+    ],
+    "/job/China-Shanghai/Senior-CPU-Architect_JR2029268-1": [
+     1795629672,
+     "9b0a3e0deaee"
+    ],
+    "/job/China-Shanghai/Senior-CPU-Architect_JR2029269": [
+     1795629672,
+     "9b0a3e0deaee"
+    ],
+    "/job/China-Shanghai/Senior-Circuit-Characterization-Engineer_JR2026565": [
+     1795629672,
+     "b4da1d403e7b"
+    ],
+    "/job/China-Shanghai/Senior-Custom-SOC-IP-Verification-Engineer_JR2029470-1": [
+     1795629672,
+     "4077ae9d9149"
+    ],
+    "/job/China-Shanghai/Senior-DFX-Engineer_JR2027607-1": [
+     1795629672,
+     "fdeb1857d037"
+    ],
+    "/job/China-Shanghai/Senior-DGX-Cloud-AI-Infrastructure-Software-Engineer_JR1998048": [
+     1795629672,
+     "346fcce78eb4"
+    ],
+    "/job/China-Shanghai/Senior-Data-Infrastructure-Engineer--AI-Performance_JR2022970": [
+     1795629672,
+     "f87fac93d605"
+    ],
+    "/job/China-Shanghai/Senior-Infrastructure-Automation-Engineer---Silicon-Co-Design-Group_JR2020805": [
+     1795629672,
+     "628d41c58bfa"
+    ],
+    "/job/China-Shanghai/Senior-LLVM-Compiler-Engineer_JR2028806": [
+     1795629672,
+     "4a27d8c63a04"
+    ],
+    "/job/China-Shanghai/Senior-Perception-Fusion-Engineer---Autonomous-Vehicles_JR2022055": [
+     1795629672,
+     "4e5ff5af11f2"
+    ],
+    "/job/China-Shanghai/Senior-Physical-AI-Data-Engineer_JR2028588": [
+     1795629672,
+     "f45b623a553c"
+    ],
+    "/job/China-Shanghai/Senior-Power-and-Performance-Engineer_JR2019124": [
+     1795629672,
+     "859cf68c54c4"
+    ],
+    "/job/China-Shanghai/Senior-Silicon-Manufacturing-Methodology-Engineer_JR2024801": [
+     1795629672,
+     "daebb62df455"
+    ],
+    "/job/China-Shanghai/Senior-Silicon-Validation-Methodology-Engineer_JR2025841": [
+     1795629672,
+     "4e551acdc2e6"
+    ],
+    "/job/China-Shanghai/Senior-Silicon-Validation-Methodology-Engineer_JR2025845": [
+     1795629672,
+     "ae0b19f88174"
+    ],
+    "/job/China-Shanghai/Senior-Software-Development-Engineer-in-Test--SDET----DGX-Cloud_JR2029482": [
+     1795629672,
+     "48dab39e429f"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer---AI-Networking_JR2029073": [
+     1795629672,
+     "1ae93c10ec8b"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer---RDMA-and-Doca_JR2023358-1": [
+     1795629672,
+     "b1bec032b148"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer--Context-Fusion-and-Multi-Vehicle-Adaptation----Autonomous-Vehicles_JR2022050": [
+     1795629672,
+     "a72f363f031c"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer--Humanoid-Robotics_JR2026681-1": [
+     1795629672,
+     "88adbf8c5098"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer--NCCL_JR2016055": [
+     1795629672,
+     "257c1910b3e5"
+    ],
+    "/job/China-Shanghai/Senior-Software-Engineer--Networking-and-Virtualization_JR2023360-1": [
+     1795629672,
+     "a241cd9a1d8a"
+    ],
+    "/job/China-Shanghai/Senior-Software-Test-Developer--SDET---Robotics_JR2024853": [
+     1795629672,
+     "e5471eaf1384"
+    ],
+    "/job/China-Shanghai/Senior-Software-Test-Development-Engineer---AI-Infra--SDET_JR2030094": [
+     1795629672,
+     "9751dd07d168"
+    ],
+    "/job/China-Shanghai/Senior-Software-and-System-Architect_JR1993413": [
+     1795629672,
+     "7d360792ffb0"
+    ],
+    "/job/China-Shanghai/Senior-Solutions-Architect--CSP-System_JR2023079": [
+     1795629672,
+     "fac81089e47c"
+    ],
+    "/job/China-Shanghai/Senior-Solutions-Architect--CSP-System_JR2024128": [
+     1795629672,
+     "0ef2e19a7233"
+    ],
+    "/job/China-Shanghai/Senior-System-GPU-Performance-Engineer_JR2026089": [
+     1795629672,
+     "c29a8f59c8df"
+    ],
+    "/job/China-Shanghai/Senior-System-Software-Architect--HPC-and-AI-Networking_JR1997487": [
+     1795629672,
+     "263042ef0fce"
+    ],
+    "/job/China-Shanghai/Senior-Technical-Program-Manager--SCG-Efficiency_JR2017692": [
+     1795629672,
+     "9857dc631783"
+    ],
+    "/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1": [
+     1795629672,
+     "951f1f585255"
+    ],
+    "/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307": [
+     1795629672,
+     "b162e10ab0a0"
+    ],
+    "/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630": [
+     1795629672,
+     "5ffe63ea35d5"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972": [
+     1795629672,
+     "6b553c3cc49b"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477": [
+     1795629672,
+     "570004047685"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478": [
+     1795629672,
+     "570004047685"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205": [
+     1795629672,
+     "2c70ac09494d"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869": [
+     1795629672,
+     "d4b8a50dccfa"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645": [
+     1795629672,
+     "1b84eb16e1d2"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479": [
+     1795629672,
+     "796c8c400a51"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1": [
+     1795629672,
+     "796c8c400a51"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": [
+     1795629672,
+     "51813aa9bfe2"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": [
+     1795629672,
+     "0f4080245fad"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1": [
+     1795629672,
+     "eb322d8c3879"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488": [
+     1795629672,
+     "c342e483dd7f"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925": [
+     1795629672,
+     "871752186c50"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648": [
+     1795629672,
+     "986719d4765f"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1": [
+     1795629672,
+     "986719d4765f"
+    ],
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707": [
+     1795629672,
+     "986719d4765f"
+    ],
+    "/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654": [
+     1795629672,
+     "d1ecefc1aa62"
+    ],
+    "/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655": [
+     1795629672,
+     "c1d4c0f0117c"
+    ],
+    "/job/China-Shanghai/Software-Test-Developer--SDET---Robotics_JR2024862": [
+     1795629672,
+     "9e7358b1a3ae"
+    ],
+    "/job/China-Shanghai/System-Co-Design-Manager_JR2020856": [
+     1795629672,
+     "dab34d61802e"
+    ],
+    "/job/China-Shanghai/System-Software-Architect--AI-Hardware-and-Software-Performance_JR2027824": [
+     1795629672,
+     "dde7d0231b24"
+    ],
+    "/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135": [
+     1795629672,
+     "fbabc1614e51"
+    ],
+    "/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298": [
+     1795629672,
+     "43ca718ded58"
+    ],
+    "/job/China-Shanghai/TPC-Arch-Intern--GPU-SM---2027_JR2024486": [
+     1795629672,
+     "ff1b44a56ab6"
+    ],
+    "/job/China-Shanghai/Technical-Marketing-Engineer--Robotics--China_JR2023457": [
+     1795629672,
+     "e015f648b456"
+    ],
+    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472": [
+     1795629672,
+     "a3214d0a6b19"
+    ],
+    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852": [
+     1795629672,
+     "ed056ad106f4"
+    ],
+    "/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": [
+     1795629672,
+     "bc2b3786ffe4"
+    ],
+    "/job/China-Shenzhen/Business-Development-Manager---Robotics_JR2028952": [
+     1795629672,
+     "51f0a8132839"
+    ],
+    "/job/China-Shenzhen/Global-Commodity-Manager--Passive-Electrical-Commodity_JR2027189": [
+     1795629672,
+     "48433a20712f"
+    ],
+    "/job/China-Shenzhen/Global-Supply-Manager_JR2020882": [
+     1795629672,
+     "4c2456176619"
+    ],
+    "/job/China-Shenzhen/Global-Supply-Manager_JR2027190": [
+     1795629672,
+     "4c2456176619"
+    ],
+    "/job/China-Shenzhen/Manager--NPI-Materials-Management_JR2023985": [
+     1795629672,
+     "dc8699f94c21"
+    ],
+    "/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280": [
+     1795629672,
+     "fff8925892c7"
+    ],
+    "/job/China-Shenzhen/NPI-Materials-Planner_JR2023299": [
+     1795629672,
+     "8711bcec8c24"
+    ],
+    "/job/China-Shenzhen/Operation-Account-Manager_JR2018279": [
+     1795629672,
+     "927385995f29"
+    ],
+    "/job/China-Shenzhen/Operation-Program-Manager_JR2022677-1": [
+     1795629672,
+     "766680a5adeb"
+    ],
+    "/job/China-Shenzhen/Product-Program-Manager_JR2028096": [
+     1795629672,
+     "819c7afa89d2"
+    ],
+    "/job/China-Shenzhen/Senior-AI-Engineer---Palantir-Foundry-and-AIP-Forward-Deployed-Engineer_JR2021714": [
+     1795629672,
+     "4724ef762364"
+    ],
+    "/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2030492-1": [
+     1795629672,
+     "854fe6ac7b0a"
+    ],
+    "/job/China-Shenzhen/Senior-Engineering-Vendor-Manager_JR2026166": [
+     1795629672,
+     "2409e00a0ece"
+    ],
+    "/job/China-Shenzhen/Senior-Hardware-System-Engineer_JR2027818": [
+     1795629672,
+     "00b51f0012cd"
+    ],
+    "/job/China-Shenzhen/Senior-Materials-Manager---Optics_JR2027205": [
+     1795629672,
+     "c6cade4bebe1"
+    ],
+    "/job/China-Shenzhen/Senior-Mechanical-Engineer---Manufacturing---Supplier-Engineering_JR2028810": [
+     1795629672,
+     "3b640079a949"
+    ],
+    "/job/China-Shenzhen/Senior-NPI-Materials-Planner--CPO-Components_JR2027195": [
+     1795629672,
+     "45bf84567650"
+    ],
+    "/job/China-Shenzhen/Senior-NPI-Materials-Planner_JR2023986-1": [
+     1795629672,
+     "fd6c8f34aa64"
+    ],
+    "/job/China-Shenzhen/Senior-PCB-DFx-Engineer_JR2027201": [
+     1795629672,
+     "4d160309797b"
+    ],
+    "/job/China-Shenzhen/Senior-PCB-Engineer_JR2021109": [
+     1795629672,
+     "5515a1ba7188"
+    ],
+    "/job/China-Shenzhen/Senior-Product-Engineer_JR2018278": [
+     1795629672,
+     "fa8a17269908"
+    ],
+    "/job/China-Shenzhen/Senior-Signal-Integrity-and-PCB-Quality-Engineer_JR2022495": [
+     1795629672,
+     "e739617d5158"
+    ],
+    "/job/China-Shenzhen/Senior-Solution-Architect---OEM_JR2024114": [
+     1795629672,
+     "c60f4708235d"
+    ],
+    "/job/China-Shenzhen/Senior-Solutions-Architect--CSP-System_JR2024125": [
+     1795629672,
+     "fac81089e47c"
+    ],
+    "/job/China-Shenzhen/Senior-Supplier-Quality-Engineer---PCB_JR2028495": [
+     1795629672,
+     "eb55d8e73c77"
+    ],
+    "/job/China-Shenzhen/Senior-System-Design-Engineer_JR2029833-1": [
+     1795629672,
+     "b25253e3d6c1"
+    ],
+    "/job/China-Shenzhen/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2029936": [
+     1795629672,
+     "e10a8ca005ea"
+    ],
+    "/job/China-Shenzhen/Senior-System-Software-Engineer--CPU_JR2025929": [
+     1795629672,
+     "42674f2b358d"
+    ],
+    "/job/China-Shenzhen/Solution-Architect-ISV---Robotics_JR2018789": [
+     1795629672,
+     "32f17c701e99"
+    ],
+    "/job/China-Shenzhen/Solutions-Architect---CPU-and-LPU_JR2015614": [
+     1795629672,
+     "5c0e56aa3c2f"
+    ],
+    "/job/China-Shenzhen/System-Design-Engineer---Components_JR2020977": [
+     1795629672,
+     "3a4b26f5a100"
+    ],
+    "/job/China-Shenzhen/System-Design-Engineer_JR2029832": [
+     1795629672,
+     "eca16efda359"
+    ],
+    "/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172": [
+     1795629672,
+     "39bf112c0462"
+    ],
+    "/job/Denmark-Roskilde/System-Software-Architecture-Researcher---PhD-Program_JR2022429": [
+     1795629672,
+     "cb8cba371572"
+    ],
+    "/job/Hong-Kong-STP/Product-Quality-Engineer---Automotive-Chip_JR2022698-1": [
+     1795629672,
+     "baad53038c13"
+    ],
+    "/job/Hong-Kong-STP/Senior-Network-Deployment-Engineer---APAC_JR2024277": [
+     1795629672,
+     "d5fd8c68f060"
+    ],
+    "/job/India-Bengaluru/AI-Developer-Technology-Engineer_JR2008156": [
+     1795629672,
+     "9e8798d71857"
+    ],
+    "/job/India-Bengaluru/ASIC-CAD-Engineer--Clocks-Methodology_JR2025033": [
+     1795629672,
+     "1cb32e7cb22d"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619": [
+     1795629672,
+     "847e902f59ec"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer--BOOT-and-Power-Management_JR2028799-1": [
+     1795629672,
+     "55ed442983ef"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer--Clocks_JR2029180": [
+     1795629672,
+     "8ee4a37eecf1"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer--GPU-Core-Pipeline-IP_JR2029760": [
+     1795629672,
+     "31a628d673da"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer--High-Speed-IO_JR2028797": [
+     1795629672,
+     "dc68116f9def"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-Engineer--High-Speed-IO_JR2028798": [
+     1795629672,
+     "dc68116f9def"
+    ],
+    "/job/India-Bengaluru/ASIC-Design-and-STA-Engineer_JR2021789-1": [
+     1795629672,
+     "45247a3b2de6"
+    ],
+    "/job/India-Bengaluru/ASIC-Verification-Engineer---Clocks_JR2026417": [
+     1795629672,
+     "fa1b02b9f72a"
+    ],
+    "/job/India-Bengaluru/ASIC-Verification-Engineer_JR2018695": [
+     1795629672,
+     "1cfc1217de26"
+    ],
+    "/job/India-Bengaluru/ASIC-Verification-Engineer_JR2024390-1": [
+     1795629672,
+     "1cfc1217de26"
+    ],
+    "/job/India-Bengaluru/ASIC-Verification-Engineer_JR2024391": [
+     1795629672,
+     "1cfc1217de26"
+    ],
+    "/job/India-Bengaluru/Architect---AI-Powered-Performance-Verification-Automation_JR2024489": [
+     1795629672,
+     "bfcda6f76647"
+    ],
+    "/job/India-Bengaluru/Architect---Performance-Verification-and-Analysis_JR2020222": [
+     1795629672,
+     "bf7b3e6d4832"
+    ],
+    "/job/India-Bengaluru/CAD-Engineer_JR2014480-1": [
+     1795629672,
+     "b5986ec09626"
+    ],
+    "/job/India-Bengaluru/CAD-Layout-Design-Engineer_JR2013307": [
+     1795629672,
+     "4b1313b16830"
+    ],
+    "/job/India-Bengaluru/CPU-Verification-Engineer_JR2015980": [
+     1795629672,
+     "929568c56a02"
+    ],
+    "/job/India-Bengaluru/CPU-and-SOC-Verification-Engineer_JR2028596": [
+     1795629672,
+     "3f3ae98956bb"
+    ],
+    "/job/India-Bengaluru/Chip-Power-Estimation-Engineer_JR2025565": [
+     1795629672,
+     "7e5fdcda557b"
+    ],
+    "/job/India-Bengaluru/Circuit-Silicon-Correlation-DFT-Engineer_JR2012806": [
+     1795629672,
+     "ad2531b99e3f"
+    ],
+    "/job/India-Bengaluru/Compiler-Optimization-Engineer---LLVM_JR2014377": [
+     1795629672,
+     "f32fd8f04cd6"
+    ],
+    "/job/India-Bengaluru/Cyber-Security-Analyst_JR2015853": [
+     1795629672,
+     "83656a23bed3"
+    ],
+    "/job/India-Bengaluru/Cyber-Security-Analyst_JR2018645": [
+     1795629672,
+     "83656a23bed3"
+    ],
+    "/job/India-Bengaluru/DFT-Engineer---Hardware_JR2018054": [
+     1795629672,
+     "183a13f85dc4"
+    ],
+    "/job/India-Bengaluru/Datacenter-Technician_JR2029987": [
+     1795629672,
+     "d7831431f621"
+    ],
+    "/job/India-Bengaluru/Formal-Verification-Engineer_JR2025305": [
+     1795629672,
+     "6979b433d98c"
+    ],
+    "/job/India-Bengaluru/Front-End-Integration-Engineer_JR2024228": [
+     1795629672,
+     "cc26acbb4276"
+    ],
+    "/job/India-Bengaluru/GPU-Core-Pipeline-IP-Verification-Engineer_JR2020914": [
+     1795629672,
+     "dc961f5f86ef"
+    ],
+    "/job/India-Bengaluru/GPU-Core-Pipeline-IP-Verification-Engineer_JR2024121": [
+     1795629672,
+     "dc961f5f86ef"
+    ],
+    "/job/India-Bengaluru/GPU-System-Architect_JR2019269": [
+     1795629672,
+     "51cc4974d96d"
+    ],
+    "/job/India-Bengaluru/HPC-Operations-Engineer_JR2014195": [
+     1795629672,
+     "c307bc089db4"
+    ],
+    "/job/India-Bengaluru/High-Speed-IO-Validation-Engineer_JR2025319": [
+     1795629672,
+     "a871f7367eef"
+    ],
+    "/job/India-Bengaluru/IP-Manager--Design-and-Verification---Networking_JR2028608": [
+     1795629672,
+     "e84441763107"
+    ],
+    "/job/India-Bengaluru/IP-Verification-Engineer---GPU-Core-Pipeline_JR2019962": [
+     1795629672,
+     "fc03a74cdfc8"
+    ],
+    "/job/India-Bengaluru/Manager--Compiler-Engineering---GPU_JR2021298": [
+     1795629672,
+     "eaeace7150b6"
+    ],
+    "/job/India-Bengaluru/Mixed-Signal-Design-Engineer---RTL-and-Co-Simulation_JR2027731": [
+     1795629672,
+     "b8cdb462103a"
+    ],
+    "/job/India-Bengaluru/PCIe-IP-Verification-Engineer_JR2019919-1": [
+     1795629672,
+     "a17ba88f11c2"
+    ],
+    "/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423": [
+     1795629672,
+     "b9370412cbd0"
+    ],
+    "/job/India-Bengaluru/Physical-Design-Engineer_JR2030485-1": [
+     1795629672,
+     "737d82d98b0b"
+    ],
+    "/job/India-Bengaluru/Physical-Design-Engineer_JR2030486": [
+     1795629672,
+     "e0d2ab025866"
+    ],
+    "/job/India-Bengaluru/Physical-Design-Engineer_JR2030487": [
+     1795629672,
+     "e0d2ab025866"
+    ],
+    "/job/India-Bengaluru/Research-Scientist---Nemotron-India_JR2028483": [
+     1795629672,
+     "7a4b20c9fecc"
+    ],
+    "/job/India-Bengaluru/SAP-Developer_JR2029586": [
+     1795629672,
+     "ead7f7e1fee5"
+    ],
+    "/job/India-Bengaluru/SOC-Verification-Engineer_JR2023239": [
+     1795629672,
+     "97d7f0b57ae2"
+    ],
+    "/job/India-Bengaluru/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2029048-1": [
+     1795629672,
+     "d01fdcf4247a"
+    ],
+    "/job/India-Bengaluru/Senior-ASIC-Design-Engineer---NOC-IP_JR1998309": [
+     1795629672,
+     "a571a86c0d67"
+    ],
+    "/job/India-Bengaluru/Senior-ASIC-Design-Engineer---XBAR-IP_JR2020168": [
+     1795629672,
+     "cb509fcdf8d5"
+    ],
+    "/job/India-Bengaluru/Senior-ASIC-Design-Engineer--GPU-Core-Pipeline-IP_JR2025698": [
+     1795629672,
+     "48b0af114218"
+    ],
+    "/job/India-Bengaluru/Senior-ASIC-Engineer--Power-Integrity_JR2014249": [
+     1795629672,
+     "054bd4096230"
+    ],
+    "/job/India-Bengaluru/Senior-ASIC-Power-and-Thermal-Engineer_JR2024964": [
+     1795629672,
+     "3edbecd5eebd"
+    ],
+    "/job/India-Bengaluru/Senior-Applied-Research-Engineer---Accelerator-Programming-Model-and-Compiler_JR2022416": [
+     1795629672,
+     "2674b018a4c2"
+    ],
+    "/job/India-Bengaluru/Senior-Applied-Research-Engineer--Accelerator-Algorithms_JR2021373": [
+     1795629672,
+     "136d854dd71c"
+    ],
+    "/job/India-Bengaluru/Senior-Architect--GPU-and-SoC-Modelling_JR2021971": [
+     1795629672,
+     "98be404efa30"
+    ],
+    "/job/India-Bengaluru/Senior-CAD-Engineer_JR2021804-1": [
+     1795629672,
+     "4db84353323b"
+    ],
+    "/job/India-Bengaluru/Senior-Circuit-Design-Engineer_JR2021805": [
+     1795629672,
+     "e2b3e161820b"
+    ],
+    "/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025828": [
+     1795629672,
+     "5660f3354007"
+    ],
+    "/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025832-1": [
+     1795629672,
+     "5660f3354007"
+    ],
+    "/job/India-Bengaluru/Senior-Custom-SOC-IP-Verification-Engineer_JR2011519": [
+     1795629672,
+     "9a2ea15bb598"
+    ],
+    "/job/India-Bengaluru/Senior-DFT-Engineer---Hardware_JR2011562": [
+     1795629672,
+     "084d1fdd14f5"
+    ],
+    "/job/India-Bengaluru/Senior-DFT-Engineer---Hardware_JR2018536": [
+     1795629672,
+     "084d1fdd14f5"
+    ],
+    "/job/India-Bengaluru/Senior-DFT-Engineer---Hardware_JR2020076": [
+     1795629672,
+     "084d1fdd14f5"
+    ],
+    "/job/India-Bengaluru/Senior-DFT-Engineer---Hardware_JR2030500": [
+     1795629672,
+     "084d1fdd14f5"
+    ],
+    "/job/India-Bengaluru/Senior-Deep-Learning-Research-Engineer---Multimedia-GPU-team_JR2020216": [
+     1795629672,
+     "775c58bc324d"
+    ],
+    "/job/India-Bengaluru/Senior-DevOps-Engineer_JR2026776": [
+     1795629672,
+     "e345a18870a2"
+    ],
+    "/job/India-Bengaluru/Senior-Developer-Relations-Manager--Robotics_JR2022000-1": [
+     1795629672,
+     "938a5087eb43"
+    ],
+    "/job/India-Bengaluru/Senior-Developer-Relations-Manager_JR2009801": [
+     1795629672,
+     "dfb380d7693e"
+    ],
+    "/job/India-Bengaluru/Senior-Developer-Relations-Manager_JR2018213": [
+     1795629672,
+     "dfb380d7693e"
+    ],
+    "/job/India-Bengaluru/Senior-Developer-Relations-Manager_JR2021991": [
+     1795629672,
+     "9080c3252539"
+    ],
+    "/job/India-Bengaluru/Senior-Developer-Relations-Manager_JR2021999": [
+     1795629672,
+     "dfb380d7693e"
+    ],
+    "/job/India-Bengaluru/Senior-Field-Applications-Engineer_JR2020204-1": [
+     1795629672,
+     "866eaa6cce63"
+    ],
+    "/job/India-Bengaluru/Senior-Forward-Deployed-Architect--Generative-AI_JR2026694-1": [
+     1795629672,
+     "7b3dcd1408d0"
+    ],
+    "/job/India-Bengaluru/Senior-GPU-Compiler-Development-Engineer_JR2026886": [
+     1795629672,
+     "bcda22c13a9c"
+    ],
+    "/job/India-Bengaluru/Senior-GPU-Floorplan-Design-Engineer_JR2020167": [
+     1795629672,
+     "606f0c67955f"
+    ],
+    "/job/India-Bengaluru/Senior-GPU-Memory-Subsystem-Architect_JR2012902-1": [
+     1795629672,
+     "c0d05a0b9549"
+    ],
+    "/job/India-Bengaluru/Senior-IP-DV-Engineer---NOC-IP_JR1998310-1": [
+     1795629672,
+     "96f36b459388"
+    ],
+    "/job/India-Bengaluru/Senior-MLOps-Engineer---DSX-Enablement_JR2024864-1": [
+     1795629672,
+     "25de5c7e7b0b"
+    ],
+    "/job/India-Bengaluru/Senior-Manager--Network-Delivery-and-Security_JR2029290": [
+     1795629672,
+     "1ecaa3c64a7b"
+    ],
+    "/job/India-Bengaluru/Senior-Mask-Design-Engineer---Hardware_JR2028994": [
+     1795629672,
+     "bf8c3f5075f9"
+    ],
+    "/job/India-Bengaluru/Senior-Memory-Mask-Design-Engineer_JR2016231": [
+     1795629672,
+     "eede78408108"
+    ],
+    "/job/India-Bengaluru/Senior-Memory-Subsystem-Architect_JR2022648": [
+     1795629672,
+     "7e54634d3e6c"
+    ],
+    "/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2024289": [
+     1795629672,
+     "3faee2c9faf9"
+    ],
+    "/job/India-Bengaluru/Senior-Package-Layout-Engineer---Hardware_JR2028579-1": [
+     1795629672,
+     "8949f25280c7"
+    ],
+    "/job/India-Bengaluru/Senior-Performance-Engineer---DGX-Cloud_JR2024012": [
+     1795629672,
+     "5390d36f2711"
+    ],
+    "/job/India-Bengaluru/Senior-Physical-Design-AI-Engineer_JR2026884": [
+     1795629672,
+     "a46aff76d093"
+    ],
+    "/job/India-Bengaluru/Senior-Physical-Design-Engineer_JR2026183": [
+     1795629672,
+     "ab870e76e9a2"
+    ],
+    "/job/India-Bengaluru/Senior-Physical-Design-Engineer_JR2030490": [
+     1795629672,
+     "78a1fd9519ad"
+    ],
+    "/job/India-Bengaluru/Senior-Physical-Verification-Engineer_JR2027234": [
+     1795629672,
+     "6bd096bf50e4"
+    ],
+    "/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500": [
+     1795629672,
+     "95024991cfd3"
+    ],
+    "/job/India-Bengaluru/Senior-Platform-Software-Engineer---Platform-Architect_JR2022251": [
+     1795629672,
+     "985917c2e11d"
+    ],
+    "/job/India-Bengaluru/Senior-Platform-Software-Engineer--DriveAV---Autonomous-Vehicles_JR2025704": [
+     1795629672,
+     "06fa8bb15fc0"
+    ],
+    "/job/India-Bengaluru/Senior-Post-Silicon-HSIO-Bringup-Lead_JR2016435": [
+     1795629672,
+     "b75a0fdc8a26"
+    ],
+    "/job/India-Bengaluru/Senior-SOC-Design-Engineer---Networking-Group_JR2019778": [
+     1795629672,
+     "7e0e3f6220b6"
+    ],
+    "/job/India-Bengaluru/Senior-SRAM-Circuit-Design-Engineer_JR1996865": [
+     1795629672,
+     "a84430658a98"
+    ],
+    "/job/India-Bengaluru/Senior-SRAM-Circuit-Design-Engineer_JR1997193": [
+     1795629672,
+     "a84430658a98"
+    ],
+    "/job/India-Bengaluru/Senior-SRAM-Circuit-Design-Engineer_JR1997194-1": [
+     1795629672,
+     "a84430658a98"
+    ],
+    "/job/India-Bengaluru/Senior-SRAM-Circuit-Design-Engineer_JR1997200": [
+     1795629672,
+     "a84430658a98"
+    ],
+    "/job/India-Bengaluru/Senior-Silicon-Product-Definition-Engineer_JR2026056": [
+     1795629672,
+     "bb5b275a0a28"
+    ],
+    "/job/India-Bengaluru/Senior-Slurm-Administrator_JR2026779-1": [
+     1795629672,
+     "b9740110fcae"
+    ],
+    "/job/India-Bengaluru/Senior-SoC-Architect--Control-Plane-and-Management-Interconnect_JR2027524": [
+     1795629672,
+     "6a00649ae78a"
+    ],
+    "/job/India-Bengaluru/Senior-Software-Engineer---Applied-Research-in-Robotics_JR2021411": [
+     1795629672,
+     "5608d6fa9b2a"
+    ],
+    "/job/India-Bengaluru/Senior-Software-Engineer---IT-Infrastructure_JR2027113": [
+     1795629672,
+     "448484d0dfa5"
+    ],
+    "/job/India-Bengaluru/Senior-Software-Engineer---NVEX_JR2025965": [
+     1795629672,
+     "79354617c95d"
+    ],
+    "/job/India-Bengaluru/Senior-Software-Engineer--DriveAV---Autonomous-Vehicles_JR2016077": [
+     1795629672,
+     "bfbd54ae91c4"
+    ],
+    "/job/India-Bengaluru/Senior-Software-QA-Engineer_JR2028491": [
+     1795629672,
+     "07e1006abf3b"
+    ],
+    "/job/India-Bengaluru/Senior-Software-Solutions-Engineer_JR2027003": [
+     1795629672,
+     "104862b4c84c"
+    ],
+    "/job/India-Bengaluru/Senior-Solutions-Architect---Generative-AI_JR1993430": [
+     1795629672,
+     "d207e4084ae5"
+    ],
+    "/job/India-Bengaluru/Senior-Solutions-Architect--Generative-AI_JR2025198": [
+     1795629672,
+     "d207e4084ae5"
+    ],
+    "/job/India-Bengaluru/Senior-Solutions-Architect--Generative-AI_JR2026872": [
+     1795629672,
+     "d207e4084ae5"
+    ],
+    "/job/India-Bengaluru/Senior-Staff-Site-Reliability-Engineer_JR2030041": [
+     1795629672,
+     "c51d23229b2a"
+    ],
+    "/job/India-Bengaluru/Senior-System-Integration-and-Validation-Engineer_JR2024494": [
+     1795629672,
+     "245b308e41a9"
+    ],
+    "/job/India-Bengaluru/Senior-System-Performance-Engineer_JR2027734": [
+     1795629672,
+     "0da2717b404c"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer---Automotive_JR2014484": [
+     1795629672,
+     "e208bd1c0039"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer---DRIVEOS-Platform-Team_JR2014621": [
+     1795629672,
+     "6f998d05e143"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer---Display_JR2026345": [
+     1795629672,
+     "d7eb7aa19974"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer---Halos-Core-and-Robotics-Platform_JR2025421": [
+     1795629672,
+     "cf79691115f1"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS_JR2028565": [
+     1795629672,
+     "b19c626a9732"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer--CUDA---Tegra_JR2015568": [
+     1795629672,
+     "331f8afd3d25"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer--DRIVE-OS---Linux-and-QNX_JR2011677": [
+     1795629672,
+     "4888105dbc52"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer--Deep-Learning-Accelerator-_JR2014631": [
+     1795629672,
+     "ed56d687a8df"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer--GPU-Firmware_JR2028136": [
+     1795629672,
+     "b3a2ad003af4"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer_JR2011238-1": [
+     1795629672,
+     "87b2a37ff988"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Engineer_JR2028433": [
+     1795629672,
+     "87b2a37ff988"
+    ],
+    "/job/India-Bengaluru/Senior-System-Software-Safety-Engineer----Halos-Core-and-Robotics-Platform_JR2023363-1": [
+     1795629672,
+     "a05215b0fb10"
+    ],
+    "/job/India-Bengaluru/Senior-Technical-Support-Engineer--Networking_JR2027104": [
+     1795629672,
+     "e260d70e6f55"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer----ARM-Fabric-Unit-Level_JR2028795": [
+     1795629672,
+     "6f6f806a8d6a"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer---HSIO-Unit-Level_JR2028800": [
+     1795629672,
+     "83e23bcf6bdd"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--Memory-Subsystem_JR1999089-1": [
+     1795629672,
+     "4fce2820d5f6"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--Memory-Subsystem_JR2016842": [
+     1795629672,
+     "4fce2820d5f6"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR1998093": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR1998099": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR2015245": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR2023405": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR2025140": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--PCIE_JR2025156": [
+     1795629672,
+     "2c080e5582df"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer--Switch-SoC_JR2022315": [
+     1795629672,
+     "507fd90862e4"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer_JR2017971": [
+     1795629672,
+     "c1fc4e361c0b"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer_JR2017972": [
+     1795629672,
+     "c1fc4e361c0b"
+    ],
+    "/job/India-Bengaluru/Senior-Verification-Engineer_JR2030308": [
+     1795629672,
+     "c1fc4e361c0b"
+    ],
+    "/job/India-Bengaluru/SoC-Manager--Performance-Verification---Networking-group_JR2028606": [
+     1795629672,
+     "03dff3c4118b"
+    ],
+    "/job/India-Bengaluru/Software-Configuration-Management-Engineer---Hardware_JR2019717": [
+     1795629672,
+     "f1ba964fd16a"
+    ],
+    "/job/India-Bengaluru/Staff-Business-Systems-Analyst--Beeline-Vendor-Management-System_JR2029434": [
+     1795629672,
+     "e2dbf143ddac"
+    ],
+    "/job/India-Bengaluru/System-Software-Engineer---Infrastructure_JR2027703": [
+     1795629672,
+     "1f8ed46811a3"
+    ],
+    "/job/India-Bengaluru/System-Software-Engineer---Performance-Verification-Infrastructure_JR2025205": [
+     1795629672,
+     "835dbfc5c8d1"
+    ],
+    "/job/India-Bengaluru/System-Software-Engineer--GPU-Development-Tools_JR2022682": [
+     1795629672,
+     "15031c7d7914"
+    ],
+    "/job/India-Bengaluru/System-Software-Engineer_JR2030549": [
+     1795629672,
+     "be78cd230e56"
+    ],
+    "/job/India-Bengaluru/Technical-Program-Manager--Infrastructure_JR2026462": [
+     1795629672,
+     "190517abe605"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794": [
+     1795629672,
+     "3363ab04b9a9"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---GPU-Fullchip_JR2019165": [
+     1795629672,
+     "100577cbd243"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---GPU-Fullchip_JR2019166": [
+     1795629672,
+     "100577cbd243"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---HWPM_JR2000528": [
+     1795629672,
+     "00a3d685d2c9"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---Networking-IPs_JR2028803": [
+     1795629672,
+     "eaf2a4646c98"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---PCIE_JR2023394": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---PCIE_JR2023399": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---PCIE_JR2023400": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer---PCIE_JR2023403": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer--Memory-Subsystem_JR2019261": [
+     1795629672,
+     "1b5304bccad7"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer--PCIE_JR2018537": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer--PCIE_JR2029158": [
+     1795629672,
+     "bea709ce9878"
+    ],
+    "/job/India-Bengaluru/Verification-Engineer--Performance_JR2014531": [
+     1795629672,
+     "d33008cef931"
+    ],
+    "/job/India-Gurugram/Formal-Verification-Engineer_JR2025192": [
+     1795629672,
+     "6979b433d98c"
+    ],
+    "/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497": [
+     1795629672,
+     "368284122384"
+    ],
+    "/job/India-Gurugram/Senior-Solutions-Architect--Agentic-AI---Public-Sector_JR2026267": [
+     1795629672,
+     "83a1ea649ffc"
+    ],
+    "/job/India-Gurugram/Senior-Solutions-Architect--Generative-AI_JR2025060": [
+     1795629672,
+     "134cf17b9f27"
+    ],
+    "/job/India-Gurugram/Senior-Solutions-Architect--Networking-and-Compute-Infrastructure_JR2025322": [
+     1795629672,
+     "af7e7870e3a3"
+    ],
+    "/job/India-Gurugram/Solution-Architect--SAE_JR2026695": [
+     1795629672,
+     "169a015008b3"
+    ],
+    "/job/India-Hyderabad/ASIC-Verification-Engineer_JR2020484": [
+     1795629672,
+     "c08c0fe32f6d"
+    ],
+    "/job/India-Hyderabad/ASIC-Verification-Engineer_JR2027791": [
+     1795629672,
+     "95010c53bcb5"
+    ],
+    "/job/India-Hyderabad/CPU-Verification-Infrastructure-Tools-Architect_JR2020428": [
+     1795629672,
+     "87958d18f290"
+    ],
+    "/job/India-Hyderabad/Senior-ASIC-Verification-Engineer_JR2011237": [
+     1795629672,
+     "34580b861343"
+    ],
+    "/job/India-Hyderabad/Senior-Physical-Design-Engineer_JR2030483": [
+     1795629672,
+     "561998e3792c"
+    ],
+    "/job/India-Hyderabad/Senior-System-Software-Engineer---Boot-SW-Engineer_JR2023304": [
+     1795629672,
+     "a8b31886c64d"
+    ],
+    "/job/India-Hyderabad/Senior-System-Software-Engineer---GPU_JR2028568": [
+     1795629672,
+     "7e9e57576160"
+    ],
+    "/job/India-Hyderabad/Senior-Technical-Program-Manager_JR2023373": [
+     1795629672,
+     "0c94293f8ab7"
+    ],
+    "/job/India-Hyderabad/Senior-Verification-Engineer--PCIE_JR2009763": [
+     1795629672,
+     "c44aaa9c1a77"
+    ],
+    "/job/India-Mumbai/Data-Center-Infrastructure-Specialist_JR2024594-1": [
+     1795629672,
+     "072bd4416a87"
+    ],
+    "/job/India-Mumbai/Senior-Developer-Relations-Manager---FSI_JR2023131": [
+     1795629672,
+     "4501178cbdd9"
+    ],
+    "/job/India-Mumbai/Senior-High-Performance-Storage-Architect---NVIS_JR2024694": [
+     1795629672,
+     "a12d0cd7ee58"
+    ],
+    "/job/India-Mumbai/Senior-Solution-Architect--Cloud-Infrastructure-DevOps_JR2017867": [
+     1795629672,
+     "a1b511a74048"
+    ],
+    "/job/India-Mumbai/Senior-Technical-Customer-Program-Manager---AI-Datacenter_JR2029902": [
+     1795629672,
+     "dcabb948893d"
+    ],
+    "/job/India-Pune/Cyber-Security-Engineer_JR2026874": [
+     1795629672,
+     "023e49994995"
+    ],
+    "/job/India-Pune/Global-Trade-Compliance-Analyst_JR2028679": [
+     1795629672,
+     "4eda288744c7"
+    ],
+    "/job/India-Pune/Manager--AI-HPC-Infrastructure-Technical-Delivery---India_JR2024696": [
+     1795629672,
+     "591c90b46413"
+    ],
+    "/job/India-Pune/Manager--System-Software-Engineering---Infrastructure-Engineering-and-Automation_JR2029365": [
+     1795629672,
+     "e77b2044c10e"
+    ],
+    "/job/India-Pune/Mechanical-Product-Engineer_JR2021485": [
+     1795629672,
+     "4cdce6694eec"
+    ],
+    "/job/India-Pune/SAP-SD-Business-Systems-Analyst_JR2028457": [
+     1795629672,
+     "98c07e13b9ae"
+    ],
+    "/job/India-Pune/SOX-IT-Compliance-Analyst_JR2008881": [
+     1795629672,
+     "5480dc32c07a"
+    ],
+    "/job/India-Pune/Senior-CPU-Compiler-Performance-Engineer_JR2021377": [
+     1795629672,
+     "ca4cda92f7d0"
+    ],
+    "/job/India-Pune/Senior-DevOps-and-Infrastructure-Engineer_JR2028545": [
+     1795629672,
+     "c446eedc2c08"
+    ],
+    "/job/India-Pune/Senior-Interaction-Designer_JR2027293-1": [
+     1795629672,
+     "fa8fd7211150"
+    ],
+    "/job/India-Pune/Senior-Local-Product-Engineer_JR2022345": [
+     1795629672,
+     "550009821cc5"
+    ],
+    "/job/India-Pune/Senior-Manager--Software-Engineering---Employee-Productivity_JR2024576": [
+     1795629672,
+     "cccbe63687ef"
+    ],
+    "/job/India-Pune/Senior-Software-Engineer---Infrastructure_JR2029287-1": [
+     1795629672,
+     "a7776c14a21f"
+    ],
+    "/job/India-Pune/Senior-Software-Engineer--AI-Infrastructure-Solutions_JR2029182": [
+     1795629672,
+     "a5f98bebaffe"
+    ],
+    "/job/India-Pune/Senior-Software-Solutions-Engineer_JR2027697": [
+     1795629672,
+     "8bca30f1e559"
+    ],
+    "/job/India-Pune/Senior-Software-Test-Development-Engineer_JR2028467": [
+     1795629672,
+     "d0d097677d62"
+    ],
+    "/job/India-Pune/Senior-Solution-Architect---Sales-AI-Applications_JR2024207-1": [
+     1795629672,
+     "d3d43d0f8d6e"
+    ],
+    "/job/India-Pune/Senior-Staff-Site-Reliability-Engineer_JR2024618": [
+     1795629672,
+     "40185694fb5f"
+    ],
+    "/job/India-Pune/Senior-Supplier-Quality-Engineer_JR2023581": [
+     1795629672,
+     "863b0add60c6"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---AV-Platform_JR2029641": [
+     1795629672,
+     "b44a2f786900"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---Accelerated-Microservices-and-Libraries_JR2029168": [
+     1795629672,
+     "03af8ff90fa2"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---GPU-MODS_JR2026309": [
+     1795629672,
+     "efece02508e7"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---GPU-Power-Management_JR2026350": [
+     1795629672,
+     "f9a8ddca0a40"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---GPU-Virtualization_JR2012742": [
+     1795629672,
+     "d1fe9c3e990e"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---GeForce-NOW_JR2024609-1": [
+     1795629672,
+     "62da22014048"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---Local-AI-Automation_JR2027704": [
+     1795629672,
+     "32057b44697e"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---Local-AI_JR2027806": [
+     1795629672,
+     "cb66ee865614"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---LocalAI_JR2021897": [
+     1795629672,
+     "01925e601b3c"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---Media-and-Broadcasting_JR2010160": [
+     1795629672,
+     "903f89083c9b"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer---vGPU-Team_JR2028408": [
+     1795629672,
+     "27b32888abb1"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer_JR2026342": [
+     1795629672,
+     "df55ec97730e"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer_JR2026346": [
+     1795629672,
+     "6a37d864127f"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer_JR2026404": [
+     1795629672,
+     "6a37d864127f"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer_JR2028521": [
+     1795629672,
+     "df55ec97730e"
+    ],
+    "/job/India-Pune/Senior-System-Software-Engineer_JR2029360": [
+     1795629672,
+     "6a37d864127f"
+    ],
+    "/job/India-Pune/Senior-Systems-Software-Engineer_JR2021126": [
+     1795629672,
+     "5aacc588667e"
+    ],
+    "/job/India-Pune/Senior-Test-Developer---Automotive-Simulation-Testing---Failure-Triage-Lead_JR2022975-1": [
+     1795629672,
+     "18612533c1ef"
+    ],
+    "/job/India-Pune/Senior-Tools-Development-Engineer_JR2023570": [
+     1795629672,
+     "d24c6e5aa45d"
+    ],
+    "/job/India-Pune/Senior-Tools-Development-Engineer_JR2024137": [
+     1795629672,
+     "d24c6e5aa45d"
+    ],
+    "/job/India-Pune/Software-Engineering-Manager--Agentic-Transformation-for-Graphics-Systems_JR2024865": [
+     1795629672,
+     "33fd06a2503c"
+    ],
+    "/job/India-Pune/System-Security-Software-Engineer_JR2026548": [
+     1795629672,
+     "0b1219f0d55d"
+    ],
+    "/job/India-Pune/System-Software-Engineer---GPU-Profiling_JR2020625": [
+     1795629672,
+     "2da033c06d3e"
+    ],
+    "/job/India-Pune/System-Software-Engineer---Local-AI_JR2024810": [
+     1795629672,
+     "cb66ee865614"
+    ],
+    "/job/India-Pune/System-Software-Manager---Power-Profiling-and-Infrastructure_JR2025927": [
+     1795629672,
+     "bdc0ec3bb3b0"
+    ],
+    "/job/India-Pune/Technical-Program-Manager---Ecommerce_JR2026519": [
+     1795629672,
+     "aa4965d2648c"
+    ],
+    "/job/India-Remote/Senior-DevOps-Engineer_JR2027109": [
+     1795629672,
+     "c6b9a495ca34"
+    ],
+    "/job/India-Remote/Senior-Network-Infrastructure-Engineer_JR2015526": [
+     1795629672,
+     "0613ff582b81"
+    ],
+    "/job/India-Remote/Technical-Support-Engineer---Slurm_JR2025521": [
+     1795629672,
+     "9cdc976ca541"
+    ],
+    "/job/Israel-Beer-Sheva/Senior-ASIC-Hardware-Design-Engineer_JR2020435-1": [
+     1795629672,
+     "276942fee1e2"
+    ],
+    "/job/Israel-Beer-Sheva/Senior-Chip-Design-Engineer_JR2025442": [
+     1795629672,
+     "4dd19e5a4f15"
+    ],
+    "/job/Israel-Beer-Sheva/Senior-Chip-Design-Verification-Engineer_JR2015057": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Beer-Sheva/Senior-Chip-Design-Verification-Engineer_JR2021491": [
+     1795629672,
+     "1af42f72bfd2"
+    ],
+    "/job/Israel-Beer-Sheva/Senior-Hardware-Security-Architect_JR2025563": [
+     1795629672,
+     "8553104022a5"
+    ],
+    "/job/Israel-Raanana/Board-Design-Engineer--NVLINK_JR2015270": [
+     1795629672,
+     "ccbc5abf056b"
+    ],
+    "/job/Israel-Raanana/Firmware-Engineer---Ethernet-Switching_JR2022412": [
+     1795629672,
+     "ad10492eb760"
+    ],
+    "/job/Israel-Raanana/Hardware-Manager--Switch-Design_JR2023369": [
+     1795629672,
+     "11b8a47a8f90"
+    ],
+    "/job/Israel-Raanana/Infiniband-Network-Software-Engineer_JR2007263": [
+     1795629672,
+     "00c5780d61f0"
+    ],
+    "/job/Israel-Raanana/Manager--Software-Verification---SONiC-NOS_JR2022660": [
+     1795629672,
+     "fdc99abab015"
+    ],
+    "/job/Israel-Raanana/Network-Solution-Verification-Engineer_JR2021397": [
+     1795629672,
+     "49189c85914b"
+    ],
+    "/job/Israel-Raanana/Network-Solution-Verification-Manager_JR2021399": [
+     1795629672,
+     "25960f308e75"
+    ],
+    "/job/Israel-Raanana/Principal-SAI-System-Architect_JR2018224": [
+     1795629672,
+     "d69ea4da3f3d"
+    ],
+    "/job/Israel-Raanana/Release-Manager_JR2018931": [
+     1795629672,
+     "1e7904023182"
+    ],
+    "/job/Israel-Raanana/Senior-AI-Storage-Software-Architect_JR1997866": [
+     1795629672,
+     "ad665907539d"
+    ],
+    "/job/Israel-Raanana/Senior-Board-Design-Hardware-Engineer_JR2025930": [
+     1795629672,
+     "b77f3ec9a8fe"
+    ],
+    "/job/Israel-Raanana/Senior-C---Software-Engineer_JR2015699": [
+     1795629672,
+     "1435df60b424"
+    ],
+    "/job/Israel-Raanana/Senior-DevOps-Engineer--AIOps_JR2026697-1": [
+     1795629672,
+     "a866b7aac7bf"
+    ],
+    "/job/Israel-Raanana/Senior-DevOps-Platform-Engineer_JR2028818": [
+     1795629672,
+     "e22b4afcaa0f"
+    ],
+    "/job/Israel-Raanana/Senior-Hardware-Engineer_JR2021407": [
+     1795629672,
+     "ca6e9852c414"
+    ],
+    "/job/Israel-Raanana/Senior-Hardware-Integration-and-Validation-Engineer_JR2025934-1": [
+     1795629672,
+     "004a5fa77d1f"
+    ],
+    "/job/Israel-Raanana/Senior-Hardware-Validation-Engineer_JR2027906": [
+     1795629672,
+     "cf2679d6d2f4"
+    ],
+    "/job/Israel-Raanana/Senior-Pre-Silicon-Switch-Technical-Lead_JR2013638": [
+     1795629672,
+     "529763c5233d"
+    ],
+    "/job/Israel-Raanana/Senior-SONiC-Software-Engineer---Python_JR2014087": [
+     1795629672,
+     "5eb936e33144"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Architect--AI-Network_JR2018051": [
+     1795629672,
+     "f563770deebc"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Architect--Cyber-Security_JR2000395": [
+     1795629672,
+     "c21ac20d053c"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Architect--DSX-AIR_JR2028807": [
+     1795629672,
+     "1316e10c8be3"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer---Platform-and-Deployability_JR2028817": [
+     1795629672,
+     "ade77be9151e"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer---SONiC-Design-Group_JR2008620": [
+     1795629672,
+     "7fd8080252e8"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer--AIOps_JR2019710": [
+     1795629672,
+     "feb18a42328a"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer--AIOps_JR2024941": [
+     1795629672,
+     "feb18a42328a"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer--DOCA-SDK_JR2021322": [
+     1795629672,
+     "b668ff41281f"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer--SONiC_JR2029256": [
+     1795629672,
+     "7a7e89317159"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer_JR1998124": [
+     1795629672,
+     "91667eda7b22"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Engineer_JR2016506": [
+     1795629672,
+     "a44a69df98c0"
+    ],
+    "/job/Israel-Raanana/Senior-Software-Solutions-Architect--NVIS_JR2029973": [
+     1795629672,
+     "c7e35733bb7f"
+    ],
+    "/job/Israel-Raanana/Senior-Software-System-Architect--AI-Factory-Management_JR2028304": [
+     1795629672,
+     "f77a1aed7115"
+    ],
+    "/job/Israel-Raanana/Senior-Software-and-System-Architect_JR1998989": [
+     1795629672,
+     "7d360792ffb0"
+    ],
+    "/job/Israel-Raanana/Senior-System-Software-Engineer---Signing-Platform_JR2025357-1": [
+     1795629672,
+     "ed6e07e2986d"
+    ],
+    "/job/Israel-Raanana/Senior-Technical-Support-Engineer---Slurm_JR2025450": [
+     1795629672,
+     "31cf8b2eff12"
+    ],
+    "/job/Israel-Raanana/Software-Design-Engineer---SONiC-Group_JR2005323": [
+     1795629672,
+     "0e89075bd272"
+    ],
+    "/job/Israel-Raanana/Software-Engineer--NVLink_JR2025935": [
+     1795629672,
+     "3d2081704e1b"
+    ],
+    "/job/Israel-Raanana/Software-Engineer--Storage_JR2029278": [
+     1795629672,
+     "44b9ecb7626e"
+    ],
+    "/job/Israel-Raanana/Software-and-System-Architect_JR2022505": [
+     1795629672,
+     "aeea5b97bec8"
+    ],
+    "/job/Israel-Tel-Aviv/BlueField-Platform-Technical-Lead_JR2029293": [
+     1795629672,
+     "b79a7c423738"
+    ],
+    "/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2021923": [
+     1795629672,
+     "ee6bfc53966e"
+    ],
+    "/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2013845": [
+     1795629672,
+     "96950ed1ea9e"
+    ],
+    "/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2015265-1": [
+     1795629672,
+     "96950ed1ea9e"
+    ],
+    "/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2023454-1": [
+     1795629672,
+     "96950ed1ea9e"
+    ],
+    "/job/Israel-Tel-Aviv/DFT-Verification-Engineer_JR2020801": [
+     1795629672,
+     "c07ba9f295a4"
+    ],
+    "/job/Israel-Tel-Aviv/Firmware-Engineer---Ethernet-Switching_JR2013842": [
+     1795629672,
+     "f2e16b58a96e"
+    ],
+    "/job/Israel-Tel-Aviv/Firmware-Engineer_JR2028404": [
+     1795629672,
+     "c8d27a9717a1"
+    ],
+    "/job/Israel-Tel-Aviv/Manager--AIR-SaaS-Platform-Verification_JR2021309": [
+     1795629672,
+     "9f5ba5e7adac"
+    ],
+    "/job/Israel-Tel-Aviv/Manager--Chip-Design_JR2025826-1": [
+     1795629672,
+     "5ff4173a97e2"
+    ],
+    "/job/Israel-Tel-Aviv/Manager--DFT---Post-Silicon_JR2023089-1": [
+     1795629672,
+     "37556203a4f7"
+    ],
+    "/job/Israel-Tel-Aviv/Manager--Project-Management---Chip-Design_JR2024833-1": [
+     1795629672,
+     "9a96f42fa7a6"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2013310": [
+     1795629672,
+     "0591a91c5127"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2026772": [
+     1795629672,
+     "a7a380bd9053"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Design-Engineer_JR2022233": [
+     1795629672,
+     "9b34458e4a5c"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Design-Engineer_JR2027849": [
+     1795629672,
+     "737d82d98b0b"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Design-Power-Integrity-Engineer_JR2012889": [
+     1795629672,
+     "8622cfa07f38"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Layer-Architecture-Engineer_JR2021592": [
+     1795629672,
+     "83f882561783"
+    ],
+    "/job/Israel-Tel-Aviv/Physical-Verification-Engineer_JR2028105": [
+     1795629672,
+     "79d8e6c654db"
+    ],
+    "/job/Israel-Tel-Aviv/Principal-ASIC-Chip-Design-Engineer_JR2019911": [
+     1795629672,
+     "3be96e9e73d7"
+    ],
+    "/job/Israel-Tel-Aviv/Principal-Engineer--Package-Integration-and-Manufacturability_JR2028378": [
+     1795629672,
+     "cc7722d4da6f"
+    ],
+    "/job/Israel-Tel-Aviv/Principal-Engineer--Project-Management---Chip-Design_JR2022459": [
+     1795629672,
+     "f6266df1751e"
+    ],
+    "/job/Israel-Tel-Aviv/Principal-Storage-Software-Engineer---DGX-Cloud_JR2019275": [
+     1795629672,
+     "93299376aae1"
+    ],
+    "/job/Israel-Tel-Aviv/SDK-Eth-Software-Team-Manager_JR2025829": [
+     1795629672,
+     "455dc23b854d"
+    ],
+    "/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203": [
+     1795629672,
+     "854745f4b23e"
+    ],
+    "/job/Israel-Tel-Aviv/SOC-Clocks-RTL-Design-Engineer_JR2022321": [
+     1795629672,
+     "baf3a7db8ebb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-AI-Chip-Design-Engineer_JR2015895": [
+     1795629672,
+     "05f2521651fa"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-AI-Developer-Technology-Engineer_JR2013673": [
+     1795629672,
+     "804892a93254"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-AI-Safety-Red-Teamer_JR2018549": [
+     1795629672,
+     "03047a90c650"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-AI-Verification-Chip-Design-Engineer_JR2020911": [
+     1795629672,
+     "3949f32923fd"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-ASIC-Low-Power-Integration-and-AI-Engineer_JR2029715": [
+     1795629672,
+     "634aa7c17991"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Advanced-Development-Engineer--GPU-Networking_JR2000660": [
+     1795629672,
+     "60908fd3c44f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Architect--IC-System_JR2023310": [
+     1795629672,
+     "1812f7d989f0"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-C---Software-Engineer---AI-Developer-Tools_JR2026075": [
+     1795629672,
+     "7d0b33585a77"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-C---Software-Engineer---AI-Developer-Tools_JR2026080": [
+     1795629672,
+     "7d0b33585a77"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-C---Software-Engineer_JR2022693": [
+     1795629672,
+     "b74cfd60f942"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Architect--Next-Gen-Networking_JR2024859": [
+     1795629672,
+     "c06ae6df6663"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2012350": [
+     1795629672,
+     "27e9d12e4a39"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2018777": [
+     1795629672,
+     "27e9d12e4a39"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2020876": [
+     1795629672,
+     "27e9d12e4a39"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2022408-1": [
+     1795629672,
+     "27e9d12e4a39"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Hardware-Emulation-Engineer_JR2029748": [
+     1795629672,
+     "161a970054d9"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer--Port-IP-Group_JR2018753": [
+     1795629672,
+     "278818fd9956"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2015029": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2018350": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2023453": [
+     1795629672,
+     "1665e0591acb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2028398": [
+     1795629672,
+     "1665e0591acb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2029749": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2029755": [
+     1795629672,
+     "1665e0591acb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2029869": [
+     1795629672,
+     "1665e0591acb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Customer-Program-Manager---OEMs_JR2021072": [
+     1795629672,
+     "75929ff1b7b6"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--Diffusion_JR2013876": [
+     1795629672,
+     "517cf5f36b27"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Developer-Relations-Manager---AI-Security_JR2016682": [
+     1795629672,
+     "f6645b2eb465"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-Architect--Management-Power-and-Thermal_JR2022985": [
+     1795629672,
+     "9f209f6be5b2"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-Architect--NVLink_JR2020995": [
+     1795629672,
+     "ed245807dd00"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-Engineer--Ethernet-Switching_JR2028815-1": [
+     1795629672,
+     "8325ceab4166"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-Engineer_JR2028777": [
+     1795629672,
+     "e36e69ab919b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-Engineer_JR2029724": [
+     1795629672,
+     "e36e69ab919b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Firmware-PHY-Verification-Engineer_JR2008166": [
+     1795629672,
+     "d1375999d352"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Hardware-Architect_JR1990271": [
+     1795629672,
+     "0c1fe2b87d39"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-High-Performance-System-Architect_JR2000465": [
+     1795629672,
+     "8e4dfa70da50"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-High-Performance-System-Architect_JR2011668-1": [
+     1795629672,
+     "4f76f554b583"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-High-Performance-System-Architect_JR2021493": [
+     1795629672,
+     "4f76f554b583"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Modeling-Architect_JR2020037": [
+     1795629672,
+     "9ef9bef62f49"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Network-Architect--Advanced-Packaging_JR2022961": [
+     1795629672,
+     "eea08f0281ba"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Network-Simulation-Software-Engineer_JR2021495": [
+     1795629672,
+     "ee35aaaf64b8"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Networking-Solution-Engineer_JR2027369": [
+     1795629672,
+     "d6c408705d23"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Physical-Design-Backend-Engineer_JR2013712": [
+     1795629672,
+     "eb45b3da3300"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Physical-Design-Engineer_JR2012373": [
+     1795629672,
+     "561998e3792c"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Physical-Design-Engineer_JR2027804": [
+     1795629672,
+     "0da3857001b2"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Physical-Verification-Engineer_JR2028106-1": [
+     1795629672,
+     "38936bba1a64"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Product-Manager---Run-ai-DSX-OS_JR2029254": [
+     1795629672,
+     "0452bf91bfec"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-SOC-Architect_JR2028812": [
+     1795629672,
+     "8b760cd9cd4a"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-SOC-Clocks-RTL-Design-Engineer_JR2022323": [
+     1795629672,
+     "ba66f1817fce"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-SOC-Verification-Engineer_JR2020497": [
+     1795629672,
+     "f5cb9125e706"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-STA-Engineer_JR2028104": [
+     1795629672,
+     "f56af26ecf17"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353": [
+     1795629672,
+     "a333f7b75a75"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2021941-1": [
+     1795629672,
+     "a333f7b75a75"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Cloud-Infrastructure_JR1998545": [
+     1795629672,
+     "8e75cf00859b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Architect--GPU-Networking_JR2023535": [
+     1795629672,
+     "fff5e1f804cf"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Architect--RISC-V-Networking-Accelerator_JR2020499": [
+     1795629672,
+     "abeb6938f051"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Developer_JR2004997": [
+     1795629672,
+     "b091c6b1d43c"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer---Ethernet-Switch_JR2013954": [
+     1795629672,
+     "46d081ff696a"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer---Kubernetes-AI-Scheduler_JR2020152": [
+     1795629672,
+     "8282607220fc"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2015633": [
+     1795629672,
+     "cb05d63320b9"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure---Developer-Experience_JR2028822": [
+     1795629672,
+     "ce15b7bd653f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2025844": [
+     1795629672,
+     "e472d39f0cab"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2028811": [
+     1795629672,
+     "e472d39f0cab"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--BlueField-platform_JR2024932": [
+     1795629672,
+     "d8e09ec199ed"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--DOCA-HBN_JR2028676": [
+     1795629672,
+     "05d7df1da45b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--Deep-Learning-Inference_JR2016753": [
+     1795629672,
+     "67e187da0b70"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--RDMA-Transport_JR2027514": [
+     1795629672,
+     "42a777aa0c0f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer--VLSI_JR2028292": [
+     1795629672,
+     "7fe4e58426f1"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Engineer_JR1994007": [
+     1795629672,
+     "7e424e71ea8b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Firmware-Architect--Host-Management_JR2022470": [
+     1795629672,
+     "5af6d5ce27f6"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Infra-Architect_JR2021261": [
+     1795629672,
+     "a3eaac52859d"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Solution-Engineer--Switch-Networking_JR2027382": [
+     1795629672,
+     "84a53716c8f6"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Software-Tools-Development_JR2029508": [
+     1795629672,
+     "8f15f8220304"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Solution-Engineer_JR2027518": [
+     1795629672,
+     "4420875f11cd"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR2024979": [
+     1795629672,
+     "6aa0b1a63bad"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Switch-Silicon-Security-Architect_JR2025265": [
+     1795629672,
+     "3536d16790bb"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Synthesis-CAD-Engineer_JR2019355": [
+     1795629672,
+     "b1c32ac51d0b"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-System-Security-Architect_JR2019539": [
+     1795629672,
+     "ce9f83414050"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-System-Software-Architect--AI-and-GPU-Networking_JR2013130": [
+     1795629672,
+     "f360b273b90f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-System-Software-Architect--AI-and-GPU-Networking_JR2029853": [
+     1795629672,
+     "f360b273b90f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Systems-Software-Engineer_JR2028775": [
+     1795629672,
+     "114d564c6cf3"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030101": [
+     1795629672,
+     "d8fe6a0acf3f"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-VLSI-Engineer_JR2022232": [
+     1795629672,
+     "950e49d17d54"
+    ],
+    "/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR2029862": [
+     1795629672,
+     "dcd5cab54d33"
+    ],
+    "/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866": [
+     1795629672,
+     "b412d4ef3204"
+    ],
+    "/job/Israel-Tel-Aviv/Software-Architect--GPU-Networking_JR2030556": [
+     1795629672,
+     "f26073be7773"
+    ],
+    "/job/Israel-Tel-Aviv/Software-Embedded-Engineer--DOCA_JR2027291-1": [
+     1795629672,
+     "09d8d77e5873"
+    ],
+    "/job/Israel-Tel-Aviv/Software-Engineer--AI-Agents-and-Software-Platforms_JR2018953": [
+     1795629672,
+     "30c8821c5a65"
+    ],
+    "/job/Israel-Tel-Aviv/Software-Engineer--AI-Networking-Architect_JR2018966": [
+     1795629672,
+     "5966a35b2777"
+    ],
+    "/job/Israel-Tel-Aviv/VLSI-Integration-Engineer_JR2029860": [
+     1795629672,
+     "882b500348ce"
+    ],
+    "/job/Israel-Tel-Hai/Firmware-Core-Engineer_JR1999896": [
+     1795629672,
+     "6af615730169"
+    ],
+    "/job/Israel-Tel-Hai/Networking-SW-QA-Engineer_JR2029939": [
+     1795629672,
+     "b9dcd14c3323"
+    ],
+    "/job/Israel-Yokneam/Advanced-Software-Development-Engineer_JR2020678": [
+     1795629672,
+     "46ac9dc13697"
+    ],
+    "/job/Israel-Yokneam/Advanced-Software-Development-Engineer_JR2026783": [
+     1795629672,
+     "17dd5e0dda64"
+    ],
+    "/job/Israel-Yokneam/Board-Design-Engineer--Sustain_JR2020983": [
+     1795629672,
+     "18daad92157b"
+    ],
+    "/job/Israel-Yokneam/CL-QA-Test-Engineer-and-Lab-Infrastructure-Owner_JR2024409": [
+     1795629672,
+     "ae4bfb2f6e9a"
+    ],
+    "/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2013523": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Yokneam/Chip-Modeling-Architect_JR2020707": [
+     1795629672,
+     "dfdeb7ee5cbb"
+    ],
+    "/job/Israel-Yokneam/Critical-Component-Product-Engineer_JR2019129": [
+     1795629672,
+     "b47e28ac33f2"
+    ],
+    "/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029798": [
+     1795629672,
+     "c7bce34b5228"
+    ],
+    "/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029944": [
+     1795629672,
+     "c7bce34b5228"
+    ],
+    "/job/Israel-Yokneam/DPU-Performance-Validation-Engineer_JR2023305": [
+     1795629672,
+     "38021776d4d1"
+    ],
+    "/job/Israel-Yokneam/Data-Center-Deployment-Specialist_JR2025326-1": [
+     1795629672,
+     "bf356bc526b4"
+    ],
+    "/job/Israel-Yokneam/DevOps-and-Automation-Engineer---ICPE_JR2025436-1": [
+     1795629672,
+     "032d4c4d5c4e"
+    ],
+    "/job/Israel-Yokneam/Director--AI-and-HPC-Cluster_JR2027384": [
+     1795629672,
+     "a2b605cfd864"
+    ],
+    "/job/Israel-Yokneam/Director--Reliability-Hardware-System_JR2013938": [
+     1795629672,
+     "757f40856b15"
+    ],
+    "/job/Israel-Yokneam/Director--Software-Engineering---Nvlink-and-Infinband_JR2028590": [
+     1795629672,
+     "68428e497d76"
+    ],
+    "/job/Israel-Yokneam/Director--Software-Technical-Program-Management_JR2029252": [
+     1795629672,
+     "1dd7c0c4fb0a"
+    ],
+    "/job/Israel-Yokneam/Engineering-Manager--Network-System-Validation_JR2025289": [
+     1795629672,
+     "1b707be03be0"
+    ],
+    "/job/Israel-Yokneam/FC-Verification-Engineer_JR2021916-1": [
+     1795629672,
+     "deeee53c9ec2"
+    ],
+    "/job/Israel-Yokneam/Firmware-DevOps-and-Infrastructure-Manager_JR2029062": [
+     1795629672,
+     "b57732e40ce1"
+    ],
+    "/job/Israel-Yokneam/Firmware-Engineer_JR2027933-1": [
+     1795629672,
+     "47fd227150ca"
+    ],
+    "/job/Israel-Yokneam/Firmware-Manager_JR2027786": [
+     1795629672,
+     "7a402910a584"
+    ],
+    "/job/Israel-Yokneam/Fuse-Configuration-Manager---IC-Product-Engineering_JR2027530": [
+     1795629672,
+     "c5857b6dbc05"
+    ],
+    "/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2010238": [
+     1795629672,
+     "f8f258ae55ca"
+    ],
+    "/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2029852": [
+     1795629672,
+     "f8f258ae55ca"
+    ],
+    "/job/Israel-Yokneam/Hardware-Board-Design-Engineer_JR2020207": [
+     1795629672,
+     "5f97d304eaf5"
+    ],
+    "/job/Israel-Yokneam/Hardware-Failure-Analysis-Engineer---Physical-Failure-Analysis_JR2021383": [
+     1795629672,
+     "87aac5230266"
+    ],
+    "/job/Israel-Yokneam/IC-Digital-Test-Engineer_JR2021802": [
+     1795629672,
+     "c94ac48f2011"
+    ],
+    "/job/Israel-Yokneam/IC-Packaging-Engineer_JR2015252": [
+     1795629672,
+     "72173bd7de44"
+    ],
+    "/job/Israel-Yokneam/IC-Post-Silicon-Test-Engineer_JR2027533": [
+     1795629672,
+     "71f56634896a"
+    ],
+    "/job/Israel-Yokneam/IC-Practical-Engineer_JR2022657": [
+     1795629672,
+     "0f6781c2ded3"
+    ],
+    "/job/Israel-Yokneam/IC-Reliability-Practical-Engineer_JR2019125": [
+     1795629672,
+     "3b2b1c334ac8"
+    ],
+    "/job/Israel-Yokneam/IC-Test-Engineer_JR2023378": [
+     1795629672,
+     "db7c7ad393c0"
+    ],
+    "/job/Israel-Yokneam/Interconnect-Hardware-Engineer_JR2018752": [
+     1795629672,
+     "f04a914f7205"
+    ],
+    "/job/Israel-Yokneam/Lab-Infrastructure-and-Integrated-Systems-Engineer_JR2028031": [
+     1795629672,
+     "31da30a22854"
+    ],
+    "/job/Israel-Yokneam/Laser-Development-PhD-Student_JR2007564": [
+     1795629672,
+     "6461ee79ec49"
+    ],
+    "/job/Israel-Yokneam/Logic-Design-Engineer--CPU-Core_JR2015261": [
+     1795629672,
+     "9b180ce2223f"
+    ],
+    "/job/Israel-Yokneam/Manager--DFT-Architecture_JR2003831": [
+     1795629672,
+     "88d419a0b1a1"
+    ],
+    "/job/Israel-Yokneam/Manager--Hardware-and-System-Development-Engineering_JR2001893": [
+     1795629672,
+     "801a3dd9d5d7"
+    ],
+    "/job/Israel-Yokneam/Manager--IC-Reliability-Labs_JR2028494-1": [
+     1795629672,
+     "2fd15a787555"
+    ],
+    "/job/Israel-Yokneam/Manager--Mechanical-Engineering_JR2013877": [
+     1795629672,
+     "553d521707ef"
+    ],
+    "/job/Israel-Yokneam/Manager--Mechanical-Engineering_JR2015626": [
+     1795629672,
+     "553d521707ef"
+    ],
+    "/job/Israel-Yokneam/Manager--Networking-Firmware-Engineering_JR2016333": [
+     1795629672,
+     "795ccdef6650"
+    ],
+    "/job/Israel-Yokneam/Manager--Networking-Firmware-Engineering_JR2021488": [
+     1795629672,
+     "795ccdef6650"
+    ],
+    "/job/Israel-Yokneam/Manager--Performance-Research-and-Analysis_JR2021976": [
+     1795629672,
+     "d4c128c32779"
+    ],
+    "/job/Israel-Yokneam/Manager--Physical-Design-Circuit-and-Signoff-CAD_JR2019878": [
+     1795629672,
+     "818bd965d0c9"
+    ],
+    "/job/Israel-Yokneam/Manager--Software-Advanced-Development_JR2028212": [
+     1795629672,
+     "b1351cac944c"
+    ],
+    "/job/Israel-Yokneam/Manager--Software-Verification_JR2029804": [
+     1795629672,
+     "81ab8b7d5b97"
+    ],
+    "/job/Israel-Yokneam/Mechanical-Design-Team-Manager_JR2023375": [
+     1795629672,
+     "bba46baf7450"
+    ],
+    "/job/Israel-Yokneam/Mechanical-Engineer_JR2018381": [
+     1795629672,
+     "18d0a2cdce44"
+    ],
+    "/job/Israel-Yokneam/Mechanical-Team-Manager--ETH-and-IB-Switches-Domain_JR2010865": [
+     1795629672,
+     "95ba75038764"
+    ],
+    "/job/Israel-Yokneam/Network-RDMA-Algorithms-Architect_JR2006888": [
+     1795629672,
+     "c7ddff2af4c5"
+    ],
+    "/job/Israel-Yokneam/Opto-Mechanical-Engineer_JR2028293": [
+     1795629672,
+     "974519191b44"
+    ],
+    "/job/Israel-Yokneam/PCB-Design-Layout-Engineer_JR2025267": [
+     1795629672,
+     "85eb1a7f4953"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-Backend-Engineer_JR2021981": [
+     1795629672,
+     "a7a380bd9053"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2029951-1": [
+     1795629672,
+     "7a5e80dd2612"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-Power-Optimization-Engineer_JR2029955": [
+     1795629672,
+     "12abb9614d89"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-Power-Optimization-and-Modeling-Engineer_JR2023707": [
+     1795629672,
+     "95465e01ed5b"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-STA-CAD-Engineer_JR2023081": [
+     1795629672,
+     "34403a85f4db"
+    ],
+    "/job/Israel-Yokneam/Physical-Design-STA-Engineer_JR2023082": [
+     1795629672,
+     "bf11c166c4b7"
+    ],
+    "/job/Israel-Yokneam/Principal-Engineer--Project-Management---Chip-Power_JR2023204": [
+     1795629672,
+     "78c9cd769aca"
+    ],
+    "/job/Israel-Yokneam/Principal-Verification-Chip-Design-Engineer_JR2013578": [
+     1795629672,
+     "78c6156302f8"
+    ],
+    "/job/Israel-Yokneam/Product-Engineering-Change-Analyst_JR2020149": [
+     1795629672,
+     "0f830f70d114"
+    ],
+    "/job/Israel-Yokneam/SPE-Thermal-Solutions-Integration-Engineer_JR2023538": [
+     1795629672,
+     "301ca5993787"
+    ],
+    "/job/Israel-Yokneam/STA-Engineer_JR2016441": [
+     1795629672,
+     "24c63ae275f7"
+    ],
+    "/job/Israel-Yokneam/Senior-AI-Engineer--Forward-Deployed---Palantir-Foundry-and-AIP_JR2029049": [
+     1795629672,
+     "f6d5edb4d08a"
+    ],
+    "/job/Israel-Yokneam/Senior-AI-Systems-Engineer_JR2025271-1": [
+     1795629672,
+     "ccc566883364"
+    ],
+    "/job/Israel-Yokneam/Senior-AI-and-LLM-Solutions-Software-Engineer_JR2029870": [
+     1795629672,
+     "5dcc46e76511"
+    ],
+    "/job/Israel-Yokneam/Senior-ASIC-Power-Management-Micro-Architect--Chip-Design_JR2023127": [
+     1795629672,
+     "59f6a06c9bcc"
+    ],
+    "/job/Israel-Yokneam/Senior-Analog-Layout-Design-Engineer_JR2025747": [
+     1795629672,
+     "49cc8b43e797"
+    ],
+    "/job/Israel-Yokneam/Senior-Board-Design-Engineer--Electro-Optical_JR2022715": [
+     1795629672,
+     "28a968c5402e"
+    ],
+    "/job/Israel-Yokneam/Senior-Board-Design-Engineer--Sustain_JR2015051": [
+     1795629672,
+     "79dd0bcbd056"
+    ],
+    "/job/Israel-Yokneam/Senior-Board-Design-Engineer_JR2022432": [
+     1795629672,
+     "c659be4b5145"
+    ],
+    "/job/Israel-Yokneam/Senior-Board-Design-Engineer_JR2029481": [
+     1795629672,
+     "c659be4b5145"
+    ],
+    "/job/Israel-Yokneam/Senior-Board-Design-Hardware-Engineer_JR2027490-1": [
+     1795629672,
+     "91003d7a0d86"
+    ],
+    "/job/Israel-Yokneam/Senior-CPU-Performance-Architect_JR2026876": [
+     1795629672,
+     "91977153d5c2"
+    ],
+    "/job/Israel-Yokneam/Senior-Chip-Architect_JR2023093": [
+     1795629672,
+     "21d09d3b0ec7"
+    ],
+    "/job/Israel-Yokneam/Senior-Chip-Architect_JR2030397": [
+     1795629672,
+     "a97ade869490"
+    ],
+    "/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2016427": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2027111": [
+     1795629672,
+     "3347d2c3c91b"
+    ],
+    "/job/Israel-Yokneam/Senior-Cybersecurity-AI-Solutions-Engineer_JR2024499-1": [
+     1795629672,
+     "3d7206b32dba"
+    ],
+    "/job/Israel-Yokneam/Senior-DFT-ATPG-Engineer_JR2013532": [
+     1795629672,
+     "1abea23f1d9d"
+    ],
+    "/job/Israel-Yokneam/Senior-DFT-Engineer_JR2029750": [
+     1795629672,
+     "936c2905c3a7"
+    ],
+    "/job/Israel-Yokneam/Senior-DFT-Verification-Engineer_JR2025937": [
+     1795629672,
+     "0292050947c8"
+    ],
+    "/job/Israel-Yokneam/Senior-Data-Center-Infrastructure-Technical-Lead--NCS_JR2029393-1": [
+     1795629672,
+     "ab3c90b614ad"
+    ],
+    "/job/Israel-Yokneam/Senior-Director--Integrated-Circuit-Product-Engineering_JR2030089": [
+     1795629672,
+     "735073f3aab8"
+    ],
+    "/job/Israel-Yokneam/Senior-E2E-Hardware-Architect--AI-Networking_JR2029469": [
+     1795629672,
+     "6895f30ef22f"
+    ],
+    "/job/Israel-Yokneam/Senior-Engineering-Vendor-Manager_JR2026163": [
+     1795629672,
+     "e60b5a58e472"
+    ],
+    "/job/Israel-Yokneam/Senior-FC-Verification---Simulation-Infrastructure-Engineer_JR2021922-1": [
+     1795629672,
+     "05cf6e93b060"
+    ],
+    "/job/Israel-Yokneam/Senior-FC-Verification-Engineer_JR2013572": [
+     1795629672,
+     "18d87c21ea20"
+    ],
+    "/job/Israel-Yokneam/Senior-Firmware-Design-Engineer_JR2027785": [
+     1795629672,
+     "1d82ccbe94a1"
+    ],
+    "/job/Israel-Yokneam/Senior-Firmware-Engineer---AI-Driven-Infrastructure_JR2028774": [
+     1795629672,
+     "50276a9cfffa"
+    ],
+    "/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671": [
+     1795629672,
+     "29a3414e66a5"
+    ],
+    "/job/Israel-Yokneam/Senior-Firmware-SerDes-Verification-Engineer_JR2013648": [
+     1795629672,
+     "6b399492124e"
+    ],
+    "/job/Israel-Yokneam/Senior-Formal-Verification-Engineer_JR1997698": [
+     1795629672,
+     "b2a4313f5a7d"
+    ],
+    "/job/Israel-Yokneam/Senior-Full-Chip-Layout-Engineer_JR2025790": [
+     1795629672,
+     "67e5ffd4f76b"
+    ],
+    "/job/Israel-Yokneam/Senior-Full-Chip-Layout-and-Physical-Verification-CAD-Engineer_JR2019880": [
+     1795629672,
+     "dedce796e245"
+    ],
+    "/job/Israel-Yokneam/Senior-Global-Capacity-Planner_JR2022964": [
+     1795629672,
+     "d70106301356"
+    ],
+    "/job/Israel-Yokneam/Senior-HPC-AI-Engineer_JR2028283": [
+     1795629672,
+     "8383336d116f"
+    ],
+    "/job/Israel-Yokneam/Senior-HPC-Site-Reliability-Engineer_JR2014015": [
+     1795629672,
+     "84f879811108"
+    ],
+    "/job/Israel-Yokneam/Senior-HPC-and-AI-Cluster-Administrator_JR2012342": [
+     1795629672,
+     "f9a87e6970cd"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Architect--Deep-Learning-GPU-and-System_JR2017164": [
+     1795629672,
+     "5850463d4ab0"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Architect-Artificial-Intelligence_JR2020064": [
+     1795629672,
+     "ac5b74f42946"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Manager--Co-Package-Optics-Switch-Design_JR2011255-1": [
+     1795629672,
+     "4507e6b0bf3c"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Network-Engineer_JR2024832-1": [
+     1795629672,
+     "77d39d311ed2"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Quality-Engineer_JR2021134": [
+     1795629672,
+     "2ceb000f1724"
+    ],
+    "/job/Israel-Yokneam/Senior-Hardware-Technical-Lead--Interconnect-Systems_JR2026879": [
+     1795629672,
+     "5ad5c5855c41"
+    ],
+    "/job/Israel-Yokneam/Senior-High-Speed-Optical-Transceiver-Design-Engineer_JR2003100": [
+     1795629672,
+     "c0bb1a4f1c7d"
+    ],
+    "/job/Israel-Yokneam/Senior-IC-Foundry-Engineer_JR2019657": [
+     1795629672,
+     "a70d7e1181d3"
+    ],
+    "/job/Israel-Yokneam/Senior-IC-Packaging-Process-Engineer_JR2028291": [
+     1795629672,
+     "ff744dec9dfa"
+    ],
+    "/job/Israel-Yokneam/Senior-ICPE-Production-Security-Software-Engineer_JR2028963-2": [
+     1795629672,
+     "6934d163454b"
+    ],
+    "/job/Israel-Yokneam/Senior-IT-Enterprise-Security-Engineer_JR2024000": [
+     1795629672,
+     "ba9b629e5d41"
+    ],
+    "/job/Israel-Yokneam/Senior-LLM-Agents-Architect_JR2018397": [
+     1795629672,
+     "352ca675629f"
+    ],
+    "/job/Israel-Yokneam/Senior-Logic-Design-Engineer--CPU-Core_JR2015264": [
+     1795629672,
+     "68eb640095a9"
+    ],
+    "/job/Israel-Yokneam/Senior-Manager--DPU-Performance-and-System-Validation_JR2017129": [
+     1795629672,
+     "cd5739eac913"
+    ],
+    "/job/Israel-Yokneam/Senior-Manager--Engineering-Vendor-Management_JR2025724": [
+     1795629672,
+     "3c388aacafe2"
+    ],
+    "/job/Israel-Yokneam/Senior-Manager--Firmware-Engineering_JR2028142": [
+     1795629672,
+     "3df35653f36e"
+    ],
+    "/job/Israel-Yokneam/Senior-Materials-Engineer_JR2028975": [
+     1795629672,
+     "54bf77c91fda"
+    ],
+    "/job/Israel-Yokneam/Senior-Mechanical-Engineer_JR2002154": [
+     1795629672,
+     "eca341028614"
+    ],
+    "/job/Israel-Yokneam/Senior-Mechanical-Hardware-Design-Engineer--IC-Product_JR2029722": [
+     1795629672,
+     "8c1dec5e891a"
+    ],
+    "/job/Israel-Yokneam/Senior-Mechanical-Simulations-Engineer_JR2027525": [
+     1795629672,
+     "2f661e8933fa"
+    ],
+    "/job/Israel-Yokneam/Senior-NPI-Hardware-Quality-Engineer_JR2019772": [
+     1795629672,
+     "ed604899fe0d"
+    ],
+    "/job/Israel-Yokneam/Senior-Network-Engineer---Deployments_JR2024259": [
+     1795629672,
+     "d06b17408483"
+    ],
+    "/job/Israel-Yokneam/Senior-Network-Engineer--System-Verification_JR2015123": [
+     1795629672,
+     "dc7ce9381a50"
+    ],
+    "/job/Israel-Yokneam/Senior-Network-Modeling-Architect---Networking_JR2018013": [
+     1795629672,
+     "9729079da8b0"
+    ],
+    "/job/Israel-Yokneam/Senior-Network-Site-Reliability-Engineer_JR2027828": [
+     1795629672,
+     "92c7faefe7d5"
+    ],
+    "/job/Israel-Yokneam/Senior-Networking-ASIC-Functional-Characterization-Engineer_JR2024604": [
+     1795629672,
+     "ae0b67e39653"
+    ],
+    "/job/Israel-Yokneam/Senior-Networking-Electrical-Validation-Engineer_JR2008783": [
+     1795629672,
+     "7a2677c26df8"
+    ],
+    "/job/Israel-Yokneam/Senior-Networking-IC-Test-Engineering-Program-Manager_JR2021792": [
+     1795629672,
+     "78ce16074602"
+    ],
+    "/job/Israel-Yokneam/Senior-Opto-Mechanical-Failure-Analysis-Engineer_JR2018784": [
+     1795629672,
+     "fd7e7e8928f3"
+    ],
+    "/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2008755": [
+     1795629672,
+     "b0419f48ce9a"
+    ],
+    "/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2028981": [
+     1795629672,
+     "7171b06b7707"
+    ],
+    "/job/Israel-Yokneam/Senior-PCB-Layout-Engineer_JR2022809": [
+     1795629672,
+     "51c6725928e7"
+    ],
+    "/job/Israel-Yokneam/Senior-Package-Layout-Engineer_JR2025722": [
+     1795629672,
+     "51872a847094"
+    ],
+    "/job/Israel-Yokneam/Senior-Performance-Engineer---LLM-Inference-Frameworks_JR2016624": [
+     1795629672,
+     "46fa2ce88594"
+    ],
+    "/job/Israel-Yokneam/Senior-Performance-Engineer_JR2021053-1": [
+     1795629672,
+     "976f0a355a09"
+    ],
+    "/job/Israel-Yokneam/Senior-Performance-Modeling-Engineer_JR2021706": [
+     1795629672,
+     "2a6e1f78caa2"
+    ],
+    "/job/Israel-Yokneam/Senior-Performance-Research-and-Analysis-Engineer_JR2028611": [
+     1795629672,
+     "fd9b5deca09b"
+    ],
+    "/job/Israel-Yokneam/Senior-Physical-Design-Backend-Engineer_JR2029863": [
+     1795629672,
+     "ac405b44a572"
+    ],
+    "/job/Israel-Yokneam/Senior-Physical-Design-Engineer_JR2029857": [
+     1795629672,
+     "561998e3792c"
+    ],
+    "/job/Israel-Yokneam/Senior-Post-Silicon-ATE-Test-Development-Engineer_JR2023084": [
+     1795629672,
+     "f5bbe10f1da6"
+    ],
+    "/job/Israel-Yokneam/Senior-Post-Silicon-Characterization-and-Validation-Methodology_JR2022669-1": [
+     1795629672,
+     "83417698c51c"
+    ],
+    "/job/Israel-Yokneam/Senior-Power-Engineer_JR2018092": [
+     1795629672,
+     "14eec6d9ec22"
+    ],
+    "/job/Israel-Yokneam/Senior-Pre-Silicon-Reliability-Engineer_JR2026763": [
+     1795629672,
+     "81088c59b663"
+    ],
+    "/job/Israel-Yokneam/Senior-Product-Manager---Host-Networking-Platforms_JR2019895": [
+     1795629672,
+     "48f5413169bc"
+    ],
+    "/job/Israel-Yokneam/Senior-Product-System-Engineer_JR2018356": [
+     1795629672,
+     "9c62ad8e7a29"
+    ],
+    "/job/Israel-Yokneam/Senior-Production-Security-Specialist--ITPE_JR2022687": [
+     1795629672,
+     "20259b1a04d1"
+    ],
+    "/job/Israel-Yokneam/Senior-Production-Test-Validation_JR2027534": [
+     1795629672,
+     "d41c96e09e4f"
+    ],
+    "/job/Israel-Yokneam/Senior-Program-Sourcing-Manager--Operations_JR2012230": [
+     1795629672,
+     "82b63ffb7e64"
+    ],
+    "/job/Israel-Yokneam/Senior-Project-Manager--PE_JR2012608": [
+     1795629672,
+     "1e48e3fc2cda"
+    ],
+    "/job/Israel-Yokneam/Senior-QA-Engineer--Test-Frameworks---Tools_JR2022662": [
+     1795629672,
+     "bb2b193c9a66"
+    ],
+    "/job/Israel-Yokneam/Senior-QA-Software-Engineer--Networking_JR2016610": [
+     1795629672,
+     "47370169e0af"
+    ],
+    "/job/Israel-Yokneam/Senior-RDMA-Research-Architect_JR2027241": [
+     1795629672,
+     "a20daac2dcbe"
+    ],
+    "/job/Israel-Yokneam/Senior-RDMA-and-Networking-Architect_JR2024292": [
+     1795629672,
+     "ef9a020c6440"
+    ],
+    "/job/Israel-Yokneam/Senior-RTL-Integration-Engineer_JR2018007": [
+     1795629672,
+     "26bae6c5a667"
+    ],
+    "/job/Israel-Yokneam/Senior-STA-Engineer--Sub-chip_JR2015231": [
+     1795629672,
+     "9abf09d0f3d9"
+    ],
+    "/job/Israel-Yokneam/Senior-Signal-Integrity---Power-Integrity-Engineer_JR2020853": [
+     1795629672,
+     "e3da1d29e6c8"
+    ],
+    "/job/Israel-Yokneam/Senior-Signal-and-Power-Integrity-Engineer_JR2029727": [
+     1795629672,
+     "5bd934f19c6b"
+    ],
+    "/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2005598-1": [
+     1795629672,
+     "9cb5f48f1d1c"
+    ],
+    "/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2017969": [
+     1795629672,
+     "9cb5f48f1d1c"
+    ],
+    "/job/Israel-Yokneam/Senior-Simulation-Mechanical-Engineer_JR2017974": [
+     1795629672,
+     "9e09f6fdd943"
+    ],
+    "/job/Israel-Yokneam/Senior-Site-Reliability-Engineering---Storage_JR2023556": [
+     1795629672,
+     "ffd55bc45896"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Advanced-Developer_JR2005807": [
+     1795629672,
+     "de695fd4baa6"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Architect--AI-Networking_JR2025070": [
+     1795629672,
+     "31180214de5e"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Architect--Advanced-Development_JR1998551": [
+     1795629672,
+     "ccce16ed4725"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-E2E-Architect_JR2025333": [
+     1795629672,
+     "f90144f56869"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer---Embedded-CPU-SDK_JR2024608": [
+     1795629672,
+     "3e39c1498968"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer---Infrastructure---Network-Automation_JR2027535": [
+     1795629672,
+     "b3a2f3ef944d"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer---Kubernetes-AI-Foundations--Open-Source_JR2022743": [
+     1795629672,
+     "948e033fb583"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer---Networking_JR2007890": [
+     1795629672,
+     "af01d16c141a"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--Chip-Design_JR2025270": [
+     1795629672,
+     "ee74f4e400ff"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2013546": [
+     1795629672,
+     "32c637b70be3"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2025266": [
+     1795629672,
+     "b668ff41281f"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-Verification_JR2026270": [
+     1795629672,
+     "b4aabcb508a1"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-Verification_JR2027450": [
+     1795629672,
+     "b4aabcb508a1"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA_JR2028819": [
+     1795629672,
+     "f98abc12606e"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--NIC-Firmware_JR2022513": [
+     1795629672,
+     "e4ee38203e28"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--NVLINK_JR2004601": [
+     1795629672,
+     "dc2874710458"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--Network-System-Validation_JR2023247-1": [
+     1795629672,
+     "763e549d993b"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer--Network-System-Validation_JR2030080": [
+     1795629672,
+     "763e549d993b"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Engineer-Tech-Lead--Network-System-Validation_JR2025581": [
+     1795629672,
+     "ab24d30f1fee"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Technical-Program-Manager_JR2026898": [
+     1795629672,
+     "517d44134660"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Test-Development-Engineer_JR2012897": [
+     1795629672,
+     "f81a49007ffe"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-Verification-Engineer_JR2020974": [
+     1795629672,
+     "85c83796c853"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-and-DevOps-Development-Engineer_JR2029244-1": [
+     1795629672,
+     "3ebe287c3f9c"
+    ],
+    "/job/Israel-Yokneam/Senior-Software-and-System-Architect_JR2022247": [
+     1795629672,
+     "7d360792ffb0"
+    ],
+    "/job/Israel-Yokneam/Senior-Solution-Engineer--Switch-Networking_JR2020027-1": [
+     1795629672,
+     "1cc50646ebcb"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Architect--High-Speed-Interconnects_JR2011546": [
+     1795629672,
+     "700aaed52a82"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Design-Test-Architect_JR1999094": [
+     1795629672,
+     "e8c54dee2a6b"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Failure-Analysis-Engineer_JR2014028": [
+     1795629672,
+     "8ef019dbaa07"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Hardware-Architect_JR2025297": [
+     1795629672,
+     "d69a3c186cce"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Management-Architect_JR2022518": [
+     1795629672,
+     "1a5b5fb8b053"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Optic-PHY-Engineer_JR2015229": [
+     1795629672,
+     "5614e8d2f3b0"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Software-Architect--AI-Networking_JR2029495": [
+     1795629672,
+     "e4cde67c4f00"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Test-Design-Engineer_JR2001642": [
+     1795629672,
+     "59de9cd0664f"
+    ],
+    "/job/Israel-Yokneam/Senior-System-Validation-Engineer_JR2009084": [
+     1795629672,
+     "cf479e08e777"
+    ],
+    "/job/Israel-Yokneam/Senior-Technical-Program-Manager_JR2027191-1": [
+     1795629672,
+     "950ff8dc3c90"
+    ],
+    "/job/Israel-Yokneam/Senior-Telecommunications-Engineer---Data-Center_JR2018654": [
+     1795629672,
+     "de3b789ff45a"
+    ],
+    "/job/Israel-Yokneam/Senior-Test-Engineer_JR1999041": [
+     1795629672,
+     "977e61a0cebc"
+    ],
+    "/job/Israel-Yokneam/Senior-Test-Platform-Technical-Leader--CPO_JR2027946": [
+     1795629672,
+     "be888923bc9c"
+    ],
+    "/job/Israel-Yokneam/Senior-VLSI-CAD-and-AI-Automation-Engineer_JR2029800": [
+     1795629672,
+     "16eab48353ed"
+    ],
+    "/job/Israel-Yokneam/SoC-Power-Architect_JR2009531-1": [
+     1795629672,
+     "6fdcb74ae460"
+    ],
+    "/job/Israel-Yokneam/Software-Architect--Network-System-Validation_JR2023705": [
+     1795629672,
+     "cac149f1c9b2"
+    ],
+    "/job/Israel-Yokneam/Software-Architect_JR2022248": [
+     1795629672,
+     "b270e119e987"
+    ],
+    "/job/Israel-Yokneam/Software-Engineer---AI-Solutions_JR2028393-1": [
+     1795629672,
+     "4c2f40e9d69d"
+    ],
+    "/job/Israel-Yokneam/Software-Engineer---Python--C----Video-Algorithms_JR2026084-9": [
+     1795629672,
+     "fa5d9cce8ca1"
+    ],
+    "/job/Israel-Yokneam/Software-Engineer--SPE_JR2015623": [
+     1795629672,
+     "68057e6fc06e"
+    ],
+    "/job/Israel-Yokneam/Software-Manager--DOCA-Services_JR2025740": [
+     1795629672,
+     "67f015bde1e1"
+    ],
+    "/job/Israel-Yokneam/Software-Manager--ITPE_JR2012126": [
+     1795629672,
+     "7af1cb52e867"
+    ],
+    "/job/Israel-Yokneam/Software-Manager--SPE_JR2017984": [
+     1795629672,
+     "340dc31fbca6"
+    ],
+    "/job/Israel-Yokneam/Software-Performance-Engineer_JR2024413": [
+     1795629672,
+     "5fb1bf2da914"
+    ],
+    "/job/Israel-Yokneam/Software-Validation-Engineer_JR2011195": [
+     1795629672,
+     "28136f79878c"
+    ],
+    "/job/Israel-Yokneam/Software-Verification-Manager--SDK_JR2017344": [
+     1795629672,
+     "3f919f87d9ba"
+    ],
+    "/job/Israel-Yokneam/Solution-Validation-Engineer_JR2027031": [
+     1795629672,
+     "8c35165b9ba8"
+    ],
+    "/job/Israel-Yokneam/System-Product-Engineer_JR2020798": [
+     1795629672,
+     "422826e62173"
+    ],
+    "/job/Israel-Yokneam/System-Software-Engineer_JR2016510": [
+     1795629672,
+     "0c86706d8e02"
+    ],
+    "/job/Israel-Yokneam/System-Validation-Engineer_JR2011194": [
+     1795629672,
+     "4ef2d2824bb5"
+    ],
+    "/job/Israel-Yokneam/Technical-Project-Lead--SPE_JR2017619-1": [
+     1795629672,
+     "0d0356924765"
+    ],
+    "/job/Israel-Yokneam/Test-Product-Engineer_JR2011845": [
+     1795629672,
+     "86647036e3af"
+    ],
+    "/job/Israel-Yokneam/Test-Reliability-Engineer_JR2026762": [
+     1795629672,
+     "85c10236f917"
+    ],
+    "/job/Israel-Yokneam/Thermal-Engineer_JR2018615": [
+     1795629672,
+     "2e38386d9d57"
+    ],
+    "/job/Israel-Yokneam/VLSI-Design-Automation-Software-Engineer_JR2027412": [
+     1795629672,
+     "36ad51ffb88a"
+    ],
+    "/job/Japan-Remote/Senior-Solutions-Architect--Cloud-Infrastructure-and-DevOps---NVIS_JR1997336": [
+     1795629672,
+     "79c0373170f0"
+    ],
+    "/job/Japan-Remote/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2011666": [
+     1795629672,
+     "7acbe3aeedcd"
+    ],
+    "/job/Japan-Tokyo/Account-Sales-Manager_JR2003329": [
+     1795629672,
+     "2c8371feef78"
+    ],
+    "/job/Japan-Tokyo/Customer-Business-Operations-Specialist_JR2023294": [
+     1795629672,
+     "d99b5efaf7b2"
+    ],
+    "/job/Japan-Tokyo/Developer-Relations-Account-Manager--Generative-AI_JR2020208-1": [
+     1795629672,
+     "1bc3eeacf9ec"
+    ],
+    "/job/Japan-Tokyo/Developer-Relations-Manager---Higher-Education---Research_JR2018575": [
+     1795629672,
+     "e6303f7eb2ee"
+    ],
+    "/job/Japan-Tokyo/Developer-Relations-Manager--Agentic-AI---Japan_JR2028381": [
+     1795629672,
+     "2ff6023ba39d"
+    ],
+    "/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575": [
+     1795629672,
+     "a0b86d3b9f14"
+    ],
+    "/job/Japan-Tokyo/Global-Account-Manager--Robotics_JR2023558": [
+     1795629672,
+     "3fe99baacc34"
+    ],
+    "/job/Japan-Tokyo/Principal-Engineer--Autonomous-Vehicles-and-Physical-AI-Solutions_JR2015317": [
+     1795629672,
+     "d2ebf4ad575b"
+    ],
+    "/job/Japan-Tokyo/Robotics-and-Industrial-Campaign-Manager--Physical-AI_JR2025453": [
+     1795629672,
+     "ac61c6e16bce"
+    ],
+    "/job/Japan-Tokyo/Senior-Account-Manager--Telcom_JR2021876": [
+     1795629672,
+     "a4a5007f0405"
+    ],
+    "/job/Japan-Tokyo/Senior-Business-Development-Manager---Manufacturing_JR2024244": [
+     1795629672,
+     "e894c47e6962"
+    ],
+    "/job/Japan-Tokyo/Senior-Business-Development-Manager--NVIDIA-Cloud-Partners_JR2027615": [
+     1795629672,
+     "68e350f34e94"
+    ],
+    "/job/Japan-Tokyo/Senior-Customer-Technical-Program-Manager---Data-Center_JR2002815": [
+     1795629672,
+     "57517442dd1b"
+    ],
+    "/job/Japan-Tokyo/Senior-Developer-Relations-Manager---Metropolis_JR2010780": [
+     1795629672,
+     "4c8f5fd80828"
+    ],
+    "/job/Japan-Tokyo/Senior-Project-Delivery-Manager---NVIS_JR2027495": [
+     1795629672,
+     "94b0465f1230"
+    ],
+    "/job/Japan-Tokyo/Senior-Quantum-Algorithm-Researcher_JR2022234": [
+     1795629672,
+     "21a91bb27119"
+    ],
+    "/job/Japan-Tokyo/Solution-Architect--Generative-AI_JR2017140": [
+     1795629672,
+     "8c06199adf08"
+    ],
+    "/job/Japan-Tokyo/Solutions-Architect--Manufacturing_JR2008569": [
+     1795629672,
+     "649a43ab052e"
+    ],
+    "/job/Korea-Seoul/AI-Research-Scientist_JR2028318": [
+     1795629672,
+     "68ad2004f63f"
+    ],
+    "/job/Korea-Seoul/Developer-Technology-Engineer---HPC_JR2020295": [
+     1795629672,
+     "c519b0d1ab87"
+    ],
+    "/job/Korea-Seoul/PhD-Researcher-Intern--World-Foundation-Models_JR2028487": [
+     1795629672,
+     "e71a6fe828d2"
+    ],
+    "/job/Korea-Seoul/Public-Relations-Manager_JR2016172": [
+     1795629672,
+     "cce78ed51ee1"
+    ],
+    "/job/Korea-Seoul/Senior-Account-Manager--Consumer-Sales_JR2012877": [
+     1795629672,
+     "b289013d307c"
+    ],
+    "/job/Korea-Seoul/Senior-Developer-Relations-Manager--Omniverse-Simulation_JR2026771-1": [
+     1795629672,
+     "fd1600242716"
+    ],
+    "/job/Korea-Seoul/Senior-Developer-Relations-Manager_JR2018216-1": [
+     1795629672,
+     "b9f19ba23974"
+    ],
+    "/job/Korea-Seoul/Senior-Omniverse-Engineer--Physical-Simulation--Digital-Twins-and-Robotics_JR2021289": [
+     1795629672,
+     "9d1a2fa27a8c"
+    ],
+    "/job/Korea-Seoul/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2010544": [
+     1795629672,
+     "4b7025a24b3e"
+    ],
+    "/job/Korea-Seoul/Senior-System-Software-Engineer---Automotive_JR2017235": [
+     1795629672,
+     "41b754682b2a"
+    ],
+    "/job/Korea-Seoul/Senior-System-Software-Engineer--Autonomous-Vehicles_JR2028549": [
+     1795629672,
+     "e311b5fa99b7"
+    ],
+    "/job/Korea-Seoul/Senior-Technical-Support-Engineer_JR2030092-1": [
+     1795629672,
+     "e01827c0cf0a"
+    ],
+    "/job/Korea-Seoul/Solutions-Architect---AI-Factory_JR2020985": [
+     1795629672,
+     "e6d49b46c3b5"
+    ],
+    "/job/Korea-Seoul/Solutions-Architect---AI-Factory_JR2021207": [
+     1795629672,
+     "e6d49b46c3b5"
+    ],
+    "/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center-for-Physical-AI_JR2018374": [
+     1795629672,
+     "bbf23b6a541c"
+    ],
+    "/job/Korea-Seoul/Solutions-Architect--Post-Training_JR2010147": [
+     1795629672,
+     "ad3b6a19f79c"
+    ],
+    "/job/Mexico-Remote/Senior-Field-Application-Engineer_JR2026933": [
+     1795629672,
+     "540c2330d10f"
+    ],
+    "/job/Mexico-Remote/Senior-NPI-Engineer_JR2021608": [
+     1795629672,
+     "453eaa2d6356"
+    ],
+    "/job/Mexico-Remote/Senior-SMT-Engineer---Mexico_JR2029446": [
+     1795629672,
+     "8832bdced5ea"
+    ],
+    "/job/Mexico-Remote/Staff-Product-Engineer--Manufacturing---Board_JR2022940": [
+     1795629672,
+     "9a6e117aafe1"
+    ],
+    "/job/Mexico-Remote/Staff-Product-Engineer--Manufacturing---Networking_JR2022832-1": [
+     1795629672,
+     "075cd33f2a00"
+    ],
+    "/job/Palestine-Rawabi/Hardware-Program-Manager---HW-Fulfillment-and-R-D-Procurement_JR2022884-1": [
+     1795629672,
+     "37ef990c4c52"
+    ],
+    "/job/Palestine-Rawabi/Software-QA-Engineer--DOCA-Host_JR2029966": [
+     1795629672,
+     "a9d0fb88578d"
+    ],
+    "/job/Palestine-Rawabi/Software-QA-Engineer_JR2030239": [
+     1795629672,
+     "61ab99907605"
+    ],
+    "/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499": [
+     1795629672,
+     "8d5844322db8"
+    ],
+    "/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498": [
+     1795629672,
+     "a78c72b665aa"
+    ],
+    "/job/Singapore-Pasir-Panjang/Research-Scientist---AI_JR2020802": [
+     1795629672,
+     "126a0b34515e"
+    ],
+    "/job/Singapore-Remote/Developer-Relations-Manager---Robotics-and-Generative-AI_JR2003346": [
+     1795629672,
+     "a81b607555ff"
+    ],
+    "/job/Singapore-Remote/Senior-Account-Manager_JR2022227-1": [
+     1795629672,
+     "9f272c1aa5ee"
+    ],
+    "/job/Singapore-Remote/Senior-Developer-Relations-Manager---Cloud-Provider-AI-Factory_JR2025571": [
+     1795629672,
+     "1b266e1e9c8b"
+    ],
+    "/job/Singapore-Remote/Senior-Network-Engineer--DGX-Cloud---Backbone_JR2022040-1": [
+     1795629672,
+     "e6742faa148e"
+    ],
+    "/job/Singapore-Remote/Senior-Technical-Customer-Program-Manager--AI-Factory-and-Software-Solutions_JR2030464": [
+     1795629672,
+     "df52aad1ffef"
+    ],
+    "/job/Singapore-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030219": [
+     1795629672,
+     "124fca79757e"
+    ],
+    "/job/Singapore-Remote/Test-Engineer_JR2020205": [
+     1795629672,
+     "43dcc0f70291"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/AI-Research-Scientist_JR2015372": [
+     1795629672,
+     "0671104384a0"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/AI-Research-Scientist_JR2017533": [
+     1795629672,
+     "0671104384a0"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Data-Center-Infrastructure-Specialist_JR2017932": [
+     1795629672,
+     "907a353a4988"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Field-Operations-Specialist---NVIS-Professional-Services_JR2024613-1": [
+     1795629672,
+     "2c9276a5c718"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Healthcare-AI-Startups-Lead---APAC_JR2028892": [
+     1795629672,
+     "ac029308d0c0"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Manager--Technical-Delivery-APAC----NVIS_JR2015968": [
+     1795629672,
+     "b97e403b1ed9"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Account-Manager_JR2022647": [
+     1795629672,
+     "4ec7ac4564ff"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Account-Manager_JR2027688": [
+     1795629672,
+     "4ec7ac4564ff"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Cloud-Infrastructure-Automation-Solutions-Architect_JR2025277": [
+     1795629672,
+     "1c5768284abf"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Program-Manager--Architecture-Review-Board_JR2018711": [
+     1795629672,
+     "a621621562b5"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Project-Delivery-Manager--NVIS_JR2026777-1": [
+     1795629672,
+     "fac5385d72a7"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Research-Scientist---Autonomous-Vehicles_JR2029271": [
+     1795629672,
+     "50b5fcce954c"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Solution-Architect--AI-Compute-Engineer---NVIS_JR2019262": [
+     1795629672,
+     "8c667873e5de"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Senior-Solutions-Architect--Engagement-Management---NVIS_JR2025954": [
+     1795629672,
+     "18095ff81967"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Data-Center-Infrastructure_JR2023988": [
+     1795629672,
+     "292badf0fe1e"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--NVIDIA-Cloud-Partners_JR2023991": [
+     1795629672,
+     "98fa1ff694ed"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Speech-AI_JR2022330": [
+     1795629672,
+     "1661e699e373"
+    ],
+    "/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Vision-AI_JR2023216": [
+     1795629672,
+     "6bfa469dc9fd"
+    ],
+    "/job/Switzerland-Remote/Enterprise-Sales-Account-Manager---HCLS-DACH_JR2020552": [
+     1795629672,
+     "f6105fd8380c"
+    ],
+    "/job/Switzerland-Remote/Senior-Developer-Relations-Manager---Agentic-Healthcare-AI_JR2025056": [
+     1795629672,
+     "9a61e27cde4e"
+    ],
+    "/job/Switzerland-Remote/Senior-Performance-Engineer_JR2022529": [
+     1795629672,
+     "dae0c286ff29"
+    ],
+    "/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341": [
+     1795629672,
+     "a914d5370b22"
+    ],
+    "/job/Switzerland-Remote/Senior-Software-Engineer--Real-Time-Data-Platform_JR2030495": [
+     1795629672,
+     "cfe5e57aab24"
+    ],
+    "/job/Switzerland-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Networking_JR2030129": [
+     1795629672,
+     "a367c5b02770"
+    ],
+    "/job/Switzerland-Remote/Software-Verification-Engineer_JR2017801-1": [
+     1795629672,
+     "55e8f2e237da"
+    ],
+    "/job/Switzerland-Remote/Technical-Account-Manager---HPC-and-Cloud_JR2029579": [
+     1795629672,
+     "05f03471a677"
+    ],
+    "/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": [
+     1795629672,
+     "25f208bec8f2"
+    ],
+    "/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069": [
+     1795629672,
+     "a2f19079c491"
+    ],
+    "/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779": [
+     1795629672,
+     "87fe09f73877"
+    ],
+    "/job/Switzerland-Zurich/Inception-Partner-Manager---AI-Natives_JR2029956": [
+     1795629672,
+     "174f6d76f3d0"
+    ],
+    "/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208": [
+     1795629672,
+     "209534e79a6f"
+    ],
+    "/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1": [
+     1795629672,
+     "a886d09eaa5b"
+    ],
+    "/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294": [
+     1795629672,
+     "85f278711018"
+    ],
+    "/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890": [
+     1795629672,
+     "afacf327f545"
+    ],
+    "/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531": [
+     1795629672,
+     "70fe4d88f8a7"
+    ],
+    "/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083": [
+     1795629672,
+     "49cbd5f09624"
+    ],
+    "/job/Switzerland-Zurich/Senior-Libraries-Engineer---AI-and-HPC_JR2006812": [
+     1795629672,
+     "af929057ea6d"
+    ],
+    "/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695": [
+     1795629672,
+     "b091c6b1d43c"
+    ],
+    "/job/Switzerland-Zurich/Senior-Supercomputing-and-Higher-Education-Account-Manager_JR2024073": [
+     1795629672,
+     "590e358548ef"
+    ],
+    "/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066": [
+     1795629672,
+     "426ab9b59c9c"
+    ],
+    "/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2028466": [
+     1795629672,
+     "ee193cbaf4f5"
+    ],
+    "/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046": [
+     1795629672,
+     "6cb832dbf375"
+    ],
+    "/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050": [
+     1795629672,
+     "cddf3b9a53dd"
+    ],
+    "/job/Taiwan-Hsinchu/Chip-Level-Defect-Localization-and-Failure-Analysis-Engineer---RDSS-Intern_JR2028296": [
+     1795629672,
+     "00802697ebc4"
+    ],
+    "/job/Taiwan-Hsinchu/Data-Systems-Analyst_JR2020799": [
+     1795629672,
+     "7498550299f4"
+    ],
+    "/job/Taiwan-Hsinchu/Design-Engineer--Coherent-High-Speed-Interconnect_JR2019673": [
+     1795629672,
+     "9eb009766953"
+    ],
+    "/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681": [
+     1795629672,
+     "5e03be51351c"
+    ],
+    "/job/Taiwan-Hsinchu/Digital-Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Graduate_JR2029164": [
+     1795629672,
+     "84e463a3ac93"
+    ],
+    "/job/Taiwan-Hsinchu/Enterprise--Production-Application-Engineer_JR2027808": [
+     1795629672,
+     "982abdcdf7a1"
+    ],
+    "/job/Taiwan-Hsinchu/Foundry-Development-Engineer--RDSS-Intern-_JR2029294": [
+     1795629672,
+     "6c16d4c67c50"
+    ],
+    "/job/Taiwan-Hsinchu/IC-Test-Engineer_JR2013860": [
+     1795629672,
+     "88525b7b358b"
+    ],
+    "/job/Taiwan-Hsinchu/Manager--Product-Quality-Engineering_JR2001755-1": [
+     1795629672,
+     "13939b662213"
+    ],
+    "/job/Taiwan-Hsinchu/Manager--SMTA-Engineering_JR2018566": [
+     1795629672,
+     "2ab5eba03d03"
+    ],
+    "/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030200": [
+     1795629672,
+     "a24933d111e7"
+    ],
+    "/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030298": [
+     1795629672,
+     "3ce8aacdc798"
+    ],
+    "/job/Taiwan-Hsinchu/Mixed-Signal-Design-Engineer--RDSS-intern-_JR2030202": [
+     1795629672,
+     "ac744c7b156e"
+    ],
+    "/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027": [
+     1795629672,
+     "aee295c67a58"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Development-Engineer_JR2017138": [
+     1795629672,
+     "8842821d1efa"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Development-Engineer_JR2020071": [
+     1795629672,
+     "8842821d1efa"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272": [
+     1795629672,
+     "b0c454466f16"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer---Board_JR2024426": [
+     1795629672,
+     "90b762f1634f"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer---PCBA_JR2024430": [
+     1795629672,
+     "99d35a05af29"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer---Server_JR2022862": [
+     1795629672,
+     "7e87ecd8c2a1"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer--Server_JR2022210": [
+     1795629672,
+     "7e87ecd8c2a1"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Engineer--Server_JR2024402": [
+     1795629672,
+     "7e87ecd8c2a1"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Test-Engineer--RDSS-Intern-_JR2028595": [
+     1795629672,
+     "8b44de8cb009"
+    ],
+    "/job/Taiwan-Hsinchu/Product-Test-Hardware-Engineer_JR2020594": [
+     1795629672,
+     "9bfd4a24a1e6"
+    ],
+    "/job/Taiwan-Hsinchu/Production-Application-Engineer--Enterprise_JR2027884": [
+     1795629672,
+     "982abdcdf7a1"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2030279": [
+     1795629672,
+     "8094a241e7df"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Assembly-Process-Engineer_JR2028277-1": [
+     1795629672,
+     "6a980544a0a1"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Co-Packaged-Optics-Process-Engineer_JR2013095": [
+     1795629672,
+     "ead14f792ca5"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Co-packaged-Optics-Product-Engineer_JR2029576-1": [
+     1795629672,
+     "585d8616d664"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Director--APAC-Test-Operations_JR2013640": [
+     1795629672,
+     "cba88dd190a6"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Manufacturing-Development-Engineer---Automation_JR2019433": [
+     1795629672,
+     "111b77132731"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mask-Design-Engineer---Hardware_JR2023287-1": [
+     1795629672,
+     "152088c5317f"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mask-Design-Engineer---Hardware_JR2028958": [
+     1795629672,
+     "b606b72a2612"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mask-Layout-Design-Engineer_JR2028295": [
+     1795629672,
+     "b606b72a2612"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mask-Layout-Design-Engineer_JR2030301": [
+     1795629672,
+     "b606b72a2612"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Circuit-Design-Engineer_JR2020286": [
+     1795629672,
+     "9d7623003475"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Circuit-Design-Engineer_JR2026859": [
+     1795629672,
+     "9d7623003475"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2020083": [
+     1795629672,
+     "67e2b899b800"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2021877-1": [
+     1795629672,
+     "67e2b899b800"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Verification-Engineer_JR2014002": [
+     1795629672,
+     "c872512d0f8c"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Mixed-Signal-and-Analog-Circuit-Designer_JR2021650-1": [
+     1795629672,
+     "11ed3004fb08"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-NPI-Technical-Program-Manager---Operations_JR2014327": [
+     1795629672,
+     "6cb31ccd6ab4"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Optic-Manufacturing-Engineer_JR2012241": [
+     1795629672,
+     "8ea729d3c169"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Optic-Manufacturing-Engineer_JR2022694": [
+     1795629672,
+     "8ea729d3c169"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Optical-Product-Test-Development-Engineer_JR2018708": [
+     1795629672,
+     "304bbc27c5ef"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-PCB-Fab-Supplier-and-Quality-Engineer_JR2025385": [
+     1795629672,
+     "83487d4e422c"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Package-Engineer_JR2016717-1": [
+     1795629672,
+     "e9fca171154a"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Package-Layout-Engineer_JR2030197": [
+     1795629672,
+     "794ff8d90bc4"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Packaging-Technical-Engineer---Hardware_JR2023111": [
+     1795629672,
+     "f7c7fc9f5a40"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Product-Development-Engineer-for-Mechanical-Assembly_JR2015313": [
+     1795629672,
+     "a774f7628e27"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Product-Engineer---Board_JR2024428": [
+     1795629672,
+     "0b57f64cc394"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-SMTA-Engineer_JR2025387": [
+     1795629672,
+     "682de7f8069c"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Supplier-Quality-Engineer_JR2018674": [
+     1795629672,
+     "27fde3bc7cd6"
+    ],
+    "/job/Taiwan-Hsinchu/Senior-Test-Methodology-Engineer_JR2021871": [
+     1795629672,
+     "b1153ea3e74d"
+    ],
+    "/job/Taiwan-Hsinchu/Server-Factory-Planner_JR2016162": [
+     1795629672,
+     "4b1049714446"
+    ],
+    "/job/Taiwan-Hsinchu/System-Level-Product-Development-Engineer_JR2015770": [
+     1795629672,
+     "155f7042bb87"
+    ],
+    "/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119": [
+     1795629672,
+     "14b5bcc8ced7"
+    ],
+    "/job/Taiwan-Hsinchu/System-Level-Test-Engineer--RDSS-Intern-_JR2025554": [
+     1795629672,
+     "c6ed9438693b"
+    ],
+    "/job/Taiwan-Hsinchu/System-Test-Engineer_JR2023440": [
+     1795629672,
+     "c5099e80fa05"
+    ],
+    "/job/Taiwan-Hsinchu/Test-Methodology-Engineer--RDSS-Intern-_JR2028375-1": [
+     1795629672,
+     "2beb5cff6dcd"
+    ],
+    "/job/Taiwan-Hsinchu/Test-Methodology-Engineer--RDSS-Intern-_JR2028464-1": [
+     1795629672,
+     "2beb5cff6dcd"
+    ],
+    "/job/Taiwan-Hsinchu/Test-Methodology-Engineer--RDSS-Intern-_JR2028880": [
+     1795629672,
+     "2beb5cff6dcd"
+    ],
+    "/job/Taiwan-Hsinchu/VLSI-Physical-Design-CAD-Intern---Summer-2027_JR2025048": [
+     1795629672,
+     "86540eb7d1c6"
+    ],
+    "/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971": [
+     1795629672,
+     "ee13cae1cafe"
+    ],
+    "/job/Taiwan-Taipei/AI-Computing-Software-Developer---New-College-Graduate-2027_JR2029372": [
+     1795629672,
+     "8af69a1e4784"
+    ],
+    "/job/Taiwan-Taipei/AI-Computing-Software-Development-Engineer--TensorRT-LLM_JR2022327": [
+     1795629672,
+     "8c2479ff4571"
+    ],
+    "/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298": [
+     1795629672,
+     "e336d3871b3a"
+    ],
+    "/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": [
+     1795629672,
+     "49db559ba35e"
+    ],
+    "/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646": [
+     1795629672,
+     "8ebf7dec13e8"
+    ],
+    "/job/Taiwan-Taipei/Board-Design-Engineer--LDE---New-College-Graduate_JR2016978-1": [
+     1795629672,
+     "6e4815139c5a"
+    ],
+    "/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180": [
+     1795629672,
+     "d5e69ec07222"
+    ],
+    "/job/Taiwan-Taipei/Developer-Relations-Manager---Agentic-AI_JR2027449": [
+     1795629672,
+     "1272df5434b4"
+    ],
+    "/job/Taiwan-Taipei/Developer-Relations-Manager---Manufacturing_JR2027461": [
+     1795629672,
+     "62cfc888ac20"
+    ],
+    "/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055": [
+     1795629672,
+     "789582096084"
+    ],
+    "/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884": [
+     1795629672,
+     "7579b9e4d542"
+    ],
+    "/job/Taiwan-Taipei/Firmware-Engineer---GPU_JR2027892": [
+     1795629672,
+     "c2e1d3cc5c58"
+    ],
+    "/job/Taiwan-Taipei/Fulfillment-and-Logistics-Program-Manager_JR2021093": [
+     1795629672,
+     "9dd7f836d89a"
+    ],
+    "/job/Taiwan-Taipei/GPU-Firmware-Intern---2027_JR2029959": [
+     1795629672,
+     "d0e3f4d7fbd7"
+    ],
+    "/job/Taiwan-Taipei/HR-Specialist---New-College-Grad_JR2028765-1": [
+     1795629672,
+     "00954026fd47"
+    ],
+    "/job/Taiwan-Taipei/Human-Resources-Generalist_JR2019586": [
+     1795629672,
+     "a92042da7ff3"
+    ],
+    "/job/Taiwan-Taipei/Internal-Auditor---Operations_JR2022650": [
+     1795629672,
+     "d167f92245bb"
+    ],
+    "/job/Taiwan-Taipei/Manager--Client-Platform-Firmware_JR2029034": [
+     1795629672,
+     "7e11e2c8c6a8"
+    ],
+    "/job/Taiwan-Taipei/Manager--Data-Center-MODS_JR2025526": [
+     1795629672,
+     "54483e2be61e"
+    ],
+    "/job/Taiwan-Taipei/Manager--Technical-Software-Program-Management_JR2028669": [
+     1795629672,
+     "66efa1c7c82f"
+    ],
+    "/job/Taiwan-Taipei/Memory-Silicon-Validation-Engineer--RDSS-Intern-_JR2029362": [
+     1795629672,
+     "70a4ad2c5ae6"
+    ],
+    "/job/Taiwan-Taipei/Memory-Silicon-Validation-Engineer_JR2026040": [
+     1795629672,
+     "cec24bee70d7"
+    ],
+    "/job/Taiwan-Taipei/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030201": [
+     1795629672,
+     "a24933d111e7"
+    ],
+    "/job/Taiwan-Taipei/Mixed-Signal-Circuit-Designer--RDSS-Intern-_JR2030537": [
+     1795629672,
+     "da627c83bbd1"
+    ],
+    "/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": [
+     1795629672,
+     "85b19e8222d6"
+    ],
+    "/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612": [
+     1795629672,
+     "1f8e431f6b2e"
+    ],
+    "/job/Taiwan-Taipei/Pre-Production-Engineer_JR2025707": [
+     1795629672,
+     "f14a9d0d7bff"
+    ],
+    "/job/Taiwan-Taipei/Product-Program-Manager_JR2021547": [
+     1795629672,
+     "f2e6a08088ff"
+    ],
+    "/job/Taiwan-Taipei/Research-Scientist--Deep-Learning-and-Computer-Vision---New-College-Graduate_JR2018685": [
+     1795629672,
+     "4a4df0cf2870"
+    ],
+    "/job/Taiwan-Taipei/Senior-Board-Design-Hardware-Engineer_JR2027819": [
+     1795629672,
+     "1e10631dc3c2"
+    ],
+    "/job/Taiwan-Taipei/Senior-Board-Test-Engineer_JR2017923": [
+     1795629672,
+     "2bcd2fcbcf04"
+    ],
+    "/job/Taiwan-Taipei/Senior-DFX-Engineer--Volume-Diagnosis---VLSI_JR2023861": [
+     1795629672,
+     "0a4f0d0bf932"
+    ],
+    "/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer---Camera-and-Display_JR2022308": [
+     1795629672,
+     "f33fd6143d12"
+    ],
+    "/job/Taiwan-Taipei/Senior-Firmware-Application-Engineer---System-Software_JR2029386": [
+     1795629672,
+     "58f021a4f704"
+    ],
+    "/job/Taiwan-Taipei/Senior-Firmware-Application-Engineer_JR2029707": [
+     1795629672,
+     "87633f75d9bb"
+    ],
+    "/job/Taiwan-Taipei/Senior-Firmware-System-Engineer_JR2028598": [
+     1795629672,
+     "7d52a79cd867"
+    ],
+    "/job/Taiwan-Taipei/Senior-HR-Operation-Manager---APAC_JR2024946": [
+     1795629672,
+     "fd1c784be381"
+    ],
+    "/job/Taiwan-Taipei/Senior-MGX-Ecosystem-Engineer_JR2029700": [
+     1795629672,
+     "9b0796050030"
+    ],
+    "/job/Taiwan-Taipei/Senior-Manager--Real-Estate-Development_JR2017839": [
+     1795629672,
+     "ded58b3c86a0"
+    ],
+    "/job/Taiwan-Taipei/Senior-Mechanical-Engineer_JR2025831": [
+     1795629672,
+     "9bf5e255f835"
+    ],
+    "/job/Taiwan-Taipei/Senior-Mixed-Signal-Design-Engineer_JR2015016": [
+     1795629672,
+     "67e2b899b800"
+    ],
+    "/job/Taiwan-Taipei/Senior-Site-Reliability-Engineer---Infrastructure_JR2027831": [
+     1795629672,
+     "e7b0b9d1e629"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Application-Engineer_JR2029739": [
+     1795629672,
+     "1b7f831a9af6"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Software-Engineer---CPU-Platform-Debugging_JR2027488": [
+     1795629672,
+     "1b42595f6816"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Software-Engineer---GPU_JR2029975": [
+     1795629672,
+     "57a3bfba34ed"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Software-Engineer---Integration-and-Analytics_JR2028379": [
+     1795629672,
+     "bbda70c9ba47"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Software-Engineer--SOC_JR2025811": [
+     1795629672,
+     "7e57585c51de"
+    ],
+    "/job/Taiwan-Taipei/Senior-System-Software-Engineer--Software-Defined-Networking_JR2023002": [
+     1795629672,
+     "93b4440b2be8"
+    ],
+    "/job/Taiwan-Taipei/Senior-Technical-Customer-Program-Manager---Enterprise_JR2029926": [
+     1795629672,
+     "268f5c66f49b"
+    ],
+    "/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558": [
+     1795629672,
+     "b5589a45973a"
+    ],
+    "/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570": [
+     1795629672,
+     "b5589a45973a"
+    ],
+    "/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": [
+     1795629672,
+     "38b6020e90a1"
+    ],
+    "/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767": [
+     1795629672,
+     "61091461aa4e"
+    ],
+    "/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181": [
+     1795629672,
+     "422745b5672a"
+    ],
+    "/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1": [
+     1795629672,
+     "e8de5d5819f6"
+    ],
+    "/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645": [
+     1795629672,
+     "eae8cd023c06"
+    ],
+    "/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": [
+     1795629672,
+     "978b1095de70"
+    ],
+    "/job/Taiwan-Taipei/Solutions-Architect_JR2023086": [
+     1795629672,
+     "73e468782d60"
+    ],
+    "/job/Taiwan-Taipei/Substrates-Supply-Chain-Commodity-Manager_JR2022488": [
+     1795629672,
+     "a7b2b9fff201"
+    ],
+    "/job/Taiwan-Taipei/System-Application-Engineer---Hardware_JR2025734": [
+     1795629672,
+     "7266b739bcd1"
+    ],
+    "/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314": [
+     1795629672,
+     "de9cd0ce737a"
+    ],
+    "/job/Taiwan-Taipei/System-Application-Engineer_JR2029384-1": [
+     1795629672,
+     "6a2e012c7e11"
+    ],
+    "/job/Taiwan-Taipei/System-Design-Engineer_JR2014482-1": [
+     1795629672,
+     "04394f7a5684"
+    ],
+    "/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952": [
+     1795629672,
+     "fb3be86e314d"
+    ],
+    "/job/Taiwan-Taipei/System-Design-Power-Validation-Engineer_JR2016309": [
+     1795629672,
+     "448bfc5c4bc6"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948": [
+     1795629672,
+     "e5e7bed17b4f"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967": [
+     1795629672,
+     "2b26ef9f217c"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965": [
+     1795629672,
+     "a1630d3282dd"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628": [
+     1795629672,
+     "9242c62aa353"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1": [
+     1795629672,
+     "f0523e186638"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500": [
+     1795629672,
+     "1115043dd657"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406": [
+     1795629672,
+     "5c0323fcb25a"
+    ],
+    "/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153": [
+     1795629672,
+     "4609aa867168"
+    ],
+    "/job/Taiwan-Taipei/Systems-Software-Manager--CPU_JR2028899": [
+     1795629672,
+     "6da3c69e077c"
+    ],
+    "/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595": [
+     1795629672,
+     "2c585098138d"
+    ],
+    "/job/Taiwan-Taipei/Test-Development-Engineer---DataCenter-System-Software_JR2016293": [
+     1795629672,
+     "76a63e031dd8"
+    ],
+    "/job/Taiwan-Taipei/Workplace-Designer--APAC-and-India_JR2022998": [
+     1795629672,
+     "f57af4f10d7b"
+    ],
+    "/job/Thailand-Remote/Manager--Optics-Manufacturing-Engineering_JR2016416": [
+     1795629672,
+     "3a4eeb14064e"
+    ],
+    "/job/Thailand-Remote/Senior-Developer-Relations-Manager---Gen-AI_JR2025712": [
+     1795629672,
+     "811d7e0cca91"
+    ],
+    "/job/Thailand-Remote/Senior-Manufacturing-Engineer_JR2014741": [
+     1795629672,
+     "68d47102831d"
+    ],
+    "/job/Thailand-Remote/Senior-Product-Engineer_JR2027022": [
+     1795629672,
+     "772b0d5a671c"
+    ],
+    "/job/UAE-Dubai/Solutions-Architect---AI-Factory--North-Africa_JR2026423": [
+     1795629672,
+     "e5c64d8f4322"
+    ],
+    "/job/UAE-Dubai/Solutions-Architect---AI-Factory--South-Africa_JR2026419": [
+     1795629672,
+     "ed8b4f49a93c"
+    ],
+    "/job/UK-Belfast/Senior-C---Engineer_JR2025570": [
+     1795629672,
+     "d588b45b9a1f"
+    ],
+    "/job/UK-Bristol/Senior-System-Software-Engineer--Tegra-Security-Software_JR2025852": [
+     1795629672,
+     "8b92b323a8f0"
+    ],
+    "/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384": [
+     1795629672,
+     "6370fe1d1b14"
+    ],
+    "/job/UK-Cambridge/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2013261": [
+     1795629672,
+     "0e4a44ab9c87"
+    ],
+    "/job/UK-Reading/Regional-Sales-Manager--Consumer---Northern-Europe_JR2025304": [
+     1795629672,
+     "27b5d5326d5d"
+    ],
+    "/job/UK-Reading/Senior-Cloud-Infrastructure-and-Network-Operations-Solutions-Architect_JR2022438-1": [
+     1795629672,
+     "54bdcfecf957"
+    ],
+    "/job/UK-Reading/Senior-Cloud-Partner-Marketing-Manager---EMEA_JR2028113": [
+     1795629672,
+     "d301544b0cca"
+    ],
+    "/job/UK-Remote/AI-Natives-Sales-Account-Manager---UK_JR2024148": [
+     1795629672,
+     "3de2462d2fb3"
+    ],
+    "/job/UK-Remote/Agentic-AI-Platform-Senior-Account-Manager-UK-I_JR2024082": [
+     1795629672,
+     "cd2297bdc778"
+    ],
+    "/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372": [
+     1795629672,
+     "6f28a9a951b6"
+    ],
+    "/job/UK-Remote/Developer-Relations-Manager---Artificial-Intelligence_JR2007878": [
+     1795629672,
+     "a9ea5641ac63"
+    ],
+    "/job/UK-Remote/Developer-Relations-Manager--Computer-Aided-Engineering_JR2021816": [
+     1795629672,
+     "d02427102fd1"
+    ],
+    "/job/UK-Remote/Developer-Relations-Manager--Physical-AI-Healthcare---EMEA_JR2021575": [
+     1795629672,
+     "0b9a26fd67de"
+    ],
+    "/job/UK-Remote/Global-Field-Technologist---Enterprise-AI-Factory_JR2028973-1": [
+     1795629672,
+     "ead7e1180173"
+    ],
+    "/job/UK-Remote/ISV-GTM-Sales-Strategist--DACH_JR2024511": [
+     1795629672,
+     "6a16f62f3708"
+    ],
+    "/job/UK-Remote/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2030004": [
+     1795629672,
+     "b23f9006ffd9"
+    ],
+    "/job/UK-Remote/Principal-Engineer--Software-Defined-Networking_JR2028864": [
+     1795629672,
+     "3892b38968f8"
+    ],
+    "/job/UK-Remote/Project-Technical-Delivery-Manager_JR2024283": [
+     1795629672,
+     "40db7fc2b7c6"
+    ],
+    "/job/UK-Remote/Senior-Account-Manager---AI-Natives--Startups-and-Scaleups_JR2008690-1": [
+     1795629672,
+     "74a08484af01"
+    ],
+    "/job/UK-Remote/Senior-Developer-Relations-Manager---ISV_JR2007929-1": [
+     1795629672,
+     "2227f88b3ef3"
+    ],
+    "/job/UK-Remote/Senior-Developer-Relations-Manager--EMEA-AI-Natives-UK-I_JR2024945": [
+     1795629672,
+     "40ceeb9e42fe"
+    ],
+    "/job/UK-Remote/Senior-Developer-Relations-Manager--Energy_JR2024527": [
+     1795629672,
+     "b8adcc67bf4f"
+    ],
+    "/job/UK-Remote/Senior-Quantum-Algorithm-Researcher_JR2012666-1": [
+     1795629672,
+     "5560450a8739"
+    ],
+    "/job/UK-Remote/Senior-Sales-Account-Manager---FSI_JR2024074": [
+     1795629672,
+     "1293a65e50c9"
+    ],
+    "/job/UK-Remote/Senior-Software-Engineer--Networking_JR2027526": [
+     1795629672,
+     "2ecdfe36e394"
+    ],
+    "/job/UK-Remote/Senior-Software-and-System-Architect_JR2028319": [
+     1795629672,
+     "15b6048797d9"
+    ],
+    "/job/UK-Remote/Senior-Solutions-Architect--Higher-Education-and-Research---Open-Models-and-LLM_JR2024411": [
+     1795629672,
+     "de8e98bc59ad"
+    ],
+    "/job/UK-Remote/Senior-Technical-Customer-Program-Manager---AI-Datacenter_JR2029895": [
+     1795629672,
+     "bf569ef8d180"
+    ],
+    "/job/UK-Remote/Solution-Architect--Public-Sector_JR2017881": [
+     1795629672,
+     "b0014add906d"
+    ],
+    "/job/UK-Remote/Startups-Partner-Manager_JR2023583": [
+     1795629672,
+     "8e5014259d43"
+    ],
+    "/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877": [
+     1795629672,
+     "d0fbab69590e"
+    ],
+    "/job/US-CA-Santa-Clara/Distinguished-Engineer---Data-Center-System-Software-Architect_JR1973423": [
+     1795629672,
+     "e7f9fed852fd"
+    ],
+    "/job/US-CA-Santa-Clara/Manager--Digital-Design---Mixed-Signal-High-Speed-I-O-SerDes_JR1992092": [
+     1795629672,
+     "73623ad5c3af"
+    ],
+    "/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer_JR1966431": [
+     1795629672,
+     "4f619c4a3af6"
+    ],
+    "/job/US-CA-Santa-Clara/Principal-Thermal-Mechanical-Photonic-Designer_JR1989155": [
+     1795629672,
+     "0beb6dd2f7c5"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR1983620": [
+     1795629672,
+     "670d877cb4eb"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR1966157": [
+     1795629672,
+     "ff9106fb0260"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Dense-Linear-Algebra_JR1993990": [
+     1795629672,
+     "1b788652751e"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR1966156": [
+     1795629672,
+     "4f619c4a3af6"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR1987476": [
+     1795629672,
+     "4f619c4a3af6"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Research-Engineer--Foundation-Model-Training-Infrastructure_JR1992361": [
+     1795629672,
+     "094f33ff531e"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Research-Engineer--Simulation_JR1992366": [
+     1795629672,
+     "90ccdb20326c"
+    ],
+    "/job/US-CA-Santa-Clara/Senior-Software-Architect---Data-Center-Systems_JR1973150": [
+     1795629672,
+     "71a10a228bbe"
+    ],
+    "/job/US-CA-Santa-Clara/Software-Engineering-Manager---GPU-Communications-Libraries_JR1980109": [
+     1795629672,
+     "e1a9d7b8b3ef"
+    ],
+    "/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684": [
+     1795629672,
+     "3e6488003bf7"
+    ],
+    "/job/Ukraine-Kyiv/Senior-C-C---Software-Engineer_JR2008009": [
+     1795629672,
+     "e92888d1f164"
+    ],
+    "/job/Ukraine-Kyiv/Senior-C-C---Software-Engineer_JR2028804": [
+     1795629672,
+     "e92888d1f164"
+    ],
+    "/job/Ukraine-Kyiv/Senior-QA-Automation-Engineer--ASIC-Simulation_JR2024523-1": [
+     1795629672,
+     "47370169e0af"
+    ],
+    "/job/Ukraine-Kyiv/Senior-QA-Automation-Engineer--Network-Simulation-Platform_JR2018738": [
+     1795629672,
+     "f7642a895dd7"
+    ],
+    "/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": [
+     1795629672,
+     "69901748c4dd"
+    ],
+    "/job/Vietnam-Hanoi/Director--Engineering---Software-Engineering-and-AI-Inferencing-Platforms_JR2007530": [
+     1795629672,
+     "7cc98b449a9a"
+    ],
+    "/job/Vietnam-Hanoi/Manager--Board-Product-Engineering---Ops_JR2015842": [
+     1795629672,
+     "ab6d979cd06d"
+    ],
+    "/job/Vietnam-Hanoi/Mechanical-On-Site-Engineer--Foxconn-Vietnam_JR2019113": [
+     1795629672,
+     "a1fd2acdc9e0"
+    ],
+    "/job/Vietnam-Hanoi/Mechanical-and-Thermal-Supply-Base-Engineer_JR2021220": [
+     1795629672,
+     "c9bcf69a2a17"
+    ],
+    "/job/Vietnam-Hanoi/Memory-Solution-Engineer_JR2015806": [
+     1795629672,
+     "02b362bdc5cb"
+    ],
+    "/job/Vietnam-Hanoi/Operation-Program-Manager_JR2024925": [
+     1795629672,
+     "e736a8200c30"
+    ],
+    "/job/Vietnam-Hanoi/Senior-Product-Engineer_JR2018993": [
+     1795629672,
+     "9f683a9c6178"
+    ],
+    "/job/Vietnam-Hanoi/Senior-Product-Engineer_JR2024493-1": [
+     1795629672,
+     "9f683a9c6178"
+    ],
+    "/job/Vietnam-Ho-Chi-Minh-City/SWQA-Test-Developer-Engineer--SDET_JR2029943": [
+     1795629672,
+     "d926187005c4"
+    ],
+    "/job/Vietnam-Ho-Chi-Minh-City/Senior-Deep-Learning-Algorithm-Engineer_JR2001271": [
+     1795629672,
+     "ba2ef90bed5b"
+    ],
+    "/job/Vietnam-Ho-Chi-Minh-City/Senior-System-Software-Engineer_JR2028594-1": [
+     1795629672,
+     "df55ec97730e"
+    ],
+    "/job/Vietnam-Remote/Factory-Planner_JR2021699": [
+     1795629672,
+     "0e6630493a56"
+    ],
+    "/job/Vietnam-Remote/Factory-Planner_JR2024245": [
+     1795629672,
+     "0e6630493a56"
+    ],
+    "/job/Vietnam-Remote/Local-Product-Engineer_JR2007918-1": [
+     1795629672,
+     "ad7a6fa17a90"
+    ],
+    "/job/Vietnam-Remote/Local-Product-Engineer_JR2021110": [
+     1795629672,
+     "ad7a6fa17a90"
+    ],
+    "/job/Vietnam-Remote/Manufacturing-Test-Engineer--Tesla_JR2017811": [
+     1795629672,
+     "894494c65f15"
+    ],
+    "/job/Vietnam-Remote/Mechanical-Product-Engineer_JR2018369-1": [
+     1795629672,
+     "8d0b4e4461e9"
+    ],
+    "/job/Vietnam-Remote/SXM-Manufacturing-Test-Engineer_JR2017817": [
+     1795629672,
+     "047097de457f"
+    ],
+    "/job/Vietnam-Remote/Senior-Manufacturing-Product-Engineer_JR2020980": [
+     1795629672,
+     "d34735dee472"
+    ],
+    "/job/Vietnam-Remote/Senior-NPI-Infrastructure-Engineer_JR2026438": [
+     1795629672,
+     "1322b67188fc"
+    ],
+    "/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2010583": [
+     1795629672,
+     "b3bca4c83200"
+    ],
+    "/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2014212": [
+     1795629672,
+     "b3bca4c83200"
+    ],
+    "/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2015843": [
+     1795629672,
+     "d134e694cf15"
+    ],
+    "/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2019977": [
+     1795629672,
+     "b3bca4c83200"
+    ],
+    "/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2024021": [
+     1795629672,
+     "b3bca4c83200"
+    ],
+    "/job/Vietnam-Remote/Senior-SMTA-Engineer_JR2023301": [
+     1795629672,
+     "a86ed1282d81"
+    ],
+    "/job/Vietnam-Remote/Senior-Test-Engineer_JR1992192-1": [
+     1795629672,
+     "607ce66c149f"
     ]
    },
    "name": "NVIDIA",
@@ -64483,11 +69259,6 @@
      1793486441,
      "e6649e0bed21",
      1793655050
-    ],
-    "6270243004": [
-     1795539661,
-     "eea99cd221ad",
-     1795545041
     ]
    },
    "jobs": {
@@ -64510,6 +69281,10 @@
     "6264096004": [
      1795192245,
      "fd78fbe3e782"
+    ],
+    "6270243004": [
+     1795539661,
+     "eea99cd221ad"
     ]
    },
    "name": "OnBoard",
@@ -65144,6 +69919,10 @@
     "38203590-b2b7-4db6-9068-f1b868a5503f": [
      1793943057,
      "5ece73d718c6"
+    ],
+    "3e853fe4-d3ab-499f-bc7a-4f87ad8e6860": [
+     1795629672,
+     "545db0b9953a"
     ],
     "486d564b-c111-4d63-afb8-d83d97c6e852": [
      1793486441,
@@ -71096,6 +75875,10 @@
      1793921441,
      "2ae2291b7188"
     ],
+    "604517": [
+     1795629672,
+     "8eea7602fef4"
+    ],
     "606109": [
      1793485167,
      "029293abef07"
@@ -74385,6 +79168,10 @@
      1795150847,
      "7a5cc6d66981"
     ],
+    "/job/Raleigh/Senior-Principal-Engineer_R-060671": [
+     1795629672,
+     "02760e1c133c"
+    ],
     "/job/Raleigh/Senior-Software-Engineer-in-Crypto--Smart-Cards-_R-056859": [
      1795539661,
      "67b137b30321"
@@ -77439,6 +82226,22 @@
     "6271308004": [
      1795627850,
      "177e1bf0dcff"
+    ],
+    "6271328004": [
+     1795629672,
+     "e03c030b53d8"
+    ],
+    "6271338004": [
+     1795629672,
+     "e5cf51d52e18"
+    ],
+    "6271345004": [
+     1795629672,
+     "65373b23dd52"
+    ],
+    "6271352004": [
+     1795629672,
+     "da5347bfdc15"
     ]
    },
    "name": "SambaNova",
@@ -77971,6 +82774,11 @@
      "5104d4e7b8d9",
      1793993443
     ],
+    "8223369": [
+     1793485167,
+     "869554d24d7c",
+     1795629672
+    ],
     "8223613": [
      1793485167,
      "1505204ee69f",
@@ -78150,6 +82958,11 @@
      1793485167,
      "3c5499be76cd",
      1795195854
+    ],
+    "8287417": [
+     1793485167,
+     "655a385e3366",
+     1795629672
     ],
     "8288505": [
      1793485167,
@@ -78781,10 +83594,6 @@
      1793485167,
      "245be55dc720"
     ],
-    "8223369": [
-     1793485167,
-     "869554d24d7c"
-    ],
     "8223641": [
      1794679243,
      "a22cb23f1c4e"
@@ -78896,10 +83705,6 @@
     "8282635": [
      1793485167,
      "b29577e57cf9"
-    ],
-    "8287417": [
-     1793485167,
-     "655a385e3366"
     ],
     "8287656": [
      1793485167,
@@ -79576,6 +84381,10 @@
     "8417333": [
      1795624241,
      "d13627d43a33"
+    ],
+    "8417647": [
+     1795629672,
+     "a980f49d4451"
     ]
    },
    "name": "Samsara",
@@ -90668,6 +95477,10 @@
      1793485167,
      "8c86514be932"
     ],
+    "b2e2f596-9075-409d-b7fe-27c5f3013720": [
+     1795629672,
+     "95bd4adb397c"
+    ],
     "b31da4db-b3a4-4c95-96f3-f82523f9073a": [
      1793674844,
      "63c401c65224"
@@ -93223,6 +98036,11 @@
      "f16449188e2c",
      1794240063
     ],
+    "8155381": [
+     1793485167,
+     "6bfdf308742a",
+     1795629672
+    ],
     "8155390": [
      1793485167,
      "09dce4dbc23d",
@@ -94923,10 +99741,6 @@
     "8155002": [
      1793712642,
      "83734fb7de7b"
-    ],
-    "8155381": [
-     1793485167,
-     "6bfdf308742a"
     ],
     "8155386": [
      1793485167,
@@ -104394,10 +109208,20 @@
      "3f26e62fdc9b",
      1795510849
     ],
+    "5294995007": [
+     1795030247,
+     "28797a044255",
+     1795629672
+    ],
     "5298055007": [
      1794999653,
      "49a592a8ed8e",
      1795082500
+    ],
+    "5298607007": [
+     1795028489,
+     "c2bed3f1184e",
+     1795629672
     ]
    },
    "jobs": {
@@ -105833,10 +110657,6 @@
      1794850249,
      "ee16f7bdc940"
     ],
-    "5294995007": [
-     1795030247,
-     "28797a044255"
-    ],
     "5295948007": [
      1795003247,
      "a438edda0288"
@@ -105912,10 +110732,6 @@
     "5298605007": [
      1795010459,
      "e84761f9eff8"
-    ],
-    "5298607007": [
-     1795028489,
-     "c2bed3f1184e"
     ],
     "5298663007": [
      1795104059,
