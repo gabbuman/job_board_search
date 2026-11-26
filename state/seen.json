@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 396,
+   "fails": 397,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11425,6 +11425,11 @@
      "8a76e5277a64",
      1794232870
     ],
+    "/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1": [
+     1795469446,
+     "595e619b3535",
+     1795707982
+    ],
     "/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989": [
      1793485167,
      "a642f876d56c",
@@ -11477,6 +11482,10 @@
     "/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186": [
      1795705251,
      "5f4be03dbfde"
+    ],
+    "/job/Ottawa/Business-Intelligence---Data-Informatics---Associate-New-Grad_R032191": [
+     1795707982,
+     "e7277fb3a0a3"
     ],
     "/job/Ottawa/Digital-Senior-Design-Engineer_R030693": [
      1793485167,
@@ -11765,10 +11774,6 @@
     "/job/Remote-Canada/Director--Services-Innovation---Special-Projects_R031998": [
      1793824243,
      "8351312ab8b5"
-    ],
-    "/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1": [
-     1795469446,
-     "595e619b3535"
     ],
     "/job/Remote-Canada/Lead-Analog-Layout-Engineer_R032065": [
      1794326474,
@@ -20326,6 +20331,11 @@
      1793485167,
      "a7b4bc89cca8",
      1795458643
+    ],
+    "4471411009": [
+     1793889046,
+     "442f460dd234",
+     1795707982
     ]
    },
    "jobs": {
@@ -20376,10 +20386,6 @@
     "4468038009": [
      1793485167,
      "0db8430d8854"
-    ],
-    "4471411009": [
-     1793889046,
-     "442f460dd234"
     ],
     "4471554009": [
      1793485167,
@@ -42004,6 +42010,14 @@
      1794522650,
      "c09a8aced177"
     ],
+    "24065": [
+     1795707982,
+     "c09a8aced177"
+    ],
+    "24066": [
+     1795707982,
+     "c09a8aced177"
+    ],
     "24070": [
      1795033840,
      "c09a8aced177"
@@ -52565,11 +52579,6 @@
      "60a4c890be92",
      1795642247
     ],
-    "4513645009": [
-     1795037452,
-     "852259e3688a",
-     1795642247
-    ],
     "4513694009": [
      1795037452,
      "b31ab1c928f9",
@@ -52782,6 +52791,10 @@
     "4512256009": [
      1795015862,
      "9794ee3ffc19"
+    ],
+    "4513645009": [
+     1795037452,
+     "852259e3688a"
     ],
     "4517284009": [
      1795201246,
