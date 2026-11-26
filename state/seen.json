@@ -532,7 +532,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 406,
+   "fails": 407,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11510,6 +11510,14 @@
      1795717843,
      "9188a6adbb6a"
     ],
+    "/job/Ottawa/Analog-Layout-Engineer_R032196": [
+     1795725039,
+     "9188a6adbb6a"
+    ],
+    "/job/Ottawa/Analog-Layout-Engineer_R032197": [
+     1795725039,
+     "9188a6adbb6a"
+    ],
     "/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915": [
      1793485167,
      "f2233b83f946"
@@ -11517,6 +11525,10 @@
     "/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186": [
      1795705251,
      "5f4be03dbfde"
+    ],
+    "/job/Ottawa/Design-Methodology-Prime---Layout_R032200": [
+     1795725039,
+     "5d7efb31673e"
     ],
     "/job/Ottawa/Digital-Senior-Design-Engineer_R030693": [
      1793485167,
@@ -11690,6 +11702,10 @@
      1795717843,
      "61dcf811c6aa"
     ],
+    "/job/Ottawa/Senior-Analog-Layout-Engineer_R032199": [
+     1795725039,
+     "61dcf811c6aa"
+    ],
     "/job/Ottawa/Senior-Analog-RF-Design-Engineer_R030914": [
      1793485167,
      "268c125842d9"
@@ -11737,6 +11753,10 @@
     "/job/Ottawa/Senior-Physical-Design-Engineer_R031691": [
      1793485167,
      "fc62e53a40ca"
+    ],
+    "/job/Ottawa/Senior-Principal-Analog-Layout-Engineer_R032198": [
+     1795725039,
+     "1f33eb6a3ca8"
     ],
     "/job/Ottawa/Senior-Workday-Analyst--On-site-role_R031797": [
      1793485167,
@@ -39488,6 +39508,11 @@
      "1f2e9296c7dd",
      1794423673
     ],
+    "24449": [
+     1793485167,
+     "cf8057c9d396",
+     1795725039
+    ],
     "24450": [
      1793485167,
      "772558ad74a1",
@@ -42654,10 +42679,6 @@
     "24448": [
      1795017647,
      "221ce5108ea8"
-    ],
-    "24449": [
-     1793485167,
-     "cf8057c9d396"
     ],
     "24451": [
      1793485167,
@@ -51879,6 +51900,10 @@
      1793908872,
      "d2239bd5f8ad"
     ],
+    "/job/Ottawa-Ontario-Canada/Territory-Manager--Ottawa-Public-Sector_1218788-2": [
+     1795725039,
+     "405a1e676c26"
+    ],
     "/job/Ottawa-Ontario/Enterprise-Account-Manager_1215352": [
      1793485167,
      "3f04d3d2d1db"
@@ -55191,6 +55216,10 @@
     "7163c4b7-5dfc-4d01-9c50-9454789047d6": [
      1793486441,
      "33a7c1af3af2"
+    ],
+    "791db271-c674-4c78-a786-ea86ec5a439e": [
+     1795725039,
+     "e42eb23ac834"
     ],
     "85bac883-6c6a-457e-b09a-6a34a1e40ec3": [
      1793486441,
