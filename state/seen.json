@@ -532,7 +532,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 405,
+   "fails": 406,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11657,6 +11657,10 @@
     "/job/Ottawa/R-D-Optical-Product-Ramp-Engineer_R031633": [
      1793485167,
      "648c40fd4584"
+    ],
+    "/job/Ottawa/Research-Scientist-Engineer_R032117": [
+     1795723248,
+     "c3e3dceb6c7b"
     ],
     "/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006": [
      1793485167,
@@ -45149,6 +45153,14 @@
     "5481496008": [
      1794585672,
      "4c7cc3cefeae"
+    ],
+    "5482045008": [
+     1795723248,
+     "157fe36aa41d"
+    ],
+    "5482047008": [
+     1795723248,
+     "154d8c89bdc1"
     ]
    },
    "name": "Geotab",
@@ -51605,6 +51617,11 @@
      "cd54e2d04095",
      1794592843
     ],
+    "8360345": [
+     1794511841,
+     "3acea5d11420",
+     1795723248
+    ],
     "8392381": [
      1794834045,
      "51a18eff83aa",
@@ -51649,10 +51666,6 @@
      1794510089,
      "fc6195a145ff"
     ],
-    "8360345": [
-     1794511841,
-     "3acea5d11420"
-    ],
     "8371708": [
      1794330064,
      "8714cbf21782"
@@ -51680,6 +51693,10 @@
     "8406176": [
      1795188678,
      "8716cc013ae8"
+    ],
+    "8419596": [
+     1795723248,
+     "17cd2ac18747"
     ]
    },
    "name": "Hootsuite",
@@ -52152,6 +52169,11 @@
      "50a8380ab936",
      1794414732
     ],
+    "/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934": [
+     1793485167,
+     "6b32dc2de385",
+     1795723248
+    ],
     "/job/Canada-Toronto/DSP-Systems-Architect_JR0289306-1": [
      1794857471,
      "0f0259a95e19",
@@ -52188,10 +52210,6 @@
     "/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933": [
      1793485167,
      "40b994aac1ad"
-    ],
-    "/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934": [
-     1793485167,
-     "6b32dc2de385"
     ],
     "/job/Canada-Toronto/Compiler-Performance-Engineer_JR0288430": [
      1794247285,
@@ -55651,6 +55669,10 @@
     "84e78306-eb61-4397-b1d8-d54dfe4ee764": [
      1793485167,
      "8e897b098fcf"
+    ],
+    "c7a4cf53-db2e-4dd7-82ac-f3e90efb0cc7": [
+     1795723248,
+     "60bf51d67cff"
     ],
     "d8621d37-4f5f-421a-9f7c-bad733733b3b": [
      1793745042,
@@ -108117,6 +108139,10 @@
     "77557897-bfee-403e-bd98-e6310146baa2": [
      1793486441,
      "496e20e64f1d"
+    ],
+    "8b122da9-901a-43ed-a277-b994fb149802": [
+     1795723248,
+     "0f265f96b9d5"
     ],
     "8d63d98a-afdb-4fb5-842c-e3581cff332d": [
      1793486441,
