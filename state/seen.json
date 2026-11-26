@@ -532,7 +532,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 404,
+   "fails": 405,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11251,6 +11251,11 @@
      "e7277fb3a0a3",
      1795714259
     ],
+    "/job/Ottawa/Director--Product-Line-Management_R031942": [
+     1793901659,
+     "86b10e5d2ce0",
+     1795721441
+    ],
     "/job/Ottawa/Electro-optics-Hardware-Designer---New-Grad_R032190": [
      1795699840,
      "d741b882aa3b",
@@ -11285,6 +11290,11 @@
      1793485167,
      "fdb470227f73",
      1795107648
+    ],
+    "/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014": [
+     1793485167,
+     "6f9c86f28c3d",
+     1795721441
     ],
     "/job/Ottawa/Hardware-Engineering-Co-op--4-Months-_R032055": [
      1794240063,
@@ -11516,10 +11526,6 @@
      1793485167,
      "8b7462699944"
     ],
-    "/job/Ottawa/Director--Product-Line-Management_R031942": [
-     1793901659,
-     "86b10e5d2ce0"
-    ],
     "/job/Ottawa/Director-Supply-Chain-Strategy_R032050": [
      1794427352,
      "73f6fff19fcb"
@@ -11559,10 +11565,6 @@
     "/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787": [
      1794589263,
      "1914ecb02555"
-    ],
-    "/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014": [
-     1793485167,
-     "6f9c86f28c3d"
     ],
     "/job/Ottawa/Hardware-Engineer---New-Grad_R031914": [
      1793485167,
@@ -12390,6 +12392,10 @@
     "5d287e14-c3fe-4442-8924-bcff052e7244": [
      1793485167,
      "c365fa559d5c"
+    ],
+    "5d974c58-7b42-4a5b-bb85-419e45e51d3b": [
+     1795721441,
+     "ed33f120a235"
     ],
     "60cebb7f-603b-4831-9bc3-65d90c32eb10": [
      1795453262,
@@ -23918,6 +23924,10 @@
     "8716730002": [
      1793485167,
      "2d048aac1a05"
+    ],
+    "8717004002": [
+     1795721441,
+     "2cfd6833fe5b"
     ],
     "8717331002": [
      1794438051,
@@ -55805,6 +55815,10 @@
      1795030247,
      "0791c0882049"
     ],
+    "8393728": [
+     1795721441,
+     "7fcceb448b47"
+    ],
     "8395904": [
      1795642247,
      "d9b562eca022"
@@ -59627,11 +59641,6 @@
      "0babcca61db3",
      1793817044
     ],
-    "/job/Vancouver-Canada/Software-Developer-in-Test-II--Backend-_R68441": [
-     1795122053,
-     "d2bed8008f56",
-     1795717843
-    ],
     "/job/Vancouver-Canada/Software-Developer-in-Test-II_R68818": [
      1793485167,
      "d2bed8008f56",
@@ -59759,6 +59768,10 @@
     "/job/Vancouver-Canada/Software-Developer-II_R67806-1": [
      1793485167,
      "5b76f87b6487"
+    ],
+    "/job/Vancouver-Canada/Software-Developer-in-Test-II--Backend-_R68441": [
+     1795122053,
+     "d2bed8008f56"
     ],
     "/job/Vancouver-Canada/Software-Engineer--Salesforce---CANADA-REMOTE-_R70559": [
      1794339043,
@@ -82566,6 +82579,10 @@
     "QdBByy7M9L": [
      1795186865,
      "2911ed5f2430"
+    ],
+    "TvBeTDoRfk": [
+     1795721441,
+     "cd4cab11dbdc"
     ],
     "V3DpQqkV0j": [
      1793802663,
