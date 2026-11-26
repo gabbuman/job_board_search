@@ -27,6 +27,11 @@
      "7fb715b5cd3f",
      1794862852
     ],
+    "3b1dd358-261b-440e-9277-6dc786a5a9d0": [
+     1793653245,
+     "9fcb492c8a7b",
+     1795717843
+    ],
     "3bacd3c1-45d1-4337-a11b-a21569a51148": [
      1794598332,
      "ce859ac1a339",
@@ -305,10 +310,6 @@
      1795116646,
      "b447f7337e0a"
     ],
-    "3b1dd358-261b-440e-9277-6dc786a5a9d0": [
-     1793653245,
-     "9fcb492c8a7b"
-    ],
     "3e2e42d1-c205-42d6-a7b4-e624d535b6f5": [
      1793485167,
      "78bde4bc3ec2"
@@ -531,7 +532,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 402,
+   "fails": 403,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -11495,6 +11496,10 @@
      1793485167,
      "41fd9665d028"
     ],
+    "/job/Ottawa/Analog-Layout-Engineer_R032187": [
+     1795717843,
+     "9188a6adbb6a"
+    ],
     "/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915": [
      1793485167,
      "f2233b83f946"
@@ -11674,6 +11679,10 @@
     "/job/Ottawa/Senior-Analog-Layout-Engineer_R031916": [
      1793485167,
      "bd7cbd53acf1"
+    ],
+    "/job/Ottawa/Senior-Analog-Layout-Engineer_R032189": [
+     1795717843,
+     "61dcf811c6aa"
     ],
     "/job/Ottawa/Senior-Analog-RF-Design-Engineer_R030914": [
      1793485167,
@@ -32818,6 +32827,10 @@
      1793485167,
      "61ed7ac28476"
     ],
+    "945abd50-09e6-4adb-b59b-0f0d17b9d507": [
+     1795717843,
+     "8188738cc035"
+    ],
     "974c2288-d49d-4f05-8d74-0feb08445637": [
      1793485167,
      "4911d789fe8c"
@@ -44586,6 +44599,11 @@
      "414fd71db9be",
      1794382239
     ],
+    "/job/Markham-Ontario-Canada/Software-Engineering-Manager---Vehicle-Data-Platform_JR-202621117": [
+     1793485167,
+     "0ee29f00cdff",
+     1795717843
+    ],
     "/job/Markham-Ontario-Canada/Sr-Calibration-Specialist_JR-202623961-1": [
      1794430855,
      "2cc64db7ab85",
@@ -44691,10 +44709,6 @@
     "/job/Markham-Ontario-Canada/Senior-Software-Engineering--Vehicle-Data-Platform_JR-202621839": [
      1793485167,
      "9b1911498b28"
-    ],
-    "/job/Markham-Ontario-Canada/Software-Engineering-Manager---Vehicle-Data-Platform_JR-202621117": [
-     1793485167,
-     "0ee29f00cdff"
     ],
     "/job/Markham-Ontario-Canada/Sr-Software-Engineering---LV-Power-Distribution_JR-202621921-1": [
      1793485167,
@@ -59595,6 +59609,11 @@
      "0babcca61db3",
      1793817044
     ],
+    "/job/Vancouver-Canada/Software-Developer-in-Test-II--Backend-_R68441": [
+     1795122053,
+     "d2bed8008f56",
+     1795717843
+    ],
     "/job/Vancouver-Canada/Software-Developer-in-Test-II_R68818": [
      1793485167,
      "d2bed8008f56",
@@ -59722,10 +59741,6 @@
     "/job/Vancouver-Canada/Software-Developer-II_R67806-1": [
      1793485167,
      "5b76f87b6487"
-    ],
-    "/job/Vancouver-Canada/Software-Developer-in-Test-II--Backend-_R68441": [
-     1795122053,
-     "d2bed8008f56"
     ],
     "/job/Vancouver-Canada/Software-Engineer--Salesforce---CANADA-REMOTE-_R70559": [
      1794339043,
@@ -79680,6 +79695,11 @@
      "5b011063d252",
      1795606243
     ],
+    "/job/Remote-US-GA/OpenShift-Technical-Account-Manager_R-059927-1": [
+     1795150847,
+     "d906a669ed41",
+     1795717843
+    ],
     "/job/Remote-US-OH/Senior-Account-Solution-Architect_R-060138-1": [
      1795150847,
      "9604ea8731e8",
@@ -80042,10 +80062,6 @@
     "/job/Remote-US-DC/Architect--OpenShift-Virtualization---Active-Top-Secret-SCI-Required_R-060313-1": [
      1795150847,
      "1268c14d6934"
-    ],
-    "/job/Remote-US-GA/OpenShift-Technical-Account-Manager_R-059927-1": [
-     1795150847,
-     "d906a669ed41"
     ],
     "/job/Remote-US-GA/Technical-Account-Manager_R-060521-2": [
      1795150847,
@@ -98643,6 +98659,11 @@
      "a11d617517f4",
      1795059066
     ],
+    "7978915": [
+     1793485167,
+     "d72fb3ae2bc8",
+     1795717843
+    ],
     "7983456": [
      1793485167,
      "ebaea46d0ab1",
@@ -98902,11 +98923,6 @@
      1793485167,
      "f5dd32386ac5",
      1795710646
-    ],
-    "8130729": [
-     1793485167,
-     "bb404fdc1a48",
-     1795714259
     ],
     "8130876": [
      1793485167,
@@ -100173,10 +100189,6 @@
      1793485167,
      "049125aaba2f"
     ],
-    "7978915": [
-     1793485167,
-     "d72fb3ae2bc8"
-    ],
     "7980578": [
      1793485167,
      "476cc99866f3"
@@ -100512,6 +100524,10 @@
     "8130052": [
      1793485167,
      "9173d46e3282"
+    ],
+    "8130729": [
+     1793485167,
+     "bb404fdc1a48"
     ],
     "8130805": [
      1793485167,
