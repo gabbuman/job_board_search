@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 366,
+   "fails": 367,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -8130,6 +8130,10 @@
     "64bdba5c-8cf6-473f-814c-1e86c8c66681": [
      1793485167,
      "8d69c92aea5a"
+    ],
+    "67950801-99fc-4311-9c9b-d983d9d595a2": [
+     1795656644,
+     "8d059879416e"
     ],
     "67a47938-5cb8-40c9-b027-3c2879f74c00": [
      1794015041,
@@ -51567,6 +51571,10 @@
      1794340879,
      "e96f2fed0eb0"
     ],
+    "/job/Ottawa-Ontario-Canada/Named-Accounts-Manager---Networking_1215072-1": [
+     1795656644,
+     "ecb6c3adbf33"
+    ],
     "/job/Ottawa-Ontario-Canada/Presales-System-Consultant-----Consultant-en-systmes-avant-vente_1215055-2": [
      1793908872,
      "d2239bd5f8ad"
@@ -67849,6 +67857,11 @@
      "ed5713878385",
      1795453262
     ],
+    "8299819": [
+     1793485167,
+     "cedb2db38212",
+     1795656644
+    ],
     "8299845": [
      1793485167,
      "653d2c3b71fa",
@@ -68965,10 +68978,6 @@
     "8293675": [
      1793485167,
      "536c6744f773"
-    ],
-    "8299819": [
-     1793485167,
-     "cedb2db38212"
     ],
     "8300291": [
      1793485167,
