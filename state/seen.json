@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 371,
+   "fails": 372,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -24878,6 +24878,10 @@
      1793485167,
      "8e7bff175ec9"
     ],
+    "8910834002": [
+     1795665648,
+     "504de6ac1595"
+    ],
     "8910838002": [
      1794560446,
      "46f4f44fc1f7"
@@ -25233,6 +25237,10 @@
     "8937118002": [
      1794519041,
      "f0b63d1fd479"
+    ],
+    "8937350002": [
+     1795665648,
+     "e209827d1525"
     ],
     "8937360002": [
      1795080514,
@@ -27801,8 +27809,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "2EE7C0E558": [
      1793485167,
@@ -38103,8 +38109,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
-   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/flo-addenergie (after 3 attempts)",
-   "fails": 1,
    "gone": {
     "3BD69EF763": [
      1793485167,
@@ -51615,8 +51619,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "08E488BFBA": [
@@ -62191,6 +62193,10 @@
      1795469446,
      "b76544e5804d"
     ],
+    "os69Bfw2": [
+     1795665648,
+     "9fb64450f654"
+    ],
     "os7SAfwL": [
      1794601908,
      "4d6e5901e94b"
@@ -67835,6 +67841,11 @@
      "1c6064c854f4",
      1794841254
     ],
+    "8288348": [
+     1793485167,
+     "9b83cfe43587",
+     1795665648
+    ],
     "8288480": [
      1793485167,
      "4edeeda268dc",
@@ -68917,10 +68928,6 @@
     "8288308": [
      1793485167,
      "820053a28793"
-    ],
-    "8288348": [
-     1793485167,
-     "9b83cfe43587"
     ],
     "8288466": [
      1793485167,
@@ -76343,8 +76350,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "12F96B1197": [
      1794574857,
@@ -104620,8 +104625,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
