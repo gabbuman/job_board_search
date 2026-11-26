@@ -532,7 +532,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 403,
+   "fails": 404,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -34290,6 +34290,10 @@
     "8959089002": [
      1795467680,
      "a16649a20737"
+    ],
+    "8963694002": [
+     1795719653,
+     "e1627c6b26cd"
     ]
    },
    "name": "Faire",
@@ -50759,6 +50763,11 @@
      "680d9e76cfaa",
      1793826056
     ],
+    "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-la-qualit-des-projets-Project-Quality-Manager_R0152603": [
+     1795624241,
+     "f06de18028b1",
+     1795719653
+    ],
     "/job/Saint-Laurent-Quebec-Canada/Ingnieur-en-Systmes-d-nergie---Power-System-Engineer---Main-Circuit-Design_R0142197": [
      1793485167,
      "ac7fdf35d156",
@@ -51154,10 +51163,6 @@
     "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-contrats---Ententes-clients-et-rclamations-soustraitants-Contract-Manager--Customer-Agreements-and-Subcontractor-Claims----CA_R0121777": [
      1793485167,
      "31624f5fa72e"
-    ],
-    "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-la-qualit-des-projets-Project-Quality-Manager_R0152603": [
-     1795624241,
-     "f06de18028b1"
     ],
     "/job/Saint-Laurent-Quebec-Canada/Gestionnaire-de-projet---Sous-stations-et-FACTS-Project-Manager---Substations---FACTS_R0148024": [
      1793485167,
@@ -53599,6 +53604,10 @@
      1793485167,
      "5f2f1e4126ad"
     ],
+    "445d8104-0fc5-4fbd-befb-26b29058506a": [
+     1795719653,
+     "d14f7d5cc531"
+    ],
     "47fad852-1e12-4be0-920a-1ef9fb42206f": [
      1794945665,
      "00cae989622c"
@@ -53671,6 +53680,10 @@
      1793485167,
      "7d07a54e5590"
     ],
+    "8d9e41af-f726-43dc-adec-8b29f8074202": [
+     1795719653,
+     "b139845677f1"
+    ],
     "904bd81c-7826-4728-a597-9138cd812c8f": [
      1793485167,
      "010bbea83616"
@@ -53710,6 +53723,10 @@
     "a4fca50d-e189-41e4-89be-d86d6c8747ca": [
      1794612655,
      "3b1a1f11c852"
+    ],
+    "a55429d0-baeb-4ce2-af9f-22cc6bd52318": [
+     1795719653,
+     "c713b0f7c966"
     ],
     "a5dbc5ea-ac15-4e2f-8882-fa52a97d283b": [
      1793485167,
@@ -55697,6 +55714,11 @@
      "42474316a082",
      1795642247
     ],
+    "8332309": [
+     1795548665,
+     "c981f9a01cc1",
+     1795719653
+    ],
     "8335658": [
      1793916061,
      "0e6b01f89a59",
@@ -55758,10 +55780,6 @@
     "8325446": [
      1793953854,
      "481073981158"
-    ],
-    "8332309": [
-     1795548665,
-     "c981f9a01cc1"
     ],
     "8334574": [
      1793809846,
@@ -83975,11 +83993,6 @@
      "77667efdc741",
      1794601908
     ],
-    "8366794": [
-     1794421849,
-     "5da651ead39f",
-     1795631443
-    ],
     "8372624": [
      1794330064,
      "35c57127e27b",
@@ -84999,6 +85012,10 @@
     "8366056": [
      1794603791,
      "04c50fc1e154"
+    ],
+    "8366794": [
+     1794421849,
+     "5da651ead39f"
     ],
     "8367418": [
      1795053645,
@@ -94430,6 +94447,11 @@
      1793485167,
      "14a3834b60db",
      1793656861
+    ],
+    "f5b718f3-e5ab-4ae2-891f-0ca5f77654ed": [
+     1793485167,
+     "084bad6c2a2a",
+     1795719653
     ]
    },
    "jobs": {
@@ -94472,10 +94494,6 @@
     "ae1ea9d0-ef3c-4502-b09a-ec88e0064d56": [
      1793485167,
      "9038e6829f54"
-    ],
-    "f5b718f3-e5ab-4ae2-891f-0ca5f77654ed": [
-     1793485167,
-     "084bad6c2a2a"
     ]
    },
    "name": "Shakudo",
