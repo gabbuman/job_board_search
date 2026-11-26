@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 370,
+   "fails": 371,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -13301,6 +13301,11 @@
      "3562ef0a7648",
      1795514446
     ],
+    "8210019": [
+     1793485167,
+     "3d6db151f4d6",
+     1795663871
+    ],
     "8220060": [
      1793485167,
      "9696f278ab82",
@@ -14401,10 +14406,6 @@
     "8207864": [
      1793485167,
      "1a80a211829d"
-    ],
-    "8210019": [
-     1793485167,
-     "3d6db151f4d6"
     ],
     "8211796": [
      1793485167,
@@ -27800,6 +27801,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "2EE7C0E558": [
      1793485167,
@@ -38100,6 +38103,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
+   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/flo-addenergie (after 3 attempts)",
+   "fails": 1,
    "gone": {
     "3BD69EF763": [
      1793485167,
@@ -50480,6 +50485,11 @@
      "cde7dbdb296c",
      1794265256
     ],
+    "/job/Raleigh-North-Carolina-United-States/Talent-Acquisition-Partner---Contract_R0147595": [
+     1793485167,
+     "68f0385b66ba",
+     1795663871
+    ],
     "/job/Remote---British-Columbia-Canada/Qualified-Electric-Worker---Field-Services_R0110957": [
      1793925042,
      "86f1151e43e2",
@@ -50857,10 +50867,6 @@
     "/job/Raleigh-North-Carolina-United-States/Sr-Bid---Proposal-Specialist---Power-Conversion-Solutions_R0147179": [
      1793485167,
      "65051d5388a8"
-    ],
-    "/job/Raleigh-North-Carolina-United-States/Talent-Acquisition-Partner---Contract_R0147595": [
-     1793485167,
-     "68f0385b66ba"
     ],
     "/job/Raleigh-North-Carolina-United-States/Technical-Design-Sales-Specialist---Power-Systems-Application-Engineering_R0135595": [
      1793485167,
@@ -51609,6 +51615,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {},
    "jobs": {
     "08E488BFBA": [
@@ -76335,6 +76343,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "12F96B1197": [
      1794574857,
@@ -104610,6 +104620,8 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
+   "err": "skipped: Workable rate-limited this run (will retry next run)",
+   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
@@ -105340,6 +105352,11 @@
      1793485167,
      "f293dbac6dda",
      1795113046
+    ],
+    "ee957528-7ae9-46d8-8b17-e8cade14f815": [
+     1793485167,
+     "63a1a2691d79",
+     1795663871
     ]
    },
    "jobs": {
@@ -105442,10 +105459,6 @@
     "eba96d65-1743-450a-aa16-0d37a45d1c66": [
      1793485167,
      "70e00a4cdccf"
-    ],
-    "ee957528-7ae9-46d8-8b17-e8cade14f815": [
-     1793485167,
-     "63a1a2691d79"
     ],
     "f44bab48-072f-4a66-bee7-0d1c9a698993": [
      1795050043,
