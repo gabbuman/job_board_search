@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 393,
+   "fails": 394,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -50645,11 +50645,6 @@
      "cde7dbdb296c",
      1794265256
     ],
-    "/job/Raleigh-North-Carolina-United-States/Talent-Acquisition-Partner---Contract_R0147595": [
-     1793485167,
-     "68f0385b66ba",
-     1795663871
-    ],
     "/job/Remote---British-Columbia-Canada/Qualified-Electric-Worker---Field-Services_R0110957": [
      1793925042,
      "86f1151e43e2",
@@ -51027,6 +51022,10 @@
     "/job/Raleigh-North-Carolina-United-States/Sr-Bid---Proposal-Specialist---Power-Conversion-Solutions_R0147179": [
      1793485167,
      "65051d5388a8"
+    ],
+    "/job/Raleigh-North-Carolina-United-States/Talent-Acquisition-Partner---Contract_R0147595": [
+     1793485167,
+     "68f0385b66ba"
     ],
     "/job/Raleigh-North-Carolina-United-States/Technical-Design-Sales-Specialist---Power-Systems-Application-Engineering_R0135595": [
      1793485167,
@@ -58411,6 +58410,11 @@
      "bbc7f046a68c",
      1794331843
     ],
+    "8627801002": [
+     1793485167,
+     "5055e2398f00",
+     1795703445
+    ],
     "8654290002": [
      1793485167,
      "e328fb2a8a11",
@@ -58819,10 +58823,6 @@
     "8622282002": [
      1793485167,
      "f37f8babcdc0"
-    ],
-    "8627801002": [
-     1793485167,
-     "5055e2398f00"
     ],
     "8635231002": [
      1793485167,
@@ -59972,6 +59972,11 @@
      "b64351e97909",
      1793601040
     ],
+    "/job/Hyderabad-Telangana---IND/Senior-Systems-Engineer_NX-4839": [
+     1793486441,
+     "d81ed5abc730",
+     1795703445
+    ],
     "/job/Hyderabad-Telangana---IND/Senior-Technical-Program-Manager_NX-4927": [
      1794393041,
      "16ab86c2c4f0",
@@ -60754,10 +60759,6 @@
     "/job/Hyderabad-Telangana---IND/Senior-Systems-Engineer---Solar-Trackers_NX-2104": [
      1793486441,
      "eb874990e2fe"
-    ],
-    "/job/Hyderabad-Telangana---IND/Senior-Systems-Engineer_NX-4839": [
-     1793486441,
-     "d81ed5abc730"
     ],
     "/job/Hyderabad-Telangana---IND/Software-Engineer_NX-2672-2": [
      1793486441,
@@ -99519,6 +99520,11 @@
      "92558a3f6d1f",
      1795586446
     ],
+    "8352238": [
+     1793851253,
+     "e0b658840967",
+     1795703445
+    ],
     "8352485": [
      1793863840,
      "dc9a5e4fad33",
@@ -102264,10 +102270,6 @@
     "8352154": [
      1794360643,
      "dfe2d6da603a"
-    ],
-    "8352238": [
-     1793851253,
-     "e0b658840967"
     ],
     "8352487": [
      1794981719,
