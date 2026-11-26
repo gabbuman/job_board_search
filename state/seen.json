@@ -527,7 +527,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 368,
+   "fails": 369,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -6783,6 +6783,11 @@
      "f2893009112a",
      1793656861
     ],
+    "4731808005": [
+     1793485167,
+     "6ddb0fb5cad8",
+     1795660241
+    ],
     "4732863005": [
      1793485167,
      "1c40822adac5",
@@ -7239,10 +7244,6 @@
     "4731807005": [
      1793485167,
      "019b2cdd0d93"
-    ],
-    "4731808005": [
-     1793485167,
-     "6ddb0fb5cad8"
     ],
     "4731809005": [
      1793485167,
@@ -27799,8 +27800,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "delta-q-technologies@workable:delta-q": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "2EE7C0E558": [
      1793485167,
@@ -38101,8 +38100,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "flo@workable:flo-addenergie": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "3BD69EF763": [
      1793485167,
@@ -51611,8 +51608,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "hugging-face@workable:huggingface": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {},
    "jobs": {
     "08E488BFBA": [
@@ -76339,8 +76334,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "power-factors@workable:power-factors": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "12F96B1197": [
      1794574857,
@@ -89668,6 +89661,11 @@
      "86f61f45d9ff",
      1795208463
     ],
+    "744000162385689": [
+     1795033840,
+     "ea6d6c1e6a4b",
+     1795660241
+    ],
     "744000162386871": [
      1795033840,
      "5b03bc7515ca",
@@ -92789,10 +92787,6 @@
      1795032081,
      "59a8c1ca7317"
     ],
-    "744000162385689": [
-     1795033840,
-     "ea6d6c1e6a4b"
-    ],
     "744000162402779": [
      1795042846,
      "1d06c571eed3"
@@ -94254,6 +94248,11 @@
      "c28525a85670",
      1795199457
     ],
+    "2ebec9d1-055f-4e47-93ae-29ad19e23967": [
+     1793575840,
+     "b511343ff974",
+     1795660241
+    ],
     "2ecf1bd5-93aa-4021-8876-df6454d59e94": [
      1793485167,
      "393e105d59c5",
@@ -94444,6 +94443,11 @@
      "3e73fe4c88fb",
      1795084259
     ],
+    "8ed11270-814d-415a-b4c4-572e07b2f2c9": [
+     1795501850,
+     "1dabc2fc3db6",
+     1795660241
+    ],
     "90a4e0f8-8085-486c-addb-3cab3f2d9e2a": [
      1793485167,
      "04050cb09bf8",
@@ -94623,11 +94627,6 @@
      1793714457,
      "10c8867109fd",
      1795082500
-    ],
-    "d08054aa-4357-4eb5-b8ac-a0e97982fbc6": [
-     1794292241,
-     "f46b97e16d22",
-     1795653042
     ],
     "d2089f20-d05d-40e5-8b3b-c3047184cf24": [
      1793485167,
@@ -95063,10 +95062,6 @@
     "2d84b26c-fd1c-414b-b321-39369bc6ddb6": [
      1795435258,
      "884d021c7b37"
-    ],
-    "2ebec9d1-055f-4e47-93ae-29ad19e23967": [
-     1793575840,
-     "b511343ff974"
     ],
     "2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97": [
      1793485167,
@@ -95652,10 +95647,6 @@
      1793485167,
      "7d2615877ed9"
     ],
-    "8ed11270-814d-415a-b4c4-572e07b2f2c9": [
-     1795501850,
-     "1dabc2fc3db6"
-    ],
     "9003f845-850a-4786-a422-ec9632fe0141": [
      1793485167,
      "d7b6b53136a7"
@@ -96036,9 +96027,17 @@
      1793932242,
      "f7103f4679c0"
     ],
+    "ce588f6d-e567-4cdb-9b2d-20cc2b23a9f0": [
+     1795660241,
+     "d8bfe089f218"
+    ],
     "d0532a39-1cf9-467c-9ab4-b895c82ea4e5": [
      1793485167,
      "74c210adc248"
+    ],
+    "d08054aa-4357-4eb5-b8ac-a0e97982fbc6": [
+     1794292241,
+     "f46b97e16d22"
     ],
     "d136f868-6f3a-4e22-9cad-a6e95348e407": [
      1793485167,
@@ -102868,8 +102867,6 @@
    "since": "2026-10-31T22:40:41+00:00"
   },
   "swtch-energy@workable:swtch-energy": {
-   "err": "HTTP 429 from https://apply.workable.com/api/v1/widget/accounts/swtch-energy (after 3 attempts)",
-   "fails": 1,
    "gone": {
     "0DC3509E06": [
      1793485167,
@@ -103767,6 +103764,14 @@
     "4758791005": [
      1795658471,
      "a90794292442"
+    ],
+    "4758793005": [
+     1795660241,
+     "04ab8a432d07"
+    ],
+    "4758795005": [
+     1795660241,
+     "a05fc359d6e2"
     ]
    },
    "name": "Tailscale",
@@ -104604,8 +104609,6 @@
    "since": "2026-10-31T22:19:27+00:00"
   },
   "terabase-energy@workable:terabase-energy": {
-   "err": "skipped: Workable rate-limited this run (will retry next run)",
-   "fails": 1,
    "gone": {
     "027177754E": [
      1793486441,
