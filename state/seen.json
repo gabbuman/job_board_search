@@ -533,7 +533,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 411,
+   "fails": 412,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -32220,6 +32220,11 @@
      "b7d7fcc86e65",
      1794115843
     ],
+    "258de005-ab84-4cc7-9a59-1df0c74a12b8": [
+     1793485167,
+     "98edd45d65e8",
+     1795734047
+    ],
     "275f43d0-b62d-401d-830c-7c1ac0e688aa": [
      1793485167,
      "5802b570aaee",
@@ -32439,6 +32444,11 @@
      1793701842,
      "17faf7a817a0",
      1794835876
+    ],
+    "9ce2cd02-c7f2-4705-8b70-accab2f863e1": [
+     1794317456,
+     "32454516fe8c",
+     1795734047
     ],
     "9d13a6ac-6dfc-4bd1-bd81-d341b576c44e": [
      1793903451,
@@ -32675,10 +32685,6 @@
      1793485167,
      "84c0163a9b3e"
     ],
-    "258de005-ab84-4cc7-9a59-1df0c74a12b8": [
-     1793485167,
-     "98edd45d65e8"
-    ],
     "277de6ad-3db5-4b96-afb5-cec3d797e788": [
      1793485167,
      "187eb64c5032"
@@ -32878,10 +32884,6 @@
     "9aca205e-b2bc-405b-85d6-3d2aadbe49b1": [
      1793485167,
      "5c5fe712d46c"
-    ],
-    "9ce2cd02-c7f2-4705-8b70-accab2f863e1": [
-     1794317456,
-     "32454516fe8c"
     ],
     "9d731858-01bf-4d42-89e5-5912ae94cf55": [
      1793572240,
@@ -48584,11 +48586,6 @@
   },
   "harvey@ashby:harvey": {
    "gone": {
-    "0078cf37-4076-47ac-acaa-37a83334b43c": [
-     1794828657,
-     "721b53dcc4d8",
-     1795156245
-    ],
     "01ec0473-7d06-4e96-829f-20e6af004ce9": [
      1793485167,
      "7457fe4fa6af",
@@ -49186,6 +49183,10 @@
     ]
    },
    "jobs": {
+    "0078cf37-4076-47ac-acaa-37a83334b43c": [
+     1794828657,
+     "721b53dcc4d8"
+    ],
     "00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1": [
      1793485167,
      "163d990bec94"
@@ -79724,6 +79725,11 @@
      "94e7fc8c0376",
      1795591845
     ],
+    "/job/Puteaux/Openshift-Senior-Consultant_R-059872-2": [
+     1795150847,
+     "3e22ced389c6",
+     1795734047
+    ],
     "/job/Raanana/Principal-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-055739-1": [
      1795150847,
      "ec89f3099b3d",
@@ -79983,10 +79989,6 @@
     "/job/Puteaux/Consultant_R-059795-2": [
      1795150847,
      "71463b3985d8"
-    ],
-    "/job/Puteaux/Openshift-Senior-Consultant_R-059872-2": [
-     1795150847,
-     "3e22ced389c6"
     ],
     "/job/Puteaux/Project-Manager---Technical_R-060142-1": [
      1795150847,
