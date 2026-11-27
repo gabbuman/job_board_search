@@ -533,7 +533,7 @@
   },
   "ada@greenhouse:ada18": {
    "err": "board returned 0 jobs (had 7); treating as outage",
-   "fails": 424,
+   "fails": 425,
    "gone": {},
    "jobs": {
     "5205963007": [
@@ -8478,6 +8478,11 @@
      "fe5a24e064f2",
      1794418264
     ],
+    "/job/Ottawa-Ontario/QNX--Senior-Systems-Software-Developer--Sensor-Frameworks-_20260309-2": [
+     1793485167,
+     "3a5f20867d71",
+     1795755647
+    ],
     "/job/Ottawa-Ontario/QNX-DevOps-Developer_20260332-2": [
      1794407462,
      "37e9a968b370",
@@ -8508,10 +8513,20 @@
      "43f225707f93",
      1794420051
     ],
+    "/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1": [
+     1793485167,
+     "5e1a39a0f768",
+     1795755647
+    ],
     "/job/Ottawa-Ontario/Support-Operations-Specialist_20260336-2": [
      1794841254,
      "745dc78bc448",
      1795710646
+    ],
+    "/job/Waterloo-Ontario/Senior-Accouting-Analyst_20260214": [
+     1793898048,
+     "839b4df51e5b",
+     1795755647
     ]
    },
    "jobs": {
@@ -8522,10 +8537,6 @@
     "/job/Ottawa-Ontario/BlackBerry-Radar--Software-Developer-in-Test_20260339-1": [
      1795217444,
      "ff4db438824b"
-    ],
-    "/job/Ottawa-Ontario/QNX--Senior-Systems-Software-Developer--Sensor-Frameworks-_20260309-2": [
-     1793485167,
-     "3a5f20867d71"
     ],
     "/job/Ottawa-Ontario/QNX--Senior-Technical-Project-Manager_20260353-2": [
      1795428048,
@@ -8571,10 +8582,6 @@
      1793485167,
      "40853dfae930"
     ],
-    "/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1": [
-     1793485167,
-     "5e1a39a0f768"
-    ],
     "/job/Ottawa-Ontario/Senior-Industry-Analyst---Public-Relations-Specialist_20260301-1": [
      1793485167,
      "d56aeb476911"
@@ -8582,10 +8589,6 @@
     "/job/Waterloo-Ontario/BlackBerry-Radar--Business-Development-Representative_20260338-2": [
      1795444255,
      "40fd7be48bb4"
-    ],
-    "/job/Waterloo-Ontario/Senior-Accouting-Analyst_20260214": [
-     1793898048,
-     "839b4df51e5b"
     ]
    },
    "name": "BlackBerry QNX",
@@ -25572,6 +25575,11 @@
      "e7a774c06418",
      1795739444
     ],
+    "7531575": [
+     1793485167,
+     "85a7ee736c3a",
+     1795755647
+    ],
     "7536154": [
      1793993443,
      "0d23e8396b86",
@@ -26408,10 +26416,6 @@
     "7530418": [
      1793485167,
      "ae556e469a90"
-    ],
-    "7531575": [
-     1793485167,
-     "85a7ee736c3a"
     ],
     "7536402": [
      1793485167,
@@ -44391,6 +44395,11 @@
      "c29606309f89",
      1793526076
     ],
+    "/job/Montreal/Ingnieur-lectrique---Sous-Station---Electrical-Substation-Engineer_R5057307-2": [
+     1793485167,
+     "2e7199c2ad32",
+     1795755647
+    ],
     "/job/Montreal/OFS-FP-A-Manager---NAM_R5058033-2": [
      1793977252,
      "ce0839918759",
@@ -44563,10 +44572,6 @@
     "/job/Montpellier/Dveloppeur-de-logiciels-embarqus-pour-lments-de-protection--F-H---Protection-Element-Embedded-SW-Developer-1_R5053315-3": [
      1793485167,
      "0fb2741e6048"
-    ],
-    "/job/Montreal/Ingnieur-lectrique---Sous-Station---Electrical-Substation-Engineer_R5057307-2": [
-     1793485167,
-     "2e7199c2ad32"
     ],
     "/job/Peterborough-CAN/Lead-Controls-Engineer_R5058850-2": [
      1794855646,
@@ -59907,6 +59912,11 @@
      "2195dd86f450",
      1793682043
     ],
+    "/job/CA-Toronto-York-St-2425/Sr-Software-Developer--Eqlipse-Trading_R0026830": [
+     1793642458,
+     "43e9d16e94e8",
+     1795755647
+    ],
     "/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Enterprise-Customer-Success-Manager_R0027205-1": [
      1794317456,
      "2174eb85f237",
@@ -59979,10 +59989,6 @@
     "/job/CA-Toronto-York-St-2425/Software-Engineer--Sr-Specialist_R0024282": [
      1793486441,
      "31e107164f6b"
-    ],
-    "/job/CA-Toronto-York-St-2425/Sr-Software-Developer--Eqlipse-Trading_R0026830": [
-     1793642458,
-     "43e9d16e94e8"
     ],
     "/job/CA-Toronto-York-St-2425/Systems-Operations-Specialist_R0027132-1": [
      1793486441,
@@ -79740,6 +79746,11 @@
      "20b04f7a23d8",
      1795203047
     ],
+    "/job/Boston/Global-Specialist-Solution-Architect---Lightwell_R-059025-1": [
+     1795150847,
+     "543bebd01a6f",
+     1795755647
+    ],
     "/job/Mumbai/Senior-Manager--Services-Sales_R-060532-1": [
      1795150847,
      "799406d12386",
@@ -79825,10 +79836,25 @@
      "d906a669ed41",
      1795717843
     ],
+    "/job/Remote-US-MD/Senior-Consultant--OpenShift-Infrastructure---Active-Top-Secret-SCI-Poly-required_R-058451-1": [
+     1795150847,
+     "d0b12538d8da",
+     1795755647
+    ],
+    "/job/Remote-US-NC/Architect--Ansible---FSI_R-060311-1": [
+     1795150847,
+     "142554731d56",
+     1795755647
+    ],
     "/job/Remote-US-OH/Senior-Account-Solution-Architect_R-060138-1": [
      1795150847,
      "9604ea8731e8",
      1795555849
+    ],
+    "/job/Remote-US-VA/Architect--AI---Active-Top-Secret-Clearance_R-060128-1": [
+     1795150847,
+     "766e49288f6f",
+     1795755647
     ],
     "/job/Remote-US-VA/Consulting-Services-Account-Specialist-4_R-060208-1": [
      1795150847,
@@ -79897,10 +79923,6 @@
     "/job/Bogota/Tech-Sales-Intern_R-059095-1": [
      1795150847,
      "2634af6fc931"
-    ],
-    "/job/Boston/Global-Specialist-Solution-Architect---Lightwell_R-059025-1": [
-     1795150847,
-     "543bebd01a6f"
     ],
     "/job/Boston/Principal-Product-Manager---Technical_R-060352-1": [
      1795150847,
@@ -80202,10 +80224,6 @@
      1795327242,
      "c71e3c1ab1de"
     ],
-    "/job/Remote-US-MD/Senior-Consultant--OpenShift-Infrastructure---Active-Top-Secret-SCI-Poly-required_R-058451-1": [
-     1795150847,
-     "d0b12538d8da"
-    ],
     "/job/Remote-US-MD/Senior-Consultant--TS-SCI---Polygraph-Clearance-Requir_R-056272": [
      1795150847,
      "a447cfe4dace"
@@ -80217,10 +80235,6 @@
     "/job/Remote-US-MO/Partner-Sales-Account-Manager-5_R-060155-1": [
      1795500042,
      "5d1400325080"
-    ],
-    "/job/Remote-US-NC/Architect--Ansible---FSI_R-060311-1": [
-     1795150847,
-     "142554731d56"
     ],
     "/job/Remote-US-NC/OpenShift-Sales-Specialist---Cross-Segment_R-060159-1": [
      1795150847,
@@ -80269,10 +80283,6 @@
     "/job/Remote-US-VA/AI-Architect---Top-Secret-Clearance--TS-SCI-CI-Poly--required_R-060399-1": [
      1795150847,
      "8bf9cd9987b1"
-    ],
-    "/job/Remote-US-VA/Architect--AI---Active-Top-Secret-Clearance_R-060128-1": [
-     1795150847,
-     "766e49288f6f"
     ],
     "/job/Remote-US-VA/Sales-Specialist-3_R-060093": [
      1795150847,
@@ -96916,6 +96926,10 @@
     "fd243b3a-c1ec-4af9-a829-75bbe961cfe9": [
      1793485167,
      "4b5d2a3561a6"
+    ],
+    "fd40b648-60be-48ae-953d-616a972be561": [
+     1795755647,
+     "d8205f9adf25"
     ],
     "fe3e8a19-39e7-44c5-8bf9-75d09a038d1b": [
      1793485167,
